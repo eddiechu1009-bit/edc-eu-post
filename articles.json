@@ -1,5 +1,126 @@
 [
   {
+    "date": "2026-04-17",
+    "type": "daily",
+    "tags": [
+      "平台",
+      "物流"
+    ],
+    "title": "Amazon FBA 燃油附加費今日正式生效：歐洲 1.5%、美國 3.5%，全球 FBA 成本同步上調",
+    "summary": "🇪🇺🇺🇸 4/17 起 Amazon FBA 燃油及物流附加費正式生效。歐洲站（UK、DE、FR、IT、ES、NL、PL、SE、IE、BE）適用 1.5%，平均每件約 EUR0.05；美國/加拿大站適用 3.5%，平均每件約 USD0.17。MCF（Multi-Channel Fulfilment）歐洲站同步生效，美國站 MCF 和 Buy with Prime 則於 5/2 生效。Amazon 表示此為臨時性措施，因中東戰爭推升全球燃油和物流成本，但未設定結束日期。此附加費按 fulfilment fee 計算，非按售價計算。",
+    "impact": "歐洲站 1.5% 附加費看似溫和（每件約 EUR0.05），但這是在 FBA 費率基礎上的額外疊加。結合近期德國柴油價格達 EUR2.434/升（歷史高位 98%）、BAG 燃油指數 25-29%，3PL 和自配送賣家面臨的燃油附加費更高（每月可達 EUR3,500+）。Amazon 的 1.5% 實際上低於主要承運商的附加費水平，這使 FBA 在成本可預測性上更具優勢。但對高量低利潤賣家，即使每件 EUR0.05 也會在月度層面累積成可觀金額。美國站 3.5% 更為激進，顯示 Amazon 正在全球範圍內將物流成本壓力傳導給賣家。",
+    "action": "今日起檢查 FBA 費用報告確認附加費已反映 > 重新計算高量 SKU 的單位利潤——特別是大件和低毛利商品 > 對比 FBA 1.5% vs 3PL/自配送的燃油附加費（BAG 指數 25-29%），評估 FBA 的相對成本優勢 > 提醒賣家：附加費「臨時」但無結束日期，應納入長期成本模型 > 關注 5/2 MCF 美國站生效",
+    "sources": [
+      {
+        "name": "Amazon Seller Central",
+        "url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/cb3452e9-3803-435b-bfc2-e3b6a10a9e42"
+      },
+      {
+        "name": "Tambo",
+        "url": "https://www.tambo.io/blog/amazons-new-fuel-surcharge-signals-a-deeper-shift-in-profitability"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-17",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "Eurostat 4/16 發布歐洲統計監測：經濟信號分歧，零售下滑 + 通膨上升 + 消費者信心惡化",
+    "summary": "🇪🇺 4/16 Eurostat 發布 4 月版歐洲統計監測（European Statistical Monitor）。核心發現：工業生產 2 月環比微升 0.4%（1 月曾下跌 0.8%），但年比仍下降 0.6%；零售銷售 2 月環比下滑 0.2%（歐元區），非食品類表現疲軟；通膨連續第二個月上升至 2.6%；房價持續上漲創新高；消費者信心 3 月暴跌至 -16.3（2023 年 10 月以來最低），較 2 月的 -12.3 大幅下滑 4 個百分點。失業率維持 6.2% 低位。整體呈現「工業微穩、消費疲軟、通膨升溫」的分歧格局。",
+    "impact": "這份綜合數據報告確認歐元區消費環境正在惡化。消費者信心暴跌至 -16.3 是關鍵警訊——這是自 2022 年能源危機後的最差水平之一，直接反映中東戰爭推升能源價格對消費者心理的衝擊。零售銷售環比下滑 0.2% 雖然幅度不大，但結合消費者信心的急劇惡化，預示 Q2 零售可能進一步走弱。非食品類（含電商核心品類）年比仍增 2.3%，但增速已從 11 月的 3.7% 持續放緩。對 Amazon EU 而言，消費者正在從「願意消費」轉向「謹慎消費」。",
+    "action": "招商策略持續側重高性價比日用品和必需品——消費者信心 -16.3 意味購買意願低迷 > 關注 4/22 Flash CCI 4 月數據——若繼續惡化將確認下行趨勢 > 非食品零售增速放緩但仍正成長，電商仍有結構性機會 > 提醒賣家：促銷和折扣策略在消費者信心低迷期更有效",
+    "sources": [
+      {
+        "name": "Eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260416-1"
+      },
+      {
+        "name": "Eurostat Retail Trade",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-08042026-bp"
+      },
+      {
+        "name": "Eurostat Industrial Production",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-15042026-ap"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-17",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "平台"
+    ],
+    "title": "歐洲議會「停止摧毀電子遊戲」公民倡議聽證：數位產品消費者權益新戰場",
+    "summary": "🇪🇺 4/16 歐洲議會 IMCO、JURI、PETI 三委員會聯合舉行「Stop Destroying Videogames」歐洲公民倡議聽證會。該倡議收集超過 140 萬簽名，要求 EU 立法禁止遊戲發行商在停止支援後使已售出的遊戲完全無法運行。倡議者認為消費者購買的數位產品不應被遠端停用，呼籲建立規則確保遊戲在官方支援結束後仍可獨立運行。歐盟執委會代表也出席回應。此議題同時在美國加州推動立法（Protect Our Games Act）。",
+    "impact": "表面上這是遊戲產業議題，但其核心邏輯——「消費者購買的數位產品是否擁有持續使用權」——對所有數位商品和訂閱制服務都有深遠影響。若 EU 立法確立數位產品「持續可用性」原則，可能擴展至智慧家居設備、IoT 產品、軟體授權等 Amazon 上大量銷售的品類。140 萬簽名顯示強大的民意基礎，歐盟執委會必須正式回應。這是 EU 數位消費者權益立法的風向標——從 GPSR 到退貨按鈕到數位產品可用性，EU 正在系統性強化消費者保護。",
+    "action": "追蹤歐盟執委會對此倡議的正式回應（預計數月內）> 評估對 Amazon 上智慧家居、IoT、遊戲相關品類的潛在影響 > 若立法推進，可能需要賣家在 listing 中揭露產品的「支援生命週期」資訊 > 將此作為 EU 數位消費者權益趨勢的觀察指標",
+    "sources": [
+      {
+        "name": "European Parliament",
+        "url": "https://www.europarl.europa.eu/committees/en/stop-destroying-videogames/product-details/20260407CHE13962"
+      },
+      {
+        "name": "European Commission",
+        "url": "https://commission.europa.eu/european-citizens-initiative/hearing-european-parliament-stop-destroying-videogames-european-citizens-initiative-2026-04-16_en"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-17",
+    "type": "daily",
+    "tags": [
+      "總經",
+      "平台"
+    ],
+    "title": "INTA 中國貿易投資聽證：聚焦供應鏈主導地位與經濟安全，跨境電商為核心議題",
+    "summary": "🇪🇺🇨🇳 4/15 歐洲議會 INTA（國際貿易）委員會舉行「中國貿易投資關係：風險與機遇」公開聽證。兩個專題小組分別討論：(1) 中國在供應鏈中的主導地位及對 EU 的挑戰；(2) 經濟機遇、EU 槓桿與潛在合作。歐盟執委會貿易與經濟安全總司副總司長 Maria Martin-Prat 出席回應。此聽證在 EU 議員 3 月底訪華（8 年來首次）後舉行，當時議員就危險產品湧入 EU 和中國市場准入限制向中方施壓。中國 4/6 隨即發布電商發展指導意見作為回應。",
+    "impact": "INTA 聽證是 EU 對中國貿易政策的系統性審視，跨境電商是核心議題之一。EU 正在從多個維度同時收緊對中國電商的監管：IMCO 質詢平台（Temu/SHEIN）、INTA 審視貿易結構、海關改革針對小包裹。這三條線正在匯聚成一個統一的政策框架。對 Amazon 而言，EU 對中國供應鏈依賴的擔憂可能推動「供應鏈多元化」政策，影響中國賣家的長期市場准入。但短期內，中國 4/6 發布的電商指導意見顯示北京願意在監管層面與 EU 對話，這為跨境電商保留了政策空間。",
+    "action": "關注 INTA 聽證後的政策建議和報告——可能影響 CBAM 擴展範圍和跨境電商規則 > 追蹤中國電商指導意見的落地細則——特別是「海外倉」和「跨境電商試驗區」政策 > 向中國賣家傳達：EU 監管收緊是趨勢，但合規賣家仍有機會 > 評估供應鏈多元化趨勢對東南亞、土耳其等替代供應來源的招商機會",
+    "sources": [
+      {
+        "name": "European Parliament INTA",
+        "url": "https://www.europarl.europa.eu/committees/en/15-april-public-hearing-on-trade-and-inv/product-details/20260413CHE14003"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/china-issues-guidance-e-commerce-including-cross-border-trade-2026-04-06/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-17",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "EU 零售銷售 2 月環比下滑 0.2%：非食品類疲軟，德國僅年增 1.2% 落後歐元區",
+    "summary": "🇪🇺🇩🇪🇪🇸 Eurostat 4/8 發布數據（4/16 統計監測再次確認）：歐元區 2 月零售銷售環比下滑 0.2%，EU 整體下滑 0.3%。按品類看：食品飲料微增 0.1%，非食品類（含電商核心品類）下降 0.6%，汽車燃料下降 1.5%。年比方面，歐元區整體增 1.7%，但增速從 11 月的 2.5% 持續放緩。各國分化明顯：西班牙年增 3.6% 表現最強，法國 2.5%，德國僅 1.2% 落後，義大利 0.4% 幾乎停滯。",
+    "impact": "非食品零售環比下降 0.6% 是直接影響電商的數據——這個品類涵蓋 Amazon 上大部分商品。德國作為 Amazon EU 最大市場，零售年增僅 1.2%，遠低於歐元區平均 1.7%，反映德國消費者在高能源成本和經濟不確定性下的謹慎態度。相比之下，西班牙 3.6% 的強勁增長顯示南歐市場的消費韌性。EU5 市場的分化意味著「一刀切」的招商策略效果有限——需要針對不同市場的消費動能調整資源配置。",
+    "action": "德國站（amazon.de）招商側重必需品和高 CP 值商品——消費者購買力受壓 > 西班牙站（amazon.es）可更積極推動非必需品和升級消費品類 > 義大利站（amazon.it）零售近乎停滯，關注促銷驅動策略 > 整體而言，非食品零售放緩但年比仍正成長 2.3%，電商滲透率提升仍是結構性利好",
+    "sources": [
+      {
+        "name": "Eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-08042026-bp"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/euro-area/consumer-confidence"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-16",
     "type": "daily",
     "tags": [
