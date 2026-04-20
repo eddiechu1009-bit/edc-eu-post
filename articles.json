@@ -219,6 +219,175 @@
     "color": "#7c3aed"
   },
   {
+    "date": "2026-04-16",
+    "type": "weekly",
+    "tags": [
+      "總經"
+    ],
+    "title": "【週報 W16】美伊談判正式破裂，Trump 宣布封鎖荷莫茲海峽，實貨原油飆至 $150 創史上最大供應中斷",
+    "summary": "本週最大轉折。Vance 4/12 在伊斯蘭堡 21 小時馬拉松談判後空手而歸，美伊和平談判正式破裂，Trump 隨即宣布海軍「立即封鎖所有進出荷莫茲海峽的船隻」。IEA 4/14 4 月報告確認：全球石油供應 3 月暴跌 1,010 萬桶/日，為史上最大供應中斷；OPEC+ 產量月減 940 萬桶/日；荷莫茲海峽日均通行量從戰前 135 艘降至 4 月僅 8-10 艘。實貨原油價格飆至 $150/桶創歷史紀錄，遠高於期貨價格，實貨-期貨價差達到前所未有水平。IEA 將 2026 供需平衡從 +246 萬桶/日大幅下修至 +41 萬桶/日。Reuters 調查分析師平均預期市場轉為供不應求 75 萬桶/日。IMF 總裁 Georgieva 警告戰爭的「疤痕效應」將永久拖累全球經濟，戰前 $70 油價「不會回來了」。EIA 預測 Brent Q2 均價 $115，Q4 才回落至 $90 以下。",
+    "impact": "相較上週的「停火脆弱」，本週確認物流成本高企是 2026 全年新常態——不是暫時性附加費，而是結構性轉變。實貨原油 $150 意味實際物流成本遠高於期貨價格，Amazon 的 FBA 1.5% 附加費在此背景下顯得溫和，Q2 進一步調整空間仍在。歐洲消費信心已因此暴跌至 -16.3，ECB 升息預期快速升溫，消費者購買力受雙重擠壓。",
+    "action": "① 將 EIA 的 Brent $96 年均價和 Q2 $115 納入成本模型基準 ② 「談判破裂 + 海峽封鎖」已是基線情境，不再是風險情境 ③ 低利潤 SKU 重新評估是否繼續 FBA ④ 關注 4/22 停火到期日和是否重啟談判——油價走勢最大變數 ⑤ Q2 備貨維持保守，避免在油價高波動期重壓庫存",
+    "sources": [
+      {
+        "name": "IEA OMR April 2026",
+        "url": "https://www.iea.org/reports/oil-market-report-april-2026"
+      },
+      {
+        "name": "AP News",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/apr/12/collapse-us-iran-talks-energy-shock-oil-prices"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/energy/iran-war-upends-ieas-global-oil-market-outlook-2026-04-14/"
+      },
+      {
+        "name": "TIME",
+        "url": "https://time.com/article/2026/04/11/strait-of-hormuz-iran-peace-talks/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-16",
+    "type": "weekly",
+    "tags": [
+      "稅務",
+      "合規"
+    ],
+    "title": "【週報 W16】IMCO 4/16 投票通過 UCC 海關改革臨時協議：11/1 電商包裹處理費確定落地，EU 海關數據中心成形",
+    "summary": "EU 海關改革進入立法里程碑。歐洲議會 IMCO 委員會 4/16 投票通過與理事會 3/26 達成的 UCC 改革臨時協議，下一步只剩全體議會投票（預計 5 月），通過機率極高。核心內容確認：(1) 電商包裹處理費（handling fee）最遲 11/1 生效，即此前報導的 EUR2 手續費——加上 7/1 的 EUR3 臨時關稅，每件從 EU 境外直郵包裹至少多 EUR5；(2) 建立 EU 海關數據中心（Data Hub），賦予相關機構系統性監控和獲取貿易商資訊的權限；(3) Trust & Check 商家在海關邊境享有通關便利，但門檻和申請流程尚待細則；(4) 重複違規的電商平台面臨罰款；(5) EU 海關署落腳法國里爾。距離 7/1 取消 EUR150 免稅門檻僅剩 11 週，物流業者估計每件包裹將增加 EUR4-6 額外成本。",
+    "impact": "11/1 處理費從「可能」變「確定」。直郵模式（中國/香港直寄 EU）的成本優勢將被 EUR5/件累積成本徹底侵蝕——EUR10 商品等於 50% 成本增加。已使用 FBA 或 EU 3PL 的賣家反成贏家——批量進口時完成清關，不受直郵關稅影響。EU 海關數據中心意味貿易數據系統性透明化，交叉比對將成常態。Trust & Check 資格成為合規賣家的護城河，但細則未明。重複違規平台罰款對 Temu/SHEIN 施壓最大。",
+    "action": "① 11/1 手續費納入下半年成本模型既定事項 ② 仍用直郵的賣家立即評估轉 EU 倉儲——11 週窗口足夠 ③ 已用 FBA 的賣家可用成本優勢進行招商 ④ 追蹤 5 月全體議會投票和最終法規文本 ⑤ 提前評估 Trust & Check 資格細則 ⑥ 向賣家傳達：海關數據中心意味申報資訊需精準",
+    "sources": [
+      {
+        "name": "European Parliament IMCO",
+        "url": "https://www.europarl.europa.eu/doceo/document/IMCO-OJ-2026-04-16-1_EN.html"
+      },
+      {
+        "name": "POLITICO",
+        "url": "https://www.politico.eu/article/eu-customs-reform-imco-vote/"
+      },
+      {
+        "name": "FLEX Logistics",
+        "url": "https://flexlogistics.eu/eu-de-minimis-removal-in-july-2026-knowledge-base/"
+      },
+      {
+        "name": "Trade Council",
+        "url": "https://tradecouncil.org/eu-unveils-sweeping-customs-reform-to-combat-illicit-trade-boost-e-commerce-compliance/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-16",
+    "type": "weekly",
+    "tags": [
+      "總經"
+    ],
+    "title": "【週報 W16】ECB 升息預期急升 + 消費者信心暴跌至 -16.3：德銀預測 6/9 月各升 25bp，EU5 站點分化加劇",
+    "summary": "本週歐元區總經數據全面惡化。Eurostat 4/16 發布歐洲統計監測：消費者信心 3 月暴跌至 -16.3（2023 年 10 月以來最低），較 2 月的 -12.3 大幅下滑 4 個百分點，直接反映能源價格衝擊；歐元區 2 月零售銷售環比下滑 0.2%，非食品類（電商核心品類）下降 0.6%；通膨連續第二個月上升至 2.6%（德國 2.7% 為 2024/1 以來最高，燃油漲 20%、暖氣油飆 44.4%）。ECB 4/16 發布 3 月會議紀要：維持利率不變（主要再融資利率 2.15%，存款利率 2.0%），但上調 2026 通膨至 2.6%、下調 GDP 至 0.9%。升息預期快速升溫：Deutsche Bank 預測 6 月和 9 月各升 25bp，存款利率升至 2.5%；Reuters 調查顯示超過三分之一經濟學家現預測至少一次升息（兩週前僅 10%）；Polymarket 定價 4/30 會議 92% 維持不變、8% 升息。DB 將歐元區 2026 GDP 從 1.1% 下修至 0.5%，通膨上修至 2.8%。EU5 分化明顯：西班牙零售年增 3.6% 最強，法國 2.5%，德國僅 1.2% 落後，義大利 0.4% 近乎停滯。",
+    "impact": "相較上週的「升息箭在弦上」，本週升息路徑更加清晰——市場已從 10% 升息機率跳升至三分之一。4/30 大概率維持不變但聲明可能更鷹派，真正的升息在 6/9 月。消費者購買力被「通膨上升 + 升息 + 信心暴跌」三重擠壓，非必需品消費進一步萎縮。EU5 站點分化確認：西班牙站是 Q2 最佳，德國站消費者購買力受壓，義大利站近乎停滯。歐元走強（升息預期推升）對以歐元計價的進口成本是利好。",
+    "action": "① 西班牙站持續加大招商力度——Q2 最佳站點已確認 ② 德國站招商側重必需品和高 CP 值商品 ③ 義大利站保守備貨，關注促銷驅動策略 ④ 4/30 ECB 決議關注聲明措辭是否更鷹派 ⑤ 6 月 ECB 會議是首個真實升息節點 ⑥ 4/22 Flash CCI 4 月初值若繼續惡化將確認下行趨勢",
+    "sources": [
+      {
+        "name": "Eurostat",
+        "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260416-1"
+      },
+      {
+        "name": "ECB",
+        "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260416.en.html"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/finance/ecbs-de-guindos-says-rate-hikes-will-depend-iran-wars-secondary-effects-2026-04-13/"
+      },
+      {
+        "name": "FXStreet",
+        "url": "https://www.fxstreet.com/news/ecb-higher-inflation-and-more-rate-hikes-deutsche-bank-202604131412"
+      },
+      {
+        "name": "Polymarket",
+        "url": "https://polymarket.com/event/ecb-rate-decision-april-2026"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-16",
+    "type": "weekly",
+    "tags": [
+      "平台",
+      "物流"
+    ],
+    "title": "【週報 W16】Amazon FBA 燃油附加費 4/17 正式生效 + 5/1 FBA removal/disposal 改逐件計費：賣家成本結構系統性重塑",
+    "summary": "4/17 Amazon FBA 燃油附加費從「倒數」進入「生效」。歐洲 10 國（UK、DE、FR、IT、ES、PL、SE、NL、IE、BE）適用 1.5%，平均每件約 EUR0.05；美國/加拿大站 3.5%，平均每件約 USD0.17。MCF 歐洲站同步生效，美國站 MCF 和 Buy with Prime 則於 5/2 生效。Amazon 明確為「臨時性措施」但未設結束日期，保留上調空間。結合德國柴油價格 EUR2.434/升（歷史高位 98%）、BAG 燃油指數 25-29%，自配送和 3PL 賣家面臨的燃油附加費更高（每月可達 EUR3,500+），FBA 在成本可預測性上反而更具優勢。另一重要變更：5/1 起歐洲站 FBA removal 和 disposal 費用將從整批計費改為逐件計費（per-unit basis），美國站已於 2/15 實施。費率不變，但 500 件的 removal order 可能產生 500 筆獨立帳單，對帳務對帳和會計系統帶來挑戰。Profit Analytics、Revenue Calculator 和 Fee Preview 報告已更新反映附加費。",
+    "impact": "1.5% 附加費看似溫和但是在 FBA 費率上的額外疊加，對高量低利潤賣家月度層面累積可觀。同時經營美國站的賣家承受 3.5% 更大衝擊。removal/disposal 逐件計費雖不改費率，但大量微型帳單增加帳務處理負擔，特別是庫存週轉頻繁的賣家。兩項變更疊加 4/28 USB-C 強制令、7/1 EUR3 關稅、11/1 EUR2 手續費，2026 年賣家成本結構正在系統性重塑——不是單一變更而是累積效應。",
+    "action": "① 今日起檢查 FBA 費用報告確認附加費已反映 ② 重新計算高量 SKU 的單位利潤——特別是大件和低毛利商品 ③ 對比 FBA 1.5% vs 3PL 25-29% 的燃油附加費，強調 FBA 相對成本優勢 ④ 4 月底前提交需要 removal/disposal 的訂單，避免 5/1 後逐件計費的帳務複雜度 ⑤ 確認會計系統能處理大量微型帳單 ⑥ 提醒賣家：「臨時」但無結束日期，應納入長期成本模型",
+    "sources": [
+      {
+        "name": "ChannelX",
+        "url": "https://channelx.world/2026/04/1-5-amazon-fuel-surcharge-for-fba-mcf-from-17th-april/"
+      },
+      {
+        "name": "Amazon Seller Central",
+        "url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/cb3452e9-3803-435b-bfc2-e3b6a10a9e42"
+      },
+      {
+        "name": "ChannelX",
+        "url": "https://channelx.world/2026/04/per-item-charges-coming-for-amazon-fba-removal-and-disposals/"
+      },
+      {
+        "name": "Tambo",
+        "url": "https://www.tambo.io/blog/amazons-new-fuel-surcharge-signals-a-deeper-shift-in-profitability"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-16",
+    "type": "weekly",
+    "tags": [
+      "合規",
+      "平台"
+    ],
+    "title": "【週報 W16】EU 合規新戰場浮現：6/19 退貨按鈕指令 + 9/27 反漂綠 EmpCo + IMCO 對中國電商系統性監管",
+    "summary": "本週多項全新合規議題浮出檯面。(1) EU 退貨按鈕指令 2023/2673：6/19 起所有向 EU 消費者銷售的電商網站必須提供清晰可見的「撤回合約」按鈕功能，和簽約一樣簡單。德國違規罰款最高 EUR50,000 或年營收 4%。直接影響同時經營獨立站（Shopify、自建站）的賣家。(2) EU 反漂綠指令 EmpCo（Directive 2024/825）9/27 全面適用：「黑名單」機制，禁止使用「環保」「永續」「綠色」「碳中和」等模糊宣稱，除非有第三方認證。不設祖父條款——現有 listing 也需更新。家居清潔、美妝、紡織品、食品品類影響最大。(3) IMCO 4/16 質詢 Temu，延續對 SHEIN、AliExpress 的系列質詢，建立對低價中國電商平台的系統性監管壓力。(4) INTA 4/15 舉行中國貿易投資聽證，EU 正從 IMCO 質詢平台、INTA 審視貿易結構、海關改革針對小包裹三條線匯聚成統一監管框架。(5) ENVI/IMCO 4/15 通過 Omnibus VI 簡化 CLP/化妝品法規，對化妝品和化學品賣家是利好（實際生效預計 2027）。(6) Safety Gate 2025 年度報告顯示危險產品警報創新高。",
+    "impact": "相較上週的「FBA 附加費 + USB-C + PPWR」，本週暴露出更多全新合規截止日，合規成本持續疊加。退貨按鈕指令距今僅 9 週，是新浮現的合規壓力點。EmpCo 反漂綠對 listing 文案和包裝影響面極廣——大量賣家在 listing 中使用「eco-friendly」「sustainable」關鍵字，9/27 後如無認證支持將違法。IMCO 對中國電商的系統性監管對 Amazon 是雙面影響：競爭對手合規壓力加大是利好，但 Amazon 自身也需確保第三方賣家合規。Safety Gate 警報創新高意味市場監管執法更嚴格。",
+    "action": "① 提醒同時經營獨立站的賣家：6/19 前必須加入撤回按鈕功能 ② 立即盤點 listing 中使用環境相關宣稱的 SKU——9/27 前需替換為具體可驗證陳述 ③ 玩具、兒童用品、美妝等 Safety Gate 高風險品類優先檢查安全文件 ④ 將 Amazon 合規基礎設施作為招商差異化賣點 ⑤ 化妝品/化學品類招商可提 Omnibus VI 簡化訊號——EU 正降低合規門檻 ⑥ GPSR 合規不是一次性工作，市場監管正從立法進入執法階段",
+    "sources": [
+      {
+        "name": "SKW Schwarz",
+        "url": "https://www.skwschwarz.de/en/news/cancellation-button-online-shops-June-2026"
+      },
+      {
+        "name": "Bird & Bird",
+        "url": "https://www.twobirds.com/en/insights/2026/eu-commission-publishes-faq-on-the-empowering-consumers-directive--some-clarity-and-remaining-open-q"
+      },
+      {
+        "name": "EY",
+        "url": "https://www.ey.com/en_dk/insights/climate-change-sustainability-services/empco-a-regulatory-milestone-for-greenwashing"
+      },
+      {
+        "name": "LexisNexis",
+        "url": "https://www.lexisnexis.co.uk/legal/news/european-parliament-imco-invites-temu-to-scrutiny-session-on-unsafe-product-sales"
+      },
+      {
+        "name": "Cosmetics Europe",
+        "url": "https://cosmeticseurope.eu/news/omnibus-vi-vote/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-15",
     "type": "daily",
     "tags": [],
