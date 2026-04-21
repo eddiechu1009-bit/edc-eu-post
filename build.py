@@ -71,9 +71,9 @@ def parse_daily_report(filepath):
 
     articles = []
 
-    # 策略 1: 用 <!-- 新聞 N --> 註解分割（最可靠）
+    # 策略 1: 用 <!-- 新聞 N --> 或 <!-- 新聞 N: 描述 --> 註解分割（最可靠）
     news_blocks = re.findall(
-        r'<!-- 新聞 \d+ -->\s*(.*?)(?=<!-- 新聞 \d+ -->|<div class="divider">|<div class="key-dates">|$)',
+        r'<!-- 新聞 \d+[^-]*-->\s*(.*?)(?=<!-- 新聞 \d+|<div class="divider">|<div class="key-dates">|$)',
         content, re.DOTALL
     )
 

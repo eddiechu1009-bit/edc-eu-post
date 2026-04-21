@@ -1,5 +1,266 @@
 [
   {
+    "date": "2026-04-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "Lagarde 4/20 柏林演講：Hormuz 衝擊「長期化」，ECB 監控兩大變數——封鎖持續時間 + 能源通膨傳導",
+    "summary": "🇩🇪🇪🇺🇮🇷ECB 總裁 Lagarde 4/20 在柏林德國銀行公會發表最新政策演講，明確警告歐洲將面臨 Hormuz 海峽衝擊的「長期後果 (prolonged fallout)」。她強調 ECB 正密切監控兩個關鍵變數：(1) 海峽封鎖持續時間 (duration of disruption)，(2) 能源成本向一般通膨的傳導程度 (feed into broader inflation)。Lagarde 同時呼籲各國政府**避免廣泛性財政支持**，應採「短期、目標式」措施並維持價格訊號以鼓勵節能。這是她比 4/17 IMF 春會更明確的鷹派訊號——從「還不需要升息」轉為「持續監控觸發條件」。市場 4/30 會議升息機率定價微升至 10%。",
+    "impact": "對 Amazon 經營的影響：Lagarde 立場從「中性偏鴿」轉向「條件式偏鷹」——若兩週內 Hormuz 情勢惡化，4/30 升息機率將大幅上升。她點名批評德國紓困可能太廣，暗示德國方案可能縮水或調整。消費信心短期難改善，Q2 GMV 承壓加劇。利率環境不確定性進入高原期。",
+    "action": "建議：① 4/30 前保留兩套備貨和定價方案（升息 vs 維持） ② 密切追蹤 Hormuz 局勢——若封鎖超過 2 週是風險臨界點 ③ 德國紓困可能被 EU 質疑，招商話術暫不綁定「紓困支持」 ④ 大件商品和非必需品 Q2 保守",
+    "sources": [
+      {
+        "name": "ECB 演講全文",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260420~cdf674023e.en.html"
+      },
+      {
+        "name": "AA News",
+        "url": "https://www.aa.com.tr/en/economy/ecb-chief-lagarde-warns-europe-faces-prolonged-fallout-from-hormuz-shock/3912802"
+      },
+      {
+        "name": "US News",
+        "url": "https://money.usnews.com/investing/news/articles/2026-04-20/ecb-needs-more-data-before-firm-policy-conclusions-lagarde-says"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-21",
+    "type": "daily",
+    "tags": [
+      "總經",
+      "貿易"
+    ],
+    "title": "Eurostat 4/17 數據：歐元區 2 月經常帳餘裕擴大至 €21.1 億，但對美出口因關稅暴跌 60%，跨境貿易結構重新洗牌",
+    "summary": "🇪🇺🇺🇸🇨🇳Eurostat 4/17 公布 2026 年 2 月經常帳數據：歐元區盈餘擴大至 €21.1 億（去年同期 €18.1 億），服務業貿易表現亮眼。但**商品貿易敏感數據**令人警醒：對美出口因川普關稅年減 9.3%，整體對美貿易順差**較去年同期縮 60%**，進口則年減 3.5%。中國貿易方向亦變化——EU 對中逆差 2025 年擴大 18%，Temu/Shein 等電商平台貢獻佔比明顯上升（EU-中國貿易 3.7% 來自小包裹電商，去年僅 2.1%）。Eurostat 同時公布**農食品貿易** 2 月亦現逆差訊號。",
+    "impact": "對 Amazon 經營的影響：EU5 消費者面臨「雙向擠壓」：對美出口萎縮減少高階就業所得、中國廉價進口繼續衝擊實體零售——**這是 Amazon 線上渠道的雙重利好**，但前提是選品要能在「德國製造中端」和「中國價格破壞」之間找到生存空間。服務貿易盈餘提供緩衝，有利平台服務類（訂閱、數位內容、B2B SaaS）。",
+    "action": "建議：① EU5 招商側重「中端性價比」和「高階製造」兩端，避開中國破壞性定價的低價區 ② 關注服務類（含軟體、訂閱、數位）的額外機會 ③ 監測中國電商平台小包裹流入數據，這是 7/1 EUR3 關稅的政治壓力基礎 ④ 對美出口族群的賣家議價能力下滑，考慮調整招商優先序",
+    "sources": [
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/euro-area/current-account/news/542777"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/eu-trade-surplus-shrinks-60-101348584.html"
+      },
+      {
+        "name": "Eurostat（中國貿易）",
+        "url": "https://www.facebook.com/californiausa22/posts/eu-trade-deficit-with-china-surged-18-in-2025-eurostat-data-showsthe-european-un/968773195956664/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-21",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "平台"
+    ],
+    "title": "Shein/Temu 被控「哄抬價格高達 377%」：美國集體訴訟指控利用關稅當幌子牟取暴利，GPSR + 反壟斷雙重壓力",
+    "summary": "🇺🇸🇨🇳🇪🇺本週 Shein 和 Temu 在美國面臨新一波集體訴訟，原告指控兩大平台**利用川普關稅作為藉口，將部分商品價格上調高達 377%**，獲取「暴利 (windfall profits)」。訴訟主張：Temu 已從 2 月起提升價格，但漲幅遠高於實際關稅增加的成本。這是繼 4/16 愛爾蘭 Glanlaw 對兩平台發動商業法律行動之後，執法/訴訟攻勢跨大西洋延伸。同時美國 4/20 啟動關稅退款入口，進一步揭露 Temu/Shein 的定價和成本結構資料。**SHEIN 同時被指 4/17 將所有美國訂單自中國直發**，成本結構再被放大檢視。",
+    "impact": "對 Amazon 經營的影響：雙平台同時面臨美國集體訴訟 + EU GPSR 執法 + 定價透明化壓力 = **Shein/Temu 核心商業模式被全面解構的時刻**。Amazon 賣家相對優勢進一步擴大——合規、透明、可追溯的商業模式成為護城河。但同時要警覺：訴訟揭露的中國成本結構資料，可能成為 Amazon 中國賣家的定價調查素材。",
+    "action": "建議：① 強調 Amazon 賣家「定價透明、合規可追溯」作為相對競爭力的核心招商訊息 ② 協助賣家記錄「關稅成本 vs 售價變動」的完整資料，未來面對類似訴訟有辯護依據 ③ 中國賣家 Q2 定價策略保守，避免被類比為 Shein/Temu 模式 ④ 追蹤 4/20 美國關稅退款入口對跨境賣家的實際操作指引",
+    "sources": [
+      {
+        "name": "Shopify 週報",
+        "url": "https://www.reddit.com/r/ShopifyeCommerce/comments/1sr4jhd/whats_new_in_ecommerce_week_of_april_20th_2026/"
+      },
+      {
+        "name": "KING5 News（退款入口）",
+        "url": "https://www.facebook.com/KING5News/posts/the-us-tariff-refund-portal-launched-on-monday-businesses-that-paid-the-tariffs-/1427469206091931/"
+      },
+      {
+        "name": "SHEIN 直發消息",
+        "url": "https://www.instagram.com/p/DXW2CmVCYeh/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-21",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "貿易"
+    ],
+    "title": "歐洲議會 MEPs 訪中無功而返：Shein/Temu 小包裹議題「客氣對話但沒有解決方案」，EU 對中電商規範 7/1 硬著陸",
+    "summary": "🇨🇳🇪🇺歐洲議會 IMCO 委員會 MEPs 赴中訪問，針對 Shein/Temu/Alibaba 等電商平台「流入不合規包裹」提出關切。EU Perspectives 報導：**對話「客氣但無突破」**，北京對 EU 擔憂表達理解但未承諾任何行動。相比之下，EU 官員 Maroš Šefčovič 本週重申「電商小包裹規範可能比原計畫（2028）提前兩年生效 (7/1/2026)」，即「EU 單方面硬推」路線已確定。2025 年中國透過 Temu/Shein 寄到 EU 的小包裹達 **46 億件**（平均每天 1,260 萬件），佔中歐貿易 3.7%（2024 年僅 2.1%）。外交破局意味 7/1 EUR3 關稅和 EUCA 海關署的強力執法將如期上路。",
+    "impact": "對 Amazon 經營的影響：外交對話破局 = **沒有延期希望**。7/1 EUR3 關稅、EUCA 海關署、Trust & Check 機制全部將準時執法。Amazon 賣家「已在歐洲倉 + 已合規」的先行者優勢正在定型。**未來 10 週（4/21 至 7/1）是中國直郵賣家轉 FBA 的最後關鍵窗口**，過了 7/1 就只能被新制度吃掉毛利。",
+    "action": "建議：① 加速全面盤點中國直郵/IOSS 賣家，推動 10 週內轉 FBA 歐洲倉 ② 不要期待任何延期或緩衝，招商話術明確「7/1 硬著陸」 ③ 協助賣家準備 IOSS 退出流程 ④ 提醒法國站未註冊 VAT 者 4/21 起最後註冊窗口",
+    "sources": [
+      {
+        "name": "EU Perspectives",
+        "url": "https://euperspectives.eu/2026/04/european-parliament-china-visit-ecommerce-talks/"
+      },
+      {
+        "name": "FT（Šefčovič）",
+        "url": "https://www.ft.com/stream/3852af3b-2093-409c-a1c7-ede4e1f0923d"
+      },
+      {
+        "name": "IMCO 委員會",
+        "url": "https://www.europarl.europa.eu/committees/fi/imco/home/highlights"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "ECB 委員 Dolenc：「Hormuz 是我思考的核心變數，兩週內會看到很多新情況」——4/30 決議進入最不確定窗口",
+    "summary": "🇸🇮🇪🇺🇮🇷ECB 理事會成員 Dolenc 4/20 受訪明確表達：Strait of Hormuz 情勢是他 4/30 政策決策的**核心變數**，直言「**兩週內我們會看到很多新情況**」——這是 ECB 理事會成員首次公開暗示 4/30 決議可能受未來兩週地緣政治變化直接影響。這與 Lagarde 「持續時間 + 通膨傳導」兩大變數完全對齊，代表 ECB 內部已形成「條件式升息」共識。市場分析師普遍認為 4/30 會議是「過去幾年最不確定的一次」。部分大型機構（德銀、荷蘭國際）預測 4/30 維持，但 6 月 +25bp + 9 月 +25bp 是路徑中位數；**極端情境下 4/30 可能直接升 25bp**。",
+    "impact": "對 Amazon 經營的影響：Dolenc 表態確認「地緣政治 → 利率 → 消費」的快速傳導路徑。**未來兩週（4/21-4/30）是 EU5 Q2 GMV 走向的決定性窗口**。油價、Hormuz 封鎖時間、以色列-伊朗停火進度，這些「外部變數」將直接影響賣家資金成本和消費者信用可取得性。升息若實現，大件商品（家具、家電、3C、車用品）需求將顯著降溫。",
+    "action": "建議：① 建立「4/30 前 Hormuz 風險追蹤儀表板」，包含油價、船運禁航狀態、停火進度 ② 大件商品賣家 Q2 定價保守，保留 4/30 後調整彈性 ③ 消費信貸依賴型商品類別（家電、3C）暫停促銷規劃 ④ 4/30 決議當日召開應變會議，立即對賣家發布「升息 vs 維持」的兩套戰略溝通",
+    "sources": [
+      {
+        "name": "TPE Economy",
+        "url": "https://www.tpeconomy.com/the-ecb-has-a-decision-coming-nobody-knows-what-it-will-do/"
+      },
+      {
+        "name": "Bitget News（ECB 通膨情境）",
+        "url": "https://www.bitget.com/news/detail/12560605376324"
+      },
+      {
+        "name": "IC Markets",
+        "url": "https://www.icmarkets.com/blog/ic-markets-global-europe-fundamental-forecast-20-april-2026/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
+    "date": "2026-04-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "德國 €1.9 億燃料紓困案正式上路，Merz 4/19 召開國安會議：能源危機升級為安全議題",
+    "summary": "🇩🇪🇪🇺德國執政聯盟 4/13 正式通過 €1.6 億（約 $1.9 億美元）燃料紓困案，臨時汽油稅減免每公升 €0.17 為期兩個月，雇主可發放每人最高 €1,000 免稅獎金抵銷通膨衝擊。E10 汽油均價已從 1 月的 €1.73/L 飆升至 €2.10/L。總理 Merz 4/19 在漢諾威工業展進一步宣布「即將召開國家安全理事會」討論能源危機，對象從單純經濟議題升級為「能源安全」。歐盟最大經濟體的政策動作被視為其他成員國的政策指標。",
+    "impact": "對 Amazon 經營的影響：德國消費者短期獲得購買力支撐，Q2 Amazon.de 可能比預期有韌性；但燃料補貼有 2 個月時限，6 月起壓力重現。能源價格持續走高代表 FBA 燃油附加費可能再度調整（目前歐洲 1.5%、美國 3.5%）。企業 €1,000 免稅獎金有利 B2B 賣家——員工有額外可支配所得可能轉向家電、辦公用品採購。",
+    "action": "建議：① 德國站 Q2 促銷可鎖定「能源紓困生效期」（4/13-6/13）5/1 後推動必需品類別 ② 密切監控 FBA 燃油附加費是否再次上調 ③ 關注 6/13 紓困到期後消費轉弱 ④ B2B 賣家可結合「雇主獎金」訊息做行銷",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/german-coalition-announces-fuel-price-relief-worth-19-bln-2026-04-13/"
+      },
+      {
+        "name": "Straits Times",
+        "url": "https://www.straitstimes.com/world/europe/germanys-merz-sets-crisis-talks-to-tackle-energy-price-impact"
+      },
+      {
+        "name": "Courthouse News",
+        "url": "https://www.courthousenews.com/germany-unveils-1-9-billion-fuel-price-relief-to-tackle-energy-shock/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "Lagarde IMF 春會：能源衝擊已偏離 ECB 基線情境，但暫不足以觸發升息；IMF 下修歐元區 2026 成長至 1.1%",
+    "summary": "🇪🇺🇺🇸ECB 總裁 Lagarde 4/17 在華府 IMFC 春會上表態：能源成本上揚「已將歐元區推離 ECB 基線情境」，但「尚未足以讓我們傾向升息」。這是她對 4/30 決議最明確的「中性偏鴿」暗示。同場 IMF 將歐元區 2026 成長預測從 1.4% 下修至 1.1%，並估算伊朗戰爭若再持續 2 年，將拖累歐元區 GDP 累計 0.5 個百分點。然而，ECB 3/18-19 會議紀要（4/16 公布）顯示內部鴿鷹分歧擴大——部分委員認為「能源→核心通膨」傳導可能比基線更強，主張升息選項不能排除。市場定價 4/30 維持利率機率 92%，但年底前至少一次升息已成共識。",
+    "impact": "對 Amazon 經營的影響：Lagarde 中性偏鴿訊號 + IMF 下修成長 = 短期消費動能繼續偏弱，但不致崩盤。EU5 GMV 壓力集中於大件商品和非必需品。成長下修至 1.1% 幾乎確認 2026 全年電商 GMV 個位數成長，Amazon 競爭壓力集中於「市佔搶奪」而非「整體市場擴張」。",
+    "action": "建議：① 招商策略從「擴大規模」轉向「搶佔市佔」——強調 Amazon 相對線下零售的轉單機會 ② 大件商品（家電、家具）賣家保留 4/30 後調整彈性 ③ 側重性價比、日用品、食品雜貨 ④ 密切追蹤 5 月歐元區 PMI 判讀升息窗口",
+    "sources": [
+      {
+        "name": "Bloomberg TV",
+        "url": "https://www.facebook.com/BloombergTelevision/posts/president-christine-lagarde-said-higher-energy-costs-have-pushed-the-euro-zone-a/1304962008169935/"
+      },
+      {
+        "name": "ECB 會議紀要",
+        "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260416~6a27b0c258.en.html"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/16/ecb-interest-rates-hike-inflation-iran-washington.html"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "OECD 4/13 發布能源紓困政策報告：警告各國財政空間有限，建議「目標式支援」而非普遍減稅",
+    "summary": "🇪🇺🇩🇪🇫🇷OECD 發布《能源價格再度飆升：新紓困措施、舊教訓》報告（4/13），針對各國因應中東危機的能源紓困政策提出框架建議。核心訊息：歐洲各國財政空間已遠比 2022-23 能源危機時緊縮，應採「目標式支援」而非普遍減稅或補貼。報告點名德國 2022-23 年「契約價掛鉤」補貼模式為最佳實踐（市場價格下滑時支援自動減少）。OECD 預期未來 2-3 個月會有多國仿效德國推出紓困，但規模和精準度差異將顯著影響各國消費復甦速度。",
+    "impact": "對 Amazon 經營的影響：OECD 點名 = 預告式建議。德國、法國、義大利、西班牙預期將陸續推類似紓困，**EU5 消費力差異將被紓困政策放大**。消費力較強的站點（可能是德、法、西）將跑贏義大利。紓困通常帶動「補償性消費」——消費者拿到錢先補必需品後再補非必需品，有利 FMCG 和日用品類。",
+    "action": "建議：① 追蹤法國、義大利、西班牙是否跟進德國紓困模式（5 月初關鍵窗口） ② 招商階段性戰略：4-5 月側重 FMCG 和必需品，6-7 月若紓困持續再推非必需品 ③ 大數據團隊可追蹤紓困生效後的 Amazon 搜尋熱詞變化",
+    "sources": [
+      {
+        "name": "OECD 報告",
+        "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/04/energy-prices-are-spiking-again_04fdd46b/a68e5c37-en.pdf"
+      },
+      {
+        "name": "ESG News",
+        "url": "https://esgnews.com/germany-approves-1-9-billion-fuel-relief-package-amid-energy-shock-economic-strain/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-20",
+    "type": "daily",
+    "tags": [
+      "稅務",
+      "合規"
+    ],
+    "title": "愛爾蘭律師 4/16 對 Temu/Shein 發動商業法律行動 + SHEIN 18/56 件測試服裝化學物質超標：GPSR 執法從法規進入法庭",
+    "summary": "🇮🇪🇪🇺4/16 愛爾蘭 Glanlaw 律師事務所公開對 Temu 和 Shein 的歐洲業務發動商業法律行動，主張這些平台在愛爾蘭銷售大量商品卻「規避歐洲零售商必須遵守的 VAT、產品安全、消費者保護義務」，案件將進入愛爾蘭法院審理。同週 SHEIN 在美國面臨新訴訟——獨立測試 56 件商品、18 件化學物質超過 EU 限制（包含兒童服裝）。執法模式從「公部門調查」擴散到「民間法律行動」和「多法域共振」，GPSR、化學品法規、VAT 合規失敗的後果首次以具體訴訟形式具象化。",
+    "impact": "對 Amazon 經營的影響：這是**合規紅線從政策轉為案例**的轉捩點。過去賣家能用「還沒真的告過人」當理由拖延，現在**法庭判例即將出爐**，Amazon 將更嚴格執行 GPSR 和 DPP 預審。Temu/Shein 被迫提高合規成本，相對利好有歐洲倉和合規架構的 Amazon 賣家。但 Amazon 自己也將面臨同樣標準的檢視——作為「進口商」角色的法律責任風險上升。",
+    "action": "建議：① 立即盤點賣家**化學物質檢測報告**（特別是兒童服裝、玩具、家居用品） ② GPSR Responsible Person 清單全面覆蓋每個 SKU，不能有漏洞 ③ 提醒賣家保留合規文件至少 10 年（EU 訴訟時效） ④ 關注愛爾蘭法院判例進度——可能為其他會員國先例",
+    "sources": [
+      {
+        "name": "Glanlaw 公告",
+        "url": "https://www.instagram.com/reel/DXMFv7Xk4un/"
+      },
+      {
+        "name": "SHEIN 訴訟",
+        "url": "https://www.facebook.com/FronterasMagazine956/posts/shein-is-being-sued-and-the-clothes-are-the-least-of-ita-3-bodysuit-should-not-c/122236497392109865/"
+      },
+      {
+        "name": "Greenpeace 檢測",
+        "url": "https://www.instagram.com/p/DXJtA7eDerK/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-20",
+    "type": "daily",
+    "tags": [
+      "平台",
+      "物流"
+    ],
+    "title": "Amazon 4/17 起歐洲 FBA 費用更新全面生效：1.5% 燃油附加費 + 賣家費用改課 20% VAT，成本結構重新洗牌",
+    "summary": "🇪🇺🇩🇪🇫🇷🇮🇹🇪🇸Amazon 歐洲 FBA 新制 4/17 正式上路——EU 五站（德法義西、英國）+ 荷比瑞典**全面加收 1.5% 燃油附加費**，單件平均增加約 €0.05-0.17。同步生效的是「**賣家服務費課徵 20% VAT**」新政策：過去 Amazon 對非 EU 賣家的 referral fee 不含 VAT，現在改為全面含 VAT，實質提高非 EU 賣家 20% 平台費負擔。這兩項變動讓 Q2 EU5 賣家的實際 Amazon 成本結構首次出現「每件固定成本 + 百分比費用」雙重推高。Shein/Temu 這類非 Amazon 賣家也被 UCC 7/1 EUR3 關稅夾擊，跨境電商成本戰全面轉向。",
+    "impact": "對 Amazon 經營的影響：**這是 2026 Q2 賣家利潤結構重大變化的起點**。以 €15 客單價計算：原本毛利 30% 的賣家現在淨毛利約 25-27%。對中國直郵/IOSS 賣家衝擊更大——20% VAT 擴大後，加上 7/1 EUR3 關稅，單件成本可能增加 30%+。**轉 FBA 歐洲倉的誘因再度放大**。招商團隊應該趁勢強調 Amazon 對已設歐洲倉賣家的「相對成本優勢」。",
+    "action": "建議：① 立即通知所有活躍賣家「4/17 起 FBA 費用結構變更」，附具體影響試算 ② 整理「EU FBA vs 直郵 IOSS」成本對比表（涵蓋 7/1 EUR3 關稅情境）作為招商工具 ③ 非 EU 賣家重新核對 VAT 號碼是否正確綁定，避免被扣 20% ④ Q2 KPI 重新校準，將 1.5-3.5% 額外成本納入",
+    "sources": [
+      {
+        "name": "Amazon 公告",
+        "url": "https://www.instagram.com/p/DXL_3DSjaWA/"
+      },
+      {
+        "name": "The Independent",
+        "url": "https://www.independent.co.uk/us/money/amazon-fees-america-canada-b2959314.html"
+      },
+      {
+        "name": "Amazon VAT 政策",
+        "url": "https://www.facebook.com/melagros.martinez.1/posts/news-update%EF%B8%8F%EF%B8%8Famazon-to-implement-35-surcharge-for-sellers-amid-rising-fuel-expen/10237861182327740/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-17",
     "type": "daily",
     "tags": [
