@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-04-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "Trump 4/21 延長伊朗停火但 Hormuz 封鎖「無限期維持」：Dolenc 預告成真，油價震盪但供應未恢復",
+    "summary": "🇺🇸🇮🇷🇪🇺Trump 4/21 在原定停火到期前一天，透過 Truth Social 宣布「應巴基斯坦請求」延長停火，但**同步宣布繼續維持 Hormuz 海峽封鎖**，意味伊朗石油與相關物流仍斷。美方與伊朗第二輪談判實際上破局——Vance 暫緩出訪伊斯蘭馬巴德，Trump 受訪直言「我不想延長」且「軍方隨時準備好」。市場解讀：停火名義延長但實質軍事壓力不變。昨日 ECB 委員 Dolenc 預告「兩週內會看到很多新情況」今日成真。Hormuz 航運仍大幅停滯，一艘伊朗相關、中國船員油輪準備測試美方封鎖。",
+    "impact": "對 Amazon 經營的影響：停火延長給了 ECB 4/30 不升息的「政治掩護」，但 Hormuz 封鎖維持 = 能源成本短期不會回落。這是「最壞情境」的中間路線——既非升級戰事衝擊股市，也非全面和平解除能源焦慮。Q2 EU5 消費者信心難恢復。歐元 4/21 對美元走弱（EUR/USD 跌至 1.1750 附近，12 個月新低），有利 Amazon 歐洲賣家對美出口，但進口成本同步上升。",
+    "action": "建議：① 招商跟賣家溝通「Q2 不會變更壞但也不會變好」的現實 ② 利用 EUR/USD 弱勢推進美元結算的賣家招商 ③ 大件商品繼續 Q2 保守，但不必過度恐慌 ④ 關注本週四（4/23）HCOB 歐元區 PMI 初值—能源衝擊傳導程度的關鍵試金石",
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains"
+      },
+      {
+        "name": "TT News",
+        "url": "https://www.ttnews.com/articles/trump-extends-iran-ceasefire"
+      },
+      {
+        "name": "MEXC",
+        "url": "https://www.mexc.com/news/1044345"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "德國 4/21 ZEW 經濟預期暴跌 16.7 點至 -17.2，創 2022/12 以來最低；83% 德國企業感受衝擊",
+    "summary": "🇩🇪🇪🇺德國 ZEW 經濟預期指標 4/21 公布：從 3 月 -0.5 **單月暴跌 16.7 點至 -17.2**，創 2022 年 12 月（俄烏能源危機高峰）以來最低水平，遠低於市場預期。ZEW 主席 Wambach 直言：「伊朗戰爭對德國經濟的影響遠超越價格上漲」。同日德國工商總會 DIHK 調查：**83% 德國企業感受負面衝擊**，工業企業比例更達 87%，「明顯的連鎖反應」正在傳導。這是 ECB 4/30 會議前最重要的德國領先指標——市場原本認為德國紓困案能穩住信心，今天被數據打臉。",
+    "impact": "對 Amazon 經營的影響：ZEW 暴跌幾乎抵消了德國 €1.9 億紓困案的心理效果——**德國消費者和 B2B 買家的信心正在崩盤**。Amazon.de Q2 GMV 壓力重大：大件商品（家具、家電、3C）首當其衝。但歷史經驗：ZEW 低點往往是 6-9 個月後消費反彈的前兆（2022/12 低點後 2023 年線上零售轉正）。Amazon 相對實體零售的抗跌性將進一步凸顯。",
+    "action": "建議：① Amazon.de Q2 招商策略從「成長」改為「守住市佔」，與實體零售做差異化訊息 ② 必需品、日用品、家用清潔類別做重點補貨 ③ 大件商品賣家延後新品上架至 Q3，避免 Q2 去化壓力 ④ 運用 ZEW 數據製作「線上 vs 實體零售」比較圖表當招商素材",
+    "sources": [
+      {
+        "name": "Morningstar",
+        "url": "https://www.morningstar.com/news/dow-jones/202604212668/german-financial-sentiment-slumps-to-lowest-since-2022-on-energy-shock-2nd-update"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/business/2026/04/21/german-business-expectations-fall-to-their-lowest-levels-since-2022"
+      },
+      {
+        "name": "Xinhua",
+        "url": "https://english.news.cn/europe/20260422/ccb4a00fbe7f47f8a058b4630f8a5f5d/c.html"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "BNP Paribas 4/21 Nowcast：歐元區 Q1 GDP +0.4%（上修），但「Q2 回跌風險升高」明確警示",
+    "summary": "🇪🇺🇩🇪🇫🇷🇮🇹BNP Paribas 4/21 發布 Q1 Nowcast 報告：歐元區 Q1 GDP 將加速至 **+0.4% QoQ**（Q4 為 +0.2%），法國 +0.3%，德國與義大利保持 +0.3%。核心訊號：**公共投資和消費**（而非民間動能）支撐成長。然而報告同步明確警告「**Q2 Pull-back 風險明確**」——Q1 的韌性主要靠 3 月前的訂單積壓和政府支出，4 月後能源衝擊將實質傳導到消費和企業投資。與 IMF 4/17 下修全年 1.1% 的觀點呼應：上半年還好、下半年壓力。",
+    "impact": "對 Amazon 經營的影響：Q1 成長數字「表面好看」給市場一個錯誤的緩衝感——賣家可能以為「經濟沒那麼差」而過度備貨。真正的衝擊從 Q2 開始。招商需要幫賣家建立正確的 Q2-Q3 預期，避免 5-6 月大量進貨後 7-9 月去化困難。**「公共支出驅動成長」= 民間消費疲弱的隱含訊號**，對依賴 B2C 的 Amazon 賣家是警訊。",
+    "action": "建議：① 對賣家明確溝通「Q1 數據好不代表 Q2 好」 ② Q2 備貨建議保守（建議比 Q1 去化量少 10-15%） ③ 關注 4/30 發布的歐元區 Q1 GDP 初值能否驗證 Nowcast ④ B2G（政府採購）品類賣家相對有利，可作為招商新切入點",
+    "sources": [
+      {
+        "name": "BNP Paribas",
+        "url": "https://economic-research.bnpparibas.com/html/en-US/Overview-Resilient-growth-first-quarter-2026-4/21/2026,53384"
+      },
+      {
+        "name": "BNP Eurozone",
+        "url": "https://economic-research.bnpparibas.com/html/en-US/Eurozone-Resilience-Q1-uncertainty-ahead-4/21/2026,53385"
+      },
+      {
+        "name": "BNP Germany",
+        "url": "https://economic-research.bnpparibas.com/html/en-US/Germany-Momentum-continues-Q1-risk-pull-back-Q2-4/21/2026,53386"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-22",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "平台"
+    ],
+    "title": "加州 AG 揭露 Amazon 壓迫 Levi's/Hanes 抬價內部郵件：反壟斷訴訟從 Temu/Shein 延伸到 Amazon 本身",
+    "summary": "🇺🇸🇪🇺加州檢察總長 Rob Bonta 4/20-21 解封 2022 年反壟斷訴訟的內部證據：Amazon 被指**系統性施壓 Levi's、Hanes、Armen Living、Agrothive 等品牌**，要求它們「修復」或「提高」在 Walmart、Target、Home Depot 的售價，否則威脅「促銷限制」或「下架」。具體案例：Amazon、Levi Strauss、Walmart 就卡其褲價格達成一致。Guardian 同步揭露小賣家 Leveret 因 Walmart 售價比 Amazon 便宜 1 分錢而被「shadow block」。訴訟明年進入審判，此前 EU 已對 Amazon 的 Buy Box 和 FBA 綁定做過類似調查。這是**反壟斷攻勢從 Temu/Shein 延伸到 Amazon 本身**的關鍵轉折。",
+    "impact": "對 Amazon 經營的影響：短期 Amazon 公關危機，但真正的長期影響是：EU DMA（Digital Markets Act）和 UK CMA 可能援引加州案的證據，對 Amazon 歐洲業務發動類似調查。賣家觀感：若訴訟坐實，「Amazon 不是真的追求低價」這個論述會改變市場敘事，相對利好 Amazon 之外的渠道（eBay、Kaufland、OTTO、Cdiscount）。但 Amazon 歷史上遇到類似壓力都會加碼投資賣家工具和合規透明度——短期內對中大型賣家的優惠政策可能增加。",
+    "action": "建議：① 追蹤 EU DMA 相關機構對加州案的反應，特別是 EU Commission 的 Amazon 調查進度 ② 招商話術暫緩強調「Amazon 全網最低價」，改強調「合規保障」和「EU 消費者信任」 ③ 賣家對「跨平台定價限制」的疑慮可能增加，合規部門準備應對 Q&A ④ 關注 Amazon EU 是否主動推出「價格自主」相關政策緩解壓力",
+    "sources": [
+      {
+        "name": "NYTimes",
+        "url": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html"
+      },
+      {
+        "name": "Guardian",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit"
+      },
+      {
+        "name": "California AG",
+        "url": "https://oag.ca.gov/news/press-releases/naming-names-attorney-general-bonta-secures-public-access-evidence-amazon-price"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
     "date": "2026-04-21",
     "type": "daily",
     "tags": [
