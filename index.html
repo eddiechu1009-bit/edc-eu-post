@@ -756,7 +756,7 @@ let articles = [];
 // ── APP STATE ──
 let currentFilter = 'all';
 let currentSearch = '';
-const PER_PAGE = 9;
+const PER_PAGE = 10;
 let currentPage = 1;
 
 // ── DEDUP & MERGE ──
@@ -865,6 +865,11 @@ function renderGrid() {
     document.getElementById('pagination').innerHTML = '';
     return;
   }
+
+  grid.style.display = 'grid';
+  grid.style.gridTemplateColumns = 'repeat(2, 1fr)';
+  grid.style.gap = '20px';
+  grid.style.alignItems = 'start';
 
   grid.innerHTML = paged.map((a) => {
     const globalIdx = articles.indexOf(a);
