@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-04-24",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "德國 Ifo 4 月 Business Climate 今日公布：ZEW 已暴跌 16.7 點，市場擔憂 Ifo 跟跌至 85",
+    "summary": "🇩🇪🇪🇺Ifo Institute 將於 4/24 10:00 CEST 公布 4 月 Business Climate Index。3 月讀數為 86.4（月減 2.0），4 月市場共識預期 85.0-85.5——若成真將是連續第三個月下滑。分項觀察重點：製造業因關稅衝擊前的「安全囤貨」可能回升，但服務業預計轉負、零售業 -29.8 且 price expectations 創 2025/11 新高。Ifo 投資預期 3 月已從 -3.1 翻正至 +0.2（過去 12 個月首次），顯示工業預期與消費端出現背離。關鍵觀察：Expectations 子分項若跌破 85，將是德國 Q2 技術衰退的領先訊號——與 4/22 ZEW 暴跌 16.7 點、4/23 德國 Flash PMI 降至 51.1 三者交叉驗證。",
+    "impact": "對 Amazon 經營的影響：Amazon.de 貢獻 EU GMV 約 40%，Ifo 跌破 85 意味德國中小企業對下半年預期更保守，會主動縮減 FBA 庫存和廣告支出。賣方想藉關稅漲價 vs 消費者信心 -20.6 的剪刀差，會在 Q2 擠壓毛利——不是成本問題，是定價能力問題。投資預期翻正但消費端轉弱的背離，意味 B2B 工業品類別逆勢而上，C 端家居娛樂類承壓。",
+    "action": "建議：① 10:00 CEST 後立即檢視 Expectations 分項，低於 85 則 Q2 規劃全面轉防守 ② 通知德國賣家縮減 Q2 大促促銷承諾，聚焦高週轉 SKU ③ B2B 工業用品、安全設備、倉儲耗材等類別可加碼招商 ④ 對 C 端賣家建議「降級策略」而非漲價——消費者要的是更便宜，不是更高端",
+    "sources": [
+      {
+        "name": "ifo Institute",
+        "url": "https://www.ifo.de/en/press-release/2026-04-20/industry-germany-less-reluctant-invest"
+      },
+      {
+        "name": "KPMG Germany",
+        "url": "https://kpmg.com/de/en/insights/geopolitics/economic-key-facts-germany.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-24",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "ECB 4/30 決議進入靜默期：市場定價 6 月、9 月各升 25bp，Barclays 警告升息週期被動重啟",
+    "summary": "🇪🇺ECB 於 4/23 進入 quiet period，4/30 決議前官員不再公開表態。4/30 當日 hold 機率 95%+，但市場焦點已轉向 guidance：OIS 曲線目前已 fully priced 2 次 25bp 升息（deposit rate 2026 內 2.0% → 2.5%），6 月升息機率從兩週前的 40% 跳升至 85%，9 月再升機率 70%。Barclays 研究報告：「Energy-driven inflation 已經把 ECB 從 dovish pause 推向 hawkish hold，6 月升息現在是 base case 不是 risk scenario。」4/23 Flash PMI 服務業跌破 50、成本以 3 年多最快速度上升——這是 dovish 陣營能抓的最後一根稻草；但若 4/24 Ifo、4/29 ESI、4/30 Q1 GDP 三者中任兩項強於預期，6 月升息定價會進一步上調。",
+    "impact": "對 Amazon 經營的影響：這是 Q2 最大的資金成本轉折。影響三條線：(1) 小賣家運轉金成本上升——特別是依賴 Amazon Lending 和銀行短期貸款的賣家；(2) 消費者端 BNPL 成本轉嫁——Klarna、Clearpay 的手續費會上調；(3) EUR 可能反彈至 1.19-1.20——對美元計價採購的中國/台灣賣家是短期利多、對歐元區買家出口是利空。Amazon 自身融資成本上升會透過 FBA 費用、倉儲費、廣告 CPC 間接轉嫁給賣家。",
+    "action": "建議：① 4/30 決議前不要對賣家做 H2 樂觀 guidance，等 Lagarde 記者會定調再說 ② 提醒現金流敏感賣家鎖定 6 月前的融資利率——尤其是 Amazon Lending 續貸 ③ 若 EUR 如預期反彈至 1.19+，會是 Q3 招商台灣賣家的切入點（定價優勢）④ 追蹤 ECB Staff Projections 是否上修通膨預測——這是升息時程的關鍵錨點",
+    "sources": [
+      {
+        "name": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/ecb-officials-say-april-is-too-early-to-decide-on-rate-hikes"
+      },
+      {
+        "name": "FXStreet Barclays",
+        "url": "https://www.fxstreet.com/news/eur-usd-holds-gains-above-11700-on-us-iran-ceasefire-extension-202604230103"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-24",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "貿易"
+    ],
+    "title": "EU Customs Authority (EUCA) Lille 2027 啟動：7/1 EUR3 只是熱身，2028 Data Hub 重寫電商清關邏輯",
+    "summary": "🇪🇺🇫🇷EU 4/23 確認 European Union Customs Authority（EUCA）總部設於 法國 Lille，2027 年進入運作，2028 年 EU Customs Data Hub 上線處理電商包裹，2034 年全面強制。這是 Union Customs Code 改革的最大產物——將取代目前 27 國 111 套獨立清關系統。關鍵條文：(1) 電商平台被法律定義為 「進口商」（Deemed Importer），承擔關稅、VAT、GPSR、PPWR 等合規連帶責任；(2) 系統性違規最高罰 「年進口額 6%」——對 Amazon / Temu / Shein 都是天文數字；(3) 2025 年 EU 低值包裹入關 58 億件，平均每天 1,590 萬件，現行系統已無法負荷。「Trust and Check」資格的合規賣家可獲得快速通關待遇。",
+    "impact": "對 Amazon 經營的影響：這不是未來式，是已經啟動的路徑。三層衝擊：(1) 7/1 EUR3 關稅 + EUR150 免稅取消是「短期陣痛」，2028 Data Hub 才是「長期結構性重寫」——Temu/Shein 小包裹直郵的商業模式被兩次封死；(2) Amazon 作為 Deemed Importer，會把 VAT/合規/GPSR 成本透過平台費用轉嫁給賣家，FBA 費用和佣金的長期走勢是升不是降；(3) 2028 後 cross-border arbitrage（跨境套利）徹底結束，唯一剩下的競爭力是產品力和品牌力——對台灣有供應鏈優勢的賣家反而是機會。",
+    "action": "建議：① 7/1 前溝通要明確：「小包裹直郵模式已死」，不要再幫賣家幻想灰色空間 ② 法國進口賣家提前與當地報關行對接——EUCA 總部在 Lille，法國會是首波試點 ③ 對賣家強調 Amazon 作為 Deemed Importer 的合規保護——相對於自建 EU 站，FBA 是最低風險路徑 ④ 追蹤 EUCA「Trust and Check」資格的申請條件公布，這會是 2027 後的關鍵競爭優勢",
+    "sources": [
+      {
+        "name": "EC Press Release",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_735"
+      },
+      {
+        "name": "European Parliament",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-24",
+    "type": "daily",
+    "tags": [
+      "平台",
+      "物流"
+    ],
+    "title": "Amazon DD+7 衝擊擴散：歐洲 2025/9 已實施，疊加 4/17 FBA 漲價後 10-14 天資金凍結成常態",
+    "summary": "🌐🇪🇺Amazon 全新 DD+7（Delivery Date + 7）付款政策衝擊正在擴散。歐洲賣家 2025/9 已全面實施，北美 2026/3/12 起跟進。新規下資金從原本的「出貨後 14 天結算」改為「送達後 8-9 天」，整體現金循環延長至 10-14 天。更關鍵的是，與 4/17 生效的 FBA 1.5% 燃油附加費 + 賣家費用改課 20% VAT 疊加後，Q2 中小賣家的現金流問題從「小坑」變成「結構困局」。業界試算：月營收 EUR 50 萬的賣家，永久被凍結的運轉金約 EUR 12-17 萬。沒有 valid tracking 的訂單 hold 可能超過 14 天，FBM 賣家受衝擊更大。",
+    "impact": "對 Amazon 經營的影響：這是台灣賣家最容易忽略的隱形成本——沒有人在歐洲 2025/9 上路時跳出來警告，大家都在看 FBA 費率。Amazon 把 working capital 風險轉嫁給賣家，同時加速 Amazon Lending 的滲透率（需要週轉的賣家只能找 Amazon 借）。對招商的實際影響：新進賣家的前 60 天資金需求被低估，不少人撐不到第二個 payout 週期。",
+    "action": "建議：① 新賣家 onboarding 話術必加入 DD+7 的實際影響，不要再用「14 天結算」當賣點 ② 導入 SPS Commerce / Slope 的 DD+7 tracking 工具，讓賣家能看到每筆訂單的實際到款日 ③ 現金流緊的賣家評估 Amazon Lending 或主動收斂到 TOP 20 SKU ④ 新賣家前 60 天的資金需求預設為「正常估計 x 1.3 倍」，避開第二個月現金斷鏈",
+    "sources": [
+      {
+        "name": "SPS Commerce",
+        "url": "https://www.spscommerce.com/community/articles/retail-news-amazon-dd7-fuel-surcharge-ad-billing-changes-2026-04-17"
+      },
+      {
+        "name": "Slope",
+        "url": "https://www.slopepay.com/blog/amazon-dd7-payout-policy"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-24",
+    "type": "daily",
+    "tags": [
+      "稅務",
+      "合規"
+    ],
+    "title": "IOSS 中介人註冊新規 4/1 生效：非 EU 賣家必須透過中介人才能註冊 VAT，7/1 倒數卡死",
+    "summary": "🇪🇺🇬🇧2026/4/1 起，非 EU / 非北愛爾蘭企業必須透過「中介人（Intermediary）」才能註冊 IOSS（Import One-Stop Shop）——直接通道正式關閉。中介人資格要求：(1) UK VAT 註冊；(2) 北愛爾蘭營業地址；(3) 對客戶 VAT 債務承擔 連帶責任。年成本約 GBP 1,500-3,000，從申請到拿到 IOSS 號碼需 6-8 週。IOSS 是 7/1 後單件 <EUR150 B2C 跨境包裹的唯一簡化 VAT 通道——沒有 IOSS 的賣家，買家收貨時要自己付 VAT + 處理費，轉換率實測崩 15-25%。ViDA（VAT in the Digital Age）2025-2030 分階段 e-invoicing，IOSS 將整合入新電子申報架構。",
+    "impact": "對 Amazon 經營的影響：IOSS 是 7/1 EUR150 免稅取消後「單件低價包裹」唯一合規通道，台灣賣家如果現在才開始找中介人，6-8 週作業時間卡死 7/1 硬著陸。好消息：FBA 賣家靠 Amazon 自動 VAT 代收代繳相對安全；壞消息：FBM 賣家（自發貨、獨立站 + EU）逃不掉，必須自己搞中介人。這波新規實質是把「靠法規漏洞賺錢」的玩法堵死——Temu/Shein 的低價直郵模式 7/1 死，散戶型直郵模式 4/1 已經先死。",
+    "action": "建議：① 核對所有 FBM 賣家的 IOSS 狀態——特別是台灣直郵歐洲的中小賣家 ② 評估 hellotax / Avalara / Taxually 的中介人報價，給賣家選擇清單 ③ 招商話術強調 Amazon 自動 VAT 處理的合規優勢，把 FBA 的價值重新包裝 ④ 追蹤 ViDA e-invoicing 強制時程——這是下一波 VAT 數位化的關鍵",
+    "sources": [
+      {
+        "name": "VATupdate",
+        "url": "https://www.vatupdate.com/2026/03/02/vat-ioss-scheme-intermediary-registration-available-from-april-2026-for-non-eu-businesses/"
+      },
+      {
+        "name": "hellotax",
+        "url": "https://hellotax.com/blog/ioss-for-non-eu-sellers/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-23",
     "type": "daily",
     "tags": [
