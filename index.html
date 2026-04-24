@@ -759,6 +759,12 @@ let currentSearch = '';
 const PER_PAGE = 10;
 let currentPage = 1;
 
+// ── HTML ESCAPE ──
+function esc(str) {
+  if (!str) return '';
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
 // ── DEDUP & MERGE ──
 // Weekly articles are curated picks from daily. We merge them:
 // - If a weekly title closely matches a daily title, mark the daily as "featured" and drop the weekly duplicate
@@ -838,8 +844,8 @@ function renderHero() {
     <div class="hero-card" onclick="openModal(0)">
       <div class="hero-badge">${badge}</div>
       <div class="hero-date">${latest.date}</div>
-      <div class="hero-title">${latest.title}</div>
-      <div class="hero-excerpt">${latest.summary}</div>
+      <div class="hero-title">${esc(latest.title)}</div>
+      <div class="hero-excerpt">${esc(latest.summary)}</div>
       <div class="hero-tags">
         ${latest.featured ? '<span class="hero-tag">⭐ 精選</span>' : ''}
         ${latest.tags.map(t => `<span class="hero-tag">${t}</span>`).join('')}
@@ -887,8 +893,8 @@ function renderGrid() {
             ${a.tags.map(t => `<span class="card-tag tag-${t}">${t}</span>`).join('')}
           </div>
         </div>
-        <div class="card-title">${a.title}</div>
-        <div class="card-excerpt">${a.summary}</div>
+        <div class="card-title">${esc(a.title)}</div>
+        <div class="card-excerpt">${esc(a.summary)}</div>
       </div>
       <div class="card-footer">
         <span class="card-read-more">CONTINUE READING →</span>
@@ -927,9 +933,9 @@ function openModal(idx) {
   `;
   document.getElementById('modalTitle').textContent = a.title;
   document.getElementById('modalBody').innerHTML = `
-    <div class="summary">${a.summary}</div>
-    ${a.impact ? `<div class="impact"><strong>🎯 Impact：</strong>${a.impact}</div>` : ''}
-    ${a.action ? `<div class="action"><strong>✅ Action：</strong>${a.action}</div>` : ''}
+    <div class="summary">${esc(a.summary)}</div>
+    ${a.impact ? `<div class="impact"><strong>🎯 Impact：</strong>${esc(a.impact)}</div>` : ''}
+    ${a.action ? `<div class="action"><strong>✅ Action：</strong>${esc(a.action)}</div>` : ''}
     <div class="source">
       Source：${(a.sources || []).map(s => `<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`).join(' | ')}
     </div>
