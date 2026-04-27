@@ -1,5 +1,128 @@
 [
   {
+    "date": "2026-04-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【進展】德國 Ifo 4 月崩至 84.4，創 2020/5 以來新低：Expectations 83.3，連消費零售業者都認輸",
+    "summary": "🇩🇪🇪🇺承 4/24 日報的觀察點——Ifo 4/24 正式公布 84.4（市場預期 85.5，3 月 86.3），創 2020/5 疫情以來最低。三個子分項全線崩：Expectations 83.3（3 月 85.9，2023/8 以來最低）、Current Situation 85.4（3 月 86.7）。分產業更慘：製造業 -15.5（化工拖累）、服務業從 -5.1 斷崖式掉到 -11.0（物流業最慘）、貿易業跳水（零售業者明確擔憂「消費者因通膨升高更保守」）。Ifo 總裁 Fuest 直言：「德國經濟被伊朗危機狠狠打到」。這證實了 4/22 ZEW 暴跌 16.7 點的訊號沒有誇大，且 Trading Economics 當前 Q2 預測已下修至 80 點——意味 5 月可能再跌 4 點。",
+    "impact": "對 Amazon 經營的影響：Ifo 確認德國進入「消費心理冬季」。關鍵解讀：零售業主動承認「消費者因通膨更保守」——這是賣家要聽的真話，不是經濟學家的預測。德國服務業跌破 -11 意味 FBA 周邊的客服、軟體、行銷服務商會先縮編；物流業受壓最深，意味 Q2 運輸成本和清關穩定性都會受影響。Amazon.de 是 EU GMV 最大單一市場，這個 reading 直接決定 Q2 德國賣家的廣告投放意願和庫存深度——兩個指標都會往下調。",
+    "action": "建議：① 立刻發內部備忘錄調降德國 Q2 GMV 預測，別等老闆問；基準情境從原本的 +3% 下修到平盤甚至 -2% ② 通知德國招商 pipeline 的新賣家「上線時間建議壓到 8 月後」，現在上線碰到 Q2 消費冰點會很難看數字 ③ 聯繫已入駐賣家做「價格 vs 促銷」諮詢——消費者要的不是更貴的高端，是更便宜的基本款 ④ 追蹤 5/22 Ifo 5 月數據，若真的掉到 80 就是德國技術衰退官宣",
+    "sources": [
+      {
+        "name": "ifo Institute 4/24 公告",
+        "url": "https://www.ifo.de/en/press-release/2026-04-24/ifo-business-climate-index-down-april-2026"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/germany/business-confidence"
+      },
+      {
+        "name": "Reuters 報導",
+        "url": "https://www.globalbankingandfinance.com/german-business-sentiment-falls-expected-april-ifo-survey/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "Brent 週漲 17% 重回 $105：Hormuz 封鎖持續，美國派使節赴巴基斯坦但伊朗態度保留",
+    "summary": "🌐🇪🇺Brent 4/24 收 $105.7/桶，連續第五個交易日上漲，週漲幅約 17%——這不是震盪，是結構性再定價。觸發因素：(1) 美國海軍封鎖仍在、Hormuz 實質關閉；(2) 川普 4/23 在 Truth Social 宣布下令海軍「對布雷船隻開火擊沉」；(3) 美軍在印度洋攔截一艘伊朗油輪。外交進展：白宮派使節赴巴基斯坦，伊朗外長 Araghchi 也將訪問，但伊朗方面明確表示「Araghchi 訪問期間沒有正式談判計畫」。交叉確認：Brent 從 4/23 的 $103 一路推進到 $105-106，OPEC+ 產能受限、小額談判訊號只修掉部分 risk premium 但供應端實質未恢復。EUR/USD 4/23 收 1.1694，較 2/28 的 1.1825 下跌約 1.1%——能源衝擊讓歐元相對弱。",
+    "impact": "對 Amazon 經營的影響：油價 $105 持續 1 週以上，對 Amazon EU 業務三層衝擊：(1) 物流成本螺旋：歐洲站 4/17 FBA 燃油附加費 1.5% 已生效、美國 4/17 漲 3.5%、5/2 MCF 跟進——這些都是按當時油價設定，若 $105 持續到 5 月，下一輪附加費調整已在 pipeline；(2) 消費者端雙殺：油價 → 通膨 → Ifo 已崩，買家預算被能源吃掉，非必需品品類首當其衝（家居、服飾、娛樂）；(3) EUR 走弱反而利台灣賣家美元計價——但歐元區買家購買力減弱抵銷掉，淨效應中性偏負。",
+    "action": "建議：① 所有 Q2 招商承諾重新檢視油價假設，把 base case 設成「Brent $95+ 持續到 6 月」 ② 高能耗/大件類別（家具、家電、健身器材）暫停積極招商，改 focus 高單價低運輸敏感的消費電子、美妝、小商品 ③ 在 seller 會議上主動告知「4/17 燃油附加費不是一次性，下一輪調整很可能在 Q3」——幫他們先規劃不是事後解釋 ④ 5 月第一週追蹤 Hormuz 情勢，若仍封鎖要預備 $110+ 的 worst case",
+    "sources": [
+      {
+        "name": "Trading Economics Brent",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "News3 Las Vegas",
+        "url": "https://news3lv.com/news/nation-world/oil-prices-rise-after-discouraging-weekend-for-us-iran-war-strait-of-hormuz"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "法國 3 月零售破碎：腳踏車 +7.2%、運動用品 +2.1% 逆勢，但玩具 -3.9%、書 -2.7%，hypermarket 連續收縮",
+    "summary": "🇫🇷Banque de France 4/20 發布 3 月零售調查，三個月滾動 +0.5% 但底下分化極大。製造商品 -0.5% vs 食品 +1.8%——非必需品已經被放棄。品類層面更戲劇：腳踏車機車 +7.2%（承 +5.6%）延續年初以來的通勤替代 trend，運動用品從 -4.9% 翻正到 +2.1%，pharmacy +3.9%；但 玩具 -3.9%、書 -2.7%（前月皆正成長）顯示家庭娛樂/非剛需品被砍。通路端：hypermarket 連 2 個月收縮（-0.6% 接 -0.1%），supermarket 回正但僅 +0.1%，小型零售 +3.1%、百貨回溫 +1.3%——消費者遷往「便利 + 特色」，大型綜合賣場繼續流血。加上同週 4/24 法國 April 商業氣氛降至 94（7 月 2024 來新低），零售貿易分項從 99 暴跌至 94。",
+    "impact": "對 Amazon 經營的影響：法國消費者行為已進入「結構分化」模式，這對 Amazon.fr 是招商選品的清晰訊號：① 通勤/健康相關（腳踏車周邊、運動用品、pharmacy/保健）逆勢成長，是現在要加碼的切入點；② 兒童娛樂（玩具、童書）連續衰退，別再把這些當成高成長類別推給新賣家；③ hypermarket 流量外流到「小型 + 特色」通路，這正好是 Amazon 擅長的 long tail 優勢——但前提是商品訂位準確，不是把所有品牌塞上去刷流量。",
+    "action": "建議：① 法國 Q2 招商重點類別改為「通勤 / 運動 / 健康 / pharmacy accessories」四類，集中資源做深 ② 玩具/童書類 SKU 做庫存健診，深度能減半就減半、別讓 FBA 費吃掉毛利 ③ 跟法國賣家溝通 positioning 要從「大而全」改成「小而精」——hypermarket 的衰退正是 Amazon 長尾的機會窗口 ④ 法國消費者能分辨必需品 vs 非必需品，這不是景氣周期，是結構行為，規劃 H2 要先認清這點",
+    "sources": [
+      {
+        "name": "Banque de France 3 月零售",
+        "url": "https://www.banque-france.fr/en/statistics/retail-trade/monthly-survey-retail-trade-2026-03"
+      },
+      {
+        "name": "France Business Climate April",
+        "url": "https://tradingeconomics.com/france/business-climate-indicator/news/544263"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-27",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "貿易"
+    ],
+    "title": "7/1 EUR3 倒數 65 天，各國 handling fee 已各玩各的：法國 €2 跑在前、義大利暫停到 6 月、比利時撤回",
+    "summary": "🇪🇺🇫🇷🇮🇹🇧🇪EU 7/1 起 €3 customs duty 硬上路前，各國的 national handling fee 已經亂成一團：(1) 法國 3/1 起 €2 Taxe Petit Colis 已生效，per HS6 code per parcel（不是 per item），適用法國本土 + Monaco + 瓜德羅普等海外領地；(2) 義大利 €2 handling fee 1 月已上路但因機場航運被分流到其他會員國而 4 月暫停到 6 月；(3) 比利時 €2 已撤回，等 11/1 Union handling fee；(4) 羅馬尼亞 25 lei（≈€5） 1/1 生效，且說不會隨 Union fee 消失。疊加效果試算：一個 €2 商品寄法國，3 個不同 HS 品項 = 產品 €6 + 關稅 €9（3×€3）+ 法國 €2 = €17 總成本，per 件 €5.67，漲幅 183%。11/1 另有 Union handling fee（預計 €2）再疊上來 → 每件 €5/件的總費用成常態。",
+    "impact": "對 Amazon 經營的影響：這是 7/1 前招商話術必須更新的地方。三個核心 insight：(1) 「一國一規」拼圖 15 國不同，沒法用統一的計算器給賣家，必須做國別試算表；(2) 義大利的暫停案例證明「handling fee 不是政治表態就算數」——會因為物流被繞路而被迫撤回，顯示國家級措施終究會被 7/1 歐盟級取代，現在的混亂是過渡期陣痛；(3) 對 FBA 賣家來說，這些 fee 都在貨進 EU 邊境時被收取，FBA 本土庫存完全豁免——這是 Pan-EU FBA vs 直郵模式差價拉大的關鍵時刻。",
+    "action": "建議：① 做一份 EU5 國別 handling fee 試算 excel（法、義、荷、西、比），給直郵賣家 7/1 前的成本衝擊預覽 ② 特別針對法國 IOSS 用戶強調：平台負責扣 €2 fee，La Poste 不會再單獨收費——這是 FBA vs 獨立站的合規優勢 ③ 義大利的暫停案例可當招商故事：「連政府都撤回了，證明這波混亂是過渡期，長期只有 EU 一致 handling fee 能收斂成本預測」 ④ 6 月底前 pipeline 的新賣家強制做 「7/1 after 成本試算」，別讓他們進來就撞牆",
+    "sources": [
+      {
+        "name": "SimplyVAT 各國 levy 整理",
+        "url": "https://simplyvat.com/blog/small-parcel-levy/"
+      },
+      {
+        "name": "UKP Worldwide 法國 €2",
+        "url": "https://www.ukpworldwide.com/2026/02/11/france-introduction-of-e2-handling-fee-effective-1-march-2026/"
+      },
+      {
+        "name": "CM Trade Law 各國比較",
+        "url": "https://www.cmtradelaw.com/2025/12/changing-eu-e-commerce-rules-new-import-charges-ante-portas/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-27",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "EmpCo Directive 3/27 轉置死線已過、9/27 生效倒數：義大利 D.Lgs 30/2026 打頭陣，賣家環保宣告全面重寫",
+    "summary": "🇪🇺🇮🇹🇩🇪EU「Empowering Consumers for the Green Transition Directive（EmpCo）」2024 年通過，要求會員國3/27/2026 前完成國家轉置、9/27/2026 起全面施行。核心規定：禁止未經證實的「climate neutral」「eco-friendly」等通用環保宣告；所有環保宣告必須有第三方驗證和清楚可追溯證據；永續標章必須是「官方 scheme」或「經獨立驗證」。義大利已搶先立法——Legislative Decree 30/2026，重新劃定商業實務邊界。執法前例：德國 FCJ 2024/6 已判「climate neutral」廣告若沒附清楚說明就是誤導（連 QR code 導到說明頁都不算）；法國巴黎法院裁定 TotalEnergies「2050 carbon neutrality」宣告誤導消費者，須撤下並在官網公告 180 天。EU 雖然 2025/6 撤回了 Green Claims Directive（原本要罰到年營收 4%），但 EmpCo 已經存在，加上各國既有法規，實質罰則更分散更難預測。",
+    "impact": "對 Amazon 經營的影響：這個 radar 在台灣賣家圈幾乎零存在感，但衝擊面比 GPSR 還廣。所有賣「環保」「永續」「可回收」「竹製代替塑膠」定位的 SKU，9/27 後在 EU 站都要能拿出第三方驗證文件——不只是產品描述，連 A+ 內容、品牌 store 頁、廣告文案都在範圍內。Amazon 身為 VLOP 會被壓力傳導下來，可預期 Q3 起會新增「永續宣告審查」環節，沒備文件的 listing 會被 takedown。特別是家用品、包材、美妝、紡織這幾個環保宣告最密集的類別，這是下一波 listing 清洗的震央。",
+    "action": "建議：① 立刻盤點旗下賣家 listing 的「eco / green / sustainable / climate / bio / carbon neutral」關鍵字分佈，高密度類別優先做合規準備 ② 提醒賣家：9/27 前要收集每個環保宣告的第三方驗證文件（FSC、GOTS、OEKO-TEX、EU Ecolabel 等），沒有就刪宣告 ③ A+ 內容和廣告素材的「eco friendly」等通用語改成具體可驗證描述（例如「含 70% 再生 PET」而非「環保材質」）④ 追蹤德國、法國轉置立法——這兩國的執法強度會先定調 EU 整體 benchmark",
+    "sources": [
+      {
+        "name": "Freshfields 分析",
+        "url": "https://www.freshfields.com/en/our-thinking/blogs/sustainability/the-e-of-esg-greenwashing-under-the-spotlight-recent-trends-in-the-eu-102lwe0"
+      },
+      {
+        "name": "義大利 D.Lgs 30/2026",
+        "url": "https://www.advant-nctm.com/en/news/greenwashing-e-nuove-regole-ue-il-dlgs-30-2026-ridisegna-i-confini-delle-pratiche-commerciali-ambientali"
+      },
+      {
+        "name": "Mason Hayes Curran",
+        "url": "https://www.mhc.ie/latest/insights/greenwashing-update-on-the-green-claims-directive"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-24",
     "type": "daily",
     "tags": [
@@ -239,6 +362,166 @@
       {
         "name": "S-GE",
         "url": "https://www.s-ge.com/en/article/news/2026-e-france-ct10-eu-digital-product-passport"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
+    "date": "2026-04-23",
+    "type": "weekly",
+    "tags": [
+      "總經"
+    ],
+    "title": "【週報 W17】Hormuz 封鎖正式長期化：停火名義延長但伊朗扣船、Brent 重破 $103，Lagarde 預告 2 週、Dolenc 一語成讖",
+    "summary": "本週是地緣風險從「短期震盪」切換到「結構性長期化」的關鍵轉折。4/19 德國 Merz 召開國安會將能源危機升級為「國家安全議題」；4/20 Lagarde 柏林演講首次用「prolonged fallout（長期後果）」定調 Hormuz 衝擊、ECB 委員 Dolenc 同日表態「兩週內會看到很多新情況」；4/21 Trump 延長伊朗停火但明確宣布「Hormuz 封鎖無限期維持」，Vance 暫緩出訪伊斯蘭馬巴德，美伊第二輪談判實質破局；4/22 伊朗扣押 2 艘試圖通過 Hormuz 的船隻並升級封鎖；4/23 亞洲早盤 Brent 跳升至 $103.28（WTI $94.48），為兩週多來首次破百，Hormuz 過去 24 小時僅 3 艘船通過（正常每日 60-80 艘）。EUR/USD 一度跌至 1.1700 附近（12 個月新低）。",
+    "impact": "相較上週「談判破裂 + 海峽封鎖」的初步衝擊，本週是「停火名義延續但實質軍事壓力不變」的最糟中間路線——既不是升級為全面戰爭，也不是全面和平解除焦慮。能源成本高企是 2026 全年新常態已完全確認。Amazon FBA 燃油附加費 1.5% 若 Brent 持續 $100+ 超過 2 週，可能被迫上調至 2-3%。柴油價格將再創新高，自配送和 3PL 賣家成本同步上升。EUR 弱勢對台灣/中國供應鏈賣家是短期利多（美元計價採購）、對進口成本是利空。",
+    "action": "① 把「Hormuz 封鎖長期化」正式寫入 Q2-Q3 成本假設，不再用「暫時性附加費」框架溝通 ② 監控 Amazon 是否在未來 1-2 週再度上調 FBA 燃油附加費 ③ 物流成本敏感賣家考慮提前鎖定 Q2-Q3 運費合約 ④ 能源相關商品（太陽能板、節能家電、電動工具、汽車燃油添加劑）可能迎來需求高峰 ⑤ 利用 EUR/USD 弱勢推進美元結算的台灣賣家招商",
+    "sources": [
+      {
+        "name": "ECB Lagarde 柏林演講",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260420~cdf674023e.en.html"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-prices-edge-lower-with-no-progress-us-iran-talks-hormuz-shipping-still-2026-04-23/"
+      },
+      {
+        "name": "Straits Times (Merz 國安會)",
+        "url": "https://www.straitstimes.com/world/europe/germanys-merz-sets-crisis-talks-to-tackle-energy-price-impact"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-23",
+    "type": "weekly",
+    "tags": [
+      "總經"
+    ],
+    "title": "【週報 W17】EU 總經「三連擊」：ZEW 暴跌 16.7 點、Flash PMI 服務業跌破 50、消費者信心 -20.6 自由落體，Q2 技術衰退訊號明確",
+    "summary": "本週總經數據從「擔憂」變「確認惡化」：(1) 4/21 德國 ZEW 經濟預期單月暴跌 16.7 點至 -17.2，創 2022/12 俄烏能源危機高峰以來最低，DIHK 調查 83% 德國企業、87% 工業企業感受負面衝擊；(2) 4/23 HCOB/S&P Global Flash April PMI 公布：歐元區 Composite 跌至 50.2（6 個月低）、服務業跌破 50 至 49.8（2025 年中以來首次收縮）、法國 Composite 崩至 47.6（14 個月低），首席經濟學家 Williamson 直言「滯脹警鐘響起」；(3) 4/23 EC DG ECFIN Flash 4 月消費者信心：歐元區 -20.6（再跌 4.2 點）、EU -19.4，創 2022/23 年之交以來最低，官方用詞「自由落體」，8 個歐洲國家在 4 個子指標（經濟、個人財務、就業、大額消費）全面下滑，義大利 -4.4、西班牙 -4.1 跌幅最大；(4) BNP Paribas 4/21 Nowcast 警告 Q1 GDP +0.4% 但「Q2 Pull-back 風險明確」。4/24 Ifo 商業信心公布（預期 85.0-85.5）是最後驗證點。",
+    "impact": "相較上週「消費者信心暴跌 -16.3」，本週是 -20.6 進一步探底，加上服務業 PMI 跌破 50、ZEW 崩盤——三者交叉驗證 Q2 歐元區消費端正在實質萎縮，不是預期而是已經發生的行為轉變。最關鍵轉變：上週 W15/W16 是「德國拖累 EU5」，本週確認擴散到 EU5 全面：義大利（-4.4）、西班牙（-4.1）原本是 2025 年成長引擎現在也熄火，Amazon.it 和 Amazon.es 原本 Q2 成長預期全部需下修。法國 PMI 47.6 是 EU5 最弱，Amazon.fr Q2 GMV 壓力最大。但製造業因「關稅前安全囤貨」反彈——B2B 工業品逆勢。",
+    "action": "① Q2 招商全面轉向「必需品 + 性價比 + 降級消費」策略，非必需品暫緩推廣 ② Amazon.it、Amazon.es 原成長預期下修——南歐不再是避風港 ③ Amazon.fr Q2 防守為主，側重必需品和高 CP 值商品 ④ B2B 工業用品、安全設備、倉儲耗材類可逆勢加碼招商 ⑤ 消費者信心低迷期，折扣和 coupon 轉換率反而更高，加碼促銷預算 ⑥ 4/29 EC 完整 4 月 ESI 和 4/30 歐元區 Q1 GDP 初值是下週驗證點",
+    "sources": [
+      {
+        "name": "Morningstar (ZEW)",
+        "url": "https://www.morningstar.com/news/dow-jones/202604212668/german-financial-sentiment-slumps-to-lowest-since-2022-on-energy-shock-2nd-update"
+      },
+      {
+        "name": "S&P Global Flash PMI",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/8e60f76b895c43b9a2694df8ac5e15a8"
+      },
+      {
+        "name": "EC DG ECFIN",
+        "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en"
+      },
+      {
+        "name": "BNP Paribas Nowcast",
+        "url": "https://economic-research.bnpparibas.com/html/en-US/Overview-Resilient-growth-first-quarter-2026-4/21/2026,53384"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-23",
+    "type": "weekly",
+    "tags": [
+      "總經"
+    ],
+    "title": "【週報 W17】ECB 4/30 進入靜默期，升息路徑從「風險情境」變「基線情境」：6 月升息機率跳至 85%，OIS 已 fully priced 2 次 25bp",
+    "summary": "本週 ECB 從「按兵不動」切換到「被動重啟升息週期」的準備態勢。(1) 4/17 Lagarde IMF 春會「中性偏鴿」，但 4/20 柏林演講改為「條件式偏鷹」——持續監控 Hormuz 封鎖時間和能源通膨傳導兩大變數；(2) 4/20 ECB 委員 Dolenc 明言「Hormuz 是核心變數，兩週內會看到很多新情況」，直接 4/22 被 Trump 延長封鎖、4/23 Brent 破 $103 驗證；(3) IMF 4/17 下修歐元區 2026 GDP 至 1.1%；(4) 4/23 ECB 進入 quiet period，4/30 hold 機率 95%+ 但 guidance 成為市場焦點——OIS 曲線目前已 fully priced 2 次 25bp 升息（deposit rate 2026 內 2.0% → 2.5%），6 月升息機率從兩週前 40% 跳升至 85%，9 月再升機率 70%；(5) Barclays 研究報告：「Energy-driven inflation 已把 ECB 從 dovish pause 推向 hawkish hold，6 月升息現在是 base case 不是 risk scenario」。若 4/24 Ifo、4/29 ESI、4/30 Q1 GDP 任兩項強於預期，升息定價會再上調。",
+    "impact": "相較上週（W16）「三分之一經濟學家預測升息」，本週是「6 月升息成為基線」。Q2 最大的資金成本轉折正在定型，影響三條線：(1) 小賣家運轉金成本上升——特別是依賴 Amazon Lending 和銀行短期貸款；(2) 消費者端 BNPL 成本轉嫁——Klarna、Clearpay 手續費會上調，客單價敏感度提高；(3) EUR 可能從 1.17 反彈至 1.19-1.20——對美元採購的台灣賣家短期利多、歐元區出口美國是利空。Amazon 自身融資成本上升會透過 FBA 費、倉儲費、廣告 CPC 間接轉嫁給賣家。",
+    "action": "① 4/30 決議前不要對賣家做 H2 樂觀 guidance，等 Lagarde 記者會定調再說 ② 現金流敏感賣家立即鎖定 6 月前融資利率——尤其是 Amazon Lending 續貸 ③ 若 EUR 如預期反彈至 1.19+，Q3 是招商台灣賣家最佳切入點（定價優勢） ④ 追蹤 ECB Staff Projections 是否上修通膨預測——升息時程的關鍵錨點 ⑤ 消費信貸依賴型商品（家電、3C、車用品）Q2 暫停促銷規劃",
+    "sources": [
+      {
+        "name": "ECB Lagarde 柏林演講",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260420~cdf674023e.en.html"
+      },
+      {
+        "name": "TPE Economy (Dolenc)",
+        "url": "https://www.tpeconomy.com/the-ecb-has-a-decision-coming-nobody-knows-what-it-will-do/"
+      },
+      {
+        "name": "FXStreet Barclays",
+        "url": "https://www.fxstreet.com/news/eur-usd-holds-gains-above-11700-on-us-iran-ceasefire-extension-202604230103"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/16/ecb-interest-rates-hike-inflation-iran-washington.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-23",
+    "type": "weekly",
+    "tags": [
+      "平台",
+      "物流"
+    ],
+    "title": "【週報 W17】Amazon 賣家成本「四重疊擊」本週全面浮現：4/17 FBA+VAT + DD+7 + X光退貨 + 加州 AG 反壟斷，2026 FBA 利潤結構性重寫",
+    "summary": "本週 Amazon 賣家面臨的不是單點調整，而是成本/合規/法律三面向系統性重塑：(1) 4/17 歐洲 FBA 新制正式生效——1.5% 燃油附加費（EU5 + 英國 + 荷比瑞典）+ 「賣家服務費課徵 20% VAT」（非 EU 賣家 referral fee 實質漲 20%）；(2) DD+7（Delivery Date + 7）付款政策衝擊擴散——歐洲 2025/9 已上路、北美 2026/3/12 跟進，現金循環從 14 天延長至 10-14 天，月營收 EUR 50 萬賣家永久被凍結運轉金約 EUR 12-17 萬；(3) 4/21 Amazon 德國首次公開「退貨 X 光掃描」——將 GPSR 監管責任下沉到倉儲層級，退貨 fraud 率高的 listing 被嚴格監控，不合規商品無法重新上架；(4) 4/20-21 加州 AG Rob Bonta 解封 Amazon 反壟斷訴訟內部證據，指 Amazon 系統性施壓 Levi's / Hanes / Home Depot 抬價——EU DMA 和 UK CMA 可能援引做類似調查；(5) 4/1 起 IOSS 非 EU 賣家必須透過「中介人（Intermediary）」註冊（年成本 GBP 1,500-3,000、6-8 週作業），7/1 前最後窗口。",
+    "impact": "相較上週單一的「FBA 附加費上路」，本週是「四重疊加 = 利潤結構性重寫」。以 €15 客單價 30% 毛利賣家計算，疊加 FBA 1.5% + VAT 20% + DD+7 運轉金凍結 + 退貨 X 光嚴格審查後，淨毛利壓縮至 22-25%。中國直郵/IOSS 賣家衝擊最大——20% VAT + 7/1 EUR3 關稅 + IOSS 中介人成本，單件成本可能增加 30%+。**這是「轉 FBA 歐洲倉」誘因被系統性放大的時刻**，也是 Amazon 作為 Deemed Importer 的合規保護價值顯現的時刻。加州 AG 案雖短期對 Amazon 公關不利，但長期可能加碼賣家優惠政策緩解壓力。",
+    "action": "① 立即通知所有活躍賣家「4/17 起 FBA + VAT 費用結構已變更」，附具體影響試算表 ② 新賣家 onboarding 話術必加 DD+7 的實際影響，不再用「14 天結算」當賣點 ③ 核對所有 FBM 賣家的 IOSS 狀態——特別是台灣直郵歐洲中小賣家，6-8 週作業期卡死 7/1 ④ 整理「EU FBA vs 直郵 IOSS」成本對比表（含 7/1 EUR3 關稅）作招商工具 ⑤ 高退貨率賣家檢視退貨 fraud 風險（電池、化妝品、兒童用品） ⑥ 招商話術暫緩「Amazon 全網最低價」，改強調「合規保障」和「EU 消費者信任」",
+    "sources": [
+      {
+        "name": "The Independent (FBA 附加費)",
+        "url": "https://www.independent.co.uk/us/money/amazon-fees-america-canada-b2959314.html"
+      },
+      {
+        "name": "SPS Commerce (DD+7)",
+        "url": "https://www.spscommerce.com/community/articles/retail-news-amazon-dd7-fuel-surcharge-ad-billing-changes-2026-04-17"
+      },
+      {
+        "name": "EcommerceBytes (X 光)",
+        "url": "https://www.ecommercebytes.com/2026/04/21/amazon-uses-x-ray-scanners-to-scrutinize-product-returns/"
+      },
+      {
+        "name": "NYTimes (加州 AG)",
+        "url": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html"
+      },
+      {
+        "name": "VATupdate (IOSS)",
+        "url": "https://www.vatupdate.com/2026/03/02/vat-ioss-scheme-intermediary-registration-available-from-april-2026-for-non-eu-businesses/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-23",
+    "type": "weekly",
+    "tags": [
+      "合規",
+      "貿易"
+    ],
+    "title": "【週報 W17】EU 合規「近期硬著陸 + 長期重寫」雙軌確立：7/1 EUR3 + EUCA Lille 2027 + Data Hub 2028，MEPs 訪中無功、PPWR/DPP 倒數",
+    "summary": "本週 EU 監管從「政策文本」升級到「執行路徑確認」：(1) 4/23 EU 正式確認 European Union Customs Authority（EUCA）總部落腳法國 Lille、**2027 年進入運作、2028 年 EU Customs Data Hub 上線處理電商包裹**，2034 年全面強制——這將取代 27 國 111 套獨立清關系統，電商平台被法律定義為「Deemed Importer」（連帶承擔關稅、VAT、GPSR、PPWR 合規），系統性違規最高罰「年進口額 6%」；(2) 歐洲議會 IMCO MEPs 訪中「客氣但無突破」，北京未承諾任何行動，Šefčovič 同週重申「電商規範可能比原計畫提前兩年 (7/1/2026) 生效」——**7/1 硬著陸確定無任何延期希望**；(3) 4/23 EC 發布 PPWR（EU 2025/40）實施指引，距 8/12 生效僅剩 111 天，核心要求：電商包裝空間上限 50%、食品接觸包裝 8/12 起禁 PFAS（無過渡期）、EPR 註冊義務擴大；(4) 4/16 愛爾蘭 Glanlaw 對 Temu/Shein 發動商業法律行動進入愛爾蘭法院、同週 SHEIN 18/56 件測試服裝化學物質超標——**GPSR 執法從法規進入法庭判例**；(5) DPP 數位產品護照倒數：KPMG 調查 97% 企業知道但僅 33% 真正理解，電池類 2027/2/18 強制實施，紡織品/電子/建材委託法案 2027-2030 陸續上路。",
+    "impact": "相較上週「IMCO 投票通過 UCC 改革」，本週是「執行路徑完全明朗化」。雙軌策略：**短期（4/24 - 7/1）是 10 週硬著陸倒數**——中國直郵賣家轉 FBA 歐洲倉的最後窗口，過了 7/1 只能被新制度吃掉毛利；**長期（2027-2028）是 EUCA + Data Hub 的結構性重寫**——cross-border arbitrage（跨境套利）模式徹底結束，Temu/Shein 低價直郵被兩次封死。Amazon 賣家「已在歐洲倉 + 已合規」的先行者優勢正在定型。PPWR 50% 空間上限直接衝擊 FBA 包裝——標準箱尺寸若商品太小、填充物超 50% 就不合規。DPP 電池類倒數 10 個月，但數據收集需 6-9 個月，33% 理解度意味最後一刻搶合規服務商產能不足。",
+    "action": "① 加速全面盤點中國直郵/IOSS 賣家，推動 10 週內轉 FBA 歐洲倉 ② 招商話術明確「7/1 硬著陸、無延期」，不要再幫賣家幻想灰色空間 ③ 立即盤點賣家包裝尺寸——小商品用大箱 SKU，8/12 PPWR 前必須調整 ④ 食品/化妝品賣家確認包裝材料不含 PFAS，要求供應商檢測報告 ⑤ 電池類賣家立即啟動 DPP 準備——2027/2/18 看似遠，數據收集要 6-9 個月 ⑥ 對賣家強調 Amazon 作為 Deemed Importer 的合規保護價值——相對於自建 EU 站，FBA 是最低風險路徑 ⑦ 追蹤 EUCA「Trust and Check」資格申請條件——2027 後的關鍵競爭優勢",
+    "sources": [
+      {
+        "name": "EC Press Release (EUCA)",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_735"
+      },
+      {
+        "name": "EU Perspectives (MEPs 訪中)",
+        "url": "https://euperspectives.eu/2026/04/european-parliament-china-visit-ecommerce-talks/"
+      },
+      {
+        "name": "Packaging Dive (PPWR)",
+        "url": "https://www.packagingdive.com/news/eu-ppwr-guidance-document/816121/"
+      },
+      {
+        "name": "Glanlaw (愛爾蘭訴訟)",
+        "url": "https://www.instagram.com/reel/DXMFv7Xk4un/"
+      },
+      {
+        "name": "Verdantix (DPP)",
+        "url": "https://www.verdantix.com/client-portal/blog/preparing-for-the-eu-digital-product-passport--what-leaders-need-to-know"
       }
     ],
     "color": "#0891b2"
