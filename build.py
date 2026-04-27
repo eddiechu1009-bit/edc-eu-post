@@ -253,6 +253,12 @@ def inject_into_html(output_dir, all_articles):
     replacement = f'/*__ARTICLES_JSON__*/{json_str}/*__END_ARTICLES_JSON__*/'
     new_html = re.sub(pattern, replacement, html, count=1)
 
+    # 注入最後更新時間（以最新文章日期為準）
+    latest_date = all_articles[0]['date'] if all_articles else datetime.now().strftime('%Y-%m-%d')
+    update_pattern = r'<span id="lastUpdate">.*?</span>'
+    update_replacement = f'<span id="lastUpdate">{latest_date}</span>'
+    new_html = re.sub(update_pattern, update_replacement, new_html, count=1)
+
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(new_html)
 
@@ -263,17 +269,11 @@ def main():
 
     all_articles = []
 
-    # 解析日報
+    # 解析日報（週報內容與日報重複，不另外解析）
     daily_files = sorted(glob.glob(os.path.join(eu_intel_dir, 'daily-report-*.html')), reverse=True)
     for f in daily_files:
         print(f"  📰 解析日報: {os.path.basename(f)}")
         all_articles.extend(parse_daily_report(f))
-
-    # 解析週報
-    weekly_files = sorted(glob.glob(os.path.join(eu_intel_dir, 'weekly-report-*.html')), reverse=True)
-    for f in weekly_files:
-        print(f"  📋 解析週報: {os.path.basename(f)}")
-        all_articles.extend(parse_weekly_report(f))
 
     # 按日期排序（最新在前）
     all_articles.sort(key=lambda a: a['date'], reverse=True)
