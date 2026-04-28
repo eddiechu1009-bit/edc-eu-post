@@ -1,5 +1,62 @@
 [
   {
+    "date": "2026-04-28",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "物流"
+    ],
+    "title": "PFHxA 消費品禁令進入倒數：4/10 已禁消防泡沫，10/10/2026 紡織鞋類 + 食品接觸紙板全面 phase-in",
+    "summary": "🇪🇺🇫🇷🇩🇰REACH Annex XVII Entry 79（PFHxA 限制）分階段生效：4/10/2026 消防泡沫訓練/測試/公共消防已禁（已執行中），10/10/2026 起消費紡織品、鞋類、食品接觸紙板也全面禁，10/10/2027 消費混合物（防水噴霧、部分化妝品）。半導體、電池、綠氫應用不在範圍。背景：PFHxA 是 PFOA 的短鏈替代品，產業原以為安全但 EU 2024/9 正式認定與長鏈 PFAS 同等風險。配合法國 2026/1/1 已全面禁 PFAS 紡織品/鞋類/化妝品/滑雪蠟，丹麥 2026/7/1 紡織鞋類禁，以及 ECHA 2026/3/26 起到 5/25 的 Universal PFAS Restriction 公眾諮詢——PFAS 不是「一個未來禁令」，是至少 5 條並行的規制線，每條時程、覆蓋範圍、罰則都不同。",
+    "impact": "對 Amazon 經營的影響：這是比 GPSR、EmpCo、PPWR 更難處理的合規堆疊，因為 PFAS 不是一個法規，是至少 5 條並行的規制線（REACH Entry 68 + 79、PPWR、France/Denmark 國家法、Stockholm Convention POPs）。對 Amazon EU 賣家的實質衝擊在 4 個類目：紡織服飾（戶外、運動、工作服、童裝受 PFAS 塗層影響）、鞋類（防水塗層）、不沾鍋類（法國暫時豁免但 EU Universal PFAS 2027 可能涵蓋）、食品接觸包裝（紙餐盒、披薩盒、紙吸管、烘焙紙）。Amazon 身為 VLOP 會預期性收緊這些類別 listing 審查。",
+    "action": "建議：① 盤點「防水」「抗污」「不沾」「waterproof」「stain resistant」「nonstick」關鍵字 SKU，是 10/10 高風險清單 ② 紡織服飾賣家要求供應商出 OEKO-TEX STANDARD 100 驗證書（含 PFAS 檢測）——現在開始收，不然 10/10 來不及 ③ 食品接觸紙類賣家必須改材質；這不是 PPWR（2026/8/12）才要處理的事，PFHxA 提前兩個月先砍 ④ 追蹤 ECHA Universal PFAS 公眾諮詢結果（5/25 截止），決議預計 2027——但一旦通過是 10,000+ 化合物級別衝擊",
+    "sources": [
+      {
+        "name": "Regilient PFAS Compliance Guide",
+        "url": "https://www.acquiscompliance.com/blog/pfas-restrictions-supplier-chemical-transparency"
+      },
+      {
+        "name": "Tocco Earth 分析",
+        "url": "https://tocco.earth/article/which-eu-pfas-ban-applies-to-your-brand"
+      },
+      {
+        "name": "Enhesa",
+        "url": "https://www.enhesa.com/resources/article/pfas-compliance-why-2026-is-a-critical-year-for-europe/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "Super Wednesday 倒數 2 天：4/30 ECB 決議 + Q1 GDP 初值 + 4 月 HICP flash（預期 2.9%）三合一，市場分裂 hold vs hike",
+    "summary": "🇪🇺週三（4/30）一日三事件決定 H1 利率路徑：① ECB 決議（12:15 CET）——路透 4/23 調查：44/85 位經濟學家押 6 月升 25bp（+2.25%）、40 位押 hold；Barclays 警告「被動升息週期」可能由能源通膨強推；Polymarket 對 4/30 升 50bp 定價 0.1%（市場認定不會大動），但 6 月升的 pricing 已從 3 月底不到 10% 跳到超過 50%。② Q1 GDP 初值（11:00 CET）——ECB 3 月預測 2026 全年 0.9%，BNP Paribas Nowcast Q1 +0.4%，但 Q2 下修風險高。③ 歐元區 4 月 HICP flash（09:00 CET）——3 月已修正到 2.6%（7 月 2024 來最高），4 月共識預測 2.9%、部分 3.0%，主要是能源 +5.1% 拉抬；核心通膨預期 2.6%（上升）但部分來自復活節效應，Capital Economics 認為下半年會回落。對比：3 月 flash 原 2.5%、修正到 2.6%——數字可能再上調。",
+    "impact": "對 Amazon 經營的影響：三個事件疊加會決定 Q2 賣家心態基線：① HICP 若 ≥ 3.0%——代表核心再通膨落實，ECB 6 月升息機率 rock up，消費者預期被定錨在「高利率 + 高油價」雙高，Q2 大件、信貸型購買（大家電、家具）直接冰封；② Q1 GDP 若低於 0.9%——市場立刻把 2026 成長預測再下修，法德西義招商 pipeline 全面檢查；③ ECB 若同時釋出 hawkish forward guidance——即便維持 2.15% 也會進一步推強歐元，EUR 回到 1.18+ 會擠壓台灣賣家美元計價毛利，但能讓進口商品對歐洲買家變便宜、有助跨境直郵的買方側。三件事沒看就去做的決策 Q2 會全部錯。",
+    "action": "建議：① 4/30 當日下午留出 2 小時看新聞、整理三個事件並寫內部 brief 同步給各站招商經理 ② 招商會議 5/1 起要把 ECB 決議結果內化成 Q2 對賣家的一致故事線：hold + hawkish 還是 hold + dovish 差別在 seller 對 H1 景氣的信心錨定 ③ 若 HICP ≥ 3%，主動提醒非必需品賣家：價格帶要重新試水，5 月中以前應收集「降價 10-15% 後轉換率」基線 ④ Q1 GDP 若低於 0.8%，德國招商 pipeline 全面延後 1 個月——現在 push 沒意義",
+    "sources": [
+      {
+        "name": "Trading Economics ECB",
+        "url": "https://tradingeconomics.com/euro-area/interest-rate"
+      },
+      {
+        "name": "Reuters ECB Poll",
+        "url": "https://www.reuters.com/business/ecb-raise-rates-june-war-driven-inflation-path-beyond-unclear-2026-04-23/"
+      },
+      {
+        "name": "Euro Area Inflation",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      },
+      {
+        "name": "Polymarket 定價",
+        "url": "https://polymarket.com/event/ecb-interest-rates-april-2026"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
     "date": "2026-04-27",
     "type": "daily",
     "tags": [
