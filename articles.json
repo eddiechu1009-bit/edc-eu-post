@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-04-30",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【4/29 盤後】Amazon Q1 2026 財報全面 beat：淨銷售 $181.5B、International $39.8B、3P Seller Services $41.58B 全部超預期",
+    "summary": "🇺🇸🇪🇺Amazon 4/29 盤後公布 Q1 2026 財報，全面壓過 Street consensus：Net Sales $181.5B（預期 $177.23B）、EPS $2.78（預期 $1.62，暴 beat 71%）。四個關鍵 segment 全部 beat：① AWS $37.6B（預期 $36.68B，YoY +28% 排除 FX，連四季加速、13 季最快）；② International $39.8B（預期 $38.59B）——這一欄直接對應 EU5 + 日本 + 其他國際，超預期 $1.2B 說明歐洲消費需求「被動撐起」比想像中韌；③ Third-Party Seller Services $41.58B（預期 $40.78B）——第三方賣家服務收入（referral fee + FBA + ads）超預期 $800M，直接反映 EU 賣家業績比市場悲觀預期好；④ Advertising $17.2B（預期 $16.9B）、Online Stores $64.25B、North America $104.1B。同步公布：2026 全年 capex 指引仍維持 $200B（絕大部分 AI 基建），但 Jeff Bezos 辭財務長一年後現金流轉正+國際段獲利擴大，ruchir 財報後盤後初漲 4% 後回落。",
+    "impact": "對 Amazon 經營的影響：對 EU 招商這份財報講三件事：① International $1.2B 超預期——在 ZEW/Ifo/GfK 一路崩、消費者信心創 2023 來新低的同時段，Amazon 歐洲段仍跑贏——這不是「消費者不悲觀」，是 Amazon 正在「吃其他 retail 的市佔」；② 3P Seller Services 超預期 $800M——Q1 賣家業績 + 廣告投放強於預期，你手上的 pipeline 不是預想的那麼冷；③ capex $200B 維持代表 FBA 基建、物流網路、AI 推薦系統 Q2-Q4 繼續下重本——招商時可直接講「Amazon 自己都還在 all-in 歐洲」。但要注意反面：Q4 2025 net income 曾 miss、本季盤後股價漲後回落，華爾街對 AWS 成長性的期望已在 28-38% 區間，後面若 6 月降溫會反映回 Amazon.eu 的 merchant investment 節奏。",
+    "action": "建議：① 招商話術今日起更新：不用硬講 Q2 景氣，直接引「Amazon Q1 international +$1.2B 超預期」——賣家看數字比聽信心話更有感 ② 既有賣家 account review 本週開始提 Q2 預算再挹注，特別是 PPC + 新品上架加速：Amazon 自己都維持 $200B capex，你縮預算跟不上流量成長 ③ 3P Seller Services 超預期意味 Q1 廣告投放回報率仍在——向中型賣家推「Amazon Ads + Deals」組合提案是時候 ④ International 段未拆 EU5 數字，但預期 DE/FR 兩大站仍是主要貢獻——跟這兩站 BD 確認本週 pipeline 健康度優先",
+    "sources": [
+      {
+        "name": "Business Insider 財報即時",
+        "url": "https://www.businessinsider.com/amazon-q1-earnings-amzn-stock-price-aws-ai-capex-2026-4"
+      },
+      {
+        "name": "Amazon IR 公告",
+        "url": "https://www.aboutamazon.com/news/company-news/amazon-earnings-q1-2026-report"
+      },
+      {
+        "name": "TradingKey 財報解析",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261823532-amazon-q1-2026-earnings-report-preview-tradingkey"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-30",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【4/29 公布】EU 4 月 ESI 崩至 93.5 創 2 年新低，EEI 就業預期暴跌 -4.6 至 91.7：五大經濟體全數下修，Q2 硬著陸確認",
+    "summary": "🇪🇺🇩🇪🇫🇷EC 4/29 公布完整 4 月 Business & Consumer Survey：歐元區 ESI（Economic Sentiment Indicator）從 96.6 跳水 3.2 點到 93.0、EU 從 96.7 跌 2.9 點到 93.5，雙雙創 2023 Q4 以來新低、並顯著低於 100 長期均值。EEI（Employment Expectations Indicator）更崩：歐元區 -4.6 點到 91.7、EU -4.0 點到 93.2——這是企業聘雇意願而非消費者情緒，直接對應「Q2 裁員不是單點而是結構性收縮」。五大經濟體 ESI 全跌：德國 -3.9（這次補跌最劇烈）、法國 -3.0、義大利 -2.8、荷蘭 -2.5、西班牙 -0.9、波蘭 -0.8。分部門：消費者 -4.0、服務業和零售業最受打擊、工業 -0.1 微動、建築業相對穩定。銷售價格預期（selling price expectations）全部門跳升：工業 +10.7、零售 +7.6、營建 +6.8、服務 +2.1——ECB 鷹派派得到新彈藥但經濟也在硬著陸。ING 評：「這份數據驗證 Q2 GDP 走弱」。",
+    "impact": "對 Amazon 經營的影響：過去一週日報已報 ZEW、Ifo、GfK 單國指標——今日這份是 EU 層級同一時點的橫斷面，三個新意義：① 德國 ESI 補跌 -3.9 居冠，代表德國的下修是「慢半拍」——Ifo/GfK 已破底但 ESI 這類混合指標要到現在才完整確認，暗示 Q2 德國站數字會比 04-28 預估的更差；② EEI -4.6 是真正的警報——企業砍聘雇＝家戶端未來 6 個月所得預期下行，消費電子/大件家居等 discretionary 類目會被擴大壓縮；③ 銷售價格預期全部門跳升＝商家端已在準備漲價轉嫁油價，這意味 Q2 EU 通膨還沒到頂，消費者端會看到標價繼續上移，單筆轉換率再下探。但反面：價格預期 + 供給側瓶頸也意味 Amazon 自營 + FBA 的「低價替代」屬性會被放大（消費者降級時會從線下名店轉到線上比價）。",
+    "action": "建議：① 德國站 Q2 GMV 預估再下修：之前 04-28 講 -5%，這份 ESI 確認後應進一步下修到 -7 至 -8%（準備最壞案） ② EEI 崩跌 → 中大賣家（有員工規模的）現金流警報：Q2 的 Amazon Lending / Seller Wallet 產品搭配主動對接入庫，避免賣家斷炊 ③ 銷售價格預期跳升 → 主動對接賣家「競品價格監控 + 價格彈性測試」服務，現在上調或降調的時機差 2 週會差 5-10% 營收 ④ 反面機會：這份數據也確認「消費者降級到 Amazon」趨勢，主動拓展中低價位 SKU 賣家是 Q2 招商 focus（€10-30 price band 優先）",
+    "sources": [
+      {
+        "name": "EC DG ECFIN 4/29 正式公告",
+        "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys/latest-business-and-consumer-surveys_en"
+      },
+      {
+        "name": "ICIS 分析",
+        "url": "https://www.icis.com/explore/resources/news/2026/04/29/11202564/european-economic-sentiment-crumbles-in-april"
+      },
+      {
+        "name": "ING Think",
+        "url": "https://think.ing.com/snaps/eurozone-economic-sentiment-tumbles-in-april-2026/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-30",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【進展】Brent 4/29 盤中漲 8% 觸 $120/桶戰時新高：Trump 下令準備伊朗港口延長封鎖，美國汽油價創戰後新高",
+    "summary": "🇺🇸🇮🇷🇪🇺油價再破歷史關卡：Brent 6 月合約盤中漲近 8% 到 $120/桶，創 Iran 戰爭以來新高（2 週前 $95、戰前 $72、04-27 日報報 $105）。催化因子：Trump 向幕僚與能源業者發指令「準備 Iran 港口延長封鎖」，訊號是美伊會談破裂、軍事對峙長期化。美國汽油零售均價創戰時新高。分析師拆解：Brent 漲 60% 以上始於 2/27 $72，3 月單月漲 51%（歷史 top 5 月線漲幅）。Commodity Context 分析師 Rory Johnston：「Hormuz 真正重開會瞬間回跌 $10-20，但供應鏈瓶頸 + 基建受損 + 生產中斷會讓 Brent 難以低於 $80-90」——Citi 4/1 Q2 base $95 / bull $130，Gulf 其他國家若拒絕 Iran 海峽過境安排，全球供應缺口可擴到 8 mbd。",
+    "impact": "對 Amazon 經營的影響：油價從 $95 → $105 → $120 不是慢速上行，是階梯式跳漲每次 10-15%——對 EU 賣家的傳導三條線：① FBA 出貨運費：台灣/中國製造 → EU 倉的空運成本現在比 3 月底多 20-30%，Maersk、DHL Global Forwarding 的油價附加費（Bunker Adjustment Factor）已在 4 月中調升，5 月公告會再加一次；② 最後一哩（Last mile）：Amazon 自己的物流成本壓力會從 Q2 結算傳到 Q3 的 FBA 費用調整上——記得 04-24 日報提過的 FBA 漲價疊加 DD+7，這波油價會讓 Q3/Q4 再來一次；③ 消費者端油價高 → 非必需品支出擠壓，但同時 線上購物相對便宜（省去自己開車去店）——Amazon 會相對零售實體店受惠。整體是淨利潤率壓縮但流量可能增加的矛盾情境。",
+    "action": "建議：① 本週內主動聯繫主要空運/海運 forwarder 賣家夥伴，確認 5 月 BAF 調整幅度，並將此資訊給到客戶更新毛利試算 ② 中國/台灣出貨 EU 的大 Volume 賣家優先推 EU 倉（Pan-EU FBA）遷移 — 油價 $120 維持兩個月就足以改變直郵 vs 入倉的盈利拐點 ③ 跟 Amazon 自營物流團隊同步 Q3 FBA 費用調整的 early warning，避免招商承諾與實際成本脫節 ④ 消費者端反面機會：整理「高單價 → 中單價替代品」SKU 清單（€100 咖啡機 → €40 款、奢華品 → 入門款），主動推薦給賣家做 Q2 商品組合調整",
+    "sources": [
+      {
+        "name": "NYT 4/29 盤中",
+        "url": "https://www.nytimes.com/2026/04/29/business/oil-gas-prices-iran.html"
+      },
+      {
+        "name": "Xinhua 4/29 晚間",
+        "url": "https://english.news.cn/northamerica/20260430/54d81659ab964a8aadfa502dba9450fb/c.html"
+      },
+      {
+        "name": "CNBC 油價分析",
+        "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-30",
+    "type": "daily",
+    "tags": [
+      "稅務",
+      "總經"
+    ],
+    "title": "【4/29 公布】西班牙 4 月 HICP flash 3.2%：降 0.2 個百分點但核心 2.8% 黏性，今日歐元區整體 flash 預測 2.9%，ECB 決議前最後一塊拼圖",
+    "summary": "🇪🇸🇪🇺西班牙 INE 4/29 公布 4 月 HICP flash 年增 3.2%（3 月終值 3.45%，跌 0.25pp）——電價回落是主因，部分被旅遊套裝和汽柴油價格回升抵銷，核心通膨（排除未加工食品與能源）2.8%、僅降 0.1pp 仍高檔黏性。西班牙是歐元區 12% 權重，為今日歐元區整體 HICP flash（09:00 CET 公布）提供領先指標。對照 MNI 產業預測：義大利 2.5%（上月 1.6%，大幅跳升）、德國 2.8%、法國 2.3%。歐元區整體共識 2.9%（Trading Economics forecast 2.9%），情境一：2.9-3.0% → 驗證能源通膨已傳導到核心、ECB 6 月升 25bp 機率進一步確認；情境二：3.1%+ → 4/30 ECB hawkish 壓力暴增，hold 仍維持但 forward guidance 變 explicitly tightening。Capital Economics：下半年因基期效應回落但 Q2 可能先衝頂。",
+    "impact": "對 Amazon 經營的影響：西班牙 HICP 是歐元區通膨「領先指標 T-1 日」，給 Amazon 賣家三個即時 signal：① 價格彈性進入新區間——核心通膨 2.8% 黏著＝消費者已習慣商品持續漲、但個別品項漲超過 5% 仍會轉換率崩；Q2 定價策略是「跟隨大盤漲 3-5% + 保護流量」，不是「跟成本漲 8-10% + 損失量」；② 西班牙站結構性強勢會延續——西班牙 HICP 比法義德溫和（3.2% vs 2.3-2.8%），消費者相對購買力較穩，跨境賣家若要在 EU5 內分配 Q2 資源，西班牙應優先於德國、法國；③ ECB 決議情境拿捏：若今日歐元區 flash ≥ 3.0% + 西班牙 3.2%、德國 2.8%、義大利 2.5% 三點成線，ECB 9 月也要升息的 pricing 會浮現，Q4 大件家電、家具類目 pre-order 需求就要提前預警。",
+    "action": "建議：① 西班牙站 Q2 招商加碼：3.2% 通膨 + 4/29 ESI 僅 -0.9（歐元區最輕）= 相對穩定消費市場，西班牙 FBA 新賣家 onboarding 目標值建議 +15% ② Amazon.es 本地賣家主動告知「核心通膨黏性」訊息——漲價幅度要精算，建議先試 3-4%（對應 HICP）而非一次 6-8% ③ 全盤看 EU5：Q2 招商目標 weighting 建議重新調整為 ES > IT > DE > FR（法國消費者信心 84 創 3 年低、德國 Ifo 84.4 雙雙確認是壓力最大兩站） ④ 4/30 10:00 CET 看歐元區 flash 實際數字，2.9%、3.0%、3.1%+ 三種情境都先寫好 30 秒 elevator pitch 給招商團隊使用",
+    "sources": [
+      {
+        "name": "西班牙 INE 官方公告",
+        "url": "https://www.ine.es/dyngs/Prensa/en/adIPC0426.htm"
+      },
+      {
+        "name": "Trading Economics Spain HICP",
+        "url": "https://tradingeconomics.com/spain/harmonised-consumer-prices"
+      },
+      {
+        "name": "Euro Area HICP Forecast",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-30",
+    "type": "daily",
+    "tags": [
+      "平台",
+      "貿易"
+    ],
+    "title": "EU 頂級貿易官 Sabine Weyand 4/29 請辭：拒絕背書 Trump 關稅協議「WTO-合規」，EU-US 貿易條款重啟高度不確定性",
+    "summary": "🇪🇺🇺🇸FT 4/29 獨家：EU 貿易總署（DG Trade）總司長 Sabine Weyand 辭任——Weyand 是 EU 最資深貿易談判官之一（Brexit、CETA、Mercosur 皆其主導），辭職直接原因是拒絕在 Trump 關稅協議文件上背書其「WTO-合規」條款。背景：Trump 上任後推 15-20% 對 EU 商品最低關稅，EU Commission 4 月初與美方達成「框架協議」但具體文字仍在敲定，Weyand 認為協議中對中國轉運（transshipment）的條款若擴大解釋，會讓 EU 失去 WTO 爭端解決機制中的法律立場。她的離任會讓 EU 5 月的最終協議簽署進入「真空期」——Mayer Brown 4/29 Europe Daily News 同步追蹤：Trade Policy Committee Deputies 4/30 開會、Common Customs Tariff 停徵產品清單提案同時送出。",
+    "impact": "對 Amazon 經營的影響：對 Amazon EU 賣家的三個直接連結：① 美國站賣家（Amazon.com）出口 EU：若協議中加入互惠式關稅條款（美對 EU 加 15-20%、EU 反制），台灣/中國經美國轉運到 EU 的貨流（常見於 IP product + FBA 佈局組合）可能被認定 transshipment，實質稅率跳升；② EU 站賣家出口美國：EU-US 框架若惡化，Amazon.de/fr/es/it 的賣家要出口到 Amazon.com 會被加 15-20% 新進口稅，既有 Pan-Atlantic 運營模式面臨重估；③ Weyand 辭職 = EU 貿易機構最資深「親 WTO 鷹派」出走，後續談判官可能更軟、協議條款可能更寬鬆——短期利空賣家（不確定性），長期可能反而利於跨大西洋電商貨流（若條款友善）。最壞情況：5 月簽訂條款含中國相關限制，Amazon EU 的「中資賣家佔比」審查政策會配合收緊，招商對象又要重新篩選。",
+    "action": "建議：① 監控 5 月 EU-US 協議最終文本，特別是「transshipment」「third-country content」定義——這兩條會直接影響台廠經美/經第三地運作的合法性 ② 既有跨大西洋 FBA 賣家（同時在 Amazon.com 和 Amazon.eu 有庫存）做協議情境下的敏感度試算，15% vs 20% 新關稅對毛利的實質影響 ③ 中長期：招商策略要預期 Q3 起 EU 對中國背景賣家審查標準再收緊，pipeline 中「台資獨立運作」vs「中資代運」的篩選要提早做分層 ④ 關注 4/30 Trade Policy Committee Deputies 會議結果 + 5 月初 EU-US 部長級會議",
+    "sources": [
+      {
+        "name": "Mayer Brown Europe Daily News 4/29",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/04/europe-daily-news/europe-daily-news-apr2926"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-28",
     "type": "daily",
     "tags": [
