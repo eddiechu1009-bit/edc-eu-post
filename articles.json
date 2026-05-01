@@ -1,5 +1,129 @@
 [
   {
+    "date": "2026-05-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【4/30 決議】ECB 維持三大利率不變，但 Lagarde 明確點名「升息風險上調」：市場 6/11 升息 25bp 定價衝至 80%",
+    "summary": "🇪🇺ECB 4/30 14:15 CET 公告：三大利率維持不變（主再融資 2.15%、存款 2.00%、邊際貸款 2.40%），符合市場預期。但 Lagarde 14:45 記者會出現決定性轉彎——聲明措辭從上次的「data-dependent, meeting-by-meeting」改為「upside risks to inflation and downside risks to growth have intensified」，並點名「較短期通膨預期顯著上移」。會後市場定價立刻反應：6/11 下次會議升息 25bp 的機率從上週 55% 跳到 80%（OIS 隱含利率）。Lagarde 額外強調：Q1 GDP +0.1% 僅是 turbulence 爆發前的殘留動能、「Q2 將明確反映油價與供應鏈衝擊」。首席經濟學家 Lane 在 ECB Blog 同步發文：長期通膨預期仍錨定 2%，但短期偏離會增加對「second-round effects」的警戒度——這是官方首次承認工資-物價螺旋風險重新浮現。EUR/USD 4/30 收 1.1752，略升。",
+    "impact": "對 Amazon 經營的影響：過去兩週日報一直講「市場預期 ECB 6 月升息」，今日是 ECB 官方終於鬆口承認這個方向——三個新變化：① 融資成本上行確認：EU 賣家中型以上（€5M+ revenue）的 working capital 利率 Q2 會再升 25-50bp，Amazon Lending 的賣家借款成本也會跟著浮動，Q2 現金流試算必須重算；② EUR 升值壓力：hawkish turn 通常帶 EUR 走強，對台灣/中國/美國原產地出口 EU 的賣家不利（進貨成本 USD 計價、售價 EUR 計價、換算回母公司利潤被壓縮），Amazon.de/fr 上的非 EU 賣家毛利 Q2 會再少 1-2pp；③ 消費者端雙擠壓：油價通膨 + 房貸利率上行 = discretionary 支出 Q3 會比 Q2 更弱。但對 Amazon 相對仍是機會：實體店成本結構惡化更快（水電、人事雙擠），Amazon 比線下通路有 cost pass-through 緩衝。",
+    "action": "建議：① 招商 pitch 快速更新：ECB 6 月升息機率 80%＝賣家今年融資成本幾乎鎖定，現在就要排 Q3/Q4 現金流 — 推「Seller Wallet + Amazon Lending」組合當 Q2 必備 ② 大型賣家（€10M+）做 EUR/USD 避險檢查：若原本沒做、4 月底 EUR 升值後對毛利影響 1-2pp，及早提醒財務 ③ 中資/台資賣家 Q2 毛利壓力點名 — 定價建議「跟大盤 3-5% 漲、不要一次 8% 漲」（搭配西班牙 HICP 3.2% 邏輯） ④ 5/20 ECB Non-Monetary 會議 + 5/22 Ifo 5 月 — 這兩個是 6 月升息的 final confirmation，招商團隊在此之前不要承諾 Q3 業績幅度",
+    "sources": [
+      {
+        "name": "ECB 4/30 Monetary Policy Decisions",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html"
+      },
+      {
+        "name": "ECB 記者會聲明全文",
+        "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260430~f99cb123a8.en.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【4/30 雙數據】歐元區 4 月 HICP flash 3.0% 超預期（市場 2.9%）創 18 個月高 + Q1 GDP 僅 +0.1% 低於預期：停滯性通膨正式浮現",
+    "summary": "🇪🇺🇩🇪🇫🇷Eurostat 4/30 公布雙重數據：① 4 月 HICP flash 年增 3.0%（3 月 2.6%、市場預期 2.9%）——能源類暴漲 10.9%（3 月 5.1%）為主因，服務業 3.0%、核心 2.2%（降 0.1pp）；② Q1 GDP flash +0.1% QoQ（預期 0.2%、Q4 2025 為 0.2%）——德國 +0.2% 上修意外，法國 0.0% 停滯，義大利 +0.1%，愛爾蘭「freak」數據這次反而扣 0.1pp。ING 直言「stagflation lite 正式出現」：Q1 數字仍未反映 3 月開始的油價衝擊，Q2 sentiment 指標全部走弱（ESI 93.5、Ifo 84.4、GfK -33.3、法國信心 84），Q2 負成長機率顯著上升。德國 3 月零售 4/30 同步公布 -0.3% MoM（預期 +0.1%）——stimulus 已開始但消費沒跟上。",
+    "impact": "對 Amazon 經營的影響：上週日報預期歐元區 HICP 2.9%、GDP 0.2%，今天實際數字兩邊都往壞的方向偏（通膨更高、成長更低）——這改變三件事：① stagflation 定調，不是一次性 shock：過去兩個月日報在講「消費者信心崩」，現在有硬數據背書——德國零售 -0.3% 是 Merz stimulus 實施後第一個月「居然更差」的訊號，代表家戶不是沒錢是真的不想花，discretionary 類目（電子、家居、服飾）在 EU5 的 Q2 GMV 預估要再往下修 5-8pp；② 核心通膨 2.2% 反而降：這給 Amazon 一線 margin 緩衝——若商品價格（非能源）漲幅有限，平台商依然有能力維持 FBA 費率 + Ads 收費；③ Q1 已經僅 +0.1%、Q2 更差 = 全年歐元區 GDP 預估 1.0%→0.5-0.7%，對「Amazon International 段 Q2 能否維持 Q1 +$1.2B 超預期」是關鍵壓力測試。4/30 Amazon 股價盤後 -1.2% 已反映部分擔憂。",
+    "action": "建議：① 德國站再砍：Q2 GMV 預估從前天的 -5% 繼續下修到 -8%，招商指標 Q2 不做強度、Q3 起觀察 stimulus 滯後效應 ② 法國 0.0% 停滯 + 信心 84——法國賣家 Q2 pitch 改強調「消費升級 → 性價比」敘事（高端品降級到中端的替代） ③ Q2 招商 KPI 改結構：從 GMV 目標改為「seller onboarding 數量 + 3P revenue / seller 平均值」，避免齊頭式壓業績 ④ 能源 10.9% 高漲導致「能源相關類目」逆勢成長機會 — 節能家電、省油汽車用品、保暖織物 Q3/Q4 提前招商 ⑤ 公告今日數據給現有大賣家 — 他們自己看這份數字會重估 FBA 補貨節奏，主動溝通比被動處理強",
+    "sources": [
+      {
+        "name": "Eurostat HICP 官方公告",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30042026-ap"
+      },
+      {
+        "name": "Hellenic Shipping News 分析",
+        "url": "https://www.hellenicshippingnews.com/eurozone-growth-disappoints-in-first-quarter-inflation-hits-3/"
+      },
+      {
+        "name": "FXStreet 即時",
+        "url": "https://www.fxstreet.com/news/when-are-eurozone-prelim-hicp-inflation-q1-gdp-data-and-how-could-they-affect-eur-usd-202604300722"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-01",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "平台"
+    ],
+    "title": "法國 DGCCRF 公布測試結果：600+ 件跨境電商產品 75% 不合規、46% 危險，將交歐盟啟動 DSA 6% 罰款程序",
+    "summary": "🇫🇷🇪🇺法國 DGCCRF（競爭、消費與防詐局）4/29 公布 2025 年度大型跨境電商合規測試結果：採購 600+ 件產品、涵蓋 7 個外國線上平台（Shein、Temu、AliExpress 為主），75% 不符合 EU 法規、46% 同時不合規且被判具實質危險（過去一年的 3 倍樣本量）。不合規項目以「未標 CE、無 EU Responsible Person、說明書語言不符、化學物質超標」為主。DGCCRF 明確宣告將把報告移交歐盟委員會，觸發 DSA 第 74 條下的最高年全球營收 6% 罰款程序。法國是 EU 內「pre-July 1 最激進執法者」：之前已針對 Shein 徵 €150M GDPR 罰款、並率先徵 Refashion €5-10/件紡織環境稅。EU-wide DGCCRF 手段正在被其他會員國複製（意、西、德已啟動類似抽驗）。",
+    "impact": "對 Amazon 經營的影響：這份報告是 GPSR + DSA 執法的第一個「量化彈藥庫」，對 Amazon EU 賣家的實質衝擊：① Amazon 不是目標但會被連坐：報告雖然採樣 Shein/Temu/AliExpress，但同樣 BOM、同樣廠、同樣合規文件標準下的產品在 Amazon.de/fr/es/it 上一樣存在——法國 AG 和 EU Commission 接下來會對「未配 EU RP、未貼 CE 的 listing」下手，Amazon 要清這批 listing 的力度會再升；② 非 EU 賣家 listing suppression 加速：之前日報提過 Amazon 48 小時自動下架未配 EU RP 的商品，這份報告會讓 Amazon 把觸發門檻從「檢舉才動」改為「主動抽查」——Q2-Q3 會有大批非 EU 賣家突然發現 listing 被 suppress；③ EU 賣家相對受惠：GPSR 要求「無 EU 責任人 = listing 不可見」，EU 本地賣家（或已配 RP 的非 EU 賣家）相對拿到流量——這是招商 pitch 好切入點。反面：這波合規潮會讓新進非 EU 賣家 onboarding 成本變高（RP 費用 €200-500/年 + CE 測試報告），小賣家退場會集中。",
+    "action": "建議：① 本週內對現有非 EU 賣家做「GPSR 合規 audit」：沒配 EU RP 的先警告（給 2 週緩衝），未處理的自動 suppress，避免 Amazon 被整體罰款 ② 招商團隊現在起 pitch 非 EU 賣家一律先問「你有沒有 EU Responsible Person」——沒有的直接推合作 RP 服務商，這是 2026 入場券 ③ EU 本地賣家 pitch 強化「GPSR 默認合規」優勢 — 過去兩個月新賣家審查中，EU 本地賣家 vs 非 EU 賣家 listing 可見率差距應該在擴大，用這個數字說服 ④ 類目優先級調整：化學品高風險類目（玩具、化妝品、電子、紡織、食品接觸）要優先清 — DGCCRF 之後第二批抽驗會針對這些 ⑤ 跟 Amazon compliance team 確認「Q2 主動抽查政策」時程表，招商 vs 合規兩邊 KPI 要同步",
+    "sources": [
+      {
+        "name": "Guardian Europe Live 4/29",
+        "url": "https://www.theguardian.com/world/live/2026/apr/29/europe-iran-hungary-russia-ukraine-eu-latest-news-updates"
+      },
+      {
+        "name": "DGCCRF 官網",
+        "url": "https://www.economie.gouv.fr/dgccrf"
+      },
+      {
+        "name": "Lexology Pro 法律分析",
+        "url": "https://www.lexology.com/pro/content/france-reports-widespread-non-compliance-among-foreign-e-commerce-platform-products"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-01",
+    "type": "daily",
+    "tags": [
+      "稅務",
+      "平台"
+    ],
+    "title": "Amazon 歐洲 VAT 計算方式 6/1 重大變更：從「每單 VAT」改「每項 VAT」，賣家結算與退款流程需全面重調",
+    "summary": "🇪🇺🇬🇧Amazon 4 月下旬發出 UK + EU Seller Central Important Update：2026 年 6 月 1 日起，Amazon 改變 VAT 計算邏輯——從「每筆訂單總金額算一次 VAT」改為「每一項商品 line item 個別計算 VAT」。直接差異：① 訂單含多項不同 VAT 稅率商品時（例如標準 20% 書 + 降 6% 食品），以往 Amazon 用混合稅率攤算、賣家 report 一列；新制要求 每一 line item 各自算 VAT、各自對應產品 category tax code；② 退款 / 部分退款的 VAT 計算更精準，但對應帳務處理需重新設定；③ 賣家的 product tax code（PTC）設定錯誤的會被更明顯暴露——過去錯誤 PTC 會被混合稅率「掩蓋」，新制下每筆偏差都會浮現；④ 對 Seller Wallet 和 IOSS 申報的數據抓取格式也會同步更新。這個改動與 7/1 EUR3 + IOSS 中介人新規、11/1 Union Handling Fee 串成 2026 下半年三連動 VAT 改革，Amazon 今年第二次結構性調整（第一次是 4/17 起賣家費用改課 20% VAT）。",
+    "impact": "對 Amazon 經營的影響：對賣家是隱性的大炸彈，三個直接衝擊：① PTC 設定錯誤的賣家 Q2 會被稅務局找上門——以前錯的 PTC 被混合算法蓋掉，新制每筆商品獨立報，稅務稽查就容易抓到異常；約 30-40% 非 EU 賣家 PTC 設定有誤（來自 Amazon VAT Services 內部數據），Q2 要大量補稅；② 會計系統升級成本：用 Xero、QuickBooks、Link My Books 的賣家要重設稅率映射，對接錯誤可能導致 Q2 財報不準；③ 混合稅率類目賣家受衝擊最大：賣書（UK 0%、DE 7%、FR 5.5%）、食品（各國 5-10%）、健康用品（醫藥 vs 非醫藥）這類 PTC 複雜的 listing；④ IOSS 中介人新規 + 7/1 EUR3 + 6/1 VAT 改算 = 2026 下半年賣家稅務成本+工作量雙重爆炸，中小賣家可能因合規負擔直接退出 EU 市場——對 Amazon 是雙面刃：退場的賣家流量重分配到留下的，但長尾 SKU 減少影響類目完整性。",
+    "action": "建議：① 5 月內主動通知所有 EU 賣家檢查 PTC 設定——尤其書、食品、健康、童裝這四個類目——用 Amazon VAT Services 或第三方工具跑一次 audit ② 大賣家（€1M+ GMV）建議 5 月中開始「6/1 前模擬一次」：新 VAT 邏輯下 Q1 數字重算會差多少，預留 buffer ③ 非 EU 賣家尤其中資賣家是 PTC 錯誤高風險群，招商 / account 經理本週主動聯繫、排合作稅務服務商 ④ 6/1 VAT 改變 + 7/1 EUR3 + 11/1 Handling Fee 這三波連動，製作「2026 下半年賣家稅務 timeline」一頁紙，新賣家 onboarding 必讀 ⑤ Amazon VAT Services 免費使用時程：確認是否延長到 7/1 之後 — 若會停就要讓賣家提前規劃替代方案",
+    "sources": [
+      {
+        "name": "Amazon Seller Central UK VAT 公告",
+        "url": "https://sellercentral.amazon.co.uk/gp/help/GYH7FNXFQ2U64URL"
+      },
+      {
+        "name": "Amazon Seller Central EU",
+        "url": "https://sellercentral-europe.amazon.com/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【4/28 公布】西班牙 Q1 失業率暴升至 10.83%（前期 9.93%），服務業一季度砍 228,400 職缺：南歐消費引擎降溫警訊",
+    "summary": "🇪🇸西班牙 INE 4/28 公布 Q1 EPA（勞動力調查）：失業率從 9.93% 跳到 10.83%（市場預期 9.8%），失業人口增加 231,500 到 271 萬；就業人數砍 170,300 到 2,229 萬——比正常 Q1 季節性跌幅嚴重。服務業單一類別就業砍 228,400，工業反而逆勢 +28,100。Moody's Analytics Benedict Acton-Bond 評：「比第一季通常的季節性軟化更劇烈，失業率未來數季將穩定在當前水準、中東衝突會拖累活動」；年對年仍屬正向（失業人數較 2025Q1 少 80,600）。西班牙是歐元區內相對強勢的消費市場（Q1 GDP +0.6%、4 月 HICP 3.2% 相對溫和、4 月 ESI 僅 -0.9），這份 Q1 失業數據是第一個「裂痕指標」，暗示南歐的消費動能正從「全 EU 最佳」降級到「相對較佳」。",
+    "impact": "對 Amazon 經營的影響：過去三週日報都在強調「西班牙站是 EU5 中 Q2 相對強勢、招商加碼目標」——這份數字給出三個微調（不是反轉）訊號：① 西班牙站優勢仍在但收窄：相對德法義仍好（德國 4.0%、法 7.8%、義 6.2%、西 10.83%），但失業率跳升 90bp 代表消費升級空間變小，Amazon.es Q2 GMV 預估從原本 +5% 微調到 +2%；② 服務業失業爆炸意味旅遊、餐飲、零售實體店的員工回到家裡——這批人變網購主力的機率提升，Amazon.es 流量應該仍在，但客單價會下修（從 €35 降到 €25-30）；③ 對中低價位 SKU 賣家是入場良機：€10-25 價帶的 listing 會更受歡迎，現在招商推中低價位中資/台資賣家到 Amazon.es 比 Q1 推中高價位的 RO I 更好；④ 反向機會 — 工業 +28,100：製造業逆勢成長代表西班牙出口競爭力恢復（EUR 升值前夕的供應商優勢），本地賣家從製造轉電商的 pipeline 應該會開始浮現。",
+    "action": "建議：① Amazon.es Q2 招商策略更新：保持 EU5 中招商優先度 #2（僅次義大利），但客單價 pitch 改中低端（€10-30）；原本規劃中高價位（€50+）的類目延後到 Q3 ② 服務業失業潮 = 線上購物時段變化：Amazon.es 的流量高峰可能從晚間 20:00-22:00 擴散到午間（居家族群），賣家 PPC 排程本週內重跑 ③ 工業 +28,100 = 本地 B2B/B2C 製造商有「電商轉型」潛力，招商團隊加開 Amazon.es 製造商專屬 pipeline（西班牙 SME 出口 + 品牌自營雙軌） ④ 5/2 發布歐元區 4 月失業率（前值 6.1%）：若也跳升 10bp+，EU5 全線要再下修 Q2 消費預估 ⑤ 告知既有 Amazon.es 賣家：Q2 是「穩量不衝量」期，避免為衝 GMV 過度折扣損毛利",
+    "sources": [
+      {
+        "name": "Trading Economics 西班牙 Q1 失業率",
+        "url": "https://tradingeconomics.com/spain/unemployment-rate/news/545471"
+      },
+      {
+        "name": "Moody's Analytics Economic View",
+        "url": "https://www.economy.com/economicview/indicator/esp_unemploy/EE758537-1AEE-4B51-BE36-6AEF68A57C38/Spain-Unemployment"
+      },
+      {
+        "name": "INE 官方",
+        "url": "https://www.ine.es/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-04-30",
     "type": "daily",
     "tags": [
