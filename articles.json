@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/1 法國勞動節】CGT/CFDT 動員 158,000 人（工會稱 30 萬）要求最低工資 +5%、工資與物價連動；同日法國 4 月 HICP 2.2% 創 18 個月高：ECB 最怕的工資-物價螺旋第一個實證",
+    "summary": "🇫🇷法國 5 月 1 日勞動節爆發大規模遊行：內政部統計全法 158,000 人上街、CGT 工會數字超過 30 萬、全國 320 場示威（巴黎、土魯斯、馬賽、南特、里爾為主），里昂、南特出現警民衝突。CGT 秘書長 Sophie Binet 致函總理 Lecornu 明確要求：最低工資（SMIC）一次提高 5% + 工資與物價指數連動，改革派 CFDT 的 Léon 也呼應加薪訴求。同一天 INSEE 公布 法國 4 月 HICP flash 2.2% YoY（3 月 1.7%、預期 2.0%）創 2024/7 以來最高，能源類飆 14.2%（3 月 7.4%）為主因，服務業通膨從 1.7% 升到 1.9%、EU 調和指標 2.5%（2024/8 以來首破 ECB 目標）。Binet 在巴黎遊行稱「絕對的社會緊急狀態」。這正是 Lagarde 4/30 記者會裡點名監控的「second-round effects」模式圖：能源漲 → 通膨漲 → 工會要求連動加薪 → 若政府或雇主讓步則工資-物價螺旋成形。",
+    "impact": "對 Amazon 經營的影響：過去兩週日報一直講「ECB 6 月升息機率 80%」、「second-round effects 是 6/11 決議關鍵變數」——今天法國的組合拳（工會加薪訴求 + HICP 2.2% 超預期 + EU 調和指標破 2%）是第一個可被 Lagarde 當「證據」拿來 6/11 升息的樣本。對 Amazon 法國招商三個衝擊：① 法國本地賣家人力成本 Q3 會跳升：SMIC 即使不真的 +5%，即使只漲 2-3%，也會拉動 Amazon 法國物流中心、FBA 合作倉、FR RP 服務商（€200-500/年現在可能漲到 €250-600）、本地代理商的報價全面上調 — 非 EU 賣家進入法國的合規成本 Q3 會再擴 15-20%；② 法國消費者實質可支配收入被擠壓：HICP 2.2% 但工資還沒跟上 = 家戶實質薪水倒退，Amazon.fr 客單價 Q2 會被壓到 €25-30（Q1 平均 €32），賣家利潤 10-15% 的類目最受傷；③ 工資上漲對通膨的反饋：如果 6-8 月德、義、西的工會跟進（德國 IG Metall 春季談判、義大利 CGIL 同步），ECB 不只 6/11 升息、9 月可能再一次 — 賣家融資成本 2026 年底可能比年初 +75bp = €10M revenue 的賣家每年利息多 €50k-75k。",
+    "action": "建議：① 法國站招商 pitch 本週內加一頁「5/1 加薪訴求對法國消費者 Q3 可支配收入影響」：實質薪水倒退 = Amazon 替代品類目（B 品牌替代 A 品牌）Q3 起流量好做 ② 非 EU 賣家進入法國的合規成本要重算：RP 服務商、翻譯、EU 倉儲費用 Q2 末可能一次漲 10-15%，招商 onboarding SLA 內部先拉長 2 週 ③ 法國 FBA 儲位 Q2-Q3 之間 rate 會上調（人力 + 能源雙壓）—— top 賣家 5 月內主動通知、避免 Q3 驚訝；同時跟 Amazon FR logistics 團隊確認 2026 下半年費率 timeline ④ 通膨敏感類目 pitch 轉型：從「高端品牌」轉「高 C/P 值 + 售後服務」— 法國 4 月服務業通膨 1.9% 代表服務比商品漲更快，賣家含服務的商品（延保、安裝、到府回收）會比純商品更吃香 ⑤ 留意 5/15 歐元區 Q1 GDP 第二估 + 5/16 HICP 終值：若 ≥ 3.0% 維持，6/11 升息基本定調，招商團隊 5 月底前不做 Q3 業績承諾",
+    "sources": [
+      {
+        "name": "RFI 法國 5/1 勞動節報導",
+        "url": "https://www.rfi.fr/en/france/20260501-labour-day-sees-clashes-as-french-unions-demand-pay-rise-and-bakery-row-continues"
+      },
+      {
+        "name": "Le Monde 5/2 巴黎遊行（付費牆）",
+        "url": "https://www.lemonde.fr/en/politics/article/2026/05/02/labor-day-protesters-in-paris-denounce-proposed-changes-to-the-paid-holiday-and-wealthy-bosses_6753060_5.html"
+      },
+      {
+        "name": "Trading Economics 法國 4 月 HICP 2.2%",
+        "url": "https://tradingeconomics.com/france/inflation-cpi"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/1 進展】Brent 從 4/30 的 $111 回跌至 $108.17（-2.02%）：Iran 遞出新停火提案、Trump War Powers 60 天死線逼近，油價給 ECB 喘息但還不到轉空",
+    "summary": "🌍Brent 原油 5/1 收 USD 108.17/桶（-2.02%），從 4/30 週五的 USD 111（當週第二週收漲）回跌。原因複合：① 伊朗透過第三方遞出新停火提案，Trump 回應「有進展但不確定能達成」；② 1973 年 War Powers Resolution 規定美軍對伊朗作戰 60 天未經國會授權必須撤軍，死線正在逼近（Trump 政府主張「3 週前的停火已終止衝突」試圖規避）；③ 美國原油出口創紀錄，全球買家轉向美國產能填補 Hormuz 缺口 — 供給端邊際緩解。但 Brent 仍較一年前 +76.49%，EUR/USD 收 1.17204、美國原油 101.94、天然氣 2.78、汽油 3.60 全線小跌。Trading Economics Q2 末預估 Brent 110.71、12 個月預估 124.51 — 下跌但結構性仍偏多。重點：油價「回跌」而不是「崩跌」，且伊朗最高領袖 Khamenei 在 4 月底仍堅持不放棄核能與飛彈能力、保留對 Hormuz 控制權。",
+    "impact": "對 Amazon 經營的影響：4/30 日報寫「Brent 觸 $120/桶戰時新高」，今天的 $108 是 第一次可量化的降溫，但三層理解：① 對 ECB：給了一些空間、但不夠改變 6/11 決定——Brent 從 $120 回到 $108 看似緩解，但距離 ECB 基線情境的 $81.3 還差 33%，Lagarde 在 4/30 強調的「second-round effects 傳導路徑」不會因兩週油價下跌就消失；② 對 Amazon FBA 成本：燃油附加費短期不會回升（4/17 起歐洲 1.5%、美國 3.5%） — 但若 Brent Q2 末真走到 $110+，Amazon 可能 Q3 再調一次附加費；賣家 Q2 定價可按現狀 hold，但 Q3 要預留 buffer；③ 對非 EU 賣家 shipping：Asia → EU 海運費率 5 月應會微降（Hormuz 保險費、war risk premium 跟跌），China → Hamburg/Rotterdam 的 DDP 報價 5 月報可以重新議一次；④ 對消費者端：汽油跌 -0.55%—— 法國加油站 -5.6%、德國加油站 -5.6% 實質銷量的邏輯短期不會反轉，Amazon 作為「取代出門」的價值主張繼續強化。風險：60 天 War Powers 死線若 Congress 不授權而 Trump 拒撤軍 = 憲政危機 + 油價重新飆升，5 月底前要密切追。",
+    "action": "建議：① Q2 招商財務模型 Brent 假設從「$115-120」下修到「$105-115」區間，對應燃料成本、FBA 附加費、海運費三個變數；但別下修到 $100 以下 — 供給真恢復至少還要 2-3 個月 ② 非 EU 賣家 China-EU 海運報價本週集體重議：燃油附加費 + war risk premium 合理壓 5-8%，為 Prime Day 6 月入倉節省 €0.20-0.40/件 ③ Amazon FBA 1.5% 燃油附加費當前仍生效，賣家 Q2 定價不要提前往回調（Amazon 公告才生效，猜錯毛利會先飛） ④ 追 60 天 War Powers 死線（5 月下旬到 6 月上旬）：若 Congress 不同意而油價再度飆升，立即啟動 Q3 FBA 補貨的「前置 2 週」預案 ⑤ 大賣家 EUR/USD 避險：EUR 今日 1.172、Brent 跌通常帶 EUR 微跌，台灣/中國進貨 USD 計價的賣家 Q2-Q3 適合 hedge 25-35%",
+    "sources": [
+      {
+        "name": "Trading Economics Brent 原油即時",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "Bernama US-Iran Escalation 能源分析",
+        "url": "https://www.bernama.com/en/news.php?id=2530538"
+      },
+      {
+        "name": "ABC News 伊朗戰爭與油價",
+        "url": "https://abcnews4.com/news/nation-world/oil-prices-rise-after-discouraging-weekend-for-us-iran-war-strait-of-hormuz"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "平台",
+      "物流"
+    ],
+    "title": "Amazon Prime Day 2026 已確認移到 6 月下旬、進入 5 月內雙硬截止倒數：5/26 deal scheduling 關閉 + 5/27 FBA Minimum Split / AWD 到貨 — 賣家執行窗口比往年壓縮 5-6 週",
+    "summary": "🇪🇺🌍Amazon 在 Seller Central 已正式更新 Prime Day 2026 倒數表，Bloomberg 3/12 先報導、4 月底 Amazon 發布官方 deadline：(a) 4/30 早鳥 deal fee 折扣已截止、(b) 5/26 Prime Day deal scheduling 最終截止、(c) 5/27 FBA Minimum Shipment Split + AWD 到貨截止、(d) 6/5 FBA Amazon-Optimized Split 到貨截止。比對 Prime Day 2025（7 月 8-11 日）推估事件日是 6 月 23-25 日左右（Amazon 正式日期通常活動前 3-4 週才公布）。關鍵反差：對從亞洲走海運的賣家（含台灣 / 中國），時間被壓縮 5-6 週——以往 7 月 Prime Day 的海運規劃是 5 月中出貨，現在 6 月下旬 Prime Day 意味 5 月 1-7 就必須在上海 / 寧波港上船，才趕得上 5/27 FBA 入倉。Omnia 已公布 2025 Prime Day 的殘酷數據：45.5% 的商品在 Prime Day 期間「反而漲價」——標籤寫 deal，實際定價 drift 回原價，代表競爭不是靠折扣多深、而是靠進場時機 + PPC 精度。",
+    "impact": "對 Amazon 經營的影響：這是日報第一次把 Prime Day 倒數拉到最高優先級，三個招商／賣家行動帶：① 非 EU 賣家（特別是中國、台灣、印度）是最大時間輸家：從下單到 FBA 入倉 China-EU 海運通常 35-45 天，即使今天開始下單，恰好卡在 5/27 minimum split 截止前 — 已經落後的賣家只能改「6/5 optimized split」（儲位由 Amazon 分配、成本略高但趕得上） 或空運（每公斤多 €3-5 成本）；② EU 本地賣家相對優勢擴大：德國、法國、義大利、波蘭本地工廠出貨到 FBA 倉只要 3-5 天，同樣的 5/27 deadline 等於本地賣家多 3 週銷售打樣空間 — 招商團隊現在 pitch EU 本地製造商，成功率比 Q1 高很多；③ 費用端隱形壓力：Prime Day 前 PPC CPC 通常跳 40-60%，賣家如果 deal 已定、但 listing 還沒做完 / 關鍵字還沒排 = 燒錢買曝光還轉不了 order；④ 對年度 GMV 節奏影響：Prime Day 從 Q3 搬到 Q2 = Amazon 國際部 Q2 可能 beat、但 Q3（7-8 月）反而會相對平淡 — 內部業績節奏要重新安排，「Q2 衝 + Q3 續 + Q4 衝」要改成「Q2 衝爆 + Q3 先喘 + Q4 再衝」。",
+    "action": "建議：① 本週內對現有 Top 200 EU 賣家主動發「Prime Day 5 月雙截止日提醒」郵件 — 5/26 deal / 5/27 FBA，沒提交 deal 的最後機會（不做這一波意味整個 6 月流量黑洞） ② 非 EU 賣家（尤其中資、台資）5 月第一週是海運出貨最後機會 — 招商 / AM 本週排 1:1 通話，確認 SKU、數量、出貨港、預計到倉 ETA，超過 5/10 還沒發船的直接建議改「6/5 Amazon-optimized split」或空運小批 ③ EU 本地製造商 pitch 抓準「3-5 天入倉優勢」敘事 — 德法義西波本地 SME 是 Q2 招商最好切入點，成功率比推非 EU 賣家高 2-3 倍 ④ Prime Day PPC 預算 Q2 預先配 3-5x 日常量、活動前 2 週開始拉 — 等活動開始才加碼會被 CPC 吃掉 ⑤ 同步更新 2026 下半年業績節奏 forecast：Q2 +18-22% YoY、Q3 +5-8% YoY（Prime Day 前移的真空期）、Q4 +12-15% YoY — 內部 KPI 先設好預期",
+    "sources": [
+      {
+        "name": "My Amazon Guy Prime Day 2026 Deadlines",
+        "url": "https://myamazonguy.com/news/amazon-prime-day-2026-deadlines/"
+      },
+      {
+        "name": "Omnia Retail Prime Day 2026 分析",
+        "url": "https://www.omniaretail.com/blog/prime-day-2026-what-retailers-need-to-know"
+      },
+      {
+        "name": "Linnworks Prime Day 提前報導",
+        "url": "https://www.linnworks.com/blog/amazon-prime-day-is-early-in-2026/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "稅務",
+      "合規"
+    ],
+    "title": "7/1 EU 小包裹 EUR3 關稅 + EUR150 免稅廢除倒數 58 天：EU Council 2/11 正式通過、法規條文已落地，IOSS 未註冊賣家 5 月底是最後進場窗口",
+    "summary": "🇪🇺EU Council 2026 年 2 月 11 日正式通過、法規條文（ST-17000-2025-INIT）已公告實施的小包裹關稅改革，本週進入最後倒數：7/1 起 EU 廢除 EUR150 免稅門檻，價值 <€150 的小包裹一律課 EUR3 per tariff item 臨時關稅（不是 per parcel；同一包裹含 1 件絲質 + 2 件羊毛襯衫 = 2 個 tariff sub-heading = EUR6）。涵蓋 約 93% 透過 IOSS 註冊的 e-commerce 流量，temporary 期 2026/7/1 — 2028/7/1，2028 年 EU Customs Data Hub 上線後改回一般關稅。背景硬數字：EU 2024 年進口 46 億件小包裹（每天 1,260 萬件）、91% 來自中國（主要 Temu、Shein、AliExpress）。2028 年後平台會被正式指定為 importer of record、合規責任從消費者轉到平台本身。平行事件：EU 3/26 通過的另一條法規（Reuters）— 不合規線上平台將被罰年 EU 銷售額 1-6%、2028 起對輸入不安全產品的平台進一步追責。",
+    "impact": "對 Amazon 經營的影響：日報已連報此議題多週，但今天要更新的是「倒數只剩 58 天」的操作倒計時：① 非 EU 賣家若還沒註冊 IOSS，5 月底是最後機會——IOSS 中介人註冊實務上需 4-6 週（非 EU 賣家 4/1 起必須透過中介人），5 月底前沒啟動的賣家 7/1 當天 packages 會卡在邊境、customer 會在取件時被收「handling fee EUR5-35」（比 EUR3 關稅還高）、退貨率會立刻飆 3-5x；② IOSS lane 是 Amazon EU 賣家的保命符：如果透過 IOSS，EUR3 關稅在 checkout 一次收齊、包裹海關秒過；不透過 IOSS，carrier 會各收各的 handling fee（法國 €2、德國還沒公布但可能 €2-3、義大利暫停中、比利時撤回）— 消費者體驗分裂直接撕裂 conversion rate；③ Amazon FBA 賣家理論上是「平台代為處理 IOSS」——但這不是萬靈藥：Amazon 只處理自己平台 flow 的 IOSS，賣家的獨立官網 / TikTok Shop / Shopify 跨境訂單還是要自己搞定；④ HS Code（tariff sub-heading）分類是新戰場：EUR3 per-tariff-item 意味 SKU 分類錯誤 = 多付 1-2 倍關稅，1 張訂單多 EUR3-6 看似小、規模放大到 1000 筆/天 = EUR3000-6000/天流血；⑤ Temu/Shein 不會因此退場——他們已在 EU 建倉、改做 FBA-like 模式，新關稅對他們反而「降低 local 賣家的相對優勢」。",
+    "action": "建議：① 本週內對所有非 EU 賣家做 IOSS 狀態 audit：未註冊的直接 flag 為高風險、5 月中前沒啟動中介人流程的 AM 直接接手；已註冊但 IOSS number 沒餵給 FBA / 3PL / 物流商的協助打通（很常見的低級錯誤） ② HS Code 分類成為 2026 下半年賣家稽核重點：賣多品類的賣家（家居 / 服飾混搭）5 月內跑一次 tariff sub-heading audit，錯誤率 > 5% 的全面重分類 ③ 獨立站跨境（Amazon 以外 channel）賣家 pitch 強化「Amazon FBA = IOSS 處理 + 7/1 無痛過渡」—— 這是 Q2 搶獨立站賣家回流 Amazon 的絕佳 pitch 點 ④ Temu/Shein 在 EU 的倉儲擴張是招商反向情報：他們哪個國家在加倉 = 那個國家的 local 賣家競爭 Q3 起會變激烈 ⑤ 2026/11 Union Handling Fee（另外 €2、總計 €5/件）+ 2028 Customs Data Hub 上線是下一波，今年 7/1 只是熱身 — 業績模型 2027 年要預留「合規成本再升一級」的 buffer",
+    "sources": [
+      {
+        "name": "EU Council 2/11 正式通過",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/02/11/council-gives-final-green-light-to-new-customs-duty-rules-for-small-parcels/"
+      },
+      {
+        "name": "EU Council 2025/12/12 原始協議",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026/"
+      },
+      {
+        "name": "EAS Project IOSS 綠道分析",
+        "url": "https://easproject.com/eu-customs-vat-overhaul/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
     "date": "2026-05-01",
     "type": "daily",
     "tags": [
@@ -87,12 +193,12 @@
     "action": "建議：① 5 月內主動通知所有 EU 賣家檢查 PTC 設定——尤其書、食品、健康、童裝這四個類目——用 Amazon VAT Services 或第三方工具跑一次 audit ② 大賣家（€1M+ GMV）建議 5 月中開始「6/1 前模擬一次」：新 VAT 邏輯下 Q1 數字重算會差多少，預留 buffer ③ 非 EU 賣家尤其中資賣家是 PTC 錯誤高風險群，招商 / account 經理本週主動聯繫、排合作稅務服務商 ④ 6/1 VAT 改變 + 7/1 EUR3 + 11/1 Handling Fee 這三波連動，製作「2026 下半年賣家稅務 timeline」一頁紙，新賣家 onboarding 必讀 ⑤ Amazon VAT Services 免費使用時程：確認是否延長到 7/1 之後 — 若會停就要讓賣家提前規劃替代方案",
     "sources": [
       {
-        "name": "Amazon Seller Central UK VAT 公告",
-        "url": "https://sellercentral.amazon.co.uk/gp/help/GYH7FNXFQ2U64URL"
+        "name": "ChannelMax Amazon 6/1 VAT 改動報導",
+        "url": "https://www.channelmax.net/article/amazon-to-shift-vat-calculation-to-shipment-level-from-june-1-channelmax"
       },
       {
-        "name": "Amazon Seller Central EU",
-        "url": "https://sellercentral-europe.amazon.com/"
+        "name": "Toucan Ecommerce Amazon EU 費率分析",
+        "url": "https://toucanecommerce.com/blogs/news/amazon-announces-largest-ever-fee-reductions-for-european-sellers-1"
       }
     ],
     "color": "#7c3aed"
