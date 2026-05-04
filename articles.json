@@ -29,32 +29,6 @@
     "date": "2026-05-04",
     "type": "daily",
     "tags": [
-      "平台"
-    ],
-    "title": "Amazon 5/2 歐洲 Prime Day 2026 官方檔期確認 7/15-7/16，同步宣布新增 Klarna + Scalapay BNPL 整合：Q3 消費疲弱期的「以價換量」戰術",
-    "summary": "🇪🇺Amazon EU 5/2 官方部落格公告：Prime Day 2026 歐洲檔期鎖定 7/15（週三）～7/16（週四）48 小時（比 2025 年晚 2 週、比 US 早 1 週，避開 7/1 EUR3 硬著陸當週的合規亂流）。今年同步宣布三項新功能：① 新增 Klarna 分 4 期（德、法、荷、義、西五國）+ Scalapay 分 3 期（義、西、葡）— 取消 Pay Later 最低 €50 門檻，€25+ 即可分期；② 賣家端 Deal Type 新增「Prime Exclusive Tiered Discount」—— 可設「€30 折 5%、€50 折 8%、€100 折 12%」階梯折扣，過往只有「Lightning Deal」單層；③ Seller Central 5/8 開啟 submission，Deal 初審 5/15、final approval 6/15。Amazon 內部一份 EU Seller Advisory（4/30 外流）坦承「Q3 消費力疲弱、Prime Day 目標為 volume 而非 margin」，並建議賣家把折扣深度 Y/Y +3-5pp、SKU 覆蓋面擴大。Bain 估 2026 年歐洲 Prime Day GMV 會比 2025 年成長 8-10%（低於 US 的 12-14%），主因是消費力疲軟。",
-    "impact": "對 Amazon 經營的影響：這是 Q3 招商的第一個 hard milestone，三個戰術意涵：① BNPL 整合是明確的「消費力下修」訊號：Amazon 之前對 Klarna/Scalapay 一直抗拒（毛利分潤要給 BNPL），現在全面開門代表內部已認輸、「以 BNPL 換 conversion」——對賣家的意思是低價位客戶（€25-50）的下單率會提升 15-20%（業界數據），但客訴/退貨率也會同步+5%；② 階梯折扣是新戰場：過往做 Lightning Deal 是單 SKU 優化，現在賣家可以做「cart-level bundle 優化」——品牌賣家拿回毛利空間（透過階梯鎖定 upsell），純轉賣白牌賣家則被迫更深的 unit discount；③ 7/1 EUR3 + 7/15 Prime Day 時序：EUR3 硬著陸後 2 週就是 Prime Day，中國直郵賣家這兩週物流會塞、清關會卡——對 FBA 賣家是 demand-shift 機會（消費者不敢直郵），賣家需要提前 6 月中把庫存壓到 FBA 倉。",
-    "action": "建議：① 通知所有 Prime Day 目標賣家：Deal submission 5/8 開，最晚 5/20 前完成提交（初審通常週期 2-3 週，越晚提越容易卡關） ② BNPL 整合對中低價賣家利大於弊，但要提醒：準備好 Q3 退貨率 +3-5pp 的 buffer，物流端預留容量 ③ 階梯折扣教學：本週內做一場「Tiered Discount 設計公式」內部 training — 品牌賣家如何用 €30/€50/€100 門檻鎖 AOV 上升（目標 +€8-12/order） ④ 6 月中前庫存壓倉建議：7/1 EUR3 硬著陸前完成所有 FBA 補貨——7 月 1-14 日的海關新流程會讓進倉時間從 3-5 天拉到 7-10 天，Prime Day 前斷貨風險實質存在 ⑤ 白牌賣家若 Prime Day 只能靠深折扣衝量，現在就建議他們考慮「Q3 Prime Day + Q4 Black Friday 兩場跑」——分兩次消庫存比一次深折扣 margin 好",
-    "sources": [
-      {
-        "name": "Amazon EU 官方公告",
-        "url": "https://aboutamazon.eu/news/retail/prime-day-2026-europe-dates-announced"
-      },
-      {
-        "name": "Seller Central Prime Day 2026",
-        "url": "https://sellercentral-europe.amazon.com/help/prime-day-2026-seller-guide"
-      },
-      {
-        "name": "Bain 歐洲 Prime Day 預測",
-        "url": "https://www.bain.com/insights/european-prime-day-2026-forecast/"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-05-04",
-    "type": "daily",
-    "tags": [
       "合規"
     ],
     "title": "【4/30 公告】EU Commission 正式發布 DPP 紡織 + 電子產品技術 annex 草案：7/19 登記系統上線前最後一塊拼圖，資料欄位從 35 個暴增至 62 個",
