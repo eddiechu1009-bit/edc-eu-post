@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ECB 升息週期追蹤 | EDC EU POST</title>
+<meta name="description" content="ECB 2026 年升息週期被動重啟追蹤頁：決議日曆、會議 forward guidance、市場升息機率定價，對 Amazon EU 賣家的 Q2-Q4 影響。">
+<meta name="author" content="Eddie Chu">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="ECB 升息週期追蹤 | EDC EU POST">
+<meta property="og:description" content="ECB 2026 升息週期追蹤：決議日曆、升息機率、對賣家影響。">
+<meta property="og:image" content="https://eddiechu1009-bit.github.io/edc-eu-post/ec-logo.png">
+<meta property="og:site_name" content="EDC EU POST">
+<meta property="og:locale" content="zh_TW">
+
+<link rel="icon" type="image/png" href="ec-logo.png">
+<link rel="apple-touch-icon" href="ec-logo.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;0,700&family=Noto+Sans+TC:wght@300;400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#f5f5f5;--surface:#ffffff;--text:#1a1a1a;--text-secondary:#555;--text-muted:#999;
+  --border:#ebebeb;--accent:#0c4a6e;--accent-light:#e0f2fe;
+  --ecb-bg:#eff6ff;--ecb-border:#1d4ed8;--ecb-accent:#1e40af;
+  --hawk:#dc2626;--dove:#16a34a;--hold:#d97706;
+}
+body{font-family:'Noto Sans TC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;-webkit-font-smoothing:antialiased;}
+
+.site-nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,0.92);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);}
+.nav-inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:64px;}
+.nav-brand{display:flex;align-items:center;gap:12px;text-decoration:none;}
+.nav-brand-text{display:flex;flex-direction:column;line-height:1.2;}
+.nav-brand-name{font-family:'Space Grotesk',sans-serif;font-size:17px;font-weight:700;color:var(--accent);}
+.nav-brand-sub{font-size:11px;color:var(--text-secondary);letter-spacing:1px;}
+.nav-back{font-size:14px;color:var(--accent);text-decoration:none;padding:8px 14px;border-radius:6px;border:1px solid var(--accent);transition:background .2s;cursor:pointer;}
+.nav-back:hover{background:var(--accent-light);}
+
+.hero{max-width:920px;margin:32px auto 16px;padding:0 24px;}
+.hero-kicker{font-family:'Space Grotesk',sans-serif;font-size:12px;letter-spacing:3px;color:var(--ecb-accent);text-transform:uppercase;font-weight:600;margin-bottom:10px;}
+.hero-title{font-family:'Newsreader',serif;font-size:38px;font-weight:700;line-height:1.25;color:#0f172a;margin-bottom:14px;}
+.hero-sub{font-size:16px;color:var(--text-secondary);margin-bottom:8px;}
+.hero-meta{font-size:13px;color:var(--text-muted);}
+
+.summary-card{max-width:920px;margin:16px auto;padding:20px 24px;background:var(--ecb-bg);border-left:4px solid var(--ecb-border);border-radius:6px;}
+.summary-card h3{font-family:'Newsreader',serif;font-size:18px;color:var(--ecb-accent);margin-bottom:10px;}
+.summary-card p{font-size:14px;color:#1f2937;line-height:1.8;}
+
+.stats-grid{max-width:920px;margin:24px auto;padding:0 24px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+.stat-box{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:16px;text-align:center;}
+.stat-num{font-family:'Space Grotesk',sans-serif;font-size:22px;font-weight:700;color:var(--ecb-accent);}
+.stat-label{font-size:12px;color:var(--text-muted);margin-top:4px;}
+@media(max-width:640px){.stats-grid{grid-template-columns:repeat(2,1fr);}}
+
+.section-title{max-width:920px;margin:40px auto 16px;padding:0 24px;font-family:'Newsreader',serif;font-size:24px;color:#0f172a;border-bottom:2px solid var(--ecb-border);padding-bottom:8px;}
+
+.calendar{max-width:920px;margin:16px auto;padding:0 24px;}
+.cal-row{display:grid;grid-template-columns:110px 90px 1fr 110px;gap:16px;align-items:center;padding:14px 18px;background:var(--surface);border:1px solid var(--border);border-radius:8px;margin-bottom:10px;}
+.cal-row.past{opacity:.7;}
+.cal-row.next{border-color:var(--ecb-border);background:var(--ecb-bg);}
+.cal-date{font-family:'Space Grotesk',sans-serif;font-size:15px;font-weight:700;color:#0f172a;}
+.cal-type{font-size:12px;color:var(--text-muted);text-transform:uppercase;letter-spacing:1px;}
+.cal-name{font-size:14px;color:#1f2937;line-height:1.5;}
+.cal-badge{text-align:right;}
+.badge{display:inline-block;padding:4px 10px;border-radius:12px;font-family:'Space Grotesk',sans-serif;font-size:11px;font-weight:600;}
+.badge.hawk{background:#fef2f2;color:var(--hawk);border:1px solid var(--hawk);}
+.badge.dove{background:#f0fdf4;color:var(--dove);border:1px solid var(--dove);}
+.badge.hold{background:#fffbeb;color:var(--hold);border:1px solid var(--hold);}
+.badge.next{background:var(--ecb-bg);color:var(--ecb-border);border:1px solid var(--ecb-border);}
+@media(max-width:640px){
+  .cal-row{grid-template-columns:1fr;gap:6px;}
+  .cal-badge{text-align:left;}
+}
+
+.probability-bar{max-width:920px;margin:20px auto;padding:20px 24px;background:var(--surface);border:1px solid var(--border);border-radius:8px;}
+.prob-item{margin-bottom:14px;}
+.prob-label{display:flex;justify-content:space-between;font-size:13px;color:#374151;margin-bottom:4px;}
+.prob-label strong{font-family:'Space Grotesk',sans-serif;color:var(--ecb-accent);}
+.prob-track{height:10px;background:#e5e7eb;border-radius:5px;overflow:hidden;}
+.prob-fill{height:100%;background:linear-gradient(to right,#3b82f6,var(--ecb-border));border-radius:5px;transition:width .4s;}
+
+.timeline{max-width:920px;margin:20px auto;padding:0 24px;}
+.ev-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:18px 20px;margin-bottom:14px;}
+.ev-card h4{font-family:'Newsreader',serif;font-size:17px;color:#0f172a;margin-bottom:6px;}
+.ev-meta{font-size:12px;color:var(--text-muted);font-family:'Space Grotesk',sans-serif;margin-bottom:10px;text-transform:uppercase;letter-spacing:1px;}
+.ev-card p{font-size:14px;color:#374151;line-height:1.7;}
+.ev-card .quote{background:#f9fafb;border-left:3px solid var(--ecb-border);padding:8px 14px;margin:10px 0;font-style:italic;color:var(--text-secondary);font-size:13px;}
+
+.key-takeaway{max-width:920px;margin:40px auto;padding:24px;background:#fffbeb;border:1px solid #f59e0b;border-radius:8px;}
+.key-takeaway h3{font-family:'Newsreader',serif;font-size:20px;color:#92400e;margin-bottom:14px;}
+.key-takeaway ul{padding-left:20px;}
+.key-takeaway li{font-size:14px;color:#1f2937;line-height:1.8;margin-bottom:6px;}
+
+.footer{max-width:920px;margin:40px auto 20px;padding:20px 24px;border-top:1px solid var(--border);color:var(--text-muted);font-size:13px;text-align:center;}
+.footer a{color:var(--accent);text-decoration:none;}
+.footer a:hover{text-decoration:underline;}
+
+@media(max-width:640px){.hero-title{font-size:28px;}}
+</style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-brand">
+      <img src="ec-logo.png" alt="EDC EU POST" width="42" height="42" style="border-radius:8px;object-fit:contain;">
+      <div class="nav-brand-text">
+        <span class="nav-brand-name">EDC EU POST</span>
+        <span class="nav-brand-sub">跨境電商情報站</span>
+      </div>
+    </a>
+    <a href="index.html" class="nav-back">← 返回主站</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="hero-kicker">🏦 Special Topic · Rate Cycle</div>
+  <h1 class="hero-title">ECB 升息週期追蹤</h1>
+  <p class="hero-sub">從 4/30 決議轉鷹，到 6/11 升息機率 85–90%——ECB 2026 被動重啟升息週期完整日曆。</p>
+  <p class="hero-meta">更新時間：2026-05-04 · 本月 ECB 關鍵字 94 命中（全年最強主題）</p>
+</div>
+
+<div class="summary-card">
+  <h3>📌 一分鐘總結</h3>
+  <p>ECB 4/30 決議維持 DFR 2.25% 不變，但 Lagarde 會後聲明加入「<strong>upside inflation risks</strong>」措辭——這是 2025 Q3 降息完成後首次 hawkish 轉向。觸發因素：Hormuz 油價從 $72 → $120（月漲 51%）+ 西班牙 HICP 3.2% + 德國 Ifo 崩盤的「滯脹組合拳」。ING / BNP Paribas / Citi 一致預期 <strong>6/11 升 25bp 機率 85–90%</strong>、9 月 25bp 機率 55–60%。對 Amazon EU 賣家而言，升息週期被動重啟意味 <strong>(1) 貸款類大件（家具、家電、3C）Q3 起銷售壓力加大 (2) EUR/USD 短期走強，美元結算賣家獲利被壓縮 (3) 消費信貸收緊，BNPL 平台放款標準升高</strong>。</p>
+</div>
+
+<div class="stats-grid">
+  <div class="stat-box"><div class="stat-num">2.25%</div><div class="stat-label">目前 DFR（4/30 維持）</div></div>
+  <div class="stat-box"><div class="stat-num">85–90%</div><div class="stat-label">6/11 升息 25bp 機率</div></div>
+  <div class="stat-box"><div class="stat-num">+10</div><div class="stat-label">機率變動（4/21 → 5/4）</div></div>
+  <div class="stat-box"><div class="stat-num">94</div><div class="stat-label">ECB 月度命中數</div></div>
+</div>
+
+<!-- 決議日曆 -->
+<div class="section-title">📅 ECB 2026 決議日曆</div>
+<div class="calendar">
+
+  <div class="cal-row past">
+    <div class="cal-date">4/30 (四)</div>
+    <div class="cal-type">Policy</div>
+    <div class="cal-name">ECB 4 月決議：DFR 2.25% 維持不變（Super Thursday）</div>
+    <div class="cal-badge"><span class="badge hold">HOLD · 轉鷹</span></div>
+  </div>
+
+  <div class="cal-row">
+    <div class="cal-date">5/20 (二)</div>
+    <div class="cal-type">Non-Monetary</div>
+    <div class="cal-name">Non-Monetary Policy Meeting · 市場關注 5 月投票反對票分布</div>
+    <div class="cal-badge"><span class="badge next">NEXT</span></div>
+  </div>
+
+  <div class="cal-row next">
+    <div class="cal-date">6/11 (四)</div>
+    <div class="cal-type">Policy</div>
+    <div class="cal-name">ECB 6 月決議 · 當前市場定價升息 25bp 機率 85–90%</div>
+    <div class="cal-badge"><span class="badge hawk">HIKE 預期</span></div>
+  </div>
+
+  <div class="cal-row">
+    <div class="cal-date">7/24 (四)</div>
+    <div class="cal-type">Policy</div>
+    <div class="cal-name">ECB 7 月決議 · 6 月若升息則預期 HOLD</div>
+    <div class="cal-badge"><span class="badge hold">待觀察</span></div>
+  </div>
+
+  <div class="cal-row">
+    <div class="cal-date">9/11 (四)</div>
+    <div class="cal-type">Policy</div>
+    <div class="cal-name">ECB 9 月決議 · 第二次升息窗口，機率 55–60%</div>
+    <div class="cal-badge"><span class="badge hawk">HIKE 條件式</span></div>
+  </div>
+
+  <div class="cal-row">
+    <div class="cal-date">10/30 (四)</div>
+    <div class="cal-type">Policy</div>
+    <div class="cal-name">ECB 10 月決議 · Q4 政策路徑再評估</div>
+    <div class="cal-badge"><span class="badge hold">待觀察</span></div>
+  </div>
+
+  <div class="cal-row">
+    <div class="cal-date">12/18 (四)</div>
+    <div class="cal-type">Policy</div>
+    <div class="cal-name">ECB 12 月決議 · 2027 SPF 公告 + 通膨預測更新</div>
+    <div class="cal-badge"><span class="badge hold">待觀察</span></div>
+  </div>
+
+</div>
+
+<!-- 升息機率 -->
+<div class="section-title">📊 各會議升息機率（市場定價）</div>
+<div class="probability-bar">
+
+  <div class="prob-item">
+    <div class="prob-label"><span>6/11 升 25bp</span><strong>85–90%</strong></div>
+    <div class="prob-track"><div class="prob-fill" style="width:88%;"></div></div>
+  </div>
+
+  <div class="prob-item">
+    <div class="prob-label"><span>9/11 再升 25bp（Cumulative）</span><strong>55–60%</strong></div>
+    <div class="prob-track"><div class="prob-fill" style="width:57%;"></div></div>
+  </div>
+
+  <div class="prob-item">
+    <div class="prob-label"><span>12/18 第三次升息</span><strong>18–22%</strong></div>
+    <div class="prob-track"><div class="prob-fill" style="width:20%;"></div></div>
+  </div>
+
+  <div class="prob-item">
+    <div class="prob-label"><span>6/11 意外降息（極端尾部）</span><strong>2–3%</strong></div>
+    <div class="prob-track"><div class="prob-fill" style="width:3%;background:linear-gradient(to right,#16a34a,#4ade80);"></div></div>
+  </div>
+
+  <p style="font-size:12px;color:var(--text-muted);margin-top:8px;font-style:italic;">資料來源：ING / BNP Paribas / Citi / Bloomberg WIRP · 截至 2026-05-04</p>
+</div>
+
+<!-- 關鍵發言與事件 -->
+<div class="section-title">🎤 關鍵發言與事件</div>
+<div class="timeline">
+
+  <div class="ev-card">
+    <h4>Lagarde 柏林演講：Hormuz 衝擊「長期化」</h4>
+    <div class="ev-meta">2026-04-20 · 德國銀行公會</div>
+    <p>ECB 總裁 Lagarde 明確從「中性偏鴿」轉為「條件式偏鷹」，點名 ECB 正密切監控兩個關鍵變數：(1) 海峽封鎖持續時間 (2) 能源成本向一般通膨的傳導程度。</p>
+    <div class="quote">「政府避免廣泛性財政支持，應採短期、目標式措施並維持價格訊號以鼓勵節能。」 —— Lagarde, 4/20</div>
+  </div>
+
+  <div class="ev-card">
+    <h4>西班牙 4 月 HICP flash 3.2% · 核心 2.8% 黏性</h4>
+    <div class="ev-meta">2026-04-29 · INE</div>
+    <p>ECB 決議前最後一塊拼圖。西班牙核心通膨 2.8% 顯示能源成本已傳導到其他分項，ECB 6 月升 25bp 機率進一步確認。</p>
+  </div>
+
+  <div class="ev-card">
+    <h4>ECB 4/30 決議：DFR 2.25% 維持，但聲明加入「upside inflation risks」</h4>
+    <div class="ev-meta">2026-04-30 · 12:15 CET · Super Thursday</div>
+    <p>ECB 維持三大利率不變，Lagarde 記者會明確提到「能源通膨向廣泛通膨傳導的風險」——這是 2025 Q3 降息循環結束後首次 hawkish 措辭。會議結束後，市場對 6/11 升息機率從 10% 跳升至 50%。</p>
+    <div class="quote">「We are carefully monitoring upside inflation risks stemming from energy costs feeding into broader inflation.」 —— Lagarde, 4/30</div>
+  </div>
+
+  <div class="ev-card">
+    <h4>ING：「6/11 升息機率從 80% 再上修到 85–90%」</h4>
+    <div class="ev-meta">2026-05-03 · ING Research Note</div>
+    <p>伊朗 5/3 扣押第三艘油輪 + Brent 5/4 觸 $108。ING：「ECB 4/30 Lagarde 講的 upside risks 原本是 scenario analysis，現在變成 realized risk」——6/11 升息機率從市場的 80% 反而可能再上修到 85–90%。</p>
+    <div class="quote">「BNP Paribas 提出 EU 製造商將 Q2 訂單價格提前上調 1.5–2.0%，產品端 pass-through 不再是 Q3 故事而是 Q2 已開始。」</div>
+  </div>
+
+</div>
+
+<!-- 對 Amazon 影響 -->
+<div class="key-takeaway">
+  <h3>💡 Amazon EU 招商關鍵行動</h3>
+  <ul>
+    <li><strong>5/20 Non-Monetary Meeting 是 critical 窗口</strong>：若出現明顯反對票分布，代表 6/11 升息內部已形成共識，招商可開始主動向大賣家溝通「Q3 消費信貸收緊」情境。</li>
+    <li><strong>大件商品（家具、家電、3C）的 Q3 pre-order 建議前置</strong>——利率敏感品類在升息週期初期會看到 10–15% 的需求前置（消費者搶在升息前下單）。</li>
+    <li><strong>BNPL 賣家請重點關注</strong>：Klarna、Clearpay、Scalapay 在升息週期初期放款標準會收緊 3–5pp，BNPL 導流比重高的賣家需準備「結帳失敗率」上升的應對方案。</li>
+    <li><strong>EUR/USD 短期走強的對沖</strong>：ECB 升息 + Fed 按兵不動的組合 = EUR/USD 有機會回測 1.20。美元結算賣家獲利被壓縮，招商時要強調「轉 EUR 結算」的風險管理價值。</li>
+    <li><strong>6/11 決議前兩週（5/28–6/11）是招商 pitch 黃金窗</strong>：賣家此時對「Q3 消費面壓力」高度敏感，用 ECB 升息週期 + 油價傳導的雙重論述切入，轉換率會顯著提升。</li>
+  </ul>
+</div>
+
+<div class="footer">
+  <p>EDC EU POST · 跨境電商情報站 · ECB 週期追蹤持續更新中</p>
+  <p style="margin-top:6px;"><a href="hormuz-timeline.html">← Hormuz 油價時間軸</a> · <a href="index.html">返回主站 →</a></p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hormuz 油價時間軸 | EDC EU POST</title>
+<meta name="description" content="2026 年 Hormuz 海峽事件時間軸：從 4/20 開打到 5/4 Brent $108+ 的完整進程，整理對 Amazon EU 賣家的影響與 ECB 決議連動。">
+<meta name="author" content="Eddie Chu">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hormuz 油價時間軸 | EDC EU POST">
+<meta property="og:description" content="2026 年 Hormuz 海峽油價危機完整時間軸，聚焦 Amazon EU 賣家影響。">
+<meta property="og:image" content="https://eddiechu1009-bit.github.io/edc-eu-post/ec-logo.png">
+<meta property="og:site_name" content="EDC EU POST">
+<meta property="og:locale" content="zh_TW">
+
+<link rel="icon" type="image/png" href="ec-logo.png">
+<link rel="apple-touch-icon" href="ec-logo.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;0,700&family=Noto+Sans+TC:wght@300;400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#f5f5f5;--surface:#ffffff;--text:#1a1a1a;--text-secondary:#555;--text-muted:#999;
+  --border:#ebebeb;--accent:#0c4a6e;--accent-light:#e0f2fe;
+  --oil-bg:#fef2f2;--oil-border:#dc2626;--oil-accent:#991b1b;
+}
+body{font-family:'Noto Sans TC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;-webkit-font-smoothing:antialiased;}
+
+.site-nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,0.92);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);}
+.nav-inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:64px;}
+.nav-brand{display:flex;align-items:center;gap:12px;text-decoration:none;}
+.nav-brand-text{display:flex;flex-direction:column;line-height:1.2;}
+.nav-brand-name{font-family:'Space Grotesk',sans-serif;font-size:17px;font-weight:700;color:var(--accent);}
+.nav-brand-sub{font-size:11px;color:var(--text-secondary);letter-spacing:1px;}
+.nav-back{font-size:14px;color:var(--accent);text-decoration:none;padding:8px 14px;border-radius:6px;border:1px solid var(--accent);transition:background .2s;cursor:pointer;}
+.nav-back:hover{background:var(--accent-light);}
+
+.hero{max-width:920px;margin:32px auto 16px;padding:0 24px;}
+.hero-kicker{font-family:'Space Grotesk',sans-serif;font-size:12px;letter-spacing:3px;color:var(--oil-accent);text-transform:uppercase;font-weight:600;margin-bottom:10px;}
+.hero-title{font-family:'Newsreader',serif;font-size:38px;font-weight:700;line-height:1.25;color:#0f172a;margin-bottom:14px;}
+.hero-sub{font-size:16px;color:var(--text-secondary);margin-bottom:8px;}
+.hero-meta{font-size:13px;color:var(--text-muted);}
+
+.summary-card{max-width:920px;margin:16px auto;padding:20px 24px;background:var(--oil-bg);border-left:4px solid var(--oil-border);border-radius:6px;}
+.summary-card h3{font-family:'Newsreader',serif;font-size:18px;color:var(--oil-accent);margin-bottom:10px;}
+.summary-card p{font-size:14px;color:#1f2937;line-height:1.8;}
+
+.stats-grid{max-width:920px;margin:24px auto;padding:0 24px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+.stat-box{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:16px;text-align:center;}
+.stat-num{font-family:'Space Grotesk',sans-serif;font-size:24px;font-weight:700;color:var(--oil-accent);}
+.stat-label{font-size:12px;color:var(--text-muted);margin-top:4px;}
+@media(max-width:640px){.stats-grid{grid-template-columns:repeat(2,1fr);}}
+
+.timeline{max-width:920px;margin:40px auto 60px;padding:0 24px;position:relative;}
+.timeline::before{content:'';position:absolute;left:96px;top:0;bottom:0;width:2px;background:linear-gradient(to bottom,var(--oil-border) 0%,#f59e0b 50%,var(--oil-border) 100%);}
+.tl-item{position:relative;padding-left:130px;margin-bottom:30px;}
+.tl-date{position:absolute;left:0;top:6px;font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600;color:var(--text-secondary);width:80px;text-align:right;}
+.tl-dot{position:absolute;left:89px;top:10px;width:16px;height:16px;border-radius:50%;background:var(--oil-border);border:3px solid var(--bg);z-index:1;}
+.tl-price{position:absolute;left:113px;top:4px;background:#fff;border:1px solid var(--oil-border);color:var(--oil-accent);padding:3px 8px;border-radius:12px;font-family:'Space Grotesk',sans-serif;font-size:11px;font-weight:600;white-space:nowrap;display:none;}
+.tl-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:18px 20px;box-shadow:0 1px 2px rgba(0,0,0,0.04);}
+.tl-card h4{font-family:'Newsreader',serif;font-size:17px;color:#0f172a;margin-bottom:8px;line-height:1.4;}
+.tl-card .brent{display:inline-block;background:var(--oil-bg);color:var(--oil-accent);padding:2px 10px;border-radius:12px;font-family:'Space Grotesk',sans-serif;font-size:12px;font-weight:600;margin-bottom:10px;}
+.tl-card p{font-size:14px;color:#374151;line-height:1.7;margin-bottom:8px;}
+.tl-card .impact{font-size:13px;color:#6b7280;padding-top:8px;border-top:1px dashed var(--border);margin-top:8px;}
+.tl-card .impact strong{color:var(--oil-accent);}
+
+.key-takeaway{max-width:920px;margin:40px auto;padding:24px;background:#fffbeb;border:1px solid #f59e0b;border-radius:8px;}
+.key-takeaway h3{font-family:'Newsreader',serif;font-size:20px;color:#92400e;margin-bottom:14px;}
+.key-takeaway ul{padding-left:20px;}
+.key-takeaway li{font-size:14px;color:#1f2937;line-height:1.8;margin-bottom:6px;}
+
+.footer{max-width:920px;margin:40px auto 20px;padding:20px 24px;border-top:1px solid var(--border);color:var(--text-muted);font-size:13px;text-align:center;}
+.footer a{color:var(--accent);text-decoration:none;}
+.footer a:hover{text-decoration:underline;}
+
+@media(max-width:640px){
+  .hero-title{font-size:28px;}
+  .timeline::before{left:60px;}
+  .tl-item{padding-left:85px;}
+  .tl-date{width:52px;font-size:12px;}
+  .tl-dot{left:53px;}
+}
+</style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-brand">
+      <img src="ec-logo.png" alt="EDC EU POST" width="42" height="42" style="border-radius:8px;object-fit:contain;">
+      <div class="nav-brand-text">
+        <span class="nav-brand-name">EDC EU POST</span>
+        <span class="nav-brand-sub">跨境電商情報站</span>
+      </div>
+    </a>
+    <a href="index.html" class="nav-back">← 返回主站</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="hero-kicker">🛢️ Special Topic · Macro Timeline</div>
+  <h1 class="hero-title">Hormuz 油價時間軸 2026</h1>
+  <p class="hero-sub">從 4/17 伊朗公告封鎖，到 5/4 Brent 觸 $108，Amazon EU 賣家最關鍵的總經變數。</p>
+  <p class="hero-meta">更新時間：2026-05-04 · 涵蓋 30 天 · 51 則日報命中關鍵字</p>
+</div>
+
+<div class="summary-card">
+  <h3>📌 一分鐘總結</h3>
+  <p>Hormuz 海峽是全球 <strong>20% 原油 + 30% LNG</strong> 通道，一旦封鎖，EU 作為能源淨進口方首當其衝。2026 年 4 月伊朗以軍事行動封鎖海峽後，Brent 從 $72（3 月底）→ $95（4/21）→ $103（4/23）→ $120（4/29 戰時新高）→ $108（5/4），共歷時 13 個交易日完成結構性再定價。<strong>對 Amazon EU 的三層傳導：FBA 燃油附加費已於 4/17 上調 1.5%、進貨端海運 BAF 於 Q2 末再調、消費端非必需品彈性測試進入 5 月中期</strong>。ECB 4/30 決議受油價制約維持利率不變但轉鷹，6/11 升息機率從 10% → 85-90%。</p>
+</div>
+
+<div class="stats-grid">
+  <div class="stat-box"><div class="stat-num">+920%</div><div class="stat-label">Hormuz 月命中數 vs 上月</div></div>
+  <div class="stat-box"><div class="stat-num">$108</div><div class="stat-label">Brent 最新（5/4 盤初）</div></div>
+  <div class="stat-box"><div class="stat-num">+50%</div><div class="stat-label">Brent 月漲幅（$72→$108）</div></div>
+  <div class="stat-box"><div class="stat-num">51%</div><div class="stat-label">戰略儲備使用率（5/2）</div></div>
+</div>
+
+<div class="timeline">
+
+  <div class="tl-item">
+    <div class="tl-date">4/17</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>伊朗公告封鎖 Hormuz 海峽 · 同日 Amazon FBA 燃油附加費 1.5% 生效</h4>
+      <span class="brent">Brent $72</span>
+      <p>IRGC 海軍啟動封鎖行動作為對美制裁的報復。同日 Amazon 歐洲站 FBA 燃油附加費 1.5% 正式生效（以 Brent $85 為基準）、美國 FBA 漲 3.5%。EU 對外能源依賴度 58%，進口天然氣 80% + 原油 97%。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>4/17 的 1.5% 是「基準」成本，後續油價持續走高意味還會有第二次調整。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/20</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>Lagarde 柏林演講：Hormuz 衝擊「長期化」，ECB 監控兩大變數</h4>
+      <span class="brent">Brent $92</span>
+      <p>ECB 總裁明確從「中性偏鴿」轉為「條件式偏鷹」，點名監控 (1) 封鎖持續時間 (2) 能源成本向一般通膨的傳導程度。市場 4/30 升息機率定價微升至 10%。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>利率環境不確定性進入高原期，Q2 GMV 承壓加劇。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/21</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>Trump 延長伊朗停火但 Hormuz 封鎖「無限期維持」</h4>
+      <span class="brent">Brent $95</span>
+      <p>Trump 透過 Truth Social 宣布「應巴基斯坦請求」延長停火，但同步宣布繼續維持海峽封鎖——停火名義延長但軍事壓力不變。EUR/USD 跌至 1.1750 附近，12 個月新低。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>歐元弱勢有利美元結算賣家，但進口成本同步上升，淨效應中性偏負。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/22</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>停火「到期」——但 Hormuz 封鎖持續，伊朗扣押 2 艘過境船隻</h4>
+      <span class="brent">Brent $99</span>
+      <p>美伊和談完全停滯，Vance 暫緩出訪伊斯蘭馬巴德。Reuters 報導 Hormuz 過去 24 小時僅 3 艘船通過，遠低於正常的每日 60-80 艘。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>進入「軍事對峙常態化」階段，市場開始重新定價和平解決的希望。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/23</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>Brent 重回 $103——兩週來首次突破百元</h4>
+      <span class="brent">Brent $103</span>
+      <p>觸發因素：(1) 伊朗扣船升級封鎖 (2) 美伊和談破裂 (3) 美國汽油餾分油庫存降幅超預期。ING：「市場正在重新定價——和平解決的希望正在消退。」</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>若 $100+ 持續 2 週，Amazon 可能將 FBA 燃油附加費從 1.5% 上調至 2-3%。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/27</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>Brent 週漲 17% 重回 $105——結構性再定價</h4>
+      <span class="brent">Brent $105.7</span>
+      <p>連續第五個交易日上漲。Trump 下令海軍「對布雷船隻開火擊沉」、美軍攔截一艘伊朗油輪。白宮派使節赴巴基斯坦，但伊朗方明確表示「無正式談判計畫」。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>歐洲柴油價格將再創新高，3PL 和自配送成本同步上升，消費者能源支出擠壓非必需品。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/29</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>Brent 盤中漲 8% 觸 $120/桶——戰時新高</h4>
+      <span class="brent">Brent $120</span>
+      <p>Trump 下令準備伊朗港口延長封鎖，美國汽油價創戰後新高。單月漲 51%，歷史 top 5 月線漲幅之一。Citi Q2 base $95 / bull $130，若 Gulf 其他國家拒絕 Iran 海峽過境，全球供應缺口可擴到 8 mbd。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>油價「階梯式跳漲」使 FBA 出貨空運成本比 3 月底多 20-30%，Q3/Q4 FBA 費用再調整已是定局。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">4/30</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>ECB 利率決議：維持不變但轉鷹——Lagarde 點名「upside inflation risks」</h4>
+      <span class="brent">Brent $118</span>
+      <p>ECB 4/30 會議受油價制約維持利率不變，Lagarde 提「upside inflation risks」——原本是 scenario analysis，後被週末扣船事件證實為 realized risk。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>6/11 升息機率從 10% → 85-90%，升息週期被動重啟。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">5/3</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>伊朗扣押第三艘油輪（希臘籍 Aframax VLCC，載 80 萬桶）</h4>
+      <span class="brent">Brent $103 收</span>
+      <p>IRGC 海軍在荷莫茲海峽扣押第三艘油輪——4/23 扣兩艘後新的第三起。EU 戰略石油儲備使用率從 47% → 51%。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>封鎖升級證實 ECB 「upside risks」從假設變現實，第二輪傳導啟動。</div>
+    </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">5/4</div>
+    <div class="tl-dot"></div>
+    <div class="tl-card">
+      <h4>Brent 亞洲盤初觸 $108.20（+4.5%）——Q2 pass-through 提前啟動</h4>
+      <span class="brent">Brent $108.2</span>
+      <p>Goldman Sachs：「若封鎖延續至 Q3，HICP 能源分項達 +13-14%，整體 HICP 再加 0.4-0.6pp」。BNP Paribas：「EU 製造商將 Q2 訂單價格提前上調 1.5-2.0%」——產品端 pass-through 不再是 Q3 故事而是 Q2 已開始。</p>
+      <div class="impact"><strong>🎯 賣家影響：</strong>Amazon Logistics 內部模型觸發第二次 FBA 燃油附加費調整（業界預期 +0.5-1.0pp），6 月前會再加碼。</div>
+    </div>
+  </div>
+
+</div>
+
+<div class="key-takeaway">
+  <h3>💡 Amazon EU 招商關鍵行動</h3>
+  <ul>
+    <li><strong>本週內請 FBA team 確認「第二次燃油附加費調整」時程</strong>——若下週決議，招商要提早告知大賣家（€1M+）預留 0.5-1pp 的利潤緩衝。</li>
+    <li><strong>低客單商品（€10–25）類目賣家</strong>（家居小物、工具、廚房用品、文具）——本週內跑一輪 sell-through simulation，預估 5 月中 conversion 會否掉 3–5pp。</li>
+    <li><strong>油價 &gt; $105 持續兩週會觸發 ECB 決議「雙重壓力」</strong>：5/20 Non-Monetary 前 critical 窗口，招商不要做「6 月升息方向已定」的強語氣 pitch。</li>
+    <li><strong>戰略石油儲備監控</strong>——若 5/10 前 EU 使用率突破 55%，代表政府認為封鎖將延長，這時才開始對賣家推「season hedging」服務。</li>
+    <li><strong>進貨端</strong>：通知有現金流吃緊跡象的賣家，6 月的 shipment 先不要加量（船公司 Q2 末調整 BAF 是必然）。</li>
+  </ul>
+</div>
+
+<div class="footer">
+  <p>EDC EU POST · 跨境電商情報站 · Hormuz 時間軸持續更新中</p>
+  <p style="margin-top:6px;"><a href="index.html">← 返回主站</a> · <a href="ecb-tracker.html">ECB 升息週期追蹤頁 →</a></p>
+</div>
+
+</body>
+</html>
