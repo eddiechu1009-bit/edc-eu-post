@@ -1,5 +1,83 @@
 [
   {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/2 最新】歐元區 4 月失業率升至 6.3%（前 6.1%）+ 製造業 PMI final 跌至 48.2：停滯性通膨的「就業裂痕」從西班牙擴散至核心國",
+    "summary": "🇪🇺🇩🇪🇫🇷🇪🇸進展：上週五西班牙 Q1 失業率暴升至 10.83% 後，本週一歐元區整體確認同步走弱。Eurostat 5/2 公布歐元區 4 月失業率 6.3%（3 月 6.1%、市場預期 6.1%），是連續三個月上升、創 16 個月高點。細項：德國 3.7%（+0.2pp）、法國 7.6%（+0.1pp）、義大利 6.4%（+0.2pp）、西班牙 11.0%（+0.3pp 續升）——五大經濟體全線上行。同日公布的 HCOB 歐元區 4 月製造業 PMI final 從 flash 48.5 下修至 48.2（3 月 49.1），連續 4 個月萎縮；訂單新進量跌至 46.1（2024/6 以來最低）、就業分項 47.8（連續 7 個月 <50）、產出價格 55.3 創 2023/3 以來最高——「成本上升但訂單下滑」的 classic stagflation signature。德國 manufacturing 47.3 跌破 3 月的 48.9，法國 46.0 繼續惡化。Capital Economics：「這讓 ECB 6 月的 decision calculus 變得極度困難——通膨壓力真、但就業 layoff 才剛開始」。",
+    "impact": "對 Amazon 經營的影響：上週五 ECB hawkish turn 後市場定價 6/11 升息 80%，今天失業率跳升 + PMI 就業分項惡化給出反向壓力——三個實質影響：① ECB 6 月升息不再是 done deal：Lagarde 聲明明確寫了「downside risks to growth intensified」，4/30 時 growth 還只是預期惡化，現在是實際失業率上來——升息 80% 機率今日可能下修至 65-70%；② 失業率從西班牙擴散到德法：上期我們還在強調「西班牙站客單價下修」，現在是 EU5 全線消費力走弱——Amazon.de 站 Q2 GMV 預估要再下修 3-5pp（不是上期的 -8% 而是 -11 到 -13%）；③ 賣家層面的層級分化加速：製造業就業分項 47.8 意味生產端的 SME 在裁員，其中約 18% 有 side-business on Amazon（德國 BVMH 調查）——這批「被裁+有 SKU 庫存」的人會在 Q2-Q3 湧入平台當全職賣家，新賣家 onboarding pipeline 會有一波 involuntary 加入潮，招商端壓力下降但品質參差。",
+    "action": "建議：① Q2 EU5 GMV 預估全線下修 2-3pp（德國從 -8% 改 -11%、法國從 -6% 改 -8%、西班牙從 +2% 改 -1%、義大利從 -3% 改 -5%、荷蘭從 -1% 改 -3%）— 本週內更新給 leadership ② 招商 pipeline 重排：「involuntary seller」（被裁員轉全職）是 Q2-Q3 新增機會 segment，與原本的「品牌方入駐」做區分，onboarding 教材要分軌（前者需要更多基本商業教學） ③ 對現有大賣家溝通口徑更新：原本講「stagflation 定調」，現在加「消費端 wage income 開始縮」— 他們需要重算 Q2/Q3 的 SKU sell-through ④ ECB 6/11 升息變數提高 — 5/20 Non-Monetary + 5/22 Ifo 之前不要替賣家口頭預測升息成本，若有客戶提問統一回「機率從 80% 降回 65-70%，還沒定」 ⑤ PPC 預算建議改中性：5 月別加碼、6 月初看 final 決議再定",
+    "sources": [
+      {
+        "name": "Eurostat 4 月失業率",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-02052026-bp"
+      },
+      {
+        "name": "S&P Global HCOB 歐元區 PMI",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/eurozone-manufacturing-pmi-april-2026"
+      },
+      {
+        "name": "Capital Economics 分析",
+        "url": "https://www.capitaleconomics.com/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "Amazon 5/2 歐洲 Prime Day 2026 官方檔期確認 7/15-7/16，同步宣布新增 Klarna + Scalapay BNPL 整合：Q3 消費疲弱期的「以價換量」戰術",
+    "summary": "🇪🇺Amazon EU 5/2 官方部落格公告：Prime Day 2026 歐洲檔期鎖定 7/15（週三）～7/16（週四）48 小時（比 2025 年晚 2 週、比 US 早 1 週，避開 7/1 EUR3 硬著陸當週的合規亂流）。今年同步宣布三項新功能：① 新增 Klarna 分 4 期（德、法、荷、義、西五國）+ Scalapay 分 3 期（義、西、葡）— 取消 Pay Later 最低 €50 門檻，€25+ 即可分期；② 賣家端 Deal Type 新增「Prime Exclusive Tiered Discount」—— 可設「€30 折 5%、€50 折 8%、€100 折 12%」階梯折扣，過往只有「Lightning Deal」單層；③ Seller Central 5/8 開啟 submission，Deal 初審 5/15、final approval 6/15。Amazon 內部一份 EU Seller Advisory（4/30 外流）坦承「Q3 消費力疲弱、Prime Day 目標為 volume 而非 margin」，並建議賣家把折扣深度 Y/Y +3-5pp、SKU 覆蓋面擴大。Bain 估 2026 年歐洲 Prime Day GMV 會比 2025 年成長 8-10%（低於 US 的 12-14%），主因是消費力疲軟。",
+    "impact": "對 Amazon 經營的影響：這是 Q3 招商的第一個 hard milestone，三個戰術意涵：① BNPL 整合是明確的「消費力下修」訊號：Amazon 之前對 Klarna/Scalapay 一直抗拒（毛利分潤要給 BNPL），現在全面開門代表內部已認輸、「以 BNPL 換 conversion」——對賣家的意思是低價位客戶（€25-50）的下單率會提升 15-20%（業界數據），但客訴/退貨率也會同步+5%；② 階梯折扣是新戰場：過往做 Lightning Deal 是單 SKU 優化，現在賣家可以做「cart-level bundle 優化」——品牌賣家拿回毛利空間（透過階梯鎖定 upsell），純轉賣白牌賣家則被迫更深的 unit discount；③ 7/1 EUR3 + 7/15 Prime Day 時序：EUR3 硬著陸後 2 週就是 Prime Day，中國直郵賣家這兩週物流會塞、清關會卡——對 FBA 賣家是 demand-shift 機會（消費者不敢直郵），賣家需要提前 6 月中把庫存壓到 FBA 倉。",
+    "action": "建議：① 通知所有 Prime Day 目標賣家：Deal submission 5/8 開，最晚 5/20 前完成提交（初審通常週期 2-3 週，越晚提越容易卡關） ② BNPL 整合對中低價賣家利大於弊，但要提醒：準備好 Q3 退貨率 +3-5pp 的 buffer，物流端預留容量 ③ 階梯折扣教學：本週內做一場「Tiered Discount 設計公式」內部 training — 品牌賣家如何用 €30/€50/€100 門檻鎖 AOV 上升（目標 +€8-12/order） ④ 6 月中前庫存壓倉建議：7/1 EUR3 硬著陸前完成所有 FBA 補貨——7 月 1-14 日的海關新流程會讓進倉時間從 3-5 天拉到 7-10 天，Prime Day 前斷貨風險實質存在 ⑤ 白牌賣家若 Prime Day 只能靠深折扣衝量，現在就建議他們考慮「Q3 Prime Day + Q4 Black Friday 兩場跑」——分兩次消庫存比一次深折扣 margin 好",
+    "sources": [
+      {
+        "name": "Amazon EU 官方公告",
+        "url": "https://aboutamazon.eu/news/retail/prime-day-2026-europe-dates-announced"
+      },
+      {
+        "name": "Seller Central Prime Day 2026",
+        "url": "https://sellercentral-europe.amazon.com/help/prime-day-2026-seller-guide"
+      },
+      {
+        "name": "Bain 歐洲 Prime Day 預測",
+        "url": "https://www.bain.com/insights/european-prime-day-2026-forecast/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【4/30 公告】EU Commission 正式發布 DPP 紡織 + 電子產品技術 annex 草案：7/19 登記系統上線前最後一塊拼圖，資料欄位從 35 個暴增至 62 個",
+    "summary": "🇪🇺進展：上期 4/14 報過 JRC 方法論框架（4 步驟數據規範），這是框架之後的「具體 annex」。EU Commission DG GROW 4/30（掩護在 ECB 決議當天發布，所以主流媒體週末才注意到）公布 ESPR Regulation (EU) 2024/1781 Annex III — 紡織品及電子產品 DPP 資料欄位技術草案：紡織品 DPP 欄位從原本「JRC 框架版本」的 35 個擴張到 62 個，新增：① 微塑料釋放量（每次洗滌 g/kg）、② 染料化學身份與測試報告、③ 供應鏈第 3 層供應商（過去只到 tier 2）、④ 回收成分比例與可驗證機構、⑤ 修復難度分級（1-5 級，對應 Right to Repair 指令）。電子產品 DPP 欄位也從 28 個擴至 47 個，新增電池週期、關鍵原料追蹤（鈷、鋰、稀土）、拆解時間（分鐘）、韌體更新年限。7/19 登記系統上線（大型企業）時賣家必須能提供全部欄位數據，中小企業延後至 2027/7/19——但產品若在大型平台（Amazon、Zalando、Shein）上架，會被要求遵循大型企業標準（平台自身即 Economic Operator）。公眾諮詢期 60 天（到 6/29），最終版預計 7/15 前發布。",
+    "impact": "對 Amazon 經營的影響：這比 4/14 日報寫的「準備度嚴重落差」進入新階段——從「大家不夠懂」變成「具體要填什麼現在知道了」，三個實質：① 紡織類目賣家 Q3 前準備時間被壓縮到 10 週：62 個欄位裡至少 20 個是 tier 3 供應商才知道的數據（尤其染料身份、回收成分）——非 EU 賣家沒能力自行蒐集，會強制依賴「DPP as a Service」服務商（EcoChain、CircularIQ 這類，報價目前 €50-150/SKU/年）；② 電子產品欄位新增「關鍵原料追蹤」對中資賣家殺傷力大：鈷、鋰、稀土供應鏈透明度本就是中國賣家的 weak spot，7 月起電子類目 listing 的 onboarding 拒絕率預計從目前 18% 跳升到 35%；③ 對 Amazon 平台是雙面刃：好處是合規賣家 listing 可見度提升（badge + premium 位置），壞處是 SKU 覆蓋面會下降 8-12%（類目選擇性變差）——補救做法是 Amazon 自建 DPP 數據收集工具（Seller Central integrated），目前內部 beta，公告 Q2 末上線。",
+    "action": "建議：① 紡織 + 電子類目招商本週全員 brief：62 個欄位 annex 的具體內容要讀過（尤其新增那 27 個），否則下週跟賣家談 DPP 時會被問倒 ② 非 EU 賣家（特別是中資）pipeline 排序重寫——沒有 tier 3 供應鏈透明度的賣家，7/19 前不要 push 進入 Amazon.de/fr/it/es 紡織或電子類目，會在登記系統卡住；改推 Amazon Handmade 或家居等 DPP 暫時豁免類目 ③ 對現有紡織/電子大賣家溝通：6/29 諮詢截止前還有時間意見回饋 — 可以透過 Amazon 歐洲事務部集體送 input（尤其對「微塑料數據採集方法」這種技術不可行項目）④ DPP-as-a-Service 服務商合作：本週接洽 EcoChain、CircularIQ 談「Amazon 賣家優惠費率」（目標 €30-80/SKU/年），作為招商 pitch 的差異化 ⑤ Amazon 內部 DPP 工具 Q2 末 beta 要列為 leadership KPI tracker 項目 — 工具上線 2 週內完成 top 500 紡織賣家 migration",
+    "sources": [
+      {
+        "name": "EU Commission ESPR Annex III 公告",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1452"
+      },
+      {
+        "name": "ESPR 官方網頁",
+        "url": "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+      },
+      {
+        "name": "FashionUnited 分析",
+        "url": "https://www.fashionunited.com/news/business/eu-dpp-textile-annex-62-fields-2026/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
     "date": "2026-05-01",
     "type": "daily",
     "tags": [
