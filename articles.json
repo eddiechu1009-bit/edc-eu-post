@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-05-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/4 Nagel 開槍】Bundesbank 總裁公開點出 6/11 升息「觸發條件」：若 6 月 ECB 通膨展望未改善，升息「合理」——Lagarde 4/30 暗示之後第一個正面定調",
+    "summary": "🇩🇪🇪🇺Bundesbank 總裁 Joachim Nagel 5/4 在法蘭克福公開演講明確表態：若 6/11 ECB 會議公布的 staff macroeconomic projections（含新的 inflation 與 growth 展望）未出現顯著改善，升息將是「合理選項」（rate hike may be warranted）。Nagel 警告中東戰爭若持續，通膨可能維持偏高，點名監控三個傳導路徑：① 高能源價格是否滲入其他通膨指標、② 是否觸發更強的工資要求（second-round effects）、③ 金融市場通膨預期。他強調即使 4/30 採取 wait-and-see，ECB 隨時準備行動。同一天 Villeroy 對繼任者也留話「繼續對抗通膨、捍衛歐元穩定」。LSEG 最新定價：投資人預期 2026 年 ECB 將升息 3-4 次，大多數押注 6 月第一次。回顧 5/1 日報，Lagarde 4/30 會後只說「hike risk 上調」，今天 Nagel 把「觸發條件」（6 月 projections 未改善 = 升息）公開講明，這是 ECB 決策委員首次把 6/11 升息從「可能性」推進到「有條件承諾」。",
+    "impact": "對 Amazon 經營的影響：過去兩週日報把 6/11 ECB 升息機率從 50% → 70% → 80% 一路追蹤，今天 Nagel 的發言實質把定價推到 85-90%（德國央行首長 = ECB 票型中最鷹派 + 代表德國票），對 Amazon EU 招商三個直接傳導：① 賣家融資成本鎖定上升：€10M revenue 賣家 2026 年底融資成本 +75bp，若 6 月真升息，最遲 7-8 月賣家借款利息就會實質反映，€50-75k/年 的毛利吃掉部分的緩衝消失；② EUR 續強壓抑非 EU 賣家競爭力：EUR/USD 已在 1.17-1.18，6/11 升息後可能觸 1.20，對中國、台灣賣家用 USD 進貨再以 EUR 結算的毛利再擠壓 3-5%；③ Amazon 本身的內部 discount rate 會被調高：對新招商項目的 payback 要求變嚴，2026 下半年「養成品類」的投資 pipeline 會先削減，招商團隊 Q3 爭取 budget 的難度升一級；④ 關鍵二選一：如果 5/16 歐元區 4 月 HICP 終值 ≥3.0%（4/30 flash 3.0% 超預期）、或 5/22 Ifo/GfK 再走弱，Nagel 的「條件」就確定觸發；反之若 HICP 下修到 2.8% 以下且 Brent 回 $100 內，6/11 還是有 hold 的空間——但目前看機率 15% 以下。",
+    "action": "建議：① 招商 Q2 財務 assumption 正式把「6/11 ECB 升息 25bp」從「base case 70%」上調為「base case 90%」，9 月再升 25bp 升到 50%，賣家融資模型全面重算；② 向內部 forecasting：EUR/USD 2026 下半年 base 改 1.19-1.21，非 EU 賣家合規+毛利成本 Q3 起拉升 4-6%；③ Top 50 歐元計價大賣家 5 月內安排 1:1，提醒 6-7 月銀行 credit line 可能 repricing，建議提早 lock in rate 或用商業本票；④ 全站 5/8（ECB 4/30 會議紀要）+ 5/16（HICP 終值）+ 5/22（Ifo/GfK）三個日期設為「黑天鵝監控窗口」，任一超預期都立即重算 Q3 業績目標；⑤ 招商 pitch 本週調整語氣：不再講「等 ECB 降息再擴張」，改「ECB 6 月大概率升息，但這反而讓 EU 本地消費者更依賴 Amazon 比價——你 5 月上架才來得及接 6 月起的流量」。",
+    "sources": [
+      {
+        "name": "MarketScreener / Dow Jones 5/4 Nagel 發言",
+        "url": "https://www.marketscreener.com/news/ecb-could-hike-rates-in-june-should-inflation-outlook-not-improve-nagel-says-ce7f58dfd88ef027"
+      },
+      {
+        "name": "Global Banking & Finance Nagel 5/4 報導",
+        "url": "https://www.globalbankingandfinance.com/ecb-hike-rates-june-nagel/"
+      },
+      {
+        "name": "Investing.com Nagel 5/4 Frankfurt 演講",
+        "url": "https://ca.investing.com/news/economy-news/ecb-may-raise-rates-in-june-if-inflation-outlook-fails-to-improve-93CH-4607223"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/4 公布】歐元區 4 月製造業 PMI final 52.2（47 個月新高），但德國 51.4 且業務預期 18 個月來首次轉負：S&P Global 點破「frontloading 撐起的假擴張」",
+    "summary": "🇪🇺🇩🇪🇫🇷S&P Global / HCOB 5/4 公布 4 月最終製造業 PMI：歐元區 52.2（47 個月新高，與 flash 持平、3 月 51.6）、德國 51.4（上修 from flash 51.2，但比 3 月 46 個月高的 52.2 下滑）、法國 52.8（大幅跳升 from 3 月 50.0，最強漲幅）、義大利上升到擴張區。表面全面擴張、骨子裡異常脆弱。S&P Global Market Intelligence 的 Phil Smith 在德國報告明言：「這波製造業成長是『借來的時間』（on borrowed time），商業預期大幅跌進負值區」——德國業務預期 18 個月來首次轉負，創 2024/10 以來新低。關鍵機制：所有成長都來自 frontloading（搶在價格上漲、供應鏈斷裂前加單囤貨）——德國新訂單增長 + 產出連 4 月走揚，但 投入成本通膨已衝到 2022/9 以來最強、工廠門價創 39 個月新高、供應延誤 2022 年中來最嚴重。Smith 警告：「surging inflation pressures + 購買力擠壓會壓抑需求；同時供應延誤已到就算有需求也可能被迫減產的水平」——換言之，Q2 的 frontloading 幾乎保證 Q3 的「回吐」（payback）。",
+    "impact": "對 Amazon 經營的影響：這份 PMI 比昨天的德國 3 月零售 -2.0% 更重要——零售是 B2C 消費端的延遲指標，PMI 是供應端的即時指標，兩者對 Amazon 招商形成完整的「供需雙面施壓」圖：① Q2 EU 本地製造商的 Amazon 上架可能「假性旺盛」：看起來訂單很滿、出貨順暢，但這是搶在漲價前囤的，Q3 一旦 frontloading 結束 + 通膨真正顯現，這批製造商會突然 SKU 過剩 + 毛利擠壓——招商團隊現在接到 EU 本地製造商 Q2 上架詢問要做 due diligence，避免 Q3 一起退潮；② 非 EU 賣家進貨時機已死：投入成本通膨 2022 年來最強 + 供應延誤 2022 年來最嚴重意味 China → EU 的原料端+物流端同步拉長，5 月第一週是今年 Q2 海運進貨 window，錯過就是 5-6 週 payback；③ 工廠門價創 39 個月高 → 零售端傳導：Amazon EU 賣家 5-7 月陸續面臨供應商漲價 5-10%，Q2 末 listing price 可能被迫調整，PPC CPC 會因為價格敏感消費者減少而相對變貴——招商要為 Top 賣家提供「漲價溝通話術」和「多 SKU 階梯式漲價」策略；④ Prime Day 6/23-25 的 SKU 價格鎖定：deal scheduling 5/26 截止 = 賣家要在 frontloading 末期用「已經漲價的成本」去報一個「過一個月還要吸引客人的折扣價」，這是 2026 Prime Day 毛利結構最危險的一點。",
+    "action": "建議：① EU 本地製造商招商 pitch 本週改語氣：不再純推「Amazon 3-5 天入倉優勢」，改「Amazon 是你們 Q3 製造業 payback 期的保命通路——當本地 B2B 訂單回吐時，Amazon B2C 流量是你們 revenue 的 shock absorber」；② 對現有 Top 200 EU 本地賣家發「Q2 frontloading 警示」：建議他們 1) 重核庫存水位、2) 與供應商鎖 Q3 成本、3) Prime Day deal 價格預留 8-12% buffer（不是 5%）；③ Q3 業績 forecast 從 +5-8% YoY 再下修到 +3-5% YoY（frontloading 回吐 + 升息落地雙擊）；④ PPC 預算 6 月中起多留 15% 火力——CPC 會因競爭變激烈而跳升；⑤ 物流/倉儲團隊協調：5 月第三週開始監控 inbound 量是否異常暴衝（frontloading 尾聲的 last-minute shipment），避免 Amazon EU 倉爆倉反而傷到 Prime Day SLA。",
+    "sources": [
+      {
+        "name": "Reuters 5/4 德國 PMI 業務預期轉負",
+        "url": "https://www.reuters.com/business/german-factory-outlook-turns-negative-first-time-since-2024-pmi-shows-2026-05-04/"
+      },
+      {
+        "name": "S&P Global 德國 4 月 PMI 官方 press release",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/5c69abafd66e4db8a07ea1cfe12184f2"
+      },
+      {
+        "name": "InvestingLive 德國 PMI 終值 51.4",
+        "url": "https://investinglive.com/news/germany-april-final-manufacturing-pmi-514-vs-512-prelim-20260504/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/4 義大利雙警訊】製造業 PMI 投入成本 index 衝到 75.4（4 年高，3 月 69.0）+ 4 月 CPI flash 2.9%（Meloni 剛減稅）：法德義西四國 second-round 陣線正式成形",
+    "summary": "🇮🇹🇪🇺Reuters 5/4 報導義大利 4 月 HCOB 製造業 PMI：投入成本通膨 index 飆到 75.4（4 年新高）、從 3 月的 69.0 大幅躍升——這是 Italy 製造業受能源+中東戰爭影響最劇烈的一次；同時義大利 4 月 HICP / CPI flash 跳至 2.9%（前值更低），能源是主驅動。Meloni 政府上個月才剛減稅想穩住購買力，效果被單月能源衝擊一次抵銷。加上前期已公布的：歐元區 4 月 HICP flash 3.0%（18 個月高）、法國 4 月 HICP 2.2%（18 個月高）、西班牙 4 月 HICP 3.2%、義大利 4 月 2.9%——ECB 核心監控的四大經濟體 全部在 4 月同步破或接近 3%，這是自 2023 年下半年通膨下行以來，EU 通膨 first time 四大國齊頭反彈。對照 5/1 日報寫的「法國 CGT 5/1 加薪訴求 + 工資物價連動 = second-round 第一個實證」，今天義大利 PMI 的投入成本 75.4 = second-round 第二國確認——通膨從能源擴散到製造業投入、再擴散到工資的路徑已經跑起來。",
+    "impact": "對 Amazon 經營的影響：日報過去兩週一直追蹤 second-round effects，今天的義大利數據把「個別國家現象」升級為「歐元區集體現象」——三個招商層面的連鎖反應：① Amazon.it 招商策略直接調整：義大利本地賣家 Q3 人力+投入成本會被雙重擠壓，招商 pitch 本週要從「進軍 Amazon.it 抓義大利市場」改為「在義大利通膨最高、實質薪水最縮時，義大利消費者會更大比例轉向 Amazon 比價」——同樣話術在法國（HICP 2.2% + 5/1 加薪訴求）已經可用，現在可以推廣到義大利；② Amazon EU 五國聯合營運的 pricing 策略要分化：不能再用一個「EU baseline price」，要按通膨強度分層——義大利、西班牙（HICP ≥2.9%）可以接受較高 listing price；法國（2.2%）中等；德國比法國稍弱但消費信心更差、要用 promo 拉動；③ 非 EU 賣家進入義大利合規成本 Q3 會跳：義大利 RP 服務商、本地翻譯、本地物流 rate Q3 會跟通膨漲 4-6%，onboarding 成本估計 €300-700/年漲到 €350-800/年；④ Prime Day 6/23-25 的預期：南歐動能 > 北歐：義大利、西班牙雖然通膨高，但家戶尋求 Amazon 的「比價紅利」會更明顯；德國雖然通膨較低但消費信心破底（GfK -33.3），Prime Day 德國站 GMV 成長可能不如義大利、西班牙。這是內部預估 KPI 的重要分層依據。",
+    "action": "建議：① 義大利招商 pitch 本週重寫，納入「義大利 4 月 CPI 2.9% + 投入成本 4 年高 = 義大利消費者 Q2-Q3 比價需求爆棚」的 narrative；② 義大利 Top 100 現有賣家發「二選一」提醒：1) 把 Q2 SKU 價格鎖住（拒絕供應商漲價）、2) 若無法拒絕，立即啟動「多階梯漲價」將成本轉嫁到消費者而非犧牲毛利；③ Prime Day 2026 內部 GMV 預估做地區分層：義/西 +20-25% YoY、法 +15-20%、德 +10-15%、波蘭 +25-30%（南歐與新興市場是火車頭）；④ EU 物流+倉儲團隊 Q3 預算建議加 5-8% buffer 給人力+能源上漲；⑤ 追 5/13 法國 4 月 HICP 終值 + 5/15 歐元區 Q1 GDP 二估 + 5/16 HICP 終值——三連發都不下修就是 6/11 升息最後 lock。",
+    "sources": [
+      {
+        "name": "Reuters 5/4 義大利 PMI 投入成本 4 年高",
+        "url": "https://www.reuters.com/markets/europe/italian-manufacturing-cost-pressures-4-year-high-april-pmi-shows-2026-05-04/"
+      },
+      {
+        "name": "US News 5/4 義大利 PMI 轉載",
+        "url": "https://money.usnews.com/investing/news/articles/2026-05-04/italian-manufacturing-cost-pressures-at-4-year-high-in-april-pmi-shows"
+      },
+      {
+        "name": "Investing.com 5/4 義大利 PMI",
+        "url": "https://www.investing.com/news/economic-indicators/italian-manufacturing-cost-pressures-at-4year-high-in-april-pmi-shows-4655074"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/4 ECB 發布】SPF Q2 2026 專業預測者調查：HICP 2.7%（上修 2026、2027）、HICPX 2.2%、GDP 下修、長期 2.0% 仍錨定——首次正式納入「中東戰爭特別問題」給 Lagarde 彈藥",
+    "summary": "🇪🇺ECB 5/4 發布 Survey of Professional Forecasters 第 2 季 2026 結果（調查期間 Q1 底—Q2 初，44 位投行/研究機構經濟學家）：HICP 預期 2026 年 2.7%、2027 年 2.1%、2028 年 2.0%；Core HICPX 2026/2027 均 2.2%、2028 年 2.1%、長期（2030）2.0%。關鍵：2026/2027 HICP 與 HICPX 都向上修正（2026 上調 0.2pp，2027 上調 0.1pp），但長期錨定 2.0% 未動。失業率預期 2026 6.3%、2027 6.2%、2028 6.1%——勞動市場維持 tight。首度納入「中東戰爭特別問題」：預測者認為 war 對通膨的直接+間接+second-round 影響「有限」、集中在 2026 與 2027、且是 growth-dampening shock of limited duration。但 ECB 摘要引用受訪者理由：「tight labour markets and possible second-round effects via wages were cited as factors that could keep services inflation elevated」——受訪專家自己點名 wage-driven 服務業通膨黏性。核心意涵：SPF Q2 把 Lagarde 4/30 會議記者會的「升息風險上調」、Nagel 5/4 的「6/11 觸發條件」都用 ECB 官方預測者共識背書——ECB 6/11 升息的所有背景條件 5/4 當天已在桌上。",
+    "impact": "對 Amazon 經營的影響：SPF 是 ECB 決策時實際參考的外部預測者共識，通常在會議前 2 週發布，5/4 這份 Q2 版本是 6/11 決議前的「官方 ECB 參考之一」，三個關鍵判讀：① HICP 2026 預測 2.7% > ECB 目標 2.0%（差 0.7pp）= 有政策空間繼續升息一次；若 6/11 staff projections 也落在 2.5-2.7% 這個區間，升息決議幾乎是必然；② HICPX（排除能源食物）2026/2027 均 2.2%——這是最重要的一個數字：ECB 最關注的 core 通膨預期沒有順利回到 2%，表示能源衝擊已 spill over 到 stickier 類別（服務、工資、房租），而這種粘性 ECB 只能用升息來壓；③ Amazon EU 招商的直接暗示：service inflation 持續高意味 Amazon 服務費（廣告、倉儲、客服）會比商品價格漲得快 + 黏更久，Q2-Q3 賣家的 operational cost structure 會先漲 service-side，商品成本次之；④ 長期通膨錨 2.0% 未動 = ECB 升息但不會失控：代表 2026/11 就會進入「升息週期結束」的預期，賣家 2027 的 refinancing 環境相對溫和——2026 下半年的壓力是「現金流」，2027 就是「需求復甦」；⑤ Amazon 自己的 discount rate / 投資 pipeline 判斷：SPF 的長期 2.0% 錨定代表 Amazon 內部「WACC 調升不會持續到 2027」，對 EU 新倉、擴充項目的 ROI 門檻可以在 2027 年調回、不是永久升高——這個是 Q3 爭取擴張 budget 的重要依據。",
+    "action": "建議：① 招商團隊內部新增一個「SPF 追蹤」checklist：每季 SPF 發布（2、5、8、11 月）立即看 HICP/HICPX/GDP 三個數字，判斷 ECB 路徑有無轉向；② 本週向 leadership 提交「Q2-Q3 EU 招商環境更新備忘」：2026 HICP 2.7% + core 2.2% → 升息 25bp 6/11 可能性 85-90% → 賣家融資+EUR/USD 影響路徑（參考 News 1 的具體數字）；③ Amazon 服務費結構（廣告、倉儲、prep 服務）向賣家做「2026 Q3-Q4 可能調整」的 expectation management——比起 FBA 商品相關費用，services 漲幅會更早更高；④ 招商 pipeline：EU 本地+南歐製造商 Q2 推進、非 EU 賣家 Q2 暫緩（等 EUR/USD 穩定）、Pan-EU 擴張 Q4 後才 pitch；⑤ 長期 budget 爭取（Q4 ADS discount）用 SPF 長期 HICP 2.0% 錨定當依據——「ECB 升息不是永久、是短期反應，Amazon 投資 pipeline 不宜因 2026 一次升息全面退守」。",
+    "sources": [
+      {
+        "name": "ECB 5/4 SPF Q2 2026 新聞稿",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260504~bb7a0cbf4c.en.html"
+      },
+      {
+        "name": "ECB SPF Q2 2026 完整報告（含 Middle East 特別問題）",
+        "url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q2.en.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/4 進展】Iran 攻擊 UAE + US 擊沉 Hormuz 伊朗船隻 + Trump \"Project Freedom\" 美海軍護航 + OPEC+ 5 月加產：油價盤中衝 $129 後回落，5/1 「停火」劇本正式破產",
+    "summary": "🌍5/4 週一中東局勢一夜大變：① Iran 攻擊 UAE——UAE 稱攔截伊朗導彈、但無人機引發石油設施火災（Al Jazeera）；② Iran 聲稱擊中美軍巡邏艦、美軍否認，Iran 以 Fars 通訊社形式放話對沖談判；③ US 擊沉 Hormuz 伊朗船隻（Bernama）；④ Trump 宣布 \"Project Freedom\"——美海軍「在附近」為商船護航過境 Hormuz，但美方公開表態「美軍艦不會直接 escort、僅保持在 vicinity」（Axios / Newsquawk），等同劃了紅線但刻意含糊；⑤ Iran 向 Trump 發出 1 個月談判 deadline，提出 14 點重啟 Hormuz 通行協議；⑥ 週末 OPEC+ 會議決議 5 月加產（OilPrice）抵銷部分風險溢價。油價反應：Brent 盤前一度跳到 $129.91（Reuters 早盤報 +5.4%）、盤中 WTI $105.62 +3.6%、盤末回落到 WTI ~$108、Brent ~$111——波動一日之內 ±6%。EUR/USD 1.17 小升。回顧 5/1 日報寫的「Iran 遞出停火提案 + Trump War Powers 60 天死線」，這個停火 narrative 在 5/4 一天之內徹底破產——Iran 直接動手攻擊 UAE 並聲稱擊中美艦、美國改用「護航」姿態硬撐 Hormuz，等於中東進入「有限 but active 衝突」的新階段。",
+    "impact": "對 Amazon 經營的影響：5/1 日報對油價的 call 是「$108 不夠改變 ECB 6/11 決議但也不會再惡化」，5/4 當天推翻——波動性 +6% in one day、Brent 盤中觸 $129 代表戰時波動機制重啟，對 Amazon EU 招商四個層面衝擊：① 對 6/11 ECB 決議：Nagel + PMI + SPF + 今天油價 = 升息劇本 ALL 4 條件齊備——Brent Q2 末走到 $115-125 = ECB staff projections 2026 HICP 會在 3.1-3.3%（不是原本的 2.7% SPF 基準線），升息幾乎確定；② Amazon FBA 燃油附加費 Q3 可能第二次調整：4/17 已調到歐洲 1.5%、美國 3.5%，若 Brent 5 月均價 >$115，Amazon 估計 6 月底-7 月初會 announce Q3 調整（歐洲 +1.0-1.5%、美國 +1.0-2.0%），賣家 Q3 毛利要再留 3-5% buffer；③ 海運保險（war risk premium）5 月再漲 10-15%——Asia-EU container 走 Suez 路徑過 Red Sea 比過 Hormuz 安全但仍有 Houthi 風險，保險溢價 ≥5%；Asia-EU 走 Cape of Good Hope 運費漲 +€0.30-0.50/kg，Amazon FBA 入倉成本本週第二次重估；④ OPEC+ 加產是中期緩衝但 5-6 月不生效：OPEC+ 要加產的體量約 500-700k b/d，對 Hormuz 封鎖損失的 20M b/d 是九牛一毛，實質作用要 6 月末才顯現；⑤ 60 天 War Powers 死線（5 月下旬-6 月上旬）：Project Freedom + 擊沉伊朗船 = Trump 主動把美軍介入 Hormuz，Congress 如果不授權就是憲政危機，這個日期和 6/11 ECB 決議都在 6 月中旬，可能同時爆——Q3 FBA 補貨要有「前置 2 週 vs 延後 2 週」兩套預案。",
+    "action": "建議：① 招商 Q2 財務 assumption Brent 情境重設：base $110、upside $120、downside $105（5/1 原本寫的 $105-115 要往上移）；② China-EU 海運報價本週第三次重議：5 月第一週做的報價條件可能已過時，燃油 + war risk 雙漲 = 賣家每件 +€0.40-0.60，Prime Day 5/27 截止前最後談判機會；③ 對 Top 200 非 EU 賣家：空運 vs 海運的分水嶺從「$3-5/kg 溢價」拉到「$5-8/kg 溢價下空運仍有價值」，因為一艘船在 Suez 多延 10 天 = 整個 Prime Day 錯過；④ Amazon EU 招商跟 Amazon Logistics 團隊同步：Q3 FBA 費率調整的內部 heads-up 建議 5 月中旬就先跟賣家打預防針；⑤ 監控 6/3（60 天 War Powers 死線起算日估計）+ 6/5（OPEC+ 下次會議）+ 6/11（ECB）三個日期連發——任一超預期立即啟動「前置補貨 2 週」預案，不夠就轉空運。",
+    "sources": [
+      {
+        "name": "CNBC 5/4 Iran 攻擊 UAE + 油價跳升",
+        "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html"
+      },
+      {
+        "name": "Al Jazeera 5/4 Trump Project Freedom 油價反應",
+        "url": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets"
+      },
+      {
+        "name": "Mansfield Energy 5/4 油價分析",
+        "url": "https://mansfield.energy/2026/05/04/oil-holds-above-100-as-strait-of-hormuz-disruptions-persist/"
+      },
+      {
+        "name": "OilPrice 5/4 Project Freedom + OPEC+ 加產",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Launches-Project-Freedom-and-OPEC-Increases-Output.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-04",
     "type": "daily",
     "tags": [
