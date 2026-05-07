@@ -1,5 +1,95 @@
 [
   {
+    "date": "2026-05-07",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/6 Eurostat 震撼】歐元區 3 月 PPI 年增率從 -3.0% 一舉翻正到 +2.1%、單月 MoM +3.4% 爆衝：能源衝擊正式「殺」進生產者端、ECB 鷹派拿到關鍵彈藥",
+    "summary": "🇪🇺Eurostat 5/6 公布的歐元區 3 月 Producer Price Index（PPI，工業生產者出廠價）結果是 2026 年到目前為止最大的通膨 single-day shock：單月 MoM +3.4%（前月 -0.7%）、遠高於市場預期的 3.3%；年增率 YoY 從 2 月的 -3.0% 一口氣翻正到 +2.1%——這是 5.1 個百分點的季節調整後跳升，是 2022 年能源危機後最劇烈的單月反轉。歐盟（EU27）PPI 更從 -2.7% 翻正到 +2.0%。結構上最關鍵：能源價格的 YoY 變化從 -8.9% 大幅收斂（工業總體含能源）——這代表過去 15 個月因為「基期高、俄烏初期能源飆」的下行紅利完全結束，Iran 戰爭能源衝擊（Brent 從 2 月的 $75 飆到 3 月月均 $95+）不是「暫時影響消費者通膨」，而是已經系統性傳進製造業投入成本、會在 4-6 月陸續上架到商品售價。FXStreet 報導：歐元在 5/6 當天對美元上漲 0.8%、衝破兩週新高 1.1800，主因正是「hot PPI data + 美元因 Iran 和談預期走弱」。核心意涵：Nagel（5/4 鷹派）拿到了他需要的「升息之所以合理」的硬數據，Villeroy（5/5 鴿派）的「我還沒看到足夠訊號」論點被直接打臉。",
+    "impact": "對 Amazon 經營的影響：日報 5/1-5/6 追蹤 ECB 鷹鴿分裂的主軸到今天正式被 PPI 數據「仲裁」，四個招商層面直接衝擊：① 6/11 升息機率從昨天的 75-80% 立即 upgrade 回 85-90%——因為 PPI 是「投入成本到消費者物價」傳導鏈的最後一個前瞻指標，3 月 PPI +2.1% YoY 意味 5/16 將公布的 4 月 HICP 終值幾乎 lock 在 3.0% 或以上，Villeroy 的論述空間被數據封死；② EUR/USD Q2-Q3 路徑上修：今天 EUR 一舉衝 1.18，若 5/16 HICP 終值再確認 3.0%，EUR/USD 可能 Q2 末就挑戰 1.20，這對非 EU 賣家的進貨成本是雪上加霜（USD 計價商品在 EUR 市場的毛利空間再縮 1-2%）；③ 賣家的「價格傳導」壓力被合法化：3 月 PPI +3.4% MoM 意味 Q2 商品出廠成本全面上升，賣家向 Amazon 申請 price hike 的 base 獲得官方數據支持，Brand Registry 賣家可以用 PPI 數據向 Amazon 申請 ASP 上調「Pricing Error Alert」的容忍度放寬；④ Pan-EU 存貨的「滯漲成本」同步放大：Q2 進貨成本按 PPI 漲 3.4%、同時 FBA 倉儲費 6/1 微調、VAT 以 per-line-item 改制——三個成本 layer 在 Q2 末到 Q3 初疊加，建議招商本週把 Top 200 賣家的 Q3 毛利預測重跑一次（特別是家電、家具、3C 這些能源密集製造品類）；⑤ 「通膨上、需求下」的雙刃：PPI +2.1% = 生產端漲價壓力，但 4/30 公布的 HICP 3.0% + 今天 HCOB Services PMI 47.6（見新聞 2）意味消費端萎縮——這就是 stagflation 的教科書定義，對 Amazon 賣家實務意味「不能單純用漲價 cover 成本，需要 SKU mix 重整＋利潤結構調整」。",
+    "action": "建議：① 招商 Q2-Q3 財務 assumption 立即 re-lock：6/11 升息機率從 base 75% 上調到 85%、EUR/USD Q2 末預估從 1.18 上調到 1.19（upside 1.21、downside 1.17）；② Top 300 非 EU 賣家本週群發「PPI Shock briefing」：說明為什麼這週的 3 月 PPI 是「confirmed stagflation」訊號，建議賣家 Q2 末到 Q3 初的售價調整用「PPI +2.1%」作為 narrative anchor 向消費者解釋；③ 和 Pricing Operations 同步：5/6 起放寬 Brand Registry 賣家 pricing error alert 的容忍度（能源密集品類 +3-5% ASP 上調不觸發警報），用 PPI 數據當官方背書；④ 監控 5/8 ECB 4/30 會議紀要（Account）——若紀要顯示 hawks 已有明確多數，PPI + Account 雙確認下 6/11 升息變 90%+；⑤ 5/16 HICP 終值為最終仲裁點：若 ≥ 3.0% 升息板上釘釘、招商 Q3 全面轉「高利率+高通膨」情境；若 ≤ 2.8% 則 Villeroy 仍能翻盤、Q3 延後升息情境保留。",
+    "sources": [
+      {
+        "name": "AIMS FX 5/6 歐元區 3 月 PPI 超預期分析",
+        "url": "https://aimsfx.com/2026/05/06/euro-areas-producer-price-index-for-march-2026-exceeds-expectations-signaling-inflationary-pressures/"
+      },
+      {
+        "name": "Trading Economics Euro Area PPI 完整歷史",
+        "url": "https://tradingeconomics.com/euro-area/producer-prices-change"
+      },
+      {
+        "name": "Eurostat sts_inpp_m 原始資料（資料更新 2026/05/05 09:00 CEST）",
+        "url": "https://ec.europa.eu/eurostat/databrowser/view/sts_inpp_m/default/table"
+      },
+      {
+        "name": "FXStreet 5/6 Euro rallies amid hot Eurozone PPI",
+        "url": "https://www.fxstreet.com/news/euro-rallies-amid-higher-risk-appetite-and-hot-eurozone-inflation-data-202605060956"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-07",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/6 HCOB 終值公布】歐元區 4 月 Composite PMI 48.8（17 個月新低）、Services 47.6（62 個月新低／5+ 年）：EU5 分化確立——西班牙服務業驟降 47.9 創近四年新低（預期 52.0）、德國 46.9、法國 46.5，只有義大利 49.8 逆勢 beat",
+    "summary": "🇪🇺🇩🇪🇫🇷🇪🇸🇮🇹S&P Global / HCOB 5/6 公布歐元區 4 月 Composite PMI 終值 48.8（3 月 50.7），17 個月以來首次跌破 50 擴張線；同步的 Services PMI 終值 47.6（3 月 50.2、flash 47.4），62 個月（5 年 2 個月）新低，是 2021/2 以來最深的服務業收縮。S&P 首席經濟學家 Chris Williamson 用詞極重：「歐元區經濟在 Q2 開端正在滑入 stagflation」（the final eurozone PMI data confirm signs of an economy slipping into decline during April）。更震撼的是 EU5 國別分化：① 西班牙 Services PMI 暴跌到 47.9（3 月 53.3），市場預期 52.0，大幅 miss 4.1 pp——這是自 2022 年初以來最低、自 2023 年 8 月以來首次跌破 50；S&P 直接點出「中東戰爭」是主因；② 德國 Services PMI final 46.9（3 月 50.9），近 3 年半最深收縮；③ 法國 Services 46.5（3 月 48.0），持續深度收縮；④ 義大利 Services PMI 49.8 逆勢大 beat 市場預期 47.6——雖然仍在 50 下方、但是 EU5 中唯一接近擴張的經濟體。Output Charges inflation 在服務業 hit 2 年新高、Composite input cost inflation hit 40 個月新高，完全印證新聞 1 的 PPI +2.1% 傳導圖。S&P：「就業在服務業連續兩個月零成長——這是自 2020 年底以來首次連續缺乏增員」。",
+    "impact": "對 Amazon 經營的影響：這是「西班牙神話破碎 + 義大利意外 shelter」的國別 rebalance 關鍵信號，五個招商層面衝擊：① Amazon.es 招商 priority 必須下修：西班牙過去 12 個月是 EU5 consumer 的「最後堡壘」（2025 全年 GDP +2.8%、遠高於歐元區均值），本次服務業一口氣從 53.3 掉到 47.9（4.1pp miss 是歷年罕見），招商 pitch 對 Spanish 本土賣家要降低「本地消費成長」的期待、改強調「cross-border 擴張（DE/IT）才是 Q2-Q3 維持業績的路徑」；② Amazon.it 升格為 EU5 招商 top priority：義大利 Services 49.8 beat + 新聞 3 ISTAT 3 月零售 +0.8% MoM（大幅 beat 預期 -0.4%）是雙確認的「EU5 唯一 shelter」信號——這和 Meloni 政府 4/26 減稅政策的時間點相吻合，招商 Q3 應該義大利 outreach 加碼 20-30%，特別是家電、時尚、美妝這幾個義大利傳統強勢品類；③ 德國招商敘事轉守：Germany Composite 48.4（3 月 51.9）+ Services 46.9（3.5 年新低）+ GfK -33.3 + 3 月零售 -2.0% 連串數據證實 Q2 德國消費「深冬」延續，招商 Q3 KPI 要對 Amazon.de 下修 3-5pp，大件 discretionary（家具、家電、戶外）受壓最大；④ 法國招商 narrative 要分化：Services 46.5 持續收縮但比德國好一點、Q1 GDP 0.1% 已先見底，招商重點從「消費增長」轉為「必需品 + 電商 shelter」——Amazon.fr 在食品、pet、personal care 這幾類必需品的 Q3 share of wallet 反而可能提升；⑤ ECB 6/11 決議的戲劇張力升高：PPI +2.1% 背書鷹派、Services 47.6 背書鴿派——Lagarde 6/11 面對的是「通膨 vs 衰退」二選一，這是 2022 年以來最難的決策——若升息 25bp，服務業再下探；若 hold，通膨預期螺旋啟動。招商內部情境預案要雙軌（升 vs hold）都準備到 95% ready。",
+    "action": "建議：① Q3 EU5 招商 priority 重排：義大利 (1↑) > 德國 (2→) > 法國 (3→) > 西班牙 (4↓) > 荷蘭 (5→)——義大利招商資源本週立即 +20% 加碼，西班牙資源抽 10% 轉義大利；② Top 100 西班牙賣家本週 1:1 發「4 月 PMI shock」briefing：重點說明為什麼 Q2 西班牙本地消費動能下修、建議賣家優先做 Pan-EU 擴張（跨到義大利/德國）當避險；③ 義大利招商 pitch 加入「4 月 PMI + 3 月零售雙確認 = Italy 為 EU5 shelter」narrative，搭配 Prime Day 6/23-25 的 deal scheduling 機會；④ 德國招商從「consumer growth」敘事徹底轉向「電商 shelter」「必需品 share of wallet 上升」，對大件 discretionary 賣家建議減庫存；⑤ 5/16 HICP 終值 day 全站監控——若 ≥ 3.0% 啟動「升息+衰退」雙壓情境（最黑暗情境）；若 ≤ 2.8% 啟動「升息延後、衰退先行」較可控情境。",
+    "sources": [
+      {
+        "name": "S&P Global 5/6 HCOB Eurozone Composite PMI 終值 48.8 / Services 47.6 官方新聞稿（embargoed 10:00 CEST）",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/e189dc5785424a6f9dd3384266699426"
+      },
+      {
+        "name": "investingLive 5/6 德國終值 Services 46.9 / Composite 48.4",
+        "url": "https://investinglive.com/news/germany-april-final-services-pmi-469-vs-469-prelim-20260506/"
+      },
+      {
+        "name": "S&P Global 5/6 Spain Services PMI 47.9 原文（first contraction since Aug 2023, lowest since early 2022）",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/b63e231d1d694b1592a0dddba0369bbb"
+      },
+      {
+        "name": "Trading Economics 西班牙 Services PMI 歷史對照",
+        "url": "https://tradingeconomics.com/spain/services-pmi"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-07",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【5/6 ISTAT 公布】義大利 3 月零售銷售 +0.8% MoM 大幅 beat 預期 -0.4%、YoY +3.7% 創近一年新高、線上銷售年增 +11.2%：Meloni 減稅紅利 + Amazon.it 招商黃金窗口正式打開",
+    "summary": "🇮🇹🇪🇺義大利 ISTAT 5/6 上午 8:00 公布 3 月零售銷售數據：單月 MoM 零售銷售 +0.8% in value / +0.7% in volume，反轉 2 月的 -0.1%、市場預期是 -0.4%（大幅 beat 1.2 pp）——這是 2025/4 以來最強的單月增長。YoY 年增率 +3.7% in value / +2.1% in volume（2 月為 +1.6%），食品類 +4.3%、非食品 +3.3%。最關鍵：線上銷售 YoY +11.2%、大幅領先實體通路（總體 +3.7%）、小型零售店 +3.1% 僅次於大型連鎖。義大利電商對實體零售的領先幅度（11.2% vs 3.7% = 7.5 個百分點）是 EU5 最大。同日義大利 4 月 HICP 終值 +1.7% YoY（遠低於歐元區均值 3.0%）+ 4 月 Services PMI 49.8 逆勢 beat 47.6 預期（見新聞 2）= 義大利是 EU5 中唯一「低通膨 + 強消費 + 服務業接近擴張」的經濟體。背景：Meloni 政府 4/26 剛公布 2026 年第二階段減稅案（中產階級所得稅下調）、配合歐元區能源衝擊下義大利對 Russian gas 依賴度低於德國，形成短期 shelter。",
+    "impact": "對 Amazon 經營的影響：今天的 ISTAT 零售數據 + HCOB PMI（新聞 2）雙確認義大利是 EU5 Q2 的「黃金 shelter」，四個招商層面直接機會：① Amazon.it 的「線上領先實體 +7.5 pp」是 EU5 最大 tailwind：德國 3 月線上 +3.0% vs 總體 -2.0%（5.0 pp 差）、法國 3 月部分 +5-7% 差、義大利 +7.5 pp 差——招商對 Amazon.it 新賣家的「線上份額持續上升」story 有了硬數據，Q3 招商 pitch 應該把這個 differentiator 放在第一頁；② 義大利跨境招商（從 DE/ES/FR 賣家擴進 .it）是 Q2-Q3 最確定的 ROI：招商 pitch 可以告訴 Pan-EU 賣家：「當德國 -2.0%、西班牙服務業 -4.1 pp miss 時，義大利 +0.8% + 線上 +11.2%——Pan-EU 擴張到 Amazon.it 等於用已鋪好的庫存+物流吃到 EU5 唯一成長的消費市場」；③ 本地 Amazon.it 賣家的 Prime Day 6/23-25 機會最大：義大利消費者 4-5 月看到減稅 take-home + 低通膨 1.7% 的 disposable income 紅利、同時本地服務業（餐飲、旅遊）收縮 = 消費預算往實物商品移轉，Prime Day 6 月義大利站的 conversion rate 預估比 EU5 均值高 20-30%——招商本週立即對義大利 Top 200 賣家全面 outreach「deal scheduling 5/26 截止前敲 slot」；④ Seller Mix tilt：義大利強勢類別 Q3 overweight：食品雜貨（+4.3% YoY）、家電/音響（+5.6% YoY in Feb data 是 ISTAT trend）、家居（小型零售 +3.1% 暗示中價位家居轉線上機會）、小眾時尚（鞋類例外 -0.2% 避開）——招商 Q3 pipeline 對義大利站這四類新賣家 acquisition target 加碼 15-25%；⑤ 招商財務 assumption 調整：Amazon.it Q3 GMV 內部 forecast 從原本 YoY +8-10% 上調到 +12-15%（beat 整體 EU5 +3-5% 的預期）。",
+    "action": "建議：① 義大利招商資源本週立即 +20-25%：從西班牙/德國抽人力給 Amazon.it 團隊，特別是食品雜貨、家電音響、家居、線上時尚這四類；② Top 200 義大利本土賣家本週 1:1：訊息「4 月 PMI 49.8 + 3 月零售 +0.8% + HICP 僅 1.7% = Prime Day 6/23-25 義大利站是 EU5 最確定的 conversion windfall，deal scheduling 5/26 截止前敲 slot」；③ Pan-EU 跨境招商對 DE/FR/ES 大賣家 pitch：「Amazon.it 是你現有 Pan-EU 物流網路的零成本擴張」+「義大利線上對實體領先 +7.5 pp 是 EU5 最大」；④ 內部 Amazon.it Q3 GMV forecast 從 +8-10% 上調到 +12-15%，相對應倉儲容量、FBA 補貨 cap 要同步 scale up；⑤ 監控 5/28 ISTAT 4 月 Consumer Confidence 是否延續強勢、5/16 義大利 4 月 HICP 是否仍維持低位——若 4 月 HICP 超過 2.0% 就代表義大利 shelter 開始裂縫、需要重新評估。",
+    "sources": [
+      {
+        "name": "RTT News 5/6 Italy Retail Sales +0.8% MoM（fastest since April 2025）",
+        "url": "https://www.rttnews.com/3647865/italy-retail-sales-rebound-0-8-in-march.aspx"
+      },
+      {
+        "name": "Trading Economics Italy Retail Sales YoY 歷史對照",
+        "url": "https://tradingeconomics.com/italy/retail-sales-annual"
+      },
+      {
+        "name": "Cibus Link 5/6 義大利 Q1 零售分析（線上 +11.2% YoY、小型零售 +3.1%）",
+        "url": "https://cibuslink.it/en/Retail-sales-rise-in-the-first-quarter-as-supermarkets-and-groceries-boost-the-Italian-market/"
+      },
+      {
+        "name": "ISTAT Italy CPI March 2026 Final (+1.7% YoY)",
+        "url": "https://www.istat.it/en/press-release/consumer-prices-march-2026-2/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
     "date": "2026-05-06",
     "type": "daily",
     "tags": [
