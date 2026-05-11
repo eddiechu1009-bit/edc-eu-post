@@ -98,8 +98,9 @@ def parse_daily_report(filepath):
             'tags': [],
             'title': '',
             'summary': '',
-            'impact': '',
-            'action': '',
+            # NOTE: impact / action 為內部招商分析，不對外公開。
+            # 未來若要在公開站顯示「對賣家影響 / 建議」，改從日報的「公開版」欄位解析；
+            # 此處刻意不解析 impact / action，避免內部 pitch 被推到公開網站。
             'sources': [],
             'color': COLOR_CYCLE[i % len(COLOR_CYCLE)]
         }
@@ -125,23 +126,8 @@ def parse_daily_report(filepath):
         if summary_match:
             article['summary'] = extract_text(summary_match.group(1)).strip()
 
-        # 提取 Impact
-        impact_match = re.search(r'class="impact"[^>]*>(.*?)</div>', block, re.DOTALL)
-        if not impact_match:
-            impact_match = re.search(r'Impact:?</(?:strong|span)>\s*(.*?)</(?:div|td)>', block, re.DOTALL)
-        if impact_match:
-            text = extract_text(impact_match.group(1)).strip()
-            text = re.sub(r'^[🎯\s]*(?:Impact:?\s*)?', '', text)
-            article['impact'] = text
-
-        # 提取 Action
-        action_match = re.search(r'class="action"[^>]*>(.*?)</div>', block, re.DOTALL)
-        if not action_match:
-            action_match = re.search(r'Action:?</(?:strong|span)>\s*(.*?)</(?:div|td)>', block, re.DOTALL)
-        if action_match:
-            text = extract_text(action_match.group(1)).strip()
-            text = re.sub(r'^[✅\s]*(?:Action:?\s*)?', '', text)
-            article['action'] = text
+        # NOTE: 此處刻意不提取 impact / action 欄位（內部招商分析，不對外）。
+        # 日報 HTML 仍保留完整內部欄位，這裡只是 build 到公開站時過濾掉。
 
         # 提取來源
         source_links = re.findall(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', block)
@@ -196,8 +182,7 @@ def parse_weekly_report(filepath):
             'tags': [],
             'title': '',
             'summary': '',
-            'impact': '',
-            'action': '',
+            # NOTE: 不對外輸出 impact / action（內部招商分析）
             'sources': [],
             'color': COLOR_CYCLE[i % len(COLOR_CYCLE)]
         }
@@ -218,15 +203,7 @@ def parse_weekly_report(filepath):
         if summary_match:
             article['summary'] = extract_text(summary_match.group(1)).strip()
 
-        # 提取 Impact
-        impact_match = re.search(r'(?:賣家影響：|Impact：?)(.*?)(?:</div>|</td>)', block, re.DOTALL)
-        if impact_match:
-            article['impact'] = extract_text(impact_match.group(1)).strip()
-
-        # 提取 Action
-        action_match = re.search(r'(?:Action：?)(.*?)(?:</div>|</td>)', block, re.DOTALL)
-        if action_match:
-            article['action'] = extract_text(action_match.group(1)).strip()
+        # NOTE: 週報的 impact / action 同樣不對外輸出
 
         # 提取來源
         source_links = re.findall(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', block)
@@ -277,6 +254,26 @@ def main():
 
     # 按日期排序（最新在前）
     all_articles.sort(key=lambda a: a['date'], reverse=True)
+
+    # ── 公開站內容檢查：title / summary 不該出現內部招商詞 ──
+    # 這些詞出現在公開欄位通常代表日報寫作時把內部視角寫進了對外標題/摘要。
+    # build.py 不會擋，但會列印警告讓你早期發現並回去修日報原檔。
+    INTERNAL_TERMS = ['招商', 'pitch', 'Top 100 賣家', 'Top 200 賣家', 'Top 300 賣家',
+                      'Top 500 賣家', 'Top 1000', '內部 forecast', '內部 KPI']
+    warnings = []
+    for a in all_articles:
+        hit_title = [t for t in INTERNAL_TERMS if t in a.get('title', '')]
+        hit_summary = [t for t in INTERNAL_TERMS if t in a.get('summary', '')]
+        if hit_title or hit_summary:
+            where = []
+            if hit_title: where.append(f"title:{hit_title}")
+            if hit_summary: where.append(f"summary:{hit_summary}")
+            warnings.append(f"  ⚠ {a['date']} - {a['title'][:60]}... → {', '.join(where)}")
+    if warnings:
+        print("\n⚠ 內部詞警告：以下公開欄位出現內部招商詞，請回去修源日報 HTML：")
+        for w in warnings:
+            print(w)
+        print()
 
     # 輸出 JSON
     output_path = os.path.join(output_dir, 'articles.json')
