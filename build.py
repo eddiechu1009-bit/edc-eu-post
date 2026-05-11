@@ -98,9 +98,10 @@ def parse_daily_report(filepath):
             'tags': [],
             'title': '',
             'summary': '',
-            # NOTE: impact / action 為內部招商分析，不對外公開。
-            # 未來若要在公開站顯示「對賣家影響 / 建議」，改從日報的「公開版」欄位解析；
-            # 此處刻意不解析 impact / action，避免內部 pitch 被推到公開網站。
+            # 公開版欄位（從日報 HTML 的 <!-- public-impact --> / <!-- public-action --> 註解塊擷取）
+            # 內部的 impact / action div 為 Amazon 招商分析，不對外公開，此處刻意不解析。
+            'public_impact': '',
+            'public_action': '',
             'sources': [],
             'color': COLOR_CYCLE[i % len(COLOR_CYCLE)]
         }
@@ -126,8 +127,21 @@ def parse_daily_report(filepath):
         if summary_match:
             article['summary'] = extract_text(summary_match.group(1)).strip()
 
-        # NOTE: 此處刻意不提取 impact / action 欄位（內部招商分析，不對外）。
-        # 日報 HTML 仍保留完整內部欄位，這裡只是 build 到公開站時過濾掉。
+        # 提取公開版 impact / action（HTML 註解塊格式）
+        # 範例：<!-- public-impact\n對跨境賣家的影響：...\n-->
+        public_impact_match = re.search(
+            r'<!--\s*public-impact\s*(.*?)\s*-->', block, re.DOTALL
+        )
+        if public_impact_match:
+            article['public_impact'] = public_impact_match.group(1).strip()
+
+        public_action_match = re.search(
+            r'<!--\s*public-action\s*(.*?)\s*-->', block, re.DOTALL
+        )
+        if public_action_match:
+            article['public_action'] = public_action_match.group(1).strip()
+
+        # NOTE: 不解析 .impact / .action div（內部招商分析欄位，不對外公開）
 
         # 提取來源
         source_links = re.findall(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', block)
@@ -182,7 +196,9 @@ def parse_weekly_report(filepath):
             'tags': [],
             'title': '',
             'summary': '',
-            # NOTE: 不對外輸出 impact / action（內部招商分析）
+            # 公開版欄位（從週報 HTML 的 <!-- public-impact --> / <!-- public-action --> 註解塊擷取）
+            'public_impact': '',
+            'public_action': '',
             'sources': [],
             'color': COLOR_CYCLE[i % len(COLOR_CYCLE)]
         }
@@ -203,7 +219,20 @@ def parse_weekly_report(filepath):
         if summary_match:
             article['summary'] = extract_text(summary_match.group(1)).strip()
 
-        # NOTE: 週報的 impact / action 同樣不對外輸出
+        # 提取公開版註解塊
+        public_impact_match = re.search(
+            r'<!--\s*public-impact\s*(.*?)\s*-->', block, re.DOTALL
+        )
+        if public_impact_match:
+            article['public_impact'] = public_impact_match.group(1).strip()
+
+        public_action_match = re.search(
+            r'<!--\s*public-action\s*(.*?)\s*-->', block, re.DOTALL
+        )
+        if public_action_match:
+            article['public_action'] = public_action_match.group(1).strip()
+
+        # NOTE: 不解析週報內部的 impact / action div（招商分析，不對外）
 
         # 提取來源
         source_links = re.findall(r'<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>', block)
@@ -255,25 +284,42 @@ def main():
     # 按日期排序（最新在前）
     all_articles.sort(key=lambda a: a['date'], reverse=True)
 
-    # ── 公開站內容檢查：title / summary 不該出現內部招商詞 ──
-    # 這些詞出現在公開欄位通常代表日報寫作時把內部視角寫進了對外標題/摘要。
+    # ── 公開站內容檢查：title / summary / public_impact / public_action 不該出現內部招商詞 ──
+    # 這些詞出現在公開欄位通常代表日報寫作時把內部視角寫進了對外內容。
     # build.py 不會擋，但會列印警告讓你早期發現並回去修日報原檔。
-    INTERNAL_TERMS = ['招商', 'pitch', 'Top 100 賣家', 'Top 200 賣家', 'Top 300 賣家',
-                      'Top 500 賣家', 'Top 1000', '內部 forecast', '內部 KPI']
+    INTERNAL_TERMS = ['招商', 'Top 100 賣家', 'Top 200 賣家', 'Top 300 賣家',
+                      'Top 500 賣家', 'Top 1000', '內部 forecast', '內部 KPI',
+                      '內部 briefing', 'Brand Registry 賣家', '對 Amazon 經營',
+                      'Amazon Lending', 'VCS 註冊', '招商 pitch', '招商 pipeline',
+                      '招商 priority', '招商 target']
     warnings = []
     for a in all_articles:
         hit_title = [t for t in INTERNAL_TERMS if t in a.get('title', '')]
         hit_summary = [t for t in INTERNAL_TERMS if t in a.get('summary', '')]
-        if hit_title or hit_summary:
+        hit_pi = [t for t in INTERNAL_TERMS if t in a.get('public_impact', '')]
+        hit_pa = [t for t in INTERNAL_TERMS if t in a.get('public_action', '')]
+        if hit_title or hit_summary or hit_pi or hit_pa:
             where = []
             if hit_title: where.append(f"title:{hit_title}")
             if hit_summary: where.append(f"summary:{hit_summary}")
+            if hit_pi: where.append(f"public_impact:{hit_pi}")
+            if hit_pa: where.append(f"public_action:{hit_pa}")
             warnings.append(f"  ⚠ {a['date']} - {a['title'][:60]}... → {', '.join(where)}")
     if warnings:
         print("\n⚠ 內部詞警告：以下公開欄位出現內部招商詞，請回去修源日報 HTML：")
         for w in warnings:
             print(w)
         print()
+
+    # 公開版覆蓋率統計
+    with_public = sum(1 for a in all_articles if a.get('public_impact') or a.get('public_action'))
+    if all_articles:
+        print(f"\n📊 公開版欄位覆蓋率：{with_public}/{len(all_articles)} 則 "
+              f"({100*with_public//len(all_articles)}%)")
+        if with_public < len(all_articles):
+            missing = len(all_articles) - with_public
+            print(f"   其餘 {missing} 則為舊日報（未加 public-impact / public-action 註解塊），")
+            print(f"   公開站只顯示 title + summary + sources。")
 
     # 輸出 JSON
     output_path = os.path.join(output_dir, 'articles.json')
