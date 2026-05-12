@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-05-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/11 週一 AM → 全日】Trump 於 Truth Social 直斥 Iran 和平提案「totally unacceptable」、Hormuz 封鎖延長確立：Brent 盤中衝 $105.50 收 $104.88（+3.54%）、WTI 跳 $99.19（+3.95%）、Aramco CEO：「2 個月來全球已失去 10 億桶供應」",
+    "summary": "🇺🇸🇮🇷🇪🇺週末 5/10 Iran 遞出對 US 提案的 counter-proposal（要求美方賠償、停止海軍封鎖），5/11 週一上午 Trump 在 Truth Social 公開定調「Iran's response to peace plan is totally unacceptable」、拒絕繼續談判（Washington Post / Angel One / Bloomberg / Duncan Oil 同步）—— 昨日日報 flag 的「Hormuz 軟重啟可能」被直接推翻。市場反應：Brent 7 月期貨盤中衝上 $105.50 intraday high、收 $104.88（+$3.59、+3.54%）；WTI 6 月期貨衝 $99.89、收 $99.19（+$3.77、+3.95%）；較 5/9 週五收盤 $101.47（Brent）及昨日報告 flag 的 $101-102 區間跳 3 個百分點以上。Aramco CEO Amin Nasser 5/11 公開：「過去 2 個月全球已失去近 10 億桶供應、即使正常運輸恢復、市場也需要相當時間才能穩定」。shipping data 同步揭露：額外數艘油輪「關閉 AIS 追蹤系統」強行通過 Hormuz（對應昨日 LA Times 報導的 ship-to-ship 轉運、印證「走私通過」已成常態）。下一步：Trump 5/13-15 訪北京（見新聞 2），市場預期 Xi 或可居中施壓 Iran 達成階段性停火。Goldman Sachs 前週情境：「若 Hormuz 封鎖延續到 5 月中」則 Brent 可衝 $115-130、WTI 突破 $100。5/11 價格已上緣逼近 Goldman 的「延續封鎖」情境、Brent Q2 實際 base 從昨日 $100-105 上修到 $105-115。",
+    "public_impact": "對跨境賣家的影響：Trump 5/11 於 Truth Social 公開拒絕 Iran 和平提案、稱回應「totally unacceptable」，Hormuz 封鎖延長確立，Brent 7 月期貨單日 +3.54% 衝 $104.88、WTI +3.95% 衝 $99.19。油價 Q2-Q3 base 從 $100-105 上修到 $105-115 的結構性新常態。對跨境賣家的三層影響：第一層是能源／物流成本——中-EU 海運 FCL 報價 Q3 預估 +15-20%，Rotterdam / Hamburg 港到岸費用 Q3 +10-15%，空運 / 快遞燃料附加費 Q3 +3-5%；第二層是匯率——EUR/USD 5/11 盤中回測 1.17、USD 重返 risk-off 首選，對美出口的 EU 賣家 Q2-Q3 USD 收益 -1-2%；第三層是需求端——Brent $100+ 對歐洲家庭可支配所得的擠壓，消費 trade-down 加劇，高價位品類（>€200 大件家電、家具）Q3 銷售壓力加大。Aramco CEO 5/11 定性「2 個月已失去 10 億桶全球供應」首度揭示完全恢復需要幾個月而非幾週，2027 Q1 的物流 / 3PL rate card 預期也應同步上調 5-10%。",
+    "public_action": "賣家建議：① 對歐出口賣家 Q3 油價情境 base 上修到 Brent $110、upside $130、downside $95；② 使用 FBA 的賣家預期 Q3 燃料附加費上調 3-5%，建議在售價結構內先預留緩衝；③ 中-EU 海運賣家 Prime Day 2026 補貨必須在 5/20 前完成 80% inbound、5/27 AWD 截止為最後補貨窗口；④ 匯率 hedging：EUR/USD base 1.17、對美出口賣家評估 Q3 USD 收款提前鎖匯；⑤ SKU mix 調整：<€30 低客單價 Q3 佔比 +10%、>€200 大件品類 Q3 forecast -3-5%；⑥ 監控節點：5/13-15 Trump 訪京（中介 Iran 可能性）、5/15 IEA May Oil Market Report、5/20 可能 Iran-US 非正式接觸、6/3 War Powers 死線、6/11 ECB 決議；⑦ 高價位品類對美銷售依賴 >50% 的賣家評估 Q3 把 5-10% 預算轉向 EU 內部跨境（見新聞 4 UK 市場警訊、德義西 non-food 分化）。",
+    "sources": [
+      {
+        "name": "Angel One 5/11 Crude Oil Prices Surge as US-Iran Peace Talks Fail（Brent $104.88、WTI $99.19、Aramco「失去 10 億桶」）",
+        "url": "https://www.angelone.in/news/commodities/crude-oil-prices-surge-as-us-iran-peace-talks-fail-to-deliver-breakthrough-may-11-2026"
+      },
+      {
+        "name": "Bloomberg 5/11 Oil Jumps as Trump Rebuffs Iran's Offer（Daybreak Europe）",
+        "url": "https://www.bloomberg.com/news/videos/2026-05-11/oil-jumps-as-trump-rebuffs-iran-s-offer-video"
+      },
+      {
+        "name": "Washington Post 5/11 Trump calls Iran's response to peace plan 'unacceptable'",
+        "url": "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/"
+      },
+      {
+        "name": "Invezz 5/10 Brent crude oil forecast as Iran delays response to US Hormuz proposal",
+        "url": "https://invezz.com/ca/news/2026/05/10/brent-crude-oil-forecast-as-iran-delays-response-to-us-hormuz-proposal/"
+      },
+      {
+        "name": "Duncan Oil 5/11 5:30 AM EDT Brent $103.77 +2.45% 盤中即時引用",
+        "url": "https://www.facebook.com/DuncanOilCompany/posts/as-of-530-am-edt-on-may-11-2026-crude-oil-prices-are-surging-following-donald-tr/1391544236333260/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/11 Reuters / AOL 最新】Goldman Sachs 把 Fed 降息預期延後到 12 月 2026 / 3 月 2027（原本 9 月 + 12 月 2026）：能源成本 pass-through 讓核心 PCE 整年接近 3% vs Fed 2% 目標；4/29 Fed 8-4 分裂鷹派投票（1992 以來最接近）、CME FedWatch 9 月降息機率跌至個位數、6/17 FOMC 不降息機率 93.4%",
+    "summary": "🇺🇸🇪🇺Goldman Sachs US 經濟學家團隊 5/8 發布 note、Bloomberg 5/9 獨家首發、Reuters 5/11 全球轉載（AOL / ET / Yahoo Finance 接力）：把 Fed 下兩次降息預期延後整整一季—— 從原 outlook「2026/9 + 2026/12」調整為「2026/12 + 2027/3」。核心論據 3 點：（i）能源成本 pass-through：年化核心 PCE 通膨 2026 整年維持接近 3%、遠高於 Fed 的 2% 目標—— 這與新聞 1 油價 $105+ 結構性新常態直接對應；（ii）勞動市場未充分降溫：4 月非農 +115K（vs 預期 55-62K）、3M 均值 48K 雖弱但撐住 4.3% 失業率（昨日日報新聞 3）—— Fed 沒有足夠 dovish 理由；（iii）4/29 FOMC 分裂 8-4 鷹派投票 = 1992 年以來最接近、4 位 dissenter 偏鷹。Goldman US 經濟學家 Lindsay Rosner：「6/17 FOMC 鷹派將主導、若勞動市場本年未充分降溫、則 2027 兩次降息取代 2026」。CME FedWatch：6/17 不降息機率升至 93.4%（vs 前一週 88%）、Fed funds rate Q4 end-year 維持 3.50-3.75% 機率 85%+、9 月首次降息預期已從 80% 降到個位數（cryptobriefing 數據）。系列同步：BofA 5/10、JPMorgan 5/9、UBS 5/10 皆同步下修降息預期，「全球券商紛紛 split 降息 or 不降息」格局成形。Goldman Sachs 副產品：2027 Q4 若勞動市場真走弱、升息機率達 44%（cryptobriefing AI summary、需審慎引用、但方向確立）—— Fed hike 重回桌面。",
+    "public_impact": "對跨境賣家的影響：Goldman Sachs 5/8 發布、Reuters 5/11 全球轉載：把美國 Fed 下兩次降息預期從「9 月 + 12 月 2026」延後整整一季到「12 月 2026 + 3 月 2027」。核心依據：能源成本 pass-through 讓核心 PCE 通膨整年維持接近 3%、4/29 FOMC 8-4 鷹派分裂投票（1992 以來最接近）、4 月非農 +115K 沒給 Fed 降息理由。CME FedWatch：6/17 FOMC 不降息機率升至 93.4%、年底 Fed funds rate 維持 3.50-3.75% 機率 85%+。三層跨境影響：第一層匯率——EUR/USD Q3 base 從 1.17 下修到 1.16，對美出口 EU 賣家 Q3 USD 換 EUR 毛利再 -2-3%；第二層利率——美國短期信貸成本維持 8-10%+，在美有融資或週轉需求的賣家 Q3 現金流壓力持續；第三層消費端——美國核心 PCE 3% = 消費者 real wage 實質負成長，低價位（<$25）為王、Prime Day 2026（6/23-25）對高客單價 SKU（>$80）不利。同步訊號：BofA、JPMorgan、UBS 皆於 5/10-11 下修降息預期，「全球券商鷹派陣線」成形。",
+    "public_action": "賣家建議：① EUR/USD Q3 base 下修 1.16、跨境賣家重做 Q3-Q4 收益 forecast；② 在美國市場有融資需求的賣家，Q3 評估歐元區本地歐元信貸替代方案以對沖美國高利率；③ Prime Day 2026 SKU mix：Amazon.com 入美的 EU 賣家 <$25 商品佔比 Q3 上調 20%、>$80 高價位 Q3 不擴產；④ 關注 Fed hike back 情境：2027 Q1-Q2 若真升息、美國 BBB 信貸 spread +50bp，賣家提前鎖利或調整融資結構；⑤ ECB 6/11 升息機率預期下修（因 Fed 鷹派減輕 ECB 對美利差壓力）、5/13 Villeroy 卸任 farewell 是關鍵 dovish 觀察點；⑥ 時程監控：5/13 Villeroy farewell、5/16 HICP 4 月終值、5/22 德國 Ifo、6/11 ECB 決議、6/17 FOMC 不降息確認日。",
+    "sources": [
+      {
+        "name": "AOL / Reuters 5/11 Goldman Sachs delays Fed cut outlook to December 2026 as Iran war drives US inflation",
+        "url": "https://www.aol.com/articles/goldman-sachs-delays-fed-cut-052905000.html"
+      },
+      {
+        "name": "Bloomberg 5/9 Goldman Sees Fed Cuts Delayed to December, March on Inflation（首發獨家）",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-09/goldman-sees-fed-cuts-delayed-to-december-march-on-inflation"
+      },
+      {
+        "name": "Seeking Alpha 5/9 Goldman forecast for Fed rate cuts delayed on inflation",
+        "url": "https://seekingalpha.com/news/4590241-goldman-forecast-fed-rate-cuts-delayed"
+      },
+      {
+        "name": "Yahoo Finance 5/10 Goldman Sachs Sees Fed on Hold Longer, Pencils In December Rate Cut（CME FedWatch 93.4% 數據）",
+        "url": "https://finance.yahoo.com/economy/policy/articles/goldman-sachs-sees-fed-hold-112602629.html"
+      },
+      {
+        "name": "Economic Times 5/11 Goldman Sachs delays Fed cut outlook to December 2026（Reuters 轉載全文）",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation/amp_articleshow/131005172.cms"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-12",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【5/7 起、5/11 媒體消化 + 德國 ADV 同步】Alexa+ 德國 + 奧地利 Early Access 正式啟動：Prime 會員免費、非 Prime €22.99/月、本地化含德式俚語（「läuft」「passtschon」）＋ OpenTable 訂位 ＋ BMW iX3 車載整合；Spain 4/23、Italy 4/15 已上線、EU5 中法國仍缺；Amazon EU voice commerce 生態成形中",
+    "summary": "🇩🇪🇦🇹🇪🇺Amazon 5/7 官方 blog（aboutamazon.com 作者 Emily Murray 5 min read）＋ Amazon Germany 5/7 德語公告、5/11-12 德國主流科技媒體（Basic Tutorials、Matter Smarthome、Heise、noz.de、netzwelt）和英文科技媒體（Thurrott、Teltarif、ZDNET）全面接力報導：Alexa+ 德國 + 奧地利 5/7 Early Access 啟動（繼 2026/3/19 UK、4/15 Italy、4/23 Spain 之後的 EU4 上線）、EU5 中唯法國尚未宣布。訂價：Early Access 期間免費 / 後續 Prime 會員免費內含 / 非 Prime €22.99 / 月（UK 為 £19.99、Mexico MXN 399、Canada CAD 27.99）。本地化深度：完整德語 LLM + 德式俚語理解（「läuft」「mussja」「passtschon」）、德國飲食文化 context（「中午 12 點後不吃白香腸」、Berliner / Krapfen / Pfannkuchen 區分）、1000+ 本地廣播電台（ARD Sounds / RTL Radio / Radio FFH）、新聞源 ARD / BILD / Der Spiegel。合作夥伴：OpenTable（訂餐廳）、Amazon Music、Spotify、Philips、Bosch、Siemens Home Appliances、Ring、年內加入 The Fork / Tripadvisor；Q3 新增 Kinoheld（電影票）、GMX、Web.de（email / 雲端）。重磅整合：BMW iX3 德國版 4 月中已 ship with Alexa+ 德語版、既有 BMW 車主 6 月 OTA 升級支援、Q3-Q4 陸續擴展到其他 BMW 車型（Matter Smart Home 5/7）。硬體綁定：新購 Echo Show 8 / Echo Show 11 / Echo Dot Max / Echo Studio 自動啟用 Alexa+、既有 Echo 使用者需要申請 invite。行動能力（vs 傳統 Alexa）：自主預約 OpenTable 餐廳、寫 email、訂票、跨裝置延續對話（Echo → app → laptop browser）、smart home 推斷式操作（「我冷」= 自動調高溫）。Amazon 公告同步：Alexa+ 目前已覆蓋美、加、墨、英、義、西、德、奧；UK Daniel Rausch（Amazon Alexa / Echo VP）CES 2026：「Alexa+ 9 個月內累積 tens of millions of users」。",
+    "public_impact": "對跨境賣家的影響：Alexa+（Amazon 次世代生成式 AI 助理）5/7 在德國與奧地利正式啟動 Early Access，Prime 會員免費、非 Prime €22.99/月；EU 覆蓋至此為英國、義大利、西班牙、德國、奧地利，EU5 中只剩法國未上線。核心能力：自主預約 OpenTable 餐廳、寫 email、訂票、跨裝置延續對話、智能家電推斷式操作（「我冷」→ 自動調溫）；本地化深度：完整德語 LLM、德式俚語理解、1000+ 本地電台；重磅整合：BMW iX3 德國版已搭載、既有 BMW 車主 6 月 OTA、Q3-Q4 擴展到其他車型。對跨境電商賣家的三線影響：第一，Voice Commerce 通路成熟—— 德國 FMCG / 家居消耗品（寵物食品、咖啡、洗衣精、尿布、維他命）透過 Alexa+ 語音 replenishment 滲透率 Q3-Q4 預期 +3-5pp、賣家產品標題 / A+ Content / Subscribe & Save 需為語音檢索重做；第二，Echo 硬體 + 第三方配件類目 Q3 銷售預期 +25-30% YoY（Alexa+ 自動啟用 drives 銷售）；第三，BMW 車載 commerce 入口開啟，汽車配件、車用清潔、車用小物類目 Q4 +15% 增量。非 Prime 會員 €22.99/月 vs Prime €8.99/月的訂閱價差也在 Q3-Q4 推升德國 Prime 會員數 +3-5% YoY。",
+    "public_action": "賣家建議：① 德國 FMCG / 家居消耗品牌（寵物、咖啡、洗衣、維他命、尿布等可重複購買品類）賣家 Q3 啟動「語音優化」計畫：產品標題口語化、Subscribe & Save 配置、bullet points 前置最關鍵字；② 第三方 Echo 配件賣家（cradle、skin、power bank、mount）Q3 備貨 +10-15%、Prime Day 2026 deal 放量；③ 汽車配件、車用清潔、車用小物賣家 Q4 forecast +5-10%，追蹤 BMW iX3 / 其他車型 OTA 時程；④ 車用品類賣家在 A+ Content 中加強「語音下單友善」的商品描述（短句、明確品類詞）；⑤ 關注競品時程：6/8 Apple WWDC Siri iOS 27、Q3 Google Gemini 德語、Q3 法國 Alexa+ 上線；⑥ 歐洲 voice commerce 生態 Q3-Q4 快速成形，早期參與 Alexa+ skills / integrations 的賣家有 3-6 個月 lead time window 優勢。",
+    "sources": [
+      {
+        "name": "aboutamazon.com 5/7 Alexa+ arrives in Germany as Amazon's next-gen AI assistant expands internationally（Emily Murray 官方長文）",
+        "url": "https://www.aboutamazon.com/news/devices/alexa-plus-international-launch"
+      },
+      {
+        "name": "Matter Smarthome 5/7 Launch in Germany: Alexa+ Automates Automation（BMW iX3 6 月 OTA 整合細節）",
+        "url": "https://matter-smarthome.de/en/products/launch-in-germany-alexa-automates-automation/"
+      },
+      {
+        "name": "Thurrott 5/7 Alexa+ Launches in Early Access in Germany and Austria（Bose Lifestyle 整合）",
+        "url": "https://www.thurrott.com/a-i/335775/alexa-launches-in-early-access-in-germany-and-austria"
+      },
+      {
+        "name": "Teltarif.de Alexa+ officially launched in Germany: for now free（dpa 報導）",
+        "url": "https://www.teltarif.de/en/alexaplus-deutschland-amazon/news/103392.html"
+      },
+      {
+        "name": "Basic Tutorials Alexa+ launches in Germany: much smarter and more personal",
+        "url": "https://basic-tutorials.com/news/alexa-launches-in-germany-amazons-ai-assistant-is-getting-much-smarter-and-more-personal/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
     "date": "2026-05-11",
     "type": "daily",
     "tags": [
