@@ -37,6 +37,48 @@
     "date": "2026-05-12",
     "type": "daily",
     "tags": [
+      "貿易"
+    ],
+    "title": "【5/11 MOFA 官宣】中國外交部正式確認 Trump 5/13-15 國事訪問北京、9 年來首位美國總統訪中、兩次雙邊會談：議程包含 Iran 調停（Xi 扮演中介）、關鍵礦產 / 稀土、對中國商品關稅（目前 47%）；若 Xi 協助斡旋 Iran 則可換取關稅調降 10-15 個百分點",
+    "summary": "🇺🇸🇨🇳🇮🇷🇪🇺5/11 週一上午北京時間 9:04（SCMP publishing），中國外交部正式宣布 Trump 將於 5/13 至 5/15 應 Xi Jinping 邀請進行國事訪問北京（SCMP 記者 Dewey Sim in Washington、Orange Wang; 5/11 更新至 10:44pm）—— 這是 Trump 執政期間第二次訪中、上次是 2017/11、也是 9 年來首位美國總統到訪中國。White House 同步確認：行程包含 2 次雙邊會談、1 場國宴、參訪北京相關機構；CSIS 5/7 preview 與 Brookings 5/4 preview 已多方分析核心議程，（i）Iran 衝突調停：Xi 可能以「中國不武裝 Iran、協助維持 Hormuz 航道開放」作為 leverage、Araghchi 4 月訪京背景給中方足夠訊號（Guardian Simon Tisdall 5/10 analysis）；（ii）關鍵礦產 / 稀土：CFR Chris McGuire 5/10 分析「Beijing 對 rare earth、magnet supply chain 的 structural control 已超越關稅成為新 leverage」—— 中國握籌碼，Trump 下風；（iii）美中關稅：2025/10 Busan 峰會後已從 57% 降到 47%、若本次能降到 35-40% 則對中國 e-commerce 出口是 Q3 重大 tailwind（Temu、Shein、AliExpress 的美國流量直接受益）；（iv）Taiwan 相關措辭：Xi 可能試圖讓 Trump 在 cross-strait 語言上讓步（「支持和平統一」取代「不支持獨立」）以換取其他讓步（CSIS 分析）。WEF 5/8 評估：「經濟 deliverable 優先、敏感議題如核安全、Taiwan 次之；整體基調為 fragile stability 維護、而非 grand deal」。市場觀察：Angel One 5/11 明確點出「投資者關注 Trump 訪京、中國可能透過外交影響力推動 Iran 更廣泛停火」—— 油價短線天花板設在此一預期上。若 Xi 協助 Iran 停火、則 Brent Q3 有機會重回 $90-95；若訪京無共識、則油價繼續上探 $115-130。",
+    "public_impact": "對跨境賣家的影響：中國外交部 5/11 正式確認 Trump 將於 5/13-15 訪問北京、9 年來首次美國總統訪中。兩次雙邊會談議程包含 Iran 衝突調停、關鍵礦產 / 稀土供應、以及目前仍達 47% 的美國對中關稅。對跨境電商賣家三線影響：第一是關稅—— 若訪京讓美中關稅 Q3 從 47% 降到 35-40%（市場 base 情境），Temu、Shein、AliExpress 等中國低價電商對美 GMV 預期 Q3 +15-20% 反彈，對 Amazon.com 上的小型跨境賣家低價品類（<$25）構成直接競爭壓力；第二是油價 / 匯率—— 若 Xi 成功協助 Iran 停火、Hormuz 鬆動，Brent Q3 有機會重回 $90-95、EUR/USD 重測 1.20，新聞 1 的 $105-115 情境反轉；反之若訪京崩盤，能源 / 匯率壓力繼續深化；第三是關鍵礦產—— 若 Q3 中國放寬 rare earth / magnet 出口許可，歐洲 3C、家電、電池、磁性材料相關品類成本 Q3 可下修 5-10%。5/14-15 兩日市場波動預期劇烈，賣家 Q3 定價預案建議保留 10-15% flex。",
+    "public_action": "賣家建議：① 5/14-15 期間設雙日監測機制：關稅結果、油價反應、EUR/USD、中國電商股動態四條線同步追蹤；② 美國市場依賴 >50% 的對美出口賣家準備 Temu/Shein 競爭回應 playbook：Lightning Deals、coupon 策略、Amazon Vine 申請提前到位；③ 3C、家電、電池、磁性材料相關品類 Q3 預留「稀土出口放寬」的成本 upside 情境；④ 關注 7/4 EU-US Turnberry 批准死線：若 Trump 訪京成功則 EU 關稅壓力減輕、若空手而回則 EU 被 US 追壓機率上升、Q3 對美定價預案必須 locked in；⑤ 所有 Amazon 跨境賣家 Q3 pricing flex 維持 10-15%、不鎖死；⑥ 時程監控：5/13 抵京、5/14 會談、5/15 聯合聲明、5/16 市場 digest 日、5/19 EU-US Strasbourg 第二輪談判。",
+    "sources": [
+      {
+        "name": "SCMP 5/11 9:04am China confirms dates for Donald Trump's state visit to Beijing",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
+      },
+      {
+        "name": "Washington Post 5/11 Confident in China's power, Xi is ready to host an unpredictable Trump",
+        "url": "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/"
+      },
+      {
+        "name": "CSIS Trump-Xi Summit in Beijing: Managing the World's Most Important Relationship",
+        "url": "https://www.csis.org/analysis/trump-xi-summit-beijing-managing-worlds-most-important-relationship"
+      },
+      {
+        "name": "Brookings 5/4 What will happen when Trump meets Xi?（多位專家 preview）",
+        "url": "https://www.brookings.edu/articles/what-will-happen-when-trump-meets-xi/"
+      },
+      {
+        "name": "CFR 5/10 At the Trump-Xi Summit, China Will Have the Upper Hand（Chris McGuire）",
+        "url": "https://www.cfr.org/articles/at-the-trump-xi-summit-china-will-have-the-upper-hand"
+      },
+      {
+        "name": "Guardian 5/10 Simon Tisdall: Donald Trump will arrive in Beijing this week knowing that Xi holds all the cards",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/10/donald-trump-xi-jinping-beijing-summit-iran-taiwan"
+      },
+      {
+        "name": "Wikipedia 2026 state visit by Donald Trump to China",
+        "url": "https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-12",
+    "type": "daily",
+    "tags": [
       "總經"
     ],
     "title": "【5/11 Reuters / AOL 最新】Goldman Sachs 把 Fed 降息預期延後到 12 月 2026 / 3 月 2027（原本 9 月 + 12 月 2026）：能源成本 pass-through 讓核心 PCE 整年接近 3% vs Fed 2% 目標；4/29 Fed 8-4 分裂鷹派投票（1992 以來最接近）、CME FedWatch 9 月降息機率跌至個位數、6/17 FOMC 不降息機率 93.4%",
@@ -65,7 +107,41 @@
         "url": "https://m.economictimes.com/markets/us-stocks/news/goldman-sachs-delays-fed-cut-outlook-to-december-2026-as-iran-war-drives-us-inflation/amp_articleshow/131005172.cms"
       }
     ],
-    "color": "#dc2626"
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/11 夜 → 5/12 刊出】Barclays 4 月家計支出 -0.1% YoY（2024/11 以來首次轉負、18 個月最急砍）：旅遊 -5.7%、航空 -8.3%；BRC/KPMG 4 月零售 -3% YoY（vs 2025/4 +7%、受 Easter 時序影響）、食品 -2.5%；BoE 警告「Iran 戰爭通膨不可避免、英國 energy bill 夏天前漲 16% 到 £1,900、食品年底前漲 7%」——Amazon.co.uk Q3 零售寒冬正式傳導",
+    "summary": "🇬🇧🇪🇺Barclays（處理 UK 近 40% 信用 / 金融卡交易）5/11 晚釋出 4 月 Consumer Spend Trends 資料、Guardian 5/12 早盤頭版接力（標題：「UK households cut back spending at fastest rate in 18 months」）。核心數據：① 4 月信用卡支出 YoY -0.1%（2024/11 以來首次年增率轉負、vs 3 月 +0.9%）—— 是「18 個月最急砍」的 headline 數字；② 非必需支出 -0.3%（消費者減少 discretionary spending）；③ 旅遊 -5.7% MoM（3 月已 -3.3%、連 2 個月下滑）、航空 -8.3% MoM（對應昨日新聞 5 歐洲航空危機、英國戰略儲備 0 天）；④ 必需支出 +0.3%、其中燃料 +10.4%（2022/12 Russia-Ukraine 以來最大 MoM 漲幅）；⑤ 反向訊號：數位內容與訂閱支出 +9.2%（Euphoria / The Testaments / The Pitt 熱播推升、顯示「在家省錢、看電視」替代行為）。配套 BRC / KPMG 4 月零售數據：整體 -3% YoY（vs 2025/4 +7%、最大拖累為 Easter 時序落差、今年 Easter 提前到 3 月）、食品 -2.5%（vs 2025/4 +8.2%）、non-food 分項表現不均衡。重磅配套：Bank of England 5 月初警告「Iran 戰爭通膨不可避免、家庭 energy bill 夏天前漲 16% 到年化 £1,900、食品年底前漲 7%」（Guardian 引 4/30 BoE hold rates 3.75% 的會後語言）。Barclays survey：72% 英國消費者預期 Middle East 緊張影響 2026 整年生活成本；non-essential spending confidence 跌至 49%、2023/3 以來新低。Jack Meaning（Barclays chief UK economist）：「關鍵未知是不確定性延續多久、若信心低迷太久、家計與企業都難撐」。BRC CEO Helen Dickinson 附上樂觀 bit：「World Cup 來臨有望帶動 TV / 音響需求、早期訊號已浮現」。",
+    "public_impact": "對跨境賣家的影響：Barclays 4 月 UK 消費卡支出年增率 -0.1%（2024/11 以來首次轉負、18 個月最急砍），非必需支出 -0.3%、旅遊 -5.7%、航空 -8.3%；配套 BRC/KPMG 4 月零售 -3% YoY（扣除 Easter 時序影響後 underlying 約 -1 到 -1.5%）；BoE 警告 Iran 戰爭通膨不可避免、英國家庭 energy bill 夏天前漲 16% 到年化 £1,900、食品年底前漲 7%。消費者行為兩大分化：① 必需支出燃料 +10.4% 擠壓可支配所得；② 數位內容 / 訂閱 +9.2% 顯示「在家省錢替代」行為。對跨境賣家的三線意涵：第一，Amazon.co.uk Q2 GMV 預期整體下修、Q3 若 Iran 戰爭續則再修；第二，家居 / 園藝 / 戶外 / 寵物 / BBQ / 家庭娛樂相關 SKU Q2-Q3 有「staycation summer」upside；第三，UK 3C、TV、音響類目受 World Cup 提振（BRC 觀察）。EUR/GBP Q3 情境：若 BoE 因 Iran 戰爭不得不升息（NIESR 4/29 提及 1.5% 單次情境），GBP 短期可能反彈；反之則 GBP 疲弱。",
+    "public_action": "賣家建議：① UK 跨境賣家 Q2 GMV forecast 整體下修 2-3 個百分點、Q3 依據 Iran 戰爭情勢再修；② 家居、園藝、戶外、寵物、BBQ、家庭娛樂類目 Q2-Q3 budget 可以上調 10% 以對應 staycation 需求；③ UK 3C / TV / 音響賣家對 World Cup 季節 Prime Day 2026（6/23-25）pricing 可以積極；④ UK 食品 / 零售賣家 Q2 整體 -2.5%、Q3 預期 -3-5%；⑤ EUR/GBP Q3 base 1.18 / flex 1.15-1.22、對英跨境收益匯率 hedge 保守；⑥ 時程監控：5/16 UK 3 月 GDP、5/22 UK 4 月 CPI、6/17 BoE 6 月會議（若升息 >50bp 則 GBP 明顯反彈）；⑦ 昨日新聞 5 提到的 UK 航空戰略儲備 0 天 + Heidi Alexander 5/3 政策、與今天 Barclays 航空 -8.3% 交叉印證「UK Q3 消費寒冬」的 hard evidence。",
+    "sources": [
+      {
+        "name": "Guardian 5/12 UK households cut back spending at fastest rate in 18 months, Barclays says",
+        "url": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war"
+      },
+      {
+        "name": "Guardian 5/11 UK households bracing for new cost of living crisis（PwC 消費者信心調查、BoE 5/1 升息警告 16% energy bill）",
+        "url": "https://www.theguardian.com/business/2026/may/11/uk-households-brace-cost-of-living-crisis-pwc-survey-consumer-confidence"
+      },
+      {
+        "name": "KPMG UK Retail Think Tank April 2026 release（Charles Burton / Maureen Hinton 評論 Iran + Easter 效應）",
+        "url": "https://kpmg.com/uk/en/insights/consumer/retail-think-tank-april-2026.html"
+      },
+      {
+        "name": "Yahoo Finance UK / BRC 3 月零售「tepid」+ Barclays 3 月 +0.9%（對照組、印證 4 月轉負幅度）",
+        "url": "https://uk.finance.yahoo.com/news/real-reason-behind-increase-retail-230100178.html"
+      },
+      {
+        "name": "Reuters 5/5 UK government must act on Iran war impact, retailers warn",
+        "url": "https://www.reuters.com/business/retail-consumer/uk-government-must-act-iran-war-impact-retailers-warn-2026-05-05/"
+      }
+    ],
+    "color": "#7c3aed"
   },
   {
     "date": "2026-05-12",
@@ -99,7 +175,7 @@
         "url": "https://basic-tutorials.com/news/alexa-launches-in-germany-amazons-ai-assistant-is-getting-much-smarter-and-more-personal/"
       }
     ],
-    "color": "#ea580c"
+    "color": "#0891b2"
   },
   {
     "date": "2026-05-11",
@@ -141,6 +217,36 @@
     "tags": [
       "總經"
     ],
+    "title": "【5/7 Eurostat】歐元區 3 月零售銷售 -0.1% MoM（比預期 -0.3% 好）連 3 個月下滑：燃油 -1.6% 八月以來最陡、德國 -2.1% 引領拖累；但 non-food products +0.6% 自 11 月以來首次回升 —— Amazon 核心類目 Q2 暗示拐點浮現",
+    "summary": "🇪🇺🇩🇪🇫🇷🇮🇹🇪🇸🇳🇱Eurostat 5/7 上午 9:00 CET 公布歐元區 3 月零售銷售數據：MoM -0.1%（市場預期 -0.3%、2 月修正 -0.3%）——連續第三個月下滑但幅度收斂，YoY +1.2%（vs 2 月 +1.7%）。類別分化關鍵訊號：燃油 -1.6% MoM（2023/8 以來最陡跌幅，中東戰爭油價傳導到零售端）、食品 -0.3% MoM，但 non-food products（非食品）+0.6% MoM —— 這是 2025/11 以來第一次單月正成長。會員國分佈：德國 -2.1%（引領拖累、Destatis 4/30 已先公布、連 3 個月收縮）、義大利 -0.1%、Malta -0.4%、Latvia -0.1%；但西班牙 +1.2%、荷蘭 +1.1%、法國 +0.2%、Slovenia +4.3%、Luxembourg +4.0%、Belgium +3.6%。YoY 層面：EU 整體 +1.9%、歐元區 +1.2%，Bulgaria +12.4% 最高；德國 -2.0% 為 EU 第二差（僅次 Romania -2.3%）。分析意涵：Iran 戰爭（2/28 爆發）導致 3 月油價一度衝 $129 → 5 月 $100+，燃油零售首當其衝（-1.6% 直接反映）；食品走弱反映家庭進食「降級」；但 non-food +0.6% 首見回升是 3 月以來第一個「正面小訊號」—— 意味消費者在「必需品收緊、小額 discretionary 反彈」的分化消費行為。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "Eurostat 5/7 官方新聞稿 Volume of retail trade down by 0.1% in the euro area and up by 0.3% in the EU",
+        "url": "https://ec.europa.eu/eurostat/product?code=4-07052026-AP"
+      },
+      {
+        "name": "Trading Economics 歐元區 3 月零售 -0.1% 逐國分解",
+        "url": "https://tradingeconomics.com/euro-area/retail-sales"
+      },
+      {
+        "name": "investingLive 5/7 Eurozone March retail sales -0.1% vs -0.3% m/m expected",
+        "url": "https://investinglive.com/news/eurozone-march-retail-sales-01-vs-03-mm-expected-20260507/"
+      },
+      {
+        "name": "Cyprus Mail 5/8 Cyprus retail trade outpaces eurozone（食品 -0.3%、非食品 +0.6% 分項）",
+        "url": "https://cyprus-mail.com/2026/05/08/cyprus-retail-trade-outpaces-eurozone-in-march/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-11",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
     "title": "【5/8 BLS】美國 4 月非農 +115K 遠超預期 55-62K、失業率 4.3% 持平、薪資 +3.6% YoY 低於預期 +3.8%：U-6 underemployment 8.2% 去年七月以來新高；PIMCO：「Iran 油價 shock 把 Fed 降息逐出、升息回到桌面」",
     "summary": "🇺🇸🇪🇺美國勞工統計局（BLS）5/8 早上 8:30 ET 公布 4 月就業報告：非農就業（Nonfarm Payrolls）+115K（Dow Jones 預期 55K、Trading Economics 預期 62K）、失業率 4.3% 不變、勞動力參與率 61.8%（vs 3 月 61.9%）、就業人口比 59.1%（vs 3 月 59.2%、近 50 年低點）。前兩個月修正淨 -16K（2 月 -23K 修至 -156K、3 月 +7K 修至 +185K）。薪資：平均時薪 +0.2% MoM、+3.6% YoY（市場預期 +0.3%、+3.8%，雙雙低於）到 $37.41；平均工時升至 34.3 小時（3 月 34.2）。類別分化：醫療 +37K、運輸與倉儲 +30K、零售 +22K 領先；資訊業 -13K（連續第 16 週負成長、AI 衝擊？）、聯邦政府 -9K（自 2024/10 峰值累計 -348K、-11.5%）、製造業 -2K。U-6 underemployment（真失業率）升至 8.2%（3 月 7.7%）——自 2025/7 以來新高。Part-time for economic reasons +445K 至 490 萬。三個月非農均值僅 +48K（只勉強撐住失業率）。Goolsbee（Chicago Fed）：「勞動市場穩定已一年多、穩定但不算好」。PIMCO 5/8 對 InvestingLive 的 top headline：「Iran 油價 shock 把 Fed 降息逐出桌面、升息回到桌面」——這是華爾街大型公債管理公司首次公開承認 Fed hike scenario。FT 5/7 同日另 headline：「Trump 施壓所有 EU 商品最低 15-20% 關稅」——EUR/USD 當日盤中回落。",
     "public_impact": "",
@@ -167,7 +273,41 @@
         "url": "https://investinglive.com/news/eurozone-march-retail-sales-01-vs-03-mm-expected-20260507/"
       }
     ],
-    "color": "#dc2626"
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-11",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/8 週五 → 5/10 週日】Hormuz 48 小時連環升級：美擊殘 2 艘伊朗油輪（5/8）、UAE 遭無人機+飛彈攻擊（5/8 清晨）、英國軍艦 5/9 部署中東；CIA 5/9 內部報告質疑封鎖效果；Aramco Q1 利潤 +26% 到 $32B；Brent $101-102 區間 Q3 新常態",
+    "summary": "🇺🇸🇮🇷🇦🇪🇬🇧🇸🇦🇪🇺昨日日報新聞 4 的 5/7 晚交火只是序曲，週末 48 小時連環升級：① 5/8 週五：CENTCOM 宣布美軍戰機對 2 艘伊朗油輪開火擊毀（Gulf of Oman），稱船隻試圖突破美國對伊朗港口的封鎖、「fired several rounds and disabled the tanker's rudder」（Guardian / NPR / AP 同步）—— 同時 UAE 清晨遭伊朗無人機 + 飛彈攻擊、第 2 次成為襲擊目標（Reuters / Gulf News）；② 5/9 週六：英國宣布部署軍艦進入中東、美制裁中國與香港公司涉 Iran 軍事相關（US Treasury）、巴林逮捕 41 名涉 IRGC 嫌犯（Caliber.az / Gulf News）—— 英國動作意味北約正式升級軍事存在；③ 5/9 週六 CIA 內部評估：質疑 US 對 Iran 封鎖的實際效果（Reuters exclusive）—— 華府內部有「封鎖執行力不足」的質疑訊號；④ 5/9 Aramco 公布 Q1 2026 淨利 $32.04B（+26% YoY）—— 沙烏地受益「Brent 持續 $100+」的財務印證；⑤ 5/9 LA Times exclusive：Aramco 和 Adnoc 已成功「偷渡」多艘原油通過 Hormuz，用 ship-to-ship 轉運（ex: Fujairah Energy 5/15-17 預計裝船運亞洲），繞過 US 封鎖——顯示 Hormuz「軟重啟」已在進行；⑥ 5/9 Iran 再度威脅攻擊 Gulf 產油設施 + North Korea 5/9 表態「堅定支持俄羅斯 Victory Day」（地緣合縱連橫）。油價週末維持 $101-102 區間、未大幅升高（市場部分消化「局部衝突 + 局部復工」的雙軌）。背景：Hormuz 自 2026/2/28 戰爭爆發後從 129 艘/日跌到 20 艘/日、IEA 估 12-15M barrel/day 供應中斷、Goldman 估「鬆動後油價 70-80 美元」仍需時間。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "NPR/AP 5/8 U.S. fires on Iranian tankers trying to evade blockade amid a Hormuz standoff",
+        "url": "https://kvcr.org/news/npr-top-stories/2026-05-08/iran-war-updates"
+      },
+      {
+        "name": "Gulf News 5/8-5/9 Pentagon shows Iranian tankers disabled + Aramco Q1 +26% 淨利 $32B",
+        "url": "https://gulfnews.com/world/mena/irans-guards-threaten-us-middle-east-sites-as-trump-awaits-tehran-response-1.500535292"
+      },
+      {
+        "name": "LA Times 5/9 Aramco, Adnoc sneak oil through Hormuz as Iran menaces strait",
+        "url": "https://www.latimes.com/environment/story/2026-05-09/aramco-adnoc-sneak-oil-through-hormuz-as-iran-menaces-strait"
+      },
+      {
+        "name": "Caliber.az 5/9 週末現場更新（UK 軍艦、CIA 報告、Bahrain 41 逮捕、US 制裁中港企業）",
+        "url": "https://caliber.az/en/post/iran-warns-gulf-states-of-strikes-on-oil-facilities"
+      },
+      {
+        "name": "Modern Diplomacy 5/8 Trump Says Ceasefire Holds as U.S.-Iran Clashes Escalate in Gulf",
+        "url": "https://moderndiplomacy.eu/2026/05/08/trump-says-ceasefire-holds-as-u-s-iran-clashes-escalate-in-gulf-and-oil-prices-surge-above-100-dollars/"
+      }
+    ],
+    "color": "#7c3aed"
   },
   {
     "date": "2026-05-11",
@@ -201,7 +341,37 @@
         "url": "https://www.bbc.com/news/articles/c794zd1vqn4o"
       }
     ],
-    "color": "#ea580c"
+    "color": "#0891b2"
+  },
+  {
+    "date": "2026-05-08",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/7 Destatis 雙重震撼】德國 3 月工廠訂單 +5.0% MoM 遠超預期 +1% but 工業生產 -0.7% MoM（預期 +0.4%）：戰時「搶訂單、交不出貨」的 stockpiling 背離正式定調，Q2 末去庫存崩盤風險浮現",
+    "summary": "🇩🇪🇪🇺德國 Destatis 5/7 上午 8:00 CET 公布兩組方向完全相反的 3 月工業數據，是 2026 年到目前為止最清晰的「戰時 frontloading」實證：① 工廠訂單（Factory Orders）3 月 MoM +5.0%，遠高於市場預期的 +1.0%、連續第二個月成長（2 月已修正為 +1.4%，原始值 +0.9%）；排除大型合約後 +5.1%、創 2023/2 以來新高；電氣設備 +21.5%、電腦/電子/光學 +14.4%、機械 +6.9%；外國訂單 +5.6%（歐元區 +10.1%、非歐元區 +2.7%）、國內 +4.0%；但 Q1 整體（3 個月均值）反 -4.1% QoQ——一份「被前置搶單撐起來的 3 月快照」。② 但同步公布的 3 月工業生產（Industrial Production）MoM -0.7%（市場預期 +0.4%，RTTNews 先前的 consensus +0.5%）——是連續第二個月下滑、訂單與產出方向完全背離。Commerzbank 經濟學家 Ralph Solveen 直接點明「能源價格大幅上升 + 不確定性顯著增加已在近期壓抑德國工業需求、未來幾個月恐再見弱數據」。WSJ / Morningstar 解讀更尖銳：3 月訂單爆衝是「伊朗戰爭爆發（2/28）後企業擔心供應鏈斷鏈、急著搶下單 stockpiling」，不是真實需求回升。義大利 S&P Global 分析師 Cyrus de la Rubia 在 HCOB 評論中說「如果未來幾個月訂單、特別是國內訂單放緩，我們就會知道『假回升』已到尾聲」。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "Anadolu Agency 5/7 German Manufacturing Orders +5% in March（Destatis 原始發布）",
+        "url": "https://aa.com.tr/en/economy/german-manufacturing-orders-jump-5-in-march-beating-expectations/3929687"
+      },
+      {
+        "name": "StreetInsider / Reuters 5/8 German Industrial Output Falls Unexpectedly -0.7% in March",
+        "url": "https://www.streetinsider.com/Reuters/German+industrial+output+falls+unexpectedly+in+March/26456166.html"
+      },
+      {
+        "name": "Morningstar / WSJ 5/7 German Factory Orders Jumped in First Month of Iran Conflict（Solveen「未來幾個月恐再見弱數據」）",
+        "url": "https://www.morningstar.com/news/dow-jones/202605072929/german-factory-orders-jumped-in-first-month-of-iran-conflict-2nd-update"
+      },
+      {
+        "name": "Trading Economics 5/7 Germany Factory Orders +5.0%（排大型合約 +5.1% 為 2023/2 以來新高）",
+        "url": "https://tradingeconomics.com/germany/factory-orders/news/548601"
+      }
+    ],
+    "color": "#0369a1"
   },
   {
     "date": "2026-05-08",
@@ -231,7 +401,63 @@
         "url": "https://www.wsj.com/pro/central-banking/ecbs-next-move-should-be-guided-by-the-data-not-the-date-villeroy-says-c25e95d1"
       }
     ],
-    "color": "#0369a1"
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-08",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/7 S&P Global 重磅】德國 4 月建築業 PMI 42.1（13 個月新低、3 月 48.0 驟降 5.9pp）、輸入成本通膨衝 2022/5 以來新高、供應延遲 2022/7 以來最嚴重：Iran 戰爭傳導進「實體經濟骨架」第一個硬證據",
+    "summary": "🇩🇪🇪🇺S&P Global 5/7 上午 9:30 CEST（09:30 CET）公布 HCOB 德國 4 月 Construction PMI®（資料收集期 4/9-4/29）：Total Activity Index 4 月 42.1（3 月 48.0）——13 個月新低、2025/3 以來最深收縮；新訂單連續 4 個月加速下滑、衰退速度 1 年多以來最快；輸入成本通膨再創歷史級跳升，創 2022/5 以來 4 年新高（上月已是 series history 單月最大漲幅、本月再加速）；供應延遲創 2022/7 以來最嚴重。S&P 首席經濟學家 Phil Smith 在新聞稿措辭極重：「中東戰爭改變了建築業的軌跡——本來在戰爭爆發前正在出現復甦跡象」、「建築公司現在堅定 back in retrenchment mode——新訂單下滑比製造業、服務業都慘、成本通膨是各業中最嚴重」、「通膨壓力持續升溫加深對利率上行的擔憂、未來一年活動預期跌到 2024/12 以來新低」。結構分化：住宅業下滑加速（vs 3 月「略有放緩」）、商業活動 17 個月以來最深跌幅、土木工程只是「持平」（連續 5 個月成長紀錄結束）；就業連續 3 個月削減、速度為 2025/5 以來最快；採購活動下滑為 2024/8 以來最大。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "S&P Global 5/7 09:30 CEST HCOB Germany Construction PMI 官方新聞稿（Phil Smith 完整評論）",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/2bd45b3f19814999a9c5ee6e39a01106"
+      },
+      {
+        "name": "Trading Economics Germany Construction PMI 歷史對照",
+        "url": "https://tradingeconomics.com/germany/construction-pmi"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-08",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/7 晚間 → 5/8 晨盤】Hormuz 海峽美伊交火！3 艘美驅逐艦擋伊朗飛彈/無人機/快艇多面攻擊、Trump 再度暫停「Operation Freedom」：Brent 盤中回漲 +2.26% 到 $102.32、WTI $96.76，昨天剛露曙光的 MoU 和談框架 24 小時內重返崩解邊緣",
+    "summary": "🇺🇸🇮🇷🇪🇺昨日日報（5/7 發行，涵蓋 5/6 Axios 披露美伊 MoU 初稿）的正面敘事在 5/7 晚間立即被翻轉：5/7 晚 Hormuz 海峽發生 4 月停火以來最嚴重的美伊交火事件。CENTCOM 5/8 凌晨聲明：3 艘美海軍導彈驅逐艦在 Hormuz 海峽被多面伊朗飛彈/無人機/快艇攻擊、「已消除所有入境威脅」並回擊伊朗軍事設施（飛彈/無人機發射場、指揮控制點、ISR 節點）；伊朗 IRGC 5/7 晚聲明：美軍「aerial attacks」擊打 Bandar Khamir, Sirik, Qeshm Island 三個沿岸地區、一艘伊朗油輪與另一艘接近 Hormuz 的船隻被攻擊、Iran 視為「停火違反」並對 US 艦艇反擊造成「重大損害」（BBC / Guardian / Al Jazeera 5/7-5/8 同步報導）。Trump 立即反應：5/7 晚對 ABC News 記者堅稱「停火仍有效」、稱交火只是「love tap」、在 Truth Social 威脅「如果 Iran 不簽 deal、下次轟炸會 higher level and more violent」；同時再度 pause「Operation Freedom」（US Navy 護航 Hormuz 商船任務——這已是本輪衝突中第 2 次 pause；第 1 次在 5/5）。油價反應（CNBC / Reuters / ANZ 5/8 報告）：Brent 7 月期貨 $102.32（+2.26%）、WTI 6 月 $96.76（+2.06%）——Brent 從 5/6 低點 $105 一度跌到 $100 以下、本次事件後反彈回 $102+；ANZ 研究部措辭「oil prices suffered a rollercoaster rise as doubts emerged over U.S.-Iran peace negotiations」；UAE 同步 5/8 清晨「反擊伊朗空中攻擊」、攻擊層級擴及波斯灣整體。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "BBC 5/7-5/8 Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c626zyywxjno"
+      },
+      {
+        "name": "CNBC 5/8 Oil resumes rally as U.S.-Iran fire exchange rattles fragile Hormuz ceasefire（Brent $102.32、WTI $96.76）",
+        "url": "https://www.cnbc.com/2026/05/08/oil-prices-today-wti-brent-us-iran-fire-war-hormuz-ceasefire.html"
+      },
+      {
+        "name": "Guardian 5/7 US-Iran ceasefire under threat after exchange of strikes in Strait of Hormuz",
+        "url": "https://www.theguardian.com/world/2026/may/07/iran-accuses-us-of-violating-ceasefire-by-targeting-civilian-areas-and-ships-on-strait-of-hormuz"
+      },
+      {
+        "name": "Reuters 5/8 UAE countering Iranian air attack after Trump says ceasefire still in effect",
+        "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/"
+      },
+      {
+        "name": "Anadolu 5/7 Maersk says Iran war oil shock adds $500M in monthly costs",
+        "url": "https://aa.com.tr/en/economy/us-carriers-fuel-costs-soar-over-56-amid-rising-oil-prices/3929758"
+      }
+    ],
+    "color": "#7c3aed"
   },
   {
     "date": "2026-05-08",
@@ -253,7 +479,7 @@
         "url": "https://m.economictimes.com/tech/technology/amazons-prime-video-to-invest-at-least-90-million-euros-in-2026-in-local-production-regulator-says/articleshow/130893658.cms"
       }
     ],
-    "color": "#dc2626"
+    "color": "#0891b2"
   },
   {
     "date": "2026-05-07",
@@ -346,6 +572,66 @@
     "color": "#ea580c"
   },
   {
+    "date": "2026-05-07",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【Amazon 5/5 官宣、EU 媒體 5/6 接力】Amazon Pet Days 5/11-15 正式確定：首次 5 天、22 國同步（含 DE/FR/IT/ES/NL 全 EU5）、非 Prime 會員也可購——寵物、家居品類 EU 賣家剩 4 個工作天衝刺",
+    "summary": "🇪🇺🇺🇸Amazon 官方部落格 aboutamazon.com 5/5 正式宣布 Amazon Pet Days 2026 將於 5/11-15 舉行——首次延長為 5 天（過去 3 年均為 48 小時）、是第 5 屆 Pet Days 也是史上最長。EU 媒體（her.ie）5/6 早上 11:40 BST 跟進報導。活動涵蓋 22 國：包含 EU5 全員（Germany, France, Italy, Spain, Netherlands）+ Austria, Belgium, Ireland, Luxembourg, Poland, Portugal, Sweden + UK, US, Canada, Mexico, Colombia, Egypt, Saudi Arabia, Singapore, Türkiye, UAE；Australia/Brazil/India/Japan 會後續跟進。關鍵差異化 vs Prime Day：① 非 Prime 會員也能購買（降低購買門檻）、② 主打 Amazon Pet Profile 個人化推薦（依寵物品種/體型推薦）、③ 活動涵蓋狗/貓/魚/鳥/小型哺乳動物/爬蟲/馬/雞等全動物，品類從食品/零食/玩具到 grooming/apparel/pet technology 都有。重點合作品牌：Blue Buffalo, Chuckit!, Greenies, Iams, Purina, Hill's Science Diet, Fancy Feast, Temptations, Ruffwear, Frontline 等大 CPG。往年 Pet Days 是 Prime Day 前 2 個月的「熱身賽」，今年活動拉到 5 天更意味 Amazon 把 Pet 類目正式拉到「mini Prime Day」層級。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "aboutamazon.com 5/5 官方：Amazon Pet Days returns May 11-15（5 天、22 國含 EU5）",
+        "url": "https://www.aboutamazon.com/news/retail/what-is-amazon-pet-day"
+      },
+      {
+        "name": "Her.ie 5/6 BST 11:40 愛爾蘭接力報導（Prime Day 6 月、Pet Days 5/11 先行）",
+        "url": "https://www.her.ie/news/amazon-confirms-first-details-of-when-prime-day-is-happening-in-2026-1008328"
+      },
+      {
+        "name": "Forest Shipping 5/6 Amazon Pet Days 2026 賣家指引（5/11 00:00 PDT - 5/15 23:59 PDT）",
+        "url": "https://www.forestshipping.com/amazon-pet-days-2026"
+      },
+      {
+        "name": "Mashable 5/5 Amazon Pet Days 2026 五天新格式解讀",
+        "url": "https://mashable.com/article/amazon-pet-days-2026-announcement-everything-to-know"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-07",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/6 進展】Axios 披露美伊 MoU 初稿、Trump「shelves」Project Freedom；油價盤中再跌、Brent 探 $105、WTI 破 $100；EUR/USD 測 1.18 兩週新高：中東「de-escalation 第二階段」正式展開",
+    "summary": "🇺🇸🇮🇷🇪🇺繼 5/5 晚 Trump 宣布「暫停」Project Freedom 後，5/6 中東局勢進一步 de-escalate：Axios 獨家披露美伊雙方已起草 MoU（Memorandum of Understanding）初稿（Newsquawk 5/6 European Wrap 確認）——雖然伊朗官方「pushback」否認具體條款，但雙方都承認談判進入實質階段。Bloomberg Daybreak Europe 5/6 直接使用「Trump Shelves Hormuz Plan」（不只是 pause 而是 shelve）作為標題；Balance of Power 5/6 頭條「Oil, Gas Plunge As Iran Weighs US Proposal to End War」。油價反應：Brent 5/6 亞洲-歐洲盤間從 $108 再下探到 $105 區域、WTI 跌破 $100 心理關卡（sharecast 標題「Oil prices fall as Trump pauses Project Freedom, cites progress in peace talks」）。EUR/USD 方面：EUR 5/6 盤中漲 0.8% 至 1.1800 兩週新高（FXStreet 報導），主因是「美伊和談預期 → 避險資產 USD 走弱 + 新聞 1 hot PPI 數據支撐 EUR」；從 5/4 前低 1.1655 到 5/6 的 1.1800 等於 4 個工作天內 EUR 升值 1.25%。背景：Trump 5/2 就在 Truth Social 寫過「hostilities ... have terminated」、但當時被視為姿態；5/5-5/6 連續 2 天的退讓 + Axios 披露 MoU 讓市場正式把「de-escalation 第二階段」計入定價（第一階段為 4/8 停火、5/4 因攻擊 UAE 破裂）。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "Newsquawk 5/6 European Market Wrap（Axios 披露美伊 MoU 初稿 + Iran pushback）",
+        "url": "https://newsquawk.com/headlines/newsquawk-european-market-wrap-6th-may-2026-06-05-2026"
+      },
+      {
+        "name": "Bloomberg Daybreak Europe 5/6 Trump Shelves Hormuz Plan",
+        "url": "https://www.youtube.com/watch?v=TrPHCyeA1Wk"
+      },
+      {
+        "name": "FXStreet 5/6 EUR tests 1.18 on US-Iran peace hopes + hot PPI",
+        "url": "https://www.fxstreet.com/news/euro-rallies-amid-higher-risk-appetite-and-hot-eurozone-inflation-data-202605060956"
+      },
+      {
+        "name": "Sharecast 5/6 Oil prices fall as Trump pauses Project Freedom, cites progress in peace talks",
+        "url": "https://www.sharecast.com/news/international-economic/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-06",
     "type": "daily",
     "tags": [
@@ -397,6 +683,36 @@
     "date": "2026-05-06",
     "type": "daily",
     "tags": [
+      "物流"
+    ],
+    "title": "【5/5 大型船公司繞開 Hormuz】MSC 宣布 5/10 啟動「Europe-Red Sea-Gulf Express」Saudi Landbridge 路線 + Hapag-Lloyd 用第三方 feeder 避開 Hormuz：避險成常態化預案",
+    "summary": "🌍🇪🇺全球第一大貨櫃船公司 MSC（Mediterranean Shipping Company）5/5 宣布，從 5/10 起啟動「Europe–Red Sea–Gulf Express」新服務，採「Saudi Landbridge」路線——歐洲貨櫃先經 Red Sea 到沙烏地阿拉伯 Jeddah 港，再以陸運跨沙烏地阿拉伯至 Dammam 等 Gulf 東岸港口，避開 Strait of Hormuz 敏感區。同日 Hapag-Lloyd 宣布採用第三方 feeder 服務串接 Middle East Gulf 訂單（TradeWinds 報導），也是繞開 Hormuz。Euronews 標題直接寫「Mediterranean Shipping Company races to keep global trade moving with new route」，Logistics Manager 專文報導服務啟動時間。背景：① 一週多前 Iran 已威脅攻擊通過 Hormuz 的船隻、UAE 設施遭無人機攻擊、US 擊沉伊朗船；② 5/4 Maersk 在 US Navy 護航下強行通過 Hormuz（WWD 報導）；③ 船公司集體判斷Hormuz 的風險 premium 已回不到戰前水準，即使 Trump 5/5 晚間宣布暫停 Project Freedom（見新聞 5），長期保險+船員成本仍偏高。新路線意涵：Asia–EU 貨櫃現在有「Suez + Red Sea + Gulf 陸運」新選擇，但成本+時效比戰前的「直通 Hormuz」高 3-7 天、每 TEU 成本+$150-300。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "Logistics Manager 5/5 MSC Middle East Express 啟動",
+        "url": "https://www.logisticsmanager.com/msc-launches-new-middle-east-express/"
+      },
+      {
+        "name": "Euronews 5/4 MSC 繞開 Hormuz 新路線",
+        "url": "https://www.euronews.com/business/2026/05/04/shipping-giant-msc-opens-new-trade-route-to-bypass-hormuz-disruption"
+      },
+      {
+        "name": "TradeWinds 5/4 Hapag-Lloyd + MSC 用第三方 feeder",
+        "url": "https://www.tradewindsnews.com/containers/hapag-lloyd-and-msc-get-creative-in-bid-to-resume-middle-east-gulf-bookings/2-1-1984424"
+      },
+      {
+        "name": "WWD 5/4 Maersk 在 US Navy 護航下過 Hormuz / MSC 與 Hapag-Lloyd 改道",
+        "url": "https://wwd.com/sourcing-journal/logistics/maersk-transit-strait-of-hormuz-us-military-escort-ships-msc-hapag-lloyd-project-freedom-ceasefire-pivot-1238939934/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-06",
+    "type": "daily",
+    "tags": [
       "總經"
     ],
     "title": "【5/5 AIB 公布】愛爾蘭 4 月服務業 PMI 49.7（5 年首次收縮）、觀光旅遊 5+ 年新低；同日歐元區服務業 PMI final 47.4：中東戰爭外溢到服務消費端確認",
@@ -417,7 +733,7 @@
         "url": "https://www.reuters.com/business/ireland-services-sector-contracts-first-time-five-years-pmi-shows-2026-05-06/"
       }
     ],
-    "color": "#ea580c"
+    "color": "#7c3aed"
   },
   {
     "date": "2026-05-06",
@@ -443,7 +759,7 @@
         "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-missiles-uae-b2970388.html"
       }
     ],
-    "color": "#7c3aed"
+    "color": "#0891b2"
   },
   {
     "date": "2026-05-05",
@@ -579,6 +895,33 @@
     "date": "2026-05-04",
     "type": "daily",
     "tags": [
+      "總經",
+      "平台"
+    ],
+    "title": "【5/1 Destatis】德國 3 月零售實質 -2.0% MoM 遠低於預期（-0.1%），但網路／郵購逆勢 +3.0% MoM、YoY +5.9%：實體退、電商進的分水嶺",
+    "summary": "🇩🇪Destatis 5/1 公布德國 3 月零售數據：實質（物價調整後）月減 2.0%（市場預期 -0.1%、前值由 -0.1% 下修至 -0.3%），名目月減 1.5%；年對年實質 -2.0%、名目 -0.5%。細項分化極明顯：食品 -2.7% MoM、非食品 -1.0% MoM、加油站實質 -5.6% MoM（但名目 +5.5% — 被油價掩蓋的銷量崩跌）；而網路與郵購（internet and mail-order trade）逆勢月增 3.0%、年增 5.9% 實質。Destatis 明確指出加油站數據受中東衝突影響。這份數據是 Merz €1.9 億燃料紓困案實施後的第一個月全景：財政刺激沒撐住實體零售，反而讓預算有限的家戶把能省的都省、能線上就線上。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "IndexBox 德國 3 月零售分析",
+        "url": "https://www.indexbox.io/blog/german-retail-sales-fall-20-in-march-2026-fuel-and-food-drag/"
+      },
+      {
+        "name": "InvestingLive Destatis 4/30 公布",
+        "url": "https://investinglive.com/news/germany-march-retail-sales-20-vs-01-mm-expected-20260430/"
+      },
+      {
+        "name": "ForexFactory Destatis 轉載",
+        "url": "https://www.forexfactory.com/news/1396027-german-retail-sales-in-march-2026-were-20"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-04",
+    "type": "daily",
+    "tags": [
       "總經"
     ],
     "title": "【5/1 法國勞動節】CGT/CFDT 動員 158,000 人（工會稱 30 萬）要求最低工資 +5%、工資與物價連動；同日法國 4 月 HICP 2.2% 創 18 個月高：ECB 最怕的工資-物價螺旋第一個實證",
@@ -599,7 +942,7 @@
         "url": "https://tradingeconomics.com/france/inflation-cpi"
       }
     ],
-    "color": "#0369a1"
+    "color": "#dc2626"
   },
   {
     "date": "2026-05-04",
@@ -625,7 +968,7 @@
         "url": "https://abcnews4.com/news/nation-world/oil-prices-rise-after-discouraging-weekend-for-us-iran-war-strait-of-hormuz"
       }
     ],
-    "color": "#dc2626"
+    "color": "#ea580c"
   },
   {
     "date": "2026-05-04",
@@ -652,7 +995,7 @@
         "url": "https://www.linnworks.com/blog/amazon-prime-day-is-early-in-2026/"
       }
     ],
-    "color": "#ea580c"
+    "color": "#7c3aed"
   },
   {
     "date": "2026-05-04",
@@ -679,7 +1022,7 @@
         "url": "https://easproject.com/eu-customs-vat-overhaul/"
       }
     ],
-    "color": "#7c3aed"
+    "color": "#0891b2"
   },
   {
     "date": "2026-05-01",
@@ -934,6 +1277,86 @@
     "type": "daily",
     "tags": [
       "合規",
+      "平台"
+    ],
+    "title": "【今日生效】USB-C 筆電強制令 4/28 正式上路：所有新筆電必須支援 USB PD 240W，「裸機版」成法定選項",
+    "summary": "🇪🇺EU Common Charger Directive（Directive 2022/2380）最後一階段今日 4/28 正式生效：所有在 EU 市場上架的新筆電必須配備 USB-C 充電埠、支援 USB Power Delivery 最高 240W，且必須提供「不含充電器版本（no charger variant）」讓消費者選擇。4/28 前的既有庫存可繼續販售直到出清。這是 2024/12/28 手機/平板/耳機強制令的延伸終章——EC 估算每年可為消費者省 €2.5 億、減少 1.1 萬噸 e-waste。筆電廠牌如 Lenovo、Dell、HP、Microsoft、Apple 都已完成產品線調整，但長尾品牌（中小型製造商 + 配件商）是這波合規的高風險群。連帶影響：2028 起所有外接電源（含筆電、螢幕、Wi-Fi router）必須符合新的 Ecodesign 能效標準。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "EC 官方指引",
+        "url": "https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red/one-common-charging-solution-all_en"
+      },
+      {
+        "name": "TechOutlet 產業分析",
+        "url": "https://www.techoutlet.eu/en/blog/post/usb-c-mandatory-for-laptops-eu-deadline-28-april-2026"
+      },
+      {
+        "name": "Acroname",
+        "url": "https://acroname.com/blog/eus-universal-usb-c-mandate-april-2026-laptop-deadline"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-04-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【進展】德國 GfK 5 月消費氣候 4/27 公布：崩至 -33.3（再跌 5.2 點），Ifo + GfK 雙重確認 Q2 消費深冬",
+    "summary": "🇩🇪🇪🇺承 4/27 Ifo 84.4 的當日下午——NIM/GfK 正式公布 5 月 Consumer Climate 前瞻指標 -33.3（4 月修正後 -28.1），再跌 5.2 點、創 2023/5 來新低。Income expectations 從負值進一步下挫、Willingness to buy 明顯更悲觀，Willingness to save 雖略降但仍高檔。NIM 評論：「伊朗戰爭引發的能源焦慮直接打在家庭預算」。對照：前一個月 GfK（4 月）本已是 2024/3 來最差 -28，現在又跳水 5 點——這不是「數字微調」，是 demand side 走入結構性收縮。Ifo（企業信心）+ GfK（消費者信心）雙重確認，德國 Q2 不是弱復甦被打斷，是進入新一輪衰退窗口。BMWE 同週警告「零售業 Q1 營收已比 2025/Q4 低 0.5 個百分點、私家車註冊大幅下降」。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "NIM/GfK 4/27 公告",
+        "url": "https://www.nim.org/en/consumer-climate/detail-consumer-climate/konsumklima-im-sinkflug"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/germany/consumer-confidence"
+      },
+      {
+        "name": "BMWE 4 月報告",
+        "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260416-the-economic-situation-in-germany-april-2026.html"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-04-28",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "平台"
+    ],
+    "title": "法國 Refashion EPR 制度正式導入「超快時尚」懲罰：Shein/Temu 每件紡織品將加 €7-10 環境稅",
+    "summary": "🇫🇷🇪🇺法國生態轉型部長 Monique Barbut 4 月進一步要求 Refashion（法國紡織品 EPR 延伸生產者責任組織）提案導入「durability-based penalty」。機制：根據紡織品和鞋類的耐用度做 eco-modulation，越短壽命、越多款式、越快上新的品牌，每件商品繳越多費。試算下來對 Shein/Temu 類「ultra fast fashion」業者的衝擊：2025 起每件衣 €5 環境稅、2030 前升到 €10 或商品價 50%（取高者）。法國「Kill Bill」已在 2025 年由參議院通過——國民議會 + 參議院皆全票——同時禁止超快時尚品牌廣告（含網紅行銷）、強制 eco-score 上架標示。義大利 2025/10 開始審義版 anti-Shein 法案。對照：法國 2024 年紡織品進口 32 億件，人均 48 件/年，丟棄 35 件/秒——這法規的政治勢能不會退。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "Modaes",
+        "url": "https://www.modaes.com/global/markets/french-government-calls-on-refashion-to-introduce-penalties-for-ultra-fast-fashion"
+      },
+      {
+        "name": "The Fashion Law",
+        "url": "https://www.thefashionlaw.com/france-focuses-on-shein-temu-in-revised-anti-fast-fashion-legislation/"
+      },
+      {
+        "name": "Integrum ESG 分析",
+        "url": "https://www.integrumesg.com/insights/france-cancels-ultra-fast-fashion"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-04-28",
+    "type": "daily",
+    "tags": [
+      "合規",
       "物流"
     ],
     "title": "PFHxA 消費品禁令進入倒數：4/10 已禁消防泡沫，10/10/2026 紡織鞋類 + 食品接觸紙板全面 phase-in",
@@ -954,7 +1377,7 @@
         "url": "https://www.enhesa.com/resources/article/pfas-compliance-why-2026-is-a-critical-year-for-europe/"
       }
     ],
-    "color": "#0369a1"
+    "color": "#7c3aed"
   },
   {
     "date": "2026-04-28",
@@ -984,7 +1407,7 @@
         "url": "https://polymarket.com/event/ecb-interest-rates-april-2026"
       }
     ],
-    "color": "#dc2626"
+    "color": "#0891b2"
   },
   {
     "date": "2026-04-27",
@@ -1438,6 +1861,29 @@
       "合規",
       "平台"
     ],
+    "title": "Amazon 德國 4/21 公開退貨用 X 光掃描作業：產品安全+退貨 fraud 雙重控管升級，GPSR 執法基礎設施浮現",
+    "summary": "🇩🇪🇪🇺Amazon 4/21 在德國企業部落格首次公開：**退貨商品使用 X 光掃描器檢查功能與安全性**，確認商品狀態後分流為「Amazon Returns（幾近全新、可折價售出）」、「捐贈給非營利機構」、「清倉零售商」等路徑。這是 Amazon 第一次公開 EU 退貨處理的具體技術細節。同時揭露三個戰略意義：(1) X 光掃描是 **GPSR 產品安全驗證的基礎設施**，任何賣家退貨商品在重新上架前必須通過安全驗證；(2) 可抓出**退貨 fraud**（寄回假貨、破損品、非原商品）；(3) 為 7/19 起「大型企業禁止銷毀未售出服裝」的法規合規做準備。",
+    "public_impact": "",
+    "public_action": "",
+    "sources": [
+      {
+        "name": "EcommerceBytes",
+        "url": "https://www.ecommercebytes.com/2026/04/21/amazon-uses-x-ray-scanners-to-scrutinize-product-returns/"
+      },
+      {
+        "name": "FLEX Fulfillment (GPSR)",
+        "url": "https://www.flexfulfillment.eu/gpsr-compliance-authorised-representative-checklist-amazon-eu/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-04-22",
+    "type": "daily",
+    "tags": [
+      "合規",
+      "平台"
+    ],
     "title": "加州 AG 揭露 Amazon 壓迫 Levi's/Hanes 抬價內部郵件：反壟斷訴訟從 Temu/Shein 延伸到 Amazon 本身",
     "summary": "🇺🇸🇪🇺加州檢察總長 Rob Bonta 4/20-21 解封 2022 年反壟斷訴訟的內部證據：Amazon 被指**系統性施壓 Levi's、Hanes、Armen Living、Agrothive 等品牌**，要求它們「修復」或「提高」在 Walmart、Target、Home Depot 的售價，否則威脅「促銷限制」或「下架」。具體案例：Amazon、Levi Strauss、Walmart 就卡其褲價格達成一致。Guardian 同步揭露小賣家 Leveret 因 Walmart 售價比 Amazon 便宜 1 分錢而被「shadow block」。訴訟明年進入審判，此前 EU 已對 Amazon 的 Buy Box 和 FBA 綁定做過類似調查。這是**反壟斷攻勢從 Temu/Shein 延伸到 Amazon 本身**的關鍵轉折。",
     "public_impact": "",
@@ -1456,7 +1902,7 @@
         "url": "https://oag.ca.gov/news/press-releases/naming-names-attorney-general-bonta-secures-public-access-evidence-amazon-price"
       }
     ],
-    "color": "#7c3aed"
+    "color": "#0891b2"
   },
   {
     "date": "2026-04-21",
