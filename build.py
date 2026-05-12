@@ -72,9 +72,10 @@ def parse_daily_report(filepath):
     articles = []
 
     # 策略 1: 用 <!-- 新聞 N --> 或 <!-- 新聞 N: 描述 --> 註解分割（最可靠）
+    # 用 non-greedy [\s\S]*? 抓註解內容（避免 em dash / 破折號造成 regex 提早截斷）
     news_blocks = re.findall(
-        r'<!-- 新聞 \d+[^-]*-->\s*(.*?)(?=<!-- 新聞 \d+|<div class="divider">|<div class="key-dates">|$)',
-        content, re.DOTALL
+        r'<!--\s*新聞\s*\d+[\s\S]*?-->\s*([\s\S]*?)(?=<!--\s*新聞\s*\d+|<div class="divider">|<div class="key-dates">|$)',
+        content
     )
 
     # 策略 2: 用 table + border-left 分割（email 格式）
