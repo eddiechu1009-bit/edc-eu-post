@@ -1,5 +1,183 @@
 [
   {
+    "date": "2026-05-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/12 ZEW 震撼反彈】德國 ZEW 5 月經濟展望 +7.0 點衝 -10.2（預期 -19.8 大幅 beat、3 月以來首次回升）、歐元區 +11.3 點衝 -9.1：Iran 停火期待推動 risk-on 反彈；但現況指標繼續惡化（DE -77.8、-4.1pp vs 預期），Wambach：「金融專家期望 Iran 戰爭盡快結束、但工業疲弱 + 能源漲 + 通膨 >2% 持續拖累德國」——Q2 軟著陸雙軌情境正式浮現",
+    "summary": "🇩🇪🇪🇺ZEW Mannheim 經濟研究院 5/12 上午 11:00 CEST 釋出 5 月 Financial Market Survey（Prof. Achim Wambach 簽發、7 月 2008 年以來最急劇正向反彈）：德國 ZEW 經濟展望指數（6 個月前瞻）從 4 月 -17.2 大幅回升 +7.0 點至 -10.2、遠超市場共識 -19.8 的預期（RTTNews 5/12 01:58 AM ET preview 已預告下滑到 -77.5，實際卻是反向 beat）。歐元區 ZEW 經濟展望更強、+11.3 點衝 -9.1（vs 4 月 -20.4），為 2 月以來首次。但雙軌劇本浮現：現況指標仍惡化——德國「當前經濟狀況」指數從 4 月 -73.7 再降 4.1 點到 -77.8（預期 -72）、歐元區現況 -41.4（仍比 4 月 -43 略微改善 +1.6 點）。分產業 heterogeneity：汽車業 -57.2（-13.0 pp，重挫）、機械業 -32.1（-9.2 pp）、私人需求 -41.6（-8.2 pp）——傳統製造業仍在深度冷卻；但 IT 產業 +12.1 pp 衝到 +56.6（AI 投資與 voice commerce 升級帶動）、金屬生產 / 建築業也上揚。Wambach 關鍵定調：「展望改善但仍處負值區。金融市場專家期望 Iran 戰爭盡快結束。但工業生產疲弱、能源價格上漲、通膨仍 >2% 繼續拖累德國經濟。下半年 2026 的溫和復甦有條件成立——前提是中東衝突緩解、政府財政刺激成形」。市場反應：EUR/USD 盤中短暫衝 1.1770、DAX 盤中 +0.4%、Bund 10Y yield +3bp；ING 5/12 snap 同步註記「Germany inflation still isolated energy price shock」。交叉印證：與今天新聞 2 Nagel 升息警告並行浮現——ZEW 專家們相信 Iran 戰爭會結束（期待端 dovish）、但 Nagel 與 Patsalides 依然提升息概率（現實端鷹派）：ECB 6/11 兩派陣線深化。",
+    "public_impact": "對跨境賣家的影響：ZEW 5/12 發布的 5 月德國經濟展望大幅回升 +7.0 點到 -10.2（預期 -19.8 大幅 beat），歐元區 +11.3 點衝 -9.1，為 7 月 2008 以來最急劇正向反彈。但雙軌訊號浮現：現況指標反向惡化（德國當前狀況 -77.8、-4.1pp；汽車業 -57.2、機械 -32.1、私人需求 -41.6），惟 IT 產業爆發 +56.6（+12.1pp）是唯一亮點。Wambach 校準：「專家期望 Iran 戰爭盡快結束、但工業疲弱 + 能源漲 + 通膨 >2% 仍拖累；下半年溫和復甦有條件成立——前提是中東停火 + 政府財政刺激生效」。對跨境賣家的三線意涵：第一，Q2 馬上的 GMV 不會有實質改變（現況 -77.8 意味零售端仍疲弱），但 Q3-Q4 有 upside 機會、前提為 Iran 停火實現；第二，分品類 heterogeneity 極大—— 3C / 筆電 / 顯示器 / 儲存 / 智慧家居類目 Q2-Q3 表現可望超越均值、汽車配件 / 機械 / 工業用品仍承壓；第三，EUR/USD Q2 末區間預估 1.17-1.19、base 1.18，對美出口 EU 賣家匯率情境略改善。",
+    "public_action": "賣家建議：① Q3-Q4 Amazon.de / 德國市場 forecast 納入「軟復甦」upside 情境（Q3 +3-5% YoY、Q4 +5-8% YoY base）、但 Q2 暫不放大；② 3C、筆電、顯示器、儲存、智慧家居類目賣家 Q2-Q3 budget 可加碼 +15%、Prime Day 2026 deal 深度同步加碼；③ 汽車配件、輪胎、機油、機械工具類目 Q2 forecast 下修 2-3%、Q3 再評估；④ EUR/USD Q2 末 base 1.18 / flex 1.17-1.19、對美出口賣家匯率情境略改善；⑤ SKU mix 建議：<€30 低客單價 Q2 維持高佔比、€30-100 中段 Q3 漸進積極、>€200 高價位 Q2 暫不擴張；⑥ 雙軌劇本動態監控：5/22 德國 Ifo 5 月（雙確認點）、5/29 德國 5 月 CPI flash、6/11 ECB 決議、6/27 GfK 7 月消費者信心（ZEW 領先效應驗證點）、5/14-15 Trump-Xi Beijing 會談（關鍵 Iran 停火觸媒）。",
+    "sources": [
+      {
+        "name": "ZEW Mannheim 5/12 官方新聞稿 Economic Expectations Show Signs of Improvement（Wambach 完整評論 + 產業細分數據）",
+        "url": "https://www.zew.de/en/press/latest-press-releases/economic-expectations-show-signs-of-improvement"
+      },
+      {
+        "name": "TradingView / Trading Economics 5/12 German Investor Sentiment Improves in May（+7 pp to -10.2 vs -19.8 forecast）",
+        "url": "https://www.tradingview.com/news/te_news:549964:0-german-investor-sentiment-improves-in-may/"
+      },
+      {
+        "name": "Trading Economics Germany ZEW Economic Sentiment Index（歷史對照與產業細分）",
+        "url": "https://tradingeconomics.com/germany/zew-economic-sentiment-index"
+      },
+      {
+        "name": "CME Econoday DE ZEW Survey（市場預期前瞻與定義）",
+        "url": "https://www.cmegroup.com/education/events/econoday/674463"
+      },
+      {
+        "name": "RTTNews 5/12 01:58 ET 預覽（預期 -77.5 vs 實際 beat 到 -77.8 現況 / -10.2 展望）",
+        "url": "https://forex.tradingcharts.com/international_financial_news/european_economic_news_preview_german_05122026_0271.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/12 Destatis 終值確認 + Bundesbank Nagel 最強鷹派訊號】德國 4 月 CPI 終值鎖定 2.9% YoY（Jan 2024 以來新高）、汽油 +26.2%、取暖油 +55.1%、能源整體 +10.1%、核心 2.3%（穩定）；Nagel 對 Handelsblatt 5/12：「升息越來越有可能除非通膨根本改善」；5/11 ECB Patsalides MNI：「跡象指向升息」；Bloomberg 5/11 經濟學家調查：ECB 2026 預期升息次數從 1 次上修到 2 次（6 月 + 9 月）",
+    "summary": "🇩🇪🇪🇺5/12 Destatis 06:00 發布 4 月 CPI 終值、與 4/29 flash 完全一致：德國 4 月 CPI YoY +2.9%（vs 3 月 +2.7%、2 月 +1.9%、2024/1 以來最高）、MoM +0.6%。分項驅動：能源整體 +10.1%（2023/2 +19.1% 以來最大年增）、汽油 +26.2%、取暖油 +55.1%（Iran 戰爭完全傳導）、食品 +1.2%（vs 3 月 +0.9%，首次回升）、商品 +2.9%；核心通膨（扣能源食品）2.3%（穩定、vs 3 月同）、服務通膨 2.8%（vs 3 月 3.2% 略降）。Destatis 總裁 Ruth Brand：「整體通膨連 2 個月加速、能源漲價為第二波浪潮主因，消費者對汽油持續上漲感受最深」。ING 5/12 snap：「第一波通膨衝擊正進行中，更多尚未到來——運輸、食品、工業品將陸續出現；若 Iran 戰爭延續、初始能源價格衝擊可能升級為供應鏈摩擦與自我強化的通膨螺旋」。與今天 Bundesbank Nagel 對 Handelsblatt 的獨家訪談形成最強一擊（Bloomberg 5/12 / Econostream 5/12）：「我仍希望中東緊張局勢大幅緩解——但我們不能忽視高能源價格。除非通膨情況根本改變、升息越來越有可能（increasingly likely）」。連動訊號：ECB Patsalides（Cyprus 央行行長）5/11 MNI 獨家訪談：「As things stand, things are worsening，因此跡象指向升息（things are pointing to a raise in interest rates），但任何動作將嚴格數據依賴，不應解讀為新緊縮週期開始」——但同日他也對市場留退路「不會急於決定」。Bloomberg 5/11 5/4-7 經濟學家調查（Nick Heubeck / Harumi Ichikura 執筆）：ECB 將在 2026 年兩次升息 25bp（6 月 + 9 月），vs 前一輪調查只預期 1 次升息。Polymarket 84.5% 機率反映市場已將 2026 年升息定價為 base case。",
+    "public_impact": "對跨境賣家的影響：德國 Destatis 5/12 確認 4 月 CPI 終值 2.9% YoY（2024/1 以來新高），能源 +10.1%、汽油 +26.2%、取暖油 +55.1%、核心 2.3%（穩定）。Bundesbank 總裁 Nagel 對 Handelsblatt 5/12 升級語言：「升息越來越有可能除非通膨根本改善」；ECB Patsalides 5/11 MNI 訪談：「跡象指向升息」；Bloomberg 5/11 經濟學家調查：ECB 2026 預期升息次數從 1 次上修到 2 次（6 月 + 9 月各 25bp）。對跨境賣家三線影響：第一，EUR/USD Q2 末區間上修到 1.18-1.19、Q3 base 1.19-1.20，對美出口 EU 賣家匯率情境略好、但在美市場銷售以 USD 計價的 EU 賣家毛利被侵蝕；第二，能源相關品類出現強烈 upside—— 家用節能產品（LED、智慧恆溫器、隔熱材、節能家電）Q2-Q3 受益能源帳單上漲、消費者替代需求增加；第三，服務通膨 2.8% 首次下滑意味非能源品類需求壓抑、低客單價（<€30）Q2 進入 trade-down 階段。ECB 雙升息情境下歐元信貸成本 Q3-Q4 +50bp，以歐元計價貸款的賣家現金流壓力上升。",
+    "public_action": "賣家建議：① 6/11 ECB 升息機率更新到 85-90%、雙升息情境（6 月 + 9 月）納入 Q3-Q4 規劃；② EUR/USD Q2 末 base 1.18-1.19、Q3 base 1.19-1.20、對美出口賣家匯率 hedge 提前鎖利至少 50%；③ 家用節能產品（LED、智慧恆溫器、隔熱材、節能家電、太陽能小家電）賣家 Q2-Q3 forecast 上修 8-12%、Prime Day 2026 deal 積極；④ 低客單價（<€30）Q2 維持高佔比、消費者 trade-down 明顯；⑤ 以歐元計價貸款的 Pan-EU 賣家 Q2 末前評估鎖定 Working Capital 利率（ECB 雙升息下 Q3-Q4 歐元信貸成本 +50bp）；⑥ 情境劇本 Q3 預案保留 ±2pp flex，以應對「Iran 停 / 續」× 「ECB 6 月升息 / 等 9 月」四象限；⑦ 監控節點：5/13 Villeroy 卸任演說、5/16 歐元區 4 月 HICP 終值、5/20 ECB 非貨幣政策會議、6/11 ECB 6 月決議（關鍵日）。",
+    "sources": [
+      {
+        "name": "Destatis 4 月通膨 +2.9% 預估（完整分項數據與 Ruth Brand 評論）",
+        "url": "https://www.destatis.de/EN/Press/2026/04/PE26_149_611.html"
+      },
+      {
+        "name": "Trading Economics Germany Inflation Rate（4 月終值 2.9%、3 月 2.7%、2 月 1.9% 對照）",
+        "url": "https://tradingeconomics.com/germany/inflation-cpi"
+      },
+      {
+        "name": "Bloomberg 5/12 ECB Rate Hikes Increasingly Likely, Nagel Tells Handelsblatt（付費牆）",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-12/ecb-rate-hikes-increasingly-likely-nagel-tells-handelsblatt"
+      },
+      {
+        "name": "Econostream 5/11 ECB's Patsalides: Things Point to June Rate Hike, But Not New Tightening Cycle",
+        "url": "https://www.econostream-media.com/news/2026-05-11/ecb%E2%80%99s_patsalides:_things_point_to_june_rate_hike_but_not_new_tightening_cycle.html"
+      },
+      {
+        "name": "Bloomberg 5/11 ECB to Hike Rates Twice in 2026 as Inflation Jumps, Survey Shows（付費牆）",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-11/ecb-to-hike-rates-twice-in-2026-as-inflation-jumps-survey-shows"
+      },
+      {
+        "name": "ING 5/12 snap: German inflation increases further in April（第一波通膨正在進行、供應鏈摩擦風險）",
+        "url": "https://think.ing.com/snaps/german-inflation-in-apr26/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/12 ISTAT 亮眼 + Moody's Global Macro Outlook】義大利 3 月工業生產 +0.7% MoM / +1.5% YoY（預期 +0.2% MoM 大幅 beat、連 2 個月擴張）：運輸設備 +11.2%、資本財 +5.8%、電腦電子光學 +6.1%；但 Q1 QoQ 仍 -0.2%、化學 -7.8%；Moody's 5/12 Italy 2026 GDP 基線 +0.4% / 樂觀 +0.6% / 悲觀 -0.3%、G20 倒數第二（僅高於 Saudi）；Giorgetti 上月剛砍 2026/2027 GDP forecast 至 0.6%——Amazon.it 窗口 Q2 仍開、Q3 視 Iran 命運",
+    "summary": "🇮🇹🇩🇪🇪🇺5/12 上午 10:58 羅馬時間、ISTAT 義大利統計局發布 3 月工業生產：月增 +0.7%（預期 +0.2% MoM、連 2 個月上揚）、YoY 季節調整 +1.5%（預期 +0.3% 大幅 beat）、未調整 YoY +4.1%（Il Sole 24 Ore / Ansa English / KELO-AM Reuters 5/12）。分項驅動：資本財 +5.8% YoY（vs 2 月 +4.1%）、中間財 +0.5%（略升）、消費品 -1.9%（略收斂、vs 2 月 -2.3%）、能源 -3.1%（加速萎縮、vs 2 月 -2.9%）。產業最大增幅：運輸設備 +11.2%、採礦 +6.7%、電腦電子光學 +6.1%；最大減幅：化學品 -7.8%、電力煤氣 -4.0%、其他製造 -4.2%。Il Sole 24 Ore 標題：「汽車與廠房帶動工業生產」；Reuters 觀察：「Iran 戰爭 2/28 才開打，3 月數據仍呈現戰前 momentum 的 carry-over，衝擊恐在 4-6 月才完整顯現」。Q1 整體仍萎縮：QoQ -0.2%（vs 前 3 個月），Q1 GDP +0.2% QoQ（vs Q4 +0.3%）。重磅配套：Moody's 5/12 'Global Macro Outlook'（Ansa 5/12 18:11 刊出）：Italy 2026 GDP 3 情境 = 中央 +0.4%（Hormuz「有條件」通行）、樂觀 de-escalation +0.6%、悲觀 ceasefire 破 -0.3%——G20 倒數第二（僅高於 Saudi Arabia）；Germany 同 3 情境為 +0.7% / +1.0% / -0.3%（最壞場景德義 converge）；歐元區整體 +0.9% base / +1.0% 樂觀 / +0.4% 悲觀。Giorgetti（財政部長）上月已將 2026 & 2027 GDP forecast 從 +0.7% / +0.8% 下修到 +0.6% / +0.6%、赤字/GDP 從 2.8% 上調到 2.9%——「我們面對的不是正常情況、而是完全例外」。2025 Italy GDP 為 +0.5%、2024 為 +0.6%、結構性緩慢。義大利 Amazon.it 窗口已連 3 個月亮眼（5/7 日報提及的 3 月零售 +0.8% MoM、+3.7% YoY、線上 +11.2%）、本次數據持續延伸樂觀訊號—— Q2 Amazon.it 維持 outperform、Q3 則視 Iran 結局。",
+    "public_impact": "對跨境賣家的影響：ISTAT 5/12 釋出義大利 3 月工業生產 +0.7% MoM、+1.5% YoY，大幅超過市場預期 +0.2%；連 2 個月擴張。分項：運輸設備 +11.2%、資本財 +5.8%、電腦電子光學 +6.1% 最強；化學 -7.8%、電力 -4.0%、消費品 -1.9% 最弱。但 Q1 整體 QoQ 仍 -0.2%。Moody's 5/12 Global Macro Outlook：Italy 2026 GDP 基線 +0.4% / 樂觀 +0.6% / 悲觀 -0.3%，G20 倒數第二。Giorgetti 上月已將 2026 & 2027 GDP 從 +0.7% / +0.8% 下修至 +0.6% / +0.6%，赤字 2.9%。對跨境賣家三線影響：第一，義大利市場 Q2 相對強—— 3 月工業 + 零售 + 線上 +11.2% 三重確認，電商窗口 Q2 仍開；第二，類目分化大—— 汽車 / 輕工業零件 / 3C / 資本財相關品類強、消費化學 / 家用清潔 / FMCG 受上游化工 -7.8% 通膨傳導壓力；第三，Iran 戰爭 2/28 才開打、3 月數據為戰前 momentum 的 carry-over，衝擊預期 4-6 月才完整顯現、Q3 需要重新評估。",
+    "public_action": "賣家建議：① 義大利跨境電商市場 Q2 forecast 上修到 +5-7% YoY、Prime Day 2026 義大利站投入 +10%；② 汽車配件、輪胎、工業工具、3C、筆電、音響類目在義大利市場 Q2-Q3 forecast 上修 8-12%；③ 家用清潔、洗衣精、個人護理、FMCG 類目受化工上游 -7.8% 衝擊、Q2-Q3 forecast 微修 +5% → +3-4%；④ EU5 資源 rebalance 原則：Italy 加碼、Germany 以 IT / 節能類目為主、Spain 守成、France 守成、UK 觀望；⑤ 追蹤義大利財政政策：若 Meloni 推新一輪減稅、Amazon.it 消費 upside 再提升；⑥ 監控節點：5/16 歐元區 Q1 GDP flash、5/22 義大利 4 月 CPI 終值、6/10 義大利 4 月工業生產（Iran 衝擊首度完整顯現）。",
+    "sources": [
+      {
+        "name": "Ansa English 5/12 Italian industrial production rose in March says Istat（+0.7% MoM / +1.5% YoY）",
+        "url": "https://www.ansa.it/english/news/2026/05/12/italian-industrial-production-rose-in-march-says-istat_b91c5d58-1c70-43cd-96dd-a2be96dc9fd3.html"
+      },
+      {
+        "name": "Il Sole 24 Ore 5/12 Cars and plants drive industrial production +0.7% month, +1.5% year（Luca Orlando 分析）",
+        "url": "https://en.ilsole24ore.com/art/industrial-production-07percent-march-41percent-year-AIRiLs1C"
+      },
+      {
+        "name": "Reuters via KELO-AM 5/12 Italy industry output posts solid gain in March as Iran war impact awaited",
+        "url": "https://kelo.com/2026/05/12/italy-industry-output-posts-solid-gain-in-march-as-iran-war-impact-awaited/"
+      },
+      {
+        "name": "Ansa English 5/12 18:11 Moody's says Italy's GDP up 0.4%, with Hormuz escalation -0.3%（完整 3 情境）",
+        "url": "https://www.ansa.it/english/newswire/english_service/2026/05/12/moodys-says-italys-gdp-up-0.4-with-hormuz-escalation-0.3-4_4ffee60c-983b-4285-8298-3702c46cbf79.html"
+      },
+      {
+        "name": "Trading Economics Italy Industrial Production 歷史對照",
+        "url": "https://tradingeconomics.com/italy/industrial-production"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-13",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【5/13 今晚抵京 + 突發：Nvidia CEO Jensen Huang 隨行】Trump 9 年來首位美國總統訪中、2 次雙邊會談、美中關稅 47% 懸念；Nvidia CEO 加入代表團首度確認（Reuters 5/12 報導）= 半導體出口管制 / AI chip 管制議程納入；5/14 雙邊會談、5/15 聯合聲明；與新聞 2 ECB 鷹派交互作用、與新聞 1 ZEW「Iran 停火期待」直接連動",
+    "summary": "🇺🇸🇨🇳🇮🇷🇪🇺昨日日報 flag 的 5/13-15 Trump 訪京於今日正式進入執行階段：Trump 於 5/12（美東）搭乘 Air Force One 離開、週三晚間（5/13）抵京、由 Xi Jinping 接機（AP News Josh Boak / Didi Tang 5/12）；行程：5/14 歡迎儀式 + 天壇（1400 年代孔教建築）參訪 + Xi 雙邊會談；5/15 早晨與 Xi 茶敘、工作午餐後離京（Yahoo Finance Ben Werschkul 5/11）。White House 官方定調：「管理穩定而非解決問題」（前 USTR Michael Froman）。Trump 5/11 週一受訪：「我們與中國做很多生意、賺很多錢」——語氣比 2018 貿易戰時緩和。最重磅突發：Reuters 5/12 KELO-AM 揭露「Nvidia CEO Jensen Huang 已加入 Trump 訪京代表團」（消息來源），意味 AI 晶片 / 半導體出口管制議程正式納入雙邊會談——Nvidia H20 晶片出口中國禁令、Trump 上月已口頭鬆綁、5/14-15 可能正式走出政策。其他高層議程（CFR Chris McGuire 5/10 / Guardian Simon Tisdall 5/10 / WEF 5/8 預覽）：（i）Iran 衝突調停（Xi 扮演中介、作為關稅調降 leverage）；（ii）關鍵礦產 / 稀土 / 磁性材料（Beijing 握籌碼）；（iii）美中關稅（現為 47%、若降至 35-40% = Temu / Shein / AliExpress 對美 GMV Q3 +15-20% 反彈）；（iv）Taiwan 措辭（Xi 試圖讓 Trump 在 cross-strait 用語上讓步）；（v）AI / 科技競爭（Huang 帶回來的 deliverable）。2025/10 Busan 峰會後美中關稅已從 57% → 47%（WEF），此次若再調降 = Trump-Xi 會議模式確立為「漸進關稅管理機制」。市場反應：Yahoo Finance 報導 5/12 收盤 S&P 500 -0.89%、Nasdaq -1.67%、Russell 2000 -2.12%（tariff 政策不確定性）；油價 5/12 Brent $107.16（+2.83%）反映「訪京前油價 hedge」（Hormuz 僵局 Trump 可能向 Iran 再施壓作為訪京 deliverable）。",
+    "public_impact": "對跨境賣家的影響：Trump 5/13 晚間抵京、9 年來首位美國總統訪中、5/14 歡迎儀式 + Xi 雙邊會談 + 天壇參訪、5/15 茶敘與工作午餐後離京。重磅突發：Reuters 5/12 揭露 Nvidia CEO Jensen Huang 已加入代表團，意味 AI 晶片 / 半導體出口管制議程正式納入。五大議程：Iran 衝突調停（Xi 扮中介）、關鍵礦產 / 稀土 / 磁性材料、美中關稅（現 47%）、Taiwan 措辭、AI 科技競爭。對跨境賣家五線影響：第一，若 AI 晶片管制鬆綁 = 跨境 3C / GPU / AI 裝置品類 Q3 供應能量 +10-15%、終端價格下降 5-8%；第二，若美中關稅 47% → 35-40% = Temu / Shein / AliExpress 對美 GMV Q3 +15-20% 反彈、對小型跨境賣家低客單價品類（<$25）構成競爭壓力；第三，若稀土 / 磁性材料放寬 = 歐洲 3C、電池、電動工具、音響品類 Q3 成本 -5-10%；第四，若 Iran 調停成立 = Brent Q3 回探 $90-95、EUR/USD 1.20、歐洲消費端 Q3 復甦 leading；第五，若 Taiwan cross-strait 措辭讓步 = 台灣跨境賣家地緣風險溢價 +2-3%。5/14-15 期間市場波動預期劇烈、5 月 12 日美股已先跌（S&P 500 -0.89%、Nasdaq -1.67%、Russell -2.12%）。",
+    "public_action": "賣家建議：① 5/14-15 期間設每日市場監測機制：關稅、AI chip、稀土、Iran 調停、Taiwan 措辭五線；② 美國市場依賴 >50% 的對美出口賣家準備 Temu/Shein 競爭回應 playbook：Vine 申請、Lightning Deals、Coupon 策略、Brand Story 強化；③ 3C、GPU、AI 盒子、電池、電動工具、音響、磁性材料相關品類賣家 Q3 預留「雙放寬」情境（AI chip + 稀土）的 Q3 +5-10% forecast upside；④ 若 Iran 調停成立則 Q3 重做情境：Brent $90-95、EUR/USD 1.20、歐洲消費端復甦 leading；⑤ 台灣跨境賣家本週內部評估供應鏈地理分散：Vietnam / Japan / Korea 替代方案 Q3-Q4 啟動；⑥ 時程監控：5/14 雙邊會談 readout、5/15 聯合聲明、5/16 市場 digest、5/19 Strasbourg EU-US Turnberry 第二輪、6/3 War Powers 死線、7/4 EU-US Turnberry 批准死線。",
+    "sources": [
+      {
+        "name": "AP News 5/12 Trump aims to stabilize trade in Beijing summit with Xi（Josh Boak / Didi Tang、\"管理穩定而非解決問題\"）",
+        "url": "https://apnews.com/article/trump-xi-china-summit-trade-tariffs-2eee658298ba8f064fe232e8832bd2ea"
+      },
+      {
+        "name": "Yahoo Finance 5/11 Trump heads to Beijing with tariff uncertainty, AI communication, and Hormuz in focus（Ben Werschkul / 完整行程）",
+        "url": "https://finance.yahoo.com/economy/policy/article/trump-heads-to-beijing-with-tariff-uncertainty-ai-communication-and-the-strait-of-hormuz-in-focus-125943246.html"
+      },
+      {
+        "name": "Reuters 5/10 Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI",
+        "url": "https://www.reuters.com/world/china/rare-earths-deal-between-us-china-is-still-effect-us-official-says-2026-05-10/"
+      },
+      {
+        "name": "Reuters via KELO-AM 5/12 Nvidia's Jensen Huang to join Trump's China visit, sources say",
+        "url": "https://kelo.com/2026/05/12/nvidias-jensen-huang-to-join-trumps-china-visit-sources-say/"
+      },
+      {
+        "name": "WEF 5/8 US-China relations: What to expect from the Trump-Xi summit（關稅 57% → 47% 歷史、中國 2025 對美出口 -20%）",
+        "url": "https://www.weforum.org/stories/2026/05/what-to-expect-trump-xi-summit-china-us/"
+      },
+      {
+        "name": "SCMP 5/11 China confirms dates for Donald Trump's state visit to Beijing",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/12 原油 + ECB 權力棋局】Brent 5/12 收 $107.16（+2.83%）連 3 日上揚（5/10 $101.29 → 5/11 $104.21 → 5/12 $107.16）、Trump 否決 Iran 停火草案後反彈加速；Panetta（義大利央行行長）5/12 當選 BIS 董事會主席 6/3 接任（取代提前下台的 Villeroy）；ECB Governing Council 2 位重量級鴿派（Villeroy + Lagarde 內部）同步式微，鷹派 Nagel / Schnabel / Patsalides / Panetta 主場化",
+    "summary": "🇮🇷🇸🇦🇪🇺油價 3 日連續走強：Brent 5/10 $101.29（+1.23%）→ 5/11 $104.21（+2.88%）→ 5/12 $107.16（+2.83%）（Investing.com daily data、Trading Economics 5/13 01:00 UTC 延續至 $107.03 微跌 0.69%）、過去 1 個月 +12.91%、過去 1 年 +61.94%。Trading Economics 5/13 觀察：「Brent 連 3 日上揚後續停在 $107 以上、因 Hormuz 海峽持續近封閉狀態+ Iran 戰爭僵局；Washington 拒絕 Tehran 最新和平框架回應後、脆弱停火仍在風險中」。OPEC+ 情境：Aramco CEO Nasser 5/11「2 個月全球已失去 10 億桶供應」（昨日日報）；Vietnam 國營油企 5/12 公開向美國海軍請求「容許油輪通過封鎖線」（Reuters）——亞洲買家焦慮升級。市場 Q3 情境：Barclays 已上修 2026 Brent forecast 到 $100（vs 前 $85）、若封鎖延續到 5 月底則 $110（5/1 Reuters）；Moody's 5/12 最壞情境 Brent Q3 -> $115-120、Italy GDP -0.3%、Germany -0.3%。另一個 5/12 爆點：BIS（國際清算銀行）董事會宣布義大利央行行長 Fabio Panetta 當選董事會主席（Marc Jones 為 Reuters 執筆、5/12 10:58 UTC），接替 2 月提前下台的法國央行行長 Villeroy de Galhau、6/3 正式生效、3 年任期。附屬人事：BoJ 植田擔任 CGFS 主席（立即生效、3 年）、Brazil Galípolo 接任新興市場央行行長組主席（9/1 生效）。戰略意義：Villeroy 是 ECB Governing Council 中僅次於 Lagarde 的資深鴿派、過去 2 年多次公開反對升息（最近 4/30 ECB 決議前「不應由日期決定、應由數據決定」）；其提前卸任 + Panetta 獲委於更重要 BIS 職位後對 ECB 投票更加謹慎 = ECB 6/11 升息陣線結構性加強（Bundesbank Nagel + EZB Schnabel + Cyprus Patsalides + Panetta）。與今天新聞 1 ZEW +7 pp 反彈的「Iran 停火期待」形成最深層矛盾：ZEW 市場期待鴿派結果、但 ECB 機構權力結構往鷹派傾斜。",
+    "public_impact": "對跨境賣家的影響：Brent 原油 5/12 收 $107.16（+2.83%）連 3 日上揚、5/10 $101 → 5/11 $104 → 5/12 $107；Hormuz 海峽持續近封閉、Trump 拒絕 Iran 最新和平框架回應、Aramco CEO「2 個月已失去 10 億桶供應」、Vietnam 國營油企公開向美國海軍請求通行。Barclays 2026 Brent forecast 已從 $85 上修到 $100、封鎖若延續到 5 月底 $110；Moody's 5/12 最壞情境 Brent Q3 → $115-120。另一個 5/12 結構性訊號：義大利央行行長 Panetta 當選 BIS 董事會主席、6/3 接替提前下台的法國央行行長 Villeroy（ECB 僅次於 Lagarde 的資深鴿派）；ECB 權力結構鷹派化完成（Nagel + Schnabel + Patsalides + Panetta 四位）。對跨境賣家三線影響：第一，油價 $107+ 意味 FBA fuel surcharge、中-EU 海運 FCL、空運 / 快遞燃料附加費 Q3 +3-5%、品牌定價承壓；第二，ECB 2026 兩次升息（6 月 + 9 月各 25bp）為 base case，歐元計價信貸成本 Q3-Q4 +50bp；第三，能源類目 Q2-Q3 有強勁 upside（家用節能、LED、智慧恆溫器、隔熱材、節能家電）、低客單價（<€30）繼續強。唯一反轉 trigger：5/14-15 Trump-Xi 訪京若促成 Iran 停火、Brent Q3 可回探 $90-95。",
+    "public_action": "賣家建議：① Brent Q3 情境 base $110、upside $120+（權重 30%）、downside $95（權重 20%、需 Iran 停火觸媒）；② 歐元計價貸款的跨境賣家 Q2 末前鎖利 Working Capital（ECB 雙升息 +50bp 情境）；③ 家用節能產品（LED、智慧恆溫器、隔熱材、節能家電、太陽能小家電）Q2-Q3 forecast +8-12%；④ SKU mix 建議：<€30 低客單價 Q3 佔比 +10%、>€200 高單價 Q2 不擴張；⑤ 使用 FBA 的賣家 Q3 預期 fuel surcharge +3-5%、在售價結構內預留緩衝（7/1 生效）；⑥ 中-EU 海運賣家 Prime Day 2026 補貨在 5/20 前完成 80% inbound、5/27 AWD 截止；⑦ 監控節點：5/13 Villeroy 卸任演說、5/14-15 Trump-Xi Beijing（Iran 停火觸媒、決定 Q3 油價走勢）、5/15 IEA Oil Market Report、6/3 Panetta BIS 正式生效、6/11 ECB 6 月決議。",
+    "sources": [
+      {
+        "name": "Trading Economics Brent crude oil（5/13 01:00 UTC $107.03、5/12 $107.16 收盤、3 日連漲）",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "Investing.com Brent Oil 歷史日線（5/10-12 三日走勢）",
+        "url": "https://www.investing.com/commodities/brent-oil-historical-data"
+      },
+      {
+        "name": "Reuters 5/12 Italy's Panetta to chair central bank group BIS' Board of Directors（Marc Jones、6/3 生效、取代提前下台的 Villeroy）",
+        "url": "https://www.reuters.com/business/finance/italys-panetta-chair-central-bank-group-bis-board-directors-2026-05-12/"
+      },
+      {
+        "name": "Reuters 5/13 Oil prices slip on teetering Iran ceasefire as Trump heads to China（5/13 早盤動態）",
+        "url": "https://www.reuters.com/business/energy/oil-prices-slip-teetering-iran-ceasefire-trump-heads-china-2026-05-13/"
+      },
+      {
+        "name": "Reuters 5/1 Barclays lifts 2026 Brent forecast to $100 on prolonged Hormuz disruption（情境：封鎖延續到 5 月底 → $110）",
+        "url": "https://www.reuters.com/business/energy/barclays-lifts-2026-brent-forecast-100-prolonged-hormuz-disruption-2026-05-01/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-12",
     "type": "daily",
     "tags": [
