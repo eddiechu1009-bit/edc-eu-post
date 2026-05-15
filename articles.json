@@ -1,5 +1,321 @@
 [
   {
+    "date": "2026-05-15",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/14 ONS】UK Q1 GDP +0.6% QoQ（Q4 +0.2% 加速、符合預期）：服務業 +0.8% 領頭、3 月 +0.3% MoM；但 IMF 已下修全年到 +0.8%、Iran 戰爭尚未傳導",
+    "summary": "🇬🇧UK ONS 5/14（週四）發布 Q1 2026 GDP 初估：QoQ +0.6%（與 Reuters 共識完全一致、從 Q4 修正後 +0.2% 大幅加速）。分項：服務業 +0.8%（broad-based 增加、領頭）、生產業 +0.2%（小幅增）、建築業 +0.4%（從 Q4 收縮回升）。月度 GDP：3 月 +0.3% MoM（2 月修正後 +0.4%）。CNBC（Holly Ellyatt 5/14）：「這是 broad-based 服務業增加帶動 ... ONS Liz McKeown 評論」。但這是「old news」：NIESR Fergus Jimenez-England：「雖然 Q1 outturn 強勁但反映的是 old news；商業信心受 Iran 戰爭打擊、投入價格通膨上升、職缺下降」。IMF 已把 UK 2026 全年 GDP forecast 從 +1.3% 大砍到 +0.8%（G7 中下調幅度最大）；Reuters 5/13 經濟學家調查：40% 預期 BoE 2026 內升息（vs 4 月調查 23%），Goldman：「能源價格壓力若持續，BoE summer 升息門檻很低」。Chancellor Reeves 稱結果證明政府「has the right economic plan」；但 Starmer 仍面臨 Labour 黨內 90+ 議員逼宮，10 年期 gilt 殖利率破 5%。GBP/USD 數據後上探 1.3530。",
+    "public_impact": "對跨境賣家的影響：UK ONS 5/14 發布 Q1 2026 GDP +0.6% QoQ，符合預期、從 Q4 +0.2% 大幅加速。服務業 +0.8% 領頭、3 月 +0.3% MoM。但 NIESR 與多家分析師指出這是「old news」——Q1 數據未反映 Iran 戰爭與能源衝擊。IMF 已把 UK 全年 GDP forecast 從 +1.3% 大砍到 +0.8%（G7 中下調幅度最大）。Reuters 5/13 調查：40% 經濟學家預期 BoE 2026 內升息（vs 4 月 23%）。10 年期 gilt 殖利率破 5%、政治不確定（Starmer 逼宮）增添風險。對跨境賣家意味：UK 市場 Q1 數據面強勁但 Q2 才是真戰場，能源 + 食品通膨 + 消費走弱已開始傳導；BoE 升息機率上升將推高借貸成本；GBP 波動風險加劇。",
+    "public_action": "賣家建議：① UK 市場 Q2 forecast 下修 -2 ~ +1% YoY（Q1 數據強勁不代表 Q2 GMV 強勁）；② Q3 庫存深度建議下調 10-15%（消費走弱 + 高利率 + 政治不確定）；③ 對 GBP 有敞口的賣家評估匯率避險（base 1.30-1.35、downside 1.25）；④ 信貸成本敏感的賣家評估鎖定固定利率（BoE summer 升息門檻已低）；⑤ 監控：5/16 BoE Bailey 演講、5/22 前後 UK 4 月零售銷售、6/19 BoE 6 月決議。",
+    "sources": [
+      {
+        "name": "CNBC 5/14 UK grows 0.6% in the first quarter — before the Iran war really started to hit global economy",
+        "url": "https://www.cnbc.com/2026/05/14/uk-q1-gdp-2026.html"
+      },
+      {
+        "name": "FXStreet 5/14 UK GDP set to grow in Q1, with March data likely to raise concerns",
+        "url": "https://www.fxstreet.com/news/uk-gdp-set-to-grow-in-q1-with-march-data-likely-to-raise-concerns-202605140200"
+      },
+      {
+        "name": "Reuters/AOL 5/13 BoE to hold rates at 3.75% this year, but growing minority expect a hike",
+        "url": "https://www.aol.com/articles/boe-hold-rates-3-75-134807000.html"
+      },
+      {
+        "name": "ONS 5/14 GDP grew 0.6% in Q1 2026 official summary",
+        "url": "https://www.facebook.com/ONS/posts/gdp-grew-06-in-quarter-1-jan-to-mar-2026-services-08-construction-04-and-product/1319737126999762/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-15",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【5/14 北京】Trump-Xi 雙邊 day 1：「strategic stability」框架 + Iran 不可擁核 + Hormuz 開放 + Xi 加購美油 + Taiwan「最重要議題」warning",
+    "summary": "🇺🇸🇨🇳🇮🇷🇪🇺Trump-Xi 北京雙邊 5/14 進行 2 小時 15 分鐘會談，CNBC（Anniek Bao 5/14）整理 5 大 takeaways：① 雙方達成「constructive China-US relationship of strategic stability」框架，將作為未來 3 年指導方針，採「合作為主 + measured competition + 可控分歧」；EIU Tianchen Xu：「進入 managed stability 階段，不會像 2025 年險些失控」。② 5/13 韓國預備會（Bessent + 何立峰）達「balanced and positive outcomes」，Xi 表態「中國開放大門只會越開越大」（向同行美企 CEO Musk / Cook / Huang 等發出訊號）。③ 雙方同意 Hormuz 必須開放、不得設「toll」；Xi 表態「中國有興趣加購美國原油以降低對中東依賴」。④ 雙方同意 Iran 不可擁有核武。⑤ Taiwan 是 Xi 最重磅警語：「Mishandle 將使整個關係 in great jeopardy」、「美中可能 collide or conflict」（Xinhua / Al Jazeera）。Trump 邀 Xi 9/24 訪美、APEC + G20 年底再見。市場反應：Brent -0.1% 至 $105.54（Iran 同意 ~30 艘船穿越 Hormuz）、S&P 500 +0.5% 創高、Dow 重返 50,000、Kospi 創 8,000 紀錄；UK Trump 帶領 CEO 團包含 Musk / Cook / Huang / Larry Fink。Trump 對 Hannity 表態：Xi 承諾「不會給 Iran 提供軍備」（重大）。",
+    "public_impact": "對跨境賣家的影響：Trump-Xi 北京會談 5/14 day 1 進行 2h15min。CNBC、Al Jazeera、白宮 readout 整理 5 大要點：① 雙方達成「strategic stability」框架（合作為主 + 可控分歧）；② 5/13 韓國預備會達「balanced and positive outcomes」、Xi 對美企承諾「中國大門越開越大」；③ Hormuz 必須開放、Xi 承諾加購美國原油；④ Iran 不可擁核；⑤ Taiwan 是 Xi 最重磅警語。市場反應：Brent -0.1% 至 $105.54、S&P 500 創高、Dow 重返 50,000。對跨境賣家意味：美中關稅 47% 維持為 base case（Busan truce 延長預期）、Hormuz 開放共識利於油價 Q3 回落、歐洲消費者 Q3 復甦時間表可能前推。",
+    "public_action": "賣家建議：① 等 5/15 聯合聲明 + 5/16 weekend digest 後再更新 Q3 策略，目前維持現有計畫；② Q3 油價 base case 從 $105-110 微下修到 $95-105，歐洲消費端 Q3 復甦窗口前推；③ 對美出口賣家暫不需因 Temu/Shein 而恐慌（47% 關稅維持、no surprise）；④ Taiwan 風險屬結構性尾部，不影響 day-to-day 運營；⑤ 監控：5/15 聯合聲明、5/16-19 市場 digest、5/19 EU-US Turnberry 第二輪（7/4 死線）。",
+    "sources": [
+      {
+        "name": "CNBC 5/14 Five takeaways from the Trump-Xi summit in Beijing so far",
+        "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html"
+      },
+      {
+        "name": "CNBC 5/14 Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+        "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html"
+      },
+      {
+        "name": "Al Jazeera 5/14 China's Xi warns Trump about Taiwan at Beijing summit",
+        "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit"
+      },
+      {
+        "name": "Reuters/Business Day 5/14 Oil prices fall as Iran gives green light to vessels crossing Strait of Hormuz",
+        "url": "https://www.businessday.co.za/markets/2026-05-14-oil-prices-fall-as-iran-gives-green-light-to-vessels-crossing-strait-of-hormuz/"
+      },
+      {
+        "name": "Transport Topics 5/14 Brent Crude Falls 0.1% to $105.54 a Barrel",
+        "url": "https://www.ttnews.com/articles/oil-prices-no-ending-iran"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-15",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/14 Eurostat】歐元區 3 月工業生產 +0.2% MoM / -2.1% YoY（弱於預期）：德國 -1.2% MoM 拖累、非耐久消費品 -4.5% MoM 急砍、Spain +2.4% 領頭",
+    "summary": "🇪🇺🇩🇪🇫🇷🇮🇹🇪🇸🇮🇪Eurostat 5/14 發布 3 月工業生產：歐元區 +0.2% MoM（vs 預期 +0.3%）、EU +0.8% MoM（EU 比預期好）；YoY 歐元區 -2.1%（vs 預期 -1.7%、下行更陡）、EU -1.0%；2 月歐元區 MoM 從原 +0.4% 下修到 +0.2%。分項致命傷：非耐久消費品 -4.5% MoM（食品、服飾、個人護理等高頻消費品連續下滑）、能源 -1.5% MoM；耐久消費品 +0.5% MoM、資本財 +1.1% MoM、中間財 +0.9% MoM 都是亮點。國別分化加劇：Spain +2.4% MoM、+2.0% YoY（連續最強）、France +1.0% MoM、+0.9% YoY（從 -0.9% 反彈）、Italy +0.7% MoM、+1.5% YoY（接續 ZEW 義大利 49.8 唯一正成長）；Germany -1.2% MoM、-3.0% YoY（戰時 frontloading 庫存崩盤、與工廠訂單 +5.0% 嚴重背離）；Ireland -19.4% YoY 創極端紀錄（pharma 出口 frontloading 反轉）。FXLeaders 5/14：「2.1% 年降反映需求疲軟、能源成本高漲、地緣政治不確定」。歐元數據後對美元微跌、市場 reassess ECB 後續動作可能性。",
+    "public_impact": "對跨境賣家的影響：Eurostat 5/14 發布 3 月工業生產：歐元區 +0.2% MoM（vs 預期 +0.3%、弱於預期）、YoY -2.1%（vs 預期 -1.7%、降幅更陡）；2 月數據從 +0.4% 下修到 +0.2%。最警示訊號：非耐久消費品 -4.5% MoM 急砍（食品、服飾、個護等高頻消費品）。國別分化：Spain +2.4% MoM 最強、France +1.0%、Italy +0.7%（連 3 個月正成長）、Germany -1.2% 拖累、Ireland -19.4% YoY（pharma frontloading 反轉）。對跨境賣家意味：歐洲零售端結構轉弱、食品/服飾/個護類受壓最嚴重；德國市場硬需求疲軟（與 ZEW 反彈背離）；南歐 Spain / Italy 為 Q2-Q3 相對強勢市場。",
+    "public_action": "賣家建議：① 食品 / 個護 / 服飾類在歐洲市場的 Q2 計畫適度下修（-1 ~ -3% YoY 預期）、避免過度備貨；② 德國市場保持中性 base（不因 ZEW 反彈而追加庫存，因硬指標確認疲軟）；③ Spain 與 Italy 市場 Q3 加碼力度提升（GDP + ZEW + IPI 三重確認最強）、可優先佈局南歐 SKU；④ 中間財 / 耐久消費品 / 資本財類仍正成長，3C / 工具 / 家電類影響較小；⑤ 監控：5/19 歐元區 4 月 HICP final、5/22 德國 Ifo 5 月、6/5 Eurostat Q1 GDP 完整版。",
+    "sources": [
+      {
+        "name": "Eurostat 5/14 Industrial production up by 0.2% in the euro area and by 0.8% in the EU（官方 release）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-13052026-bp"
+      },
+      {
+        "name": "FXLeaders 5/14 Eurozone Economy Loses Momentum in Q1 as Signs of Slowdown Intensify",
+        "url": "https://www.fxleaders.com/news/2026/05/14/eurozone-economy-loses-momentum-in-q1-as-signs-of-slowdown-intensify/"
+      },
+      {
+        "name": "GMK Center 5/14 Industrial production in the eurozone and the EU rose by 0.2% in March",
+        "url": "https://gmk.center/en/news/industrial-production-in-the-eurozone-and-the-eu-rose-by-0-2-in-march/"
+      },
+      {
+        "name": "IndexBox 5/14 EU Industrial Production March 2026 Monthly Rise of 0.2%, Annual Decline Deepens to -2.1%",
+        "url": "https://www.indexbox.io/blog/eurozone-industrial-production-rises-02-in-march-2026-annual-decline-deepens-to-21/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-15",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/13 晚 → 5/14 ECB 雙重訊號】Lane 演講「6 月升息是 test、不是 given」+ Kazaks「通膨預期惡化將被迫升息」：6/11 仍保留彈性",
+    "summary": "🇪🇺🇩🇪🇮🇹🇫🇷ECB 5/13 晚到 5/14 接連兩波重要發言。① Chief Economist Lane 5/13 晚演講（能源供應衝擊）：Econostream 5/14 解讀：「Lane 把 Lagarde 3/25 的 graduated response ladder 框架 拿來顯微鏡檢視，結果不是顯而易見的 6 月升息綠燈」。Lane 強調 demand-destruction 渠道「all else equal 限制了所需的貨幣政策調整」、wage 證據「沒有對能源衝擊作出反應」、firm survey「output prices 有上升但 scale and breadth 仍不確定」、「inflation 影響 so far 仍 relatively contained」。Lane：6/11 升息決定 must be earned by data, not inferred from existence of energy shock alone。② Governing Council 成員 Kazaks 5/14（拉脫維亞央行行長）：「若 inflation expectations 惡化，ECB 將被『forced』升息」、「4 月 hold 不代表 looking through inflation shock」（Econostream 5/14 雙篇）。市場反應：6/11 升息機率從昨日 92% 微降至 85%（仍是 base case 但失去「locked」狀態）、EUR/USD 微跌（投資者 reassess）。三角邏輯：今日工業生產非耐久消費品 -4.5% 確認 demand destruction（Lane 觀點得到 evidence）、但 Q1 GDP +0.1%（停滯性通膨）+ 油價持續高位 = inflation expectations 風險上行（Kazaks 觀點）；ECB 6/11 仍 50/50 偏鷹但留彈性。",
+    "public_impact": "對跨境賣家的影響：ECB 5/13 晚到 5/14 雙重訊號釋出。Chief Economist Lane 5/13 演講：把 6 月升息定調為「test、不是 given」、強調 demand-destruction 渠道限制了所需的貨幣政策調整、wage 證據沒對能源衝擊反應、inflation 影響「relatively contained so far」。Governing Council 成員 Kazaks 5/14：「通膨預期若惡化將被迫升息」。市場反應：6/11 升息機率從 92% 微降至 85%。對跨境賣家意味：EUR/USD 不會單向走強（base 1.16-1.18）、ECB 信貸條件 Q3 收緊但不加速、消費端 Q3 不會因升息額外承壓。",
+    "public_action": "賣家建議：① EUR/USD Q3 base 維持 1.16-1.18 區間，對美出口賣家匯率敞口保持中性；② 信貸成本敏感的賣家仍建議鎖定固定利率（升息為 base case 但幅度收斂）；③ 歐洲市場 Q3 GMV forecast 維持 +1-3% YoY base（升息不會額外打擊消費）；④ 監控：5/16 歐元區 4 月 HICP final、5/22 德國 Ifo、6/11 ECB 6 月利率決議。",
+    "sources": [
+      {
+        "name": "Econostream 5/14 ECB Insight: Lane Makes June Hike a Test, Not a Given",
+        "url": "https://www.econostream-media.com/news/2026-05-14/ecb_insight:_lane_makes_june_hike_a_test_not_a_given.html"
+      },
+      {
+        "name": "Econostream 5/14 ECB's Kazāks: Will Be 'Forced' to Hike Rates if Inflation Expectations Deteriorate",
+        "url": "https://www.econostream-media.com/news/2026-05-14/ecb%E2%80%99s_kaz%C4%81ks:_will_be_%E2%80%9Cforced%E2%80%9D_to_hike_rates_if_inflation_expectations_deteriorate.html"
+      },
+      {
+        "name": "Econostream 5/14 ECB's Kazāks Says April Hold Did Not Mean Looking Through Inflation Shock",
+        "url": "https://www.econostream-media.com/news/2026-05-14/ecb%E2%80%99s_kaz%C4%81ks_says_april_hold_did_not_mean_looking_through_inflation_shock.html"
+      },
+      {
+        "name": "Mitrade 5/14 Kazaks: ECB will continue to decide meeting by meeting",
+        "url": "https://www.mitrade.com/au/insights/news/live-news/article-6-1721807-20260514"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-15",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【5/13-19 Amazon UK】Everyday Essentials Week 2.0 啟動：7 天 grocery + 個護 + 嬰兒 + 家居折扣，Amazon Fresh 食品 -20%（Anchor / Innocent / Häagen-Dazs）",
+    "summary": "🇬🇧Amazon UK 5/13（週三）官方宣布：Everyday Essentials Week 2.0 已啟動，活動期間 5/13 00:00 → 5/19（週二）23:59，共 7 天。Retail Times 與 ChannelX 5/13 同步報導：覆蓋類別含 grocery、cleaning、laundry、health、beauty、baby、cupboard staples（家居必需品全覆蓋）。Amazon Fresh grocery 折扣達 20%，明確品牌包含 Anchor Butter、Innocent Drinks、Häagen-Dazs。Prime 會員享 fast and free delivery + One-Day / Same-Day Delivery（同樣的 unlimited Prime 優惠）；非 Prime 會員也可參與。Amazon UK 統計：97% 消費者把「good value for money」列為最重要、84% 表示折扣影響購買決定、52% 看重 fast delivery（Amazon 自家調查、用來支撐折扣事件設計）。Hemel Today / Yorkshire Evening Post / Scotsman 同步推出「最值得買的折扣清單」推廣（Heinz Beanz 12 罐 £8.99、Ribena 24 盒 £6.29、Ariel Platinum £27.11、Regina kitchen roll 12-pack £16）。Which? 5/13 「<£30 划算品 10 選」報導。本活動是 Amazon UK 的「Pre-Prime Day 暖場 + grocery 戰場宣示」：與 Iceland、Morrisons、Co-op、Gopuff 等 Amazon UK 合作夥伴的 grocery 生態系直接對打 Tesco / Sainsbury's。",
+    "public_impact": "對跨境賣家的影響：Amazon UK 5/13 啟動 Everyday Essentials Week 2.0，活動期間 5/13-5/19 共 7 天。覆蓋類別含 grocery、cleaning、laundry、health、beauty、baby、cupboard staples（家居必需品全覆蓋）。Amazon Fresh grocery 折扣達 20%（Anchor、Innocent、Häagen-Dazs 等）。Prime 會員享 fast & free delivery、非 Prime 會員也可參與。本活動是 Amazon UK 對打 Tesco / Sainsbury's 的 grocery 生態系全壘打（搭配 Amazon Fresh、Whole Foods、Iceland、Morrisons、Co-op）、同時也是 Prime Day 6 月前的暖場事件。對跨境賣家意味：UK grocery / 必需品 / 個護 / 嬰兒 / 家居類賣家本週可獲得 GMV bump、Prime Day 6 月前的關鍵練兵窗口。",
+    "public_action": "賣家建議：① UK grocery / 個護 / 嬰兒 / 家居類賣家本週密切監控 GMV（預期較平日 +15-30%）；② 本週現金流直接投入 5/27 FBA Prime Day 到貨（連續 4 週密集啟動）；③ Amazon Fresh 賣家利用 20% 折扣事件爭取首頁曝光、延續到 Q3 自然流量；④ 中型品牌可借此機會進場 Amazon UK grocery 生態系（對打 Tesco / Sainsbury's）；⑤ 監控：5/19 活動結束、5/22 BoE Bailey 演講、5/26 Prime Day Lightning Deal 提交截止、5/27 FBA 到貨截止。",
+    "sources": [
+      {
+        "name": "Retail Times 5/13 Amazon brings back Everyday Essentials Week 2026",
+        "url": "https://retailtimes.co.uk/amazon-brings-back-everyday-essentials-week-2026-bigger-savings-on-products-customers-use-most-every-day/"
+      },
+      {
+        "name": "ChannelX 5/13 Amazon Brings Back Everyday Essentials Week 2026",
+        "url": "https://channelx.world/2026/05/amazon-brings-back-everyday-essentials-week-2026/"
+      },
+      {
+        "name": "Amazon.co.uk Everyday Essentials Week 官方頁面",
+        "url": "https://www.amazon.co.uk/events/everydayessentialsweek"
+      },
+      {
+        "name": "Which? 5/13 10 bargains for less than £30 we spotted in Amazon's Essentials Week",
+        "url": "https://www.which.co.uk/news/article/deals-less-than-30-in-amazon-essentials-week-sale-aqHni3I9U7lU"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
+    "date": "2026-05-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/13 Eurostat】歐元區 Q1 GDP 確認 +0.1% QoQ（EU 上修 +0.2%）+ 就業 +0.1%：停滯性通膨格局鎖定，德國 +0.3% 領先、法國停滯",
+    "summary": "🇪🇺🇩🇪🇫🇷🇮🇹🇪🇸Eurostat 5/13 同步發布 Q1 2026 GDP 第二次估計（t+45 flash）與就業 flash：歐元區 GDP QoQ +0.1%（與 4/30 初估一致）、EU 從初估 +0.1% 上修到 +0.2%；YoY 歐元區 +0.8%（vs Q4 +1.3%）。就業 QoQ +0.1%（歐元區與 EU 同步），為 2025 Q2 以來最弱增幅。國別分化：德國 +0.3%（超預期 +0.2%，frontloading 效應）、西班牙 +0.6%（EU 最強）、荷蘭 +0.1%、義大利 +0.2%、法國 0.0%（停滯）。RTTNews 5/13 確認：「歐元區經濟僅勉強擴張，中東戰爭導致能源供應緊縮是主因」。Trading Economics 補充：「通膨風險促使 ECB 考慮 2026 年進一步升息，最大經濟體紛紛下修成長預測」。Khaleej Times 5/13 標題直接用「stagflation」定性。與昨日日報 ZEW +7 反彈形成對比：ZEW 是「希望交易」（前瞻改善），GDP 是「現實確認」（Q1 已經停滯）——雙軌格局再次驗證。失業率方面，3 月歐元區 6.2%（vs 2 月 6.3% 微降）、EU 6.0%（穩定），青年失業 15.4%（微升）。",
+    "public_impact": "對跨境賣家的影響：Eurostat 5/13 確認歐元區 Q1 2026 GDP 僅增 +0.1% QoQ（EU 上修到 +0.2%），YoY 從 Q4 的 +1.3% 大幅放緩到 +0.8%，就業同步僅增 +0.1%。國別分化明顯：德國 +0.3%（超預期）、西班牙 +0.6%（最強）、義大利 +0.2%、法國停滯 0.0%。RTTNews 與 Khaleej Times 均以「停滯性通膨」定性。對跨境賣家意味：Q2 歐洲消費端不會有驚喜，整體電商成長預期維持低個位數；德國市場相對較好但仍受能源通膨壓制；法國市場 Q2 最弱。",
+    "public_action": "賣家建議：① 歐洲市場 Q2 整體 forecast 維持保守（+0-2% YoY），不宜因單一指標反彈而加碼庫存；② 德國市場 Q3 有條件性 upside（前提為中東停火），可提前備貨但不提前加碼廣告預算；③ 法國市場 Q2 最弱，建議控制庫存深度、避免滯銷；④ 監控節點：5/22 德國 Ifo 5 月商業信心、6/5 Eurostat Q1 GDP 完整版、6/11 ECB 利率決議。",
+    "sources": [
+      {
+        "name": "Eurostat 5/13 GDP and employment flash estimate Q1 2026",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-13052026-ap"
+      },
+      {
+        "name": "RTTNews 5/13 Eurozone GDP Growth Confirmed At 0.1%",
+        "url": "https://www.rttnews.com/3651560/eurozone-gdp-growth-confirmed-at-0-1.aspx"
+      },
+      {
+        "name": "Trading Economics Eurozone Growth Slows to 0.1% in Q1 2026",
+        "url": "https://tradingeconomics.com/euro-area/gdp-growth/news/550316"
+      },
+      {
+        "name": "Khaleej Times 5/13 Eurozone economy nearly stalls in Q1 2026",
+        "url": "https://www.khaleejtimes.com/world/europe/eurozone-economy-barely-grows-in-first-months-of-2026-2"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-14",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【5/14 今日】Trump-Xi 北京雙邊會談登場：穩定為主、突破不大，稀土 + AI chip + Iran 調停三線待解",
+    "summary": "🇺🇸🇨🇳🇮🇷🇪🇺Trump 5/13 晚間抵京，5/14 今日正式展開雙邊會談。AP News（Josh Boak / Didi Tang 5/12）確認行程：歡迎儀式 + 天壇參訪 + Xi 雙邊會談 + 國宴；5/15 茶敘 + 工作午餐後離京。CFR（5/13 Chris McGuire）定調：「中國在稀土與關鍵礦產上握有結構性優勢，Trump 的關稅槓桿已不如 2017」。Washington Post（5/12）：「Trump 的中國策略已從要求結構性改革轉向追求穩定共處」。Yahoo Finance（Ben Werschkul 5/11）：議程含關稅（現 47%）、AI 通訊機制、Iran 角色。新變數：Court of International Trade 上週裁定可能使 Trump 全球 10% 關稅無效（Raymond James：「削弱 Trump 談判槓桿」）。Guardian（Simon Tisdall 5/12）：「不預期重大突破，最可能結果是延長去年 10 月 Busan 貿易休戰 + 中國承諾購買美國大豆/波音/牛肉」。市場已 price in 穩定結果：S&P 500 5/12 -0.89%、Nasdaq -1.67%（不確定性折價）。",
+    "public_impact": "對跨境賣家的影響：Trump 5/14 在北京與 Xi 展開雙邊會談，AP News、CFR、Washington Post、Yahoo Finance 均定調「穩定為主、突破不大」。最可能結果是延長去年 10 月 Busan 貿易休戰、中國承諾購買美國農產品與波音。美中關稅維持 47% 為 base case。對跨境賣家三線影響：第一，Temu/Shein 對美 GMV 不會因關稅大降而 Q3 暴增，低客單價品類競爭壓力暫緩；第二，稀土出口管制暫停大概率延長，3C / 電池 / 電動工具相關品類成本維持穩定；第三，若 Iran 調停有進展，油價 Q3 有望回落，歐洲消費端復甦機會增加。",
+    "public_action": "賣家建議：① 等 5/15 聯合聲明後再調整 Q3 策略，目前維持現有計畫不變；② 3C / 電池 / 電動工具 / 音響品類成本假設維持穩定（稀土暫停出口管制大概率延長到 11/2026）；③ 對美出口賣家暫不需因 Temu/Shein 競爭升級而恐慌調價；④ 監控：5/15 聯合聲明、5/16 市場反應、5/19 EU-US Turnberry 第二輪談判。",
+    "sources": [
+      {
+        "name": "AP News 5/12 Trump aims to stabilize trade in Beijing summit with Xi",
+        "url": "https://apnews.com/article/trump-xi-china-summit-trade-tariffs-2eee658298ba8f064fe232e8832bd2ea"
+      },
+      {
+        "name": "CFR 5/13 At the Trump-Xi Summit, China Will Have the Upper Hand",
+        "url": "https://www.cfr.org/articles/at-the-trump-xi-summit-china-will-have-the-upper-hand"
+      },
+      {
+        "name": "Washington Post 5/12 Trump's approach on China has changed",
+        "url": "https://www.washingtonpost.com/politics/2026/05/12/trump-xi-summit-economy/"
+      },
+      {
+        "name": "Yahoo Finance 5/11 Trump heads to Beijing",
+        "url": "https://finance.yahoo.com/economy/policy/article/trump-heads-to-beijing-with-tariff-uncertainty-ai-communication-and-strait-of-hormuz-in-focus-125943647.html"
+      },
+      {
+        "name": "Guardian 5/12 The big questions hanging over the Trump-Xi meeting",
+        "url": "https://www.theguardian.com/world/2026/may/12/the-big-questions-hanging-over-the-trump-xi-meeting-in-china"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-14",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【倒數 47 天】7/1 EU 小包 EUR3 關稅 + €150 免稅廢除：€3/item 確認、€2 handling fee 10 月跟進，IOSS 最後窗口",
+    "summary": "🇪🇺🇨🇳🇬🇧🇺🇸距離 7/1 EU 小包關稅生效僅剩 47 天。EU Council 2025/12/12 正式通過、2026/2/11 最終立法批准：自 7/1 起，所有 <€150 小包進入 EU 須繳 €3 固定關稅（per item per tariff heading），取代現行免稅。覆蓋 IOSS 註冊賣家的 93% 電商流量。關鍵細節：一個包裹含 1 件絲質上衣 + 2 件羊毛上衣（2 個 tariff heading）= €6 關稅；3 件不同品類 = €9。第二階段：€2/parcel handling fee 預計 10-11 月生效（Air Cargo Week / Portless 確認），屆時混合包裹可能同時面對 €3/item + €2/parcel。2028 年第三階段：EU Customs Data Hub 上線後，€3 flat rate 被標準產品關稅率取代（按 HS code 實際稅率）。IFGlobal 分析：「退貨不自動退關稅」是新增摩擦。Logistics Manager 引述 British Chamber of Commerce William Bain：「對英國企業影響顯著——即使 UK 原產品免關稅，仍面臨新的通關費用與 handling charge」。對 Temu/Shein/AliExpress 直郵模式衝擊最大：EC 數據 2024 年 46 億件小包進入 EU、91% 來自中國。",
+    "public_impact": "對跨境賣家的影響：距離 7/1 EU 小包 EUR3 關稅生效僅剩 47 天。EU Council 已完成立法：所有 <€150 小包進入 EU 須繳 €3 固定關稅（per item per tariff heading），覆蓋 93% 電商流量。一個包裹含不同品類商品，每個品類各收 €3。第二階段 €2/parcel handling fee 預計 10-11 月生效。2028 年 flat rate 被標準關稅率取代。對跨境賣家三線影響：第一，直郵模式成本大幅上升（每單 +€3-9），低客單價品類（<€10）利潤空間被壓縮；第二，已在 EU 境內備貨的賣家（FBA 或歐洲倉）不受影響，結構性優勢強化；第三，退貨不自動退關稅，增加退貨成本摩擦。",
+    "public_action": "賣家建議：① 尚未註冊 IOSS 的賣家 5 月底前完成註冊（否則 7/1 後每單在目的國清關、延遲嚴重）；② 評估直郵 vs 歐洲倉備貨的成本對比：€3/item + 未來 €2 handling = 每單至少 €5 額外成本；③ 低客單價品類（<€10）若仍走直郵，利潤可能歸零，建議轉為歐洲倉發貨或提高售價；④ 退貨政策重新評估：新規下退貨不自動退關稅，需計入退貨成本；⑤ 監控：7/1 生效、10-11 月 €2 handling fee、2028 EU Customs Data Hub 上線。",
+    "sources": [
+      {
+        "name": "EU Council 2025/12/12 正式通過 €3 小包關稅",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026/"
+      },
+      {
+        "name": "Logistics Manager EU to impose €3 customs duty on small parcels from July 2026",
+        "url": "https://www.logisticsmanager.com/eu-levy-small-parcels-july-2026/"
+      },
+      {
+        "name": "IFGlobal What the end of de minimis means for cross-border ecommerce",
+        "url": "https://www.ifglobal.com/resources/blog/the-end-of-de-minimis-in-the-eu-and-uk"
+      },
+      {
+        "name": "Carra Globe EU De Minimis Changes 2026",
+        "url": "https://carraglobe.com/eu-de-minimis-changes-2026/"
+      },
+      {
+        "name": "StatTimes EU customs reset",
+        "url": "https://www.stattimes.com/ecommerce/eu-customs-reset-what-the-end-of-de-minimis-means-for-logistics-1358998"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-14",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【2026 執法升級中】GPSR AI WebCrawler 自動下架 + CASP 聯合稽查啟動：marketplace 產品安全新義務進入實戰",
+    "summary": "🇪🇺EU General Product Safety Regulation（GPSR）自 2024/12/13 生效以來，2026 年進入「執法深化」階段。European Commission（Norton Rose Fulbright 5/2026 分析）確認：E-Surveillance WebCrawler 已上線運作，用 AI 自動偵測 Safety Gate 已列管的危險產品在 marketplace 重新上架、並自動產生 take-down request。2025 年第二支 WebCrawler 已部署，可自動搜尋「潛在不合規產品」（不限已列管品項）。EC 同步宣布：2025-2026 將啟動 CASP（Coordinated Activity on Safety of Products）聯合稽查——海關與市場監管機構聯合行動、針對線上銷售產品進行同步抽檢。Reed Smith（2026 年初更新）：「市場監管預計在 2026 年全年持續加強，特別針對數位與混合產品」。Marketplace 新義務（Freshfields / KPMG-Law 彙整）：① 指定單一聯絡點 + 註冊 Safety Gate Portal；② 立即處理產品安全通知；③ 配合市場監管機構下架危險產品；④ 平台設計須讓賣家能存放製造商標示資訊；⑤ 產品召回時須用消費者資料主動通知。",
+    "public_impact": "對跨境賣家的影響：EU GPSR 自 2024/12/13 生效後，2026 年進入執法深化階段。European Commission 已部署 AI WebCrawler 自動偵測 marketplace 上的危險產品並產生 take-down request；第二支 WebCrawler 可搜尋「潛在不合規產品」（不限已列管品項）。同步啟動 CASP 聯合稽查（海關 + 市場監管同步抽檢線上銷售產品）。Marketplace 新義務包括：註冊 Safety Gate Portal、立即處理安全通知、配合下架、產品召回時主動通知消費者。對跨境賣家意味：產品安全文件不完整的商品被自動偵測下架的風險大幅上升；FBA 入倉貨物若被抽檢不合規可能整批扣押；合規完整的賣家相對受益。",
+    "public_action": "賣家建議：① 立即自檢：CE 標示、安全測試報告、EU 負責人（Responsible Person）資訊是否完整上傳；② FBA 入倉貨物隨附合規文件（避免海關抽檢時整批扣押影響 Prime Day 備貨）；③ 高風險品類（玩具、電子、個人護理、兒童用品）優先完成 GPSR 合規審查；④ 確認產品 listing 上有完整製造商資訊、聯絡方式、安全警告；⑤ 監控：EC CASP 聯合稽查結果（預計 Q3 公布）、2026/12 新產品責任指令（PLD）生效。",
+    "sources": [
+      {
+        "name": "Norton Rose Fulbright EC consumer protection agenda（WebCrawler + CASP 確認）",
+        "url": "https://www.nortonrosefulbright.com/en/knowledge/publications/7e59292c/european-commission-clarifies-its-consumer-protection-agenda-for-e-commerce"
+      },
+      {
+        "name": "Reed Smith 2026 update EU regulations（GPSR 執法加強預期）",
+        "url": "https://www.reedsmith.com/our-insights/blogs/viewpoints/102lyiv/2026-update-eu-regulations-for-tech-and-online-businesses/"
+      },
+      {
+        "name": "Freshfields GPSR marketplace obligations",
+        "url": "https://www.freshfields.com/en/our-thinking/blogs/risk-and-compliance/product-risks-today-new-general-product-safety-regulation-set-to-transform-the-e-102jrau"
+      },
+      {
+        "name": "KPMG-Law GPSR obligations for online marketplaces",
+        "url": "https://kpmg-law.de/en/gpsr-what-the-new-eu-product-safety-regulation-means/"
+      },
+      {
+        "name": "EC Access2Markets GPSR overview",
+        "url": "https://trade.ec.europa.eu/access-to-markets/en/news/eus-general-product-safety-regulation-gpsr-new-era-consumer-protection"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-14",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【倒數 12 天】Prime Day 2026 確認 6 月、Lightning Deal 5/26 截止、FBA 到貨 5/27 & 6/5：EU 賣家最後衝刺窗口",
+    "summary": "🇪🇺🇩🇪🇫🇷🇮🇹🇪🇸🇬🇧Amazon 4/29 官方確認：Prime Day 2026 將在 6 月舉行（aboutamazon.eu），覆蓋 22 國含 DE/FR/IT/ES/NL/UK/BE/IE/PL/SE/AT。Mrs Prime（5/13 更新）與 10xcrew 確認關鍵截止日：Lightning Deal / Best Deal 提交截止 5/26（提前提交可享 $50 fee 折扣，4/30 已過）；FBA 庫存到貨截止 5/27（標準）& 6/5（最後）。2026 新規：deal price 必須 ≤ 過去 60 天最低價（Rufus AI 會即時顯示價格歷史給消費者）。費用：Best Deal / Lightning Deal = $100 + 1.5% of sales；Prime Member Coupon = $5 + 2.5% of sales。aboutamazon.eu 同步確認 2026 年歐洲 FBA 費用平均降 €0.17/unit、Low-Price FBA 擴展到 ≤€20 產品（降幅 €0.45/unit）。距離 5/26 deal 截止僅剩 12 天、距離 5/27 FBA 到貨僅剩 13 天。",
+    "public_impact": "對跨境賣家的影響：Amazon 官方確認 Prime Day 2026 將在 6 月舉行，覆蓋 22 國含歐洲全站。關鍵截止日：Lightning Deal / Best Deal 提交 5/26 截止、FBA 庫存到貨 5/27（標準）& 6/5（最後）。2026 新規：deal price 必須 ≤ 過去 60 天最低價，Rufus AI 會即時顯示價格歷史給消費者。歐洲 FBA 費用 2026 年平均降 €0.17/unit、Low-Price FBA 擴展到 ≤€20 產品（降幅 €0.45/unit）。距離 deal 截止僅剩 12 天。",
+    "public_action": "賣家建議：① 本週五（5/16）前完成所有 Lightning Deal / Best Deal 提交（給審核留 buffer）；② 確認 deal price ≤ 過去 60 天最低價（違規會被拒、Rufus 會顯示價格歷史）；③ FBA 庫存 5/27 前到貨（標準截止）、最遲 6/5；④ ≤€20 產品確認已啟用 Low-Price FBA（平均省 €0.45/unit）；⑤ 中長尾 SKU 考慮用 Prime Member Coupon（$5 + 2.5%）替代 Lightning Deal（$100 + 1.5%），費用更低且彈性更大。",
+    "sources": [
+      {
+        "name": "aboutamazon.eu 4/29 Prime Day 2026 confirmed June",
+        "url": "https://www.aboutamazon.eu/news/retail/amazons-prime-day-event-is-back-this-june"
+      },
+      {
+        "name": "Mrs Prime 5/13 Prime Day 2026 UK seller guide（截止日確認）",
+        "url": "https://www.mrsprime.co.uk/post/prime-day-2026"
+      },
+      {
+        "name": "10xcrew Prime Day 2026 Seller Prep and Key Dates",
+        "url": "https://10xcrew.com/amazon-prime-day-2026-seller-prep-and-key-dates/"
+      },
+      {
+        "name": "aboutamazon.eu 2026 European FBA fee update（€0.17 降幅）",
+        "url": "https://www.aboutamazon.eu/news/empowering-small-business/update-to-european-referral-and-fulfilment-by-amazon-fees-for-2026"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-13",
     "type": "daily",
     "tags": [
