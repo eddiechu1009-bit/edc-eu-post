@@ -296,9 +296,14 @@ def inject_into_html(output_dir, all_articles):
     json_str = json.dumps(all_articles, ensure_ascii=False)
 
     # 替換佔位符：/*__ARTICLES_JSON__*/[]/*__END_ARTICLES_JSON__*/
+    # 注意：用 lambda 取代字串，避免 re.sub 把 JSON 的 \n / \\ / \uXXXX 等
+    # escape 序列當成 regex back-reference 解析（會把 "\n" 變成真實換行、
+    # 導致 JS 解析失敗、整個網站空白）。
+    # 同時 .*? 預設 dot 不匹配 \n，當佔位符內已有真實換行（之前推壞時殘留）
+    # 會抓不到，所以必須加 re.DOTALL。
     pattern = r'/\*__ARTICLES_JSON__\*/.*?/\*__END_ARTICLES_JSON__\*/'
     replacement = f'/*__ARTICLES_JSON__*/{json_str}/*__END_ARTICLES_JSON__*/'
-    new_html = re.sub(pattern, replacement, html, count=1)
+    new_html = re.sub(pattern, lambda m: replacement, html, count=1, flags=re.DOTALL)
 
     # 注入最後更新時間（以最新文章日期為準）
     latest_date = all_articles[0]['date'] if all_articles else datetime.now().strftime('%Y-%m-%d')
