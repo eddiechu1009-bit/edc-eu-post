@@ -797,6 +797,24 @@ function esc(str) {
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
+// ── 條列式渲染（給 modal 的 public_impact / public_action）──
+// 1) HTML escape 防 XSS
+// 2) 換行符（\r\n / \n）→ <br>
+// 3) 在 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ 圈號前自動插入 <br>（若不在開頭）
+//    這樣 agent 寫成單段含「① ... ② ... ③ ...」也能呈現換行，
+//    與日報 HTML 的條列式版型一致。
+function escBullets(str) {
+  if (!str) return '';
+  let s = esc(str);
+  // 換行 → <br>
+  s = s.replace(/\r\n|\r|\n/g, '<br>');
+  // 圈號前加 <br>（句中、不是開頭時）
+  s = s.replace(/(.)([①②③④⑤⑥⑦⑧⑨])/g, '$1<br>$2');
+  // 把多個連續 <br> 收成單一個（避免行距太大）
+  s = s.replace(/(?:<br>\s*){2,}/g, '<br>');
+  return s;
+}
+
 // ── DEDUP & MERGE ──
 // Weekly articles are curated picks from daily. We merge them:
 // - If a weekly title closely matches a daily title, mark the daily as "featured" and drop the weekly duplicate
@@ -974,9 +992,9 @@ function openModal(idx) {
   `;
   document.getElementById('modalTitle').textContent = a.title;
   document.getElementById('modalBody').innerHTML = `
-    <div class="summary">${esc(a.summary)}</div>
-    ${a.public_impact ? `<div class="impact"><strong>🎯 對跨境賣家的影響：</strong>${esc(a.public_impact)}</div>` : ''}
-    ${a.public_action ? `<div class="action"><strong>✅ 賣家建議：</strong>${esc(a.public_action)}</div>` : ''}
+    <div class="summary">${escBullets(a.summary)}</div>
+    ${a.public_impact ? `<div class="impact"><strong>🎯 對跨境賣家的影響：</strong><br>${escBullets(a.public_impact)}</div>` : ''}
+    ${a.public_action ? `<div class="action"><strong>✅ 賣家建議：</strong><br>${escBullets(a.public_action)}</div>` : ''}
     <div class="source">
       Source：${(a.sources || []).map(s => `<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`).join(' | ')}
     </div>

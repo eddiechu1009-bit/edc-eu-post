@@ -44,6 +44,34 @@ def extract_text(html_str):
     ext.feed(html_str)
     return ext.get_text()
 
+# ── 公開欄位前綴剝除 ──
+# 日報 HTML 的 <!-- public-impact --> / <!-- public-action --> 註解塊內容
+# agent 寫作時通常以「對跨境賣家的影響：...」「賣家建議：...」開頭。
+# 但 modal 渲染時已經有 <strong>🎯 對跨境賣家的影響：</strong> 標籤，
+# 若內容也帶前綴會出現重複文字「對跨境賣家的影響：對跨境賣家的影響：...」。
+# 因此 build.py 自動剝除這些前綴，agent 那邊不用改寫作慣性。
+_PUBLIC_IMPACT_PREFIXES = (
+    '對跨境賣家的影響：', '對跨境賣家的影響:',
+    '🎯 對跨境賣家的影響：', '🎯 對跨境賣家的影響:',
+    '對 Amazon 經營的影響：', '對 Amazon 經營的影響:',
+    '對Amazon經營的影響：', '對Amazon經營的影響:',
+)
+_PUBLIC_ACTION_PREFIXES = (
+    '賣家建議：', '賣家建議:',
+    '✅ 賣家建議：', '✅ 賣家建議:',
+    'Action 建議：', 'Action 建議:',
+    'Action建議：', 'Action建議:',
+)
+
+def _strip_prefix(s, prefixes):
+    if not s:
+        return s
+    s = s.strip()
+    for p in prefixes:
+        if s.startswith(p):
+            return s[len(p):].strip()
+    return s
+
 # ── 標籤對應表 ──
 TAG_MAP = {
     'tag-tax': '稅務',
@@ -134,13 +162,19 @@ def parse_daily_report(filepath):
             r'<!--\s*public-impact\s*(.*?)\s*-->', block, re.DOTALL
         )
         if public_impact_match:
-            article['public_impact'] = public_impact_match.group(1).strip()
+            article['public_impact'] = _strip_prefix(
+                public_impact_match.group(1).strip(),
+                _PUBLIC_IMPACT_PREFIXES,
+            )
 
         public_action_match = re.search(
             r'<!--\s*public-action\s*(.*?)\s*-->', block, re.DOTALL
         )
         if public_action_match:
-            article['public_action'] = public_action_match.group(1).strip()
+            article['public_action'] = _strip_prefix(
+                public_action_match.group(1).strip(),
+                _PUBLIC_ACTION_PREFIXES,
+            )
 
         # NOTE: 不解析 .impact / .action div（內部招商分析欄位，不對外公開）
 
@@ -225,13 +259,19 @@ def parse_weekly_report(filepath):
             r'<!--\s*public-impact\s*(.*?)\s*-->', block, re.DOTALL
         )
         if public_impact_match:
-            article['public_impact'] = public_impact_match.group(1).strip()
+            article['public_impact'] = _strip_prefix(
+                public_impact_match.group(1).strip(),
+                _PUBLIC_IMPACT_PREFIXES,
+            )
 
         public_action_match = re.search(
             r'<!--\s*public-action\s*(.*?)\s*-->', block, re.DOTALL
         )
         if public_action_match:
-            article['public_action'] = public_action_match.group(1).strip()
+            article['public_action'] = _strip_prefix(
+                public_action_match.group(1).strip(),
+                _PUBLIC_ACTION_PREFIXES,
+            )
 
         # NOTE: 不解析週報內部的 impact / action div（招商分析，不對外）
 
