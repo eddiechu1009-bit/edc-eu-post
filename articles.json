@@ -1,5 +1,195 @@
 [
   {
+    "date": "2026-05-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/15 三重市場震撼 + Warsh 上任】Brent $109.26 +8% 週、US 10Y 4.57% 年高、EUR/USD 1.1620 跌破 200DMA：Warsh 5/15 接任 Fed 第 17 任主席",
+    "summary": "5/15（週五）油價、債券、外匯三市同步重定價，疊加 Warsh 接任 Fed 主席：歐元區進入「stagflation + 美元強 + 油價高」三重壓力環境：\n        ① 油市（NYTimes / The National 5/15）：Brent 收 $109.26 +3.35%（週 +8%）、WTI 收 $105.42 +4.2%（週 +10.5%）。Hormuz「effectively closed」、Trump 對 Fox「I am not going to be much more patient」、Israel 公開討論再啟戰。\n        ② 債市（Investing.com 5/15）：US 10Y 4.57%（May 2025 來最高）、30Y 5.12%（June 2007 來最高）、2Y 4.088%。UK 10Y gilt 5.19%（since 2008）、Japan 30Y JGB 創 4.004% 歷史新高、Italy 10Y 3.93%、Spain 10Y 3.586%——全球 duration 同步重定價。\n        ③ 匯市（Investing.com 5/15）：EUR/USD 跌至 1.1620（5 週新低、跌破 200DMA、4 連黑、週 -1.2%）；DXY 突破 99.27（週 +1.21%、4 月初來最強）。CME FedWatch：下次 Fed 動作為升息機率 50%+（一週前 14%）；Polymarket 修正 Fed 2027/3 升息 25bp 為主要情境。\n        ④ Fed 主席交接（CNN / LA Times / Banking Dive 5/13-15）：Senate 5/13 以 54-45（黨線投票）確認 Kevin Warsh 為第 17 任 Fed 主席，5/15 Powell 任期屆滿後就職；Powell 表態留任理事至 2028（「unprecedented attacks on independence」）；Warsh 立場鷹派、批評 2021-22 通膨應對、主張 Fed「regime change」、限縮溝通。Stephen Miran 5/14 宣布讓位辭職。\n        結論：EU 賣家面對「Brent +8% 週推升輸入通膨 + US 10Y 4.57% 推升借貸成本 + EUR/USD 跌破 1.16 削弱歐元購買力」三重打擊，且 Fed 主席換 hawk-Warsh 後，市場對 Fed pivot 預期被進一步推遲。",
+    "public_impact": "5/15 油市、債市、匯市同步重定價，疊加 Fed 主席交接。① 油市：Brent 收 $109.26（週 +8%）、WTI $105.42（週 +10.5%），Hormuz 持續關閉。② 債市：US 10Y 殖利率升至 4.57%（May 2025 來最高）、30Y 升至 5.12%（June 2007 來最高），全球 duration 同步重定價。③ 匯市：EUR/USD 跌至 1.1620（5 週新低、跌破 200DMA、週 -1.2%），DXY 升至 99.27。CME FedWatch 顯示 Fed 下次動作為升息機率突破 50%（一週前 14%）。④ Fed 換帥：Senate 5/13 以 54-45 確認 Kevin Warsh 為第 17 任 Fed 主席，5/15 就職；Warsh 立場鷹派、主張 Fed 結構性改革。對跨境賣家意味：歐元區進入「能源高 + 美元強 + 借貸貴」的三重壓力環境，Q3 forecast 與融資成本需重新校準。",
+    "public_action": "① Q3 EUR/USD base case 從 1.16 下修到 1.13（downside 1.10、upside 1.16），對美出口賣家評估遠期合約鎖定 60-70% Q3 美元收入；② Q3 借貸成本預期 +50-75bp，現金流敏感的賣家提前評估融資安排；③ Brent $105-115 維持 Q3 base case，物流成本附加費可能再調，運費敏感類目提前談判；④ Warsh 接任 Fed 主席偏鷹派，市場對美降息預期延後至 2027，美元短期強勢結構鎖定；⑤ 監控：5/19 美 5 月 NY Fed 製造業、5/22 美 PCE、6/11 ECB 決議、6/17-18 FOMC（Warsh 首次主持）。",
+    "sources": [
+      {
+        "name": "The National 5/15 Oil posts sharp weekly gain and stock markets fall as Strait of Hormuz and inflation woes linger",
+        "url": "https://www.thenationalnews.com/business/energy/2026/05/15/oil-headed-for-weekly-gain-as-hormuz-disruptions-continue/"
+      },
+      {
+        "name": "NYT 5/15 Oil Prices Climb on Fears of Broader Energy Crunch",
+        "url": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
+      },
+      {
+        "name": "Investing.com 5/15 EUR/USD Breakdown Reflects Rising Yield Pressure From the US Dollar",
+        "url": "https://m.investing.com/analysis/eurusd-breakdown-reflects-rising-yield-pressure-from-the-us-dollar-200680414"
+      },
+      {
+        "name": "CNN 5/13 Kevin Warsh confirmed as Fed chair, succeeding Jerome Powell",
+        "url": "https://www.cnn.com/2026/05/13/economy/kevin-warsh-confirmation-trump-fed-chair"
+      },
+      {
+        "name": "LA Times 5/15 Who is the new Fed chair, Kevin Warsh?",
+        "url": "https://www.latimes.com/business/story/2026-05-15/who-is-incoming-fed-chair-kevin-warsh"
+      },
+      {
+        "name": "Banking Dive 5/14 Senate confirms Warsh as next Fed chair (54-45)",
+        "url": "https://www.bankingdive.com/news/warsh-confirm-federal-reserve-chair-senate-warren-trump-powell-miran-independence-interest-rate/820267/"
+      },
+      {
+        "name": "Fortune 5/14 Fed Governor Stephen Miran to resign after Kevin Warsh is sworn in",
+        "url": "https://fortune.com/2026/05/14/fed-governor-stephen-miran-resign-after-kevin-warsh-sworn-in/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-18",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【5/14-16 Trump-Xi 北京收場】200 Boeing 訂單（原期 500）+「double-digit billions」美農 3 年；中商務部 5/16「互降部分商品關稅」，但 tariff truce 不延、稀土未解",
+    "summary": "Trump-Xi 北京 2 天峰會（5/14-15）收場 — 整體被各大媒體定調為「symbolism-heavy, substance-light」、market 反應失望（DAX -2.0%、FTSE -1.7%、CAC -1.6%、S&P -1.24%）：\n        ① Boeing 訂單低於市場期待（Al Jazeera / The Hill 5/15）：Trump 在 Air Force One 確認中國同意採購 200 架 Boeing 飛機（含 GE Aerospace 引擎 400-450 顆）+「if they do a good job」可加碼至 750 架。但市場原期 500 架窄體 + 200 架寬體（共 700+），Boeing 5/14 股價 -4%、5/15 再 -2.6%，IBA 估訂單金額 $17-19B（若窄體為主）或 $25B（含 40% 寬體）。Boeing CEO Ortberg、GE CEO Culp 隨團。\n        ② 美農訂單模糊（Reuters / China Briefing 5/15）：USTR Greer 對 Bloomberg：「期待未來 3 年每年 double-digit billions 的中國美農採購」（總量、非新增）。中國 5/14 已重發 425 個美牛場 5 年牌照 + 新批 77 家、Trump 提中國額外 8M tons 大豆採購（未獲中方確認）。\n        ③ 中商務部 5/16 確認「互降部分商品關稅」（Business Times / Bloomberg）：5/16 北京聲明「採取一系列措施、雙向降低部分商品關稅以促進雙邊貿易」，未公布具體細節、仍在談判。Trump 自相矛盾稱「沒談關稅」。\n        ④ Tariff truce 延長未敲定 + 稀土未解（China Briefing 5/15）：USTR Greer 對 Bloomberg：「we will see about that」（指 11/2026 屆滿的 Busan truce 是否延長）。Section 301 兩項調查未來數週公布，Greer 直言「will be a certain level of tariff on the Chinese」。Nvidia CEO Huang 隨團但未談晶片管制。\n        結論：北京峰會確認「47% 美中關稅 + Busan truce 至 11 月」維持為 base case，但未升級也未顯著降溫，市場 risk-on 行情失溫；對歐洲跨境賣家最關鍵 — Hormuz 開放未實質推進、Iran 戰爭傳導壓力延續。",
+    "public_impact": "Trump-Xi 北京 5/14-15 峰會收場，整體被定調為「symbolism-heavy, substance-light」、市場失望反應（DAX -2.0%、FTSE -1.7%、CAC -1.6%、S&P -1.24%）。具體成果：① Boeing 訂單 200 架（GE 引擎 400-450 顆，未來可加碼至 750）— 但低於市場期待 500-700 架，股價 5/14 -4%；② USTR Greer 表示期待未來 3 年每年「double-digit billions」中國美農採購；③ 中商務部 5/16 確認「互降部分商品關稅」，細節仍在談判；④ 11/2026 屆滿的 Busan tariff truce 延長未敲定，稀土議題未解，Section 301 調查結果未來數週公布。對跨境賣家意味：47% 美中關稅維持 base case、Hormuz 開放未實質推進、Iran 戰爭傳導壓力延續。",
+    "public_action": "① 對美中關稅 base case 維持原規劃（47% 持續至 11/2026），不必倉促調整；② 對美直郵賣家若有 IEEPA 相關低價值商品，留意中商務部「互降關稅」細節公布；③ Section 301 調查結果（未來 4-8 週公布）列為高優先級監控項目，提前準備兩套劇本：基線（tariff 微調）vs 極端（新加 5-15% 報復）；④ 9/24 Xi 訪美若成行，可能成為後續關稅深度談判窗口；⑤ 監控：未來 1-2 週中美雙方聲明補丁、9/24 Xi 訪美、11/2026 Busan truce 屆滿。",
+    "sources": [
+      {
+        "name": "Al Jazeera 5/15 Trump says China to buy 200 Boeing planes, much lower than expected",
+        "url": "https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected"
+      },
+      {
+        "name": "The Hill 5/15 What deals did Trump make on China trip?",
+        "url": "https://thehill.com/homenews/administration/5880005-trump-china-xi-trade-deals-boeing-ge-aerospace/"
+      },
+      {
+        "name": "China Briefing 5/15 The Xi-Trump Beijing Summit – What We Know So Far",
+        "url": "https://www.china-briefing.com/news/xi-trump-beijing-summit-what-we-know/"
+      },
+      {
+        "name": "Business Times 5/16 China signals lower levies, advances in farm trade with US following Trump-Xi summit",
+        "url": "https://www.businesstimes.com.sg/international/global/china-says-trump-visit-deals-tariffs-agriculture-and-aircraft-are-preliminary"
+      },
+      {
+        "name": "CNN 5/16 Trump's Beijing visit was more vibes than details. And Xi knows it",
+        "url": "https://www.cnn.com/2026/05/16/china/xi-trump-china-visit-taiwan-analysis-intl-hnk"
+      },
+      {
+        "name": "CNN 5/15 Trump and top CEOs leave a more self-reliant China with few deals to show for it",
+        "url": "https://www.cnn.com/2026/05/15/business/stock-market-china-us-deal-trump-xi-business"
+      },
+      {
+        "name": "WSJ 5/15 Five Takeaways From the Trump-Xi Summit (付費牆)",
+        "url": "https://www.wsj.com/world/china/five-takeaways-from-the-trump-xi-summit-73a21236"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/15 Fed/Census】美 4 月工業生產 +0.7% MoM 大幅 beat（預期 +0.2%）、零售 +0.5%；汽車 +5.3% 反彈、產能利用率 76.1% Aug 2025 來最高",
+    "summary": "5/15（週五）美國雙重亮眼數據：能源衝擊下美經濟韌性遠超預期、Fed 升息空間打開、EUR/USD 壓力延續：\n        ① 工業生產（Fed 5/15 / Haver 5/15）：4 月 IP +0.7% MoM（vs 預期 +0.2%、3 月修正為 -0.3% 從 -0.5%）；YoY 從 3 月 +0.7% 反彈至 +1.4%。自 Nov 2025 以來年化 +3.6%、達 Aug 2019 來最高水平。\n        ② 製造業細分：製造業 +0.6% MoM（耐久財 +1.2%、非耐久 -0.1%）；汽車與零組件大幅反彈 +5.3% MoM（May 2025 來最大單月升幅）、電腦 / 電子產品 +1.5%、航太 +1.6%。Mining -0.1% MoM、Utilities +1.6%（電力 +1.1%、天然氣分配 +7.3%）。\n        ③ 零售銷售（Census 5/14 / Haver 5/14）：4 月零售 +0.5% MoM（in line）達 $757.1B，13 個分類中 9 個增長；油價 +3.8% 推升加油站銷售、雜貨店 +0.7% MoM（自 2022 來最大單月、年增 1.5%）；電器電子 +1.4%（最大）；百貨 -3.2%、服裝 -1.5%（最大跌幅）。\n        ④ 產能與失業：產能利用率 76.1%（從 75.7% 升、Aug 2025 來最高）但仍低於長期均值 3.3pp；初領失業金 5/9 週微升但仍歷史低位。\n        結論：能源衝擊（Brent +8% 週）、關稅（EUR3 / 47% 美中）、Iran 戰爭三重衝擊下，美經濟「韌性」signal 強烈。Fed 升息門檻被進一步打開——對歐元區意味 Fed pivot 預期延後、EUR/USD 1.16 跌破後下行壓力延續。",
+    "public_impact": "5/15 美國雙重數據：① 4 月工業生產 +0.7% MoM（預期 +0.2% 大幅 beat）、YoY +1.4%、製造業 +0.6%、汽車 +5.3% 反彈創 May 2025 來最大；② 4 月零售銷售 +0.5% MoM、達 $757.1B；產能利用率 76.1%（Aug 2025 來最高）。能源衝擊（Brent +8% 週）、關稅、Iran 戰爭三重壓力下，美經濟韌性遠超預期。對跨境賣家意味：① Fed 升息空間進一步打開，市場對 Fed pivot 預期延後；② EUR/USD 跌破 1.16 後下行壓力延續，對美出口賣家報價優勢縮小；③ 美汽車 +5.3% 反彈訊號全球汽車類目復甦；④ 美雜貨 +0.7% MoM 是 2022 來最強，食品通膨傳導加速。",
+    "public_action": "① 對美出口賣家評估匯率避險（EUR/USD 從 1.18 跌至 1.16，下行壓力持續）；② 汽車零配件類目 Q3 庫存深度可微調上行（美汽車 +5.3% 反彈）；③ 食品 / 雜貨類目 Q3 強化「通膨對沖」定位（美雜貨 +0.7% MoM 是 2022 來最強）；④ 中等價位百貨類目 -3.2% 急跌訊號，留意消費者向 deal hunter 移動的趨勢；⑤ 監控：5/22 美 4 月 PCE、5/27-29 美 5 月 PMI + 消費者信心、6/17-18 FOMC（Warsh 首次主持）。",
+    "sources": [
+      {
+        "name": "Haver Analytics 5/15 U.S. Industrial Production Jumped in April",
+        "url": "https://www.haver.com/articles/u-s-industrial-production-jumped-in-april"
+      },
+      {
+        "name": "WSJ 5/15 U.S. Industrial Production Rose in April（付費牆）",
+        "url": "https://www.wsj.com/economy/u-s-industrial-production-rose-in-april-c8fecdf8"
+      },
+      {
+        "name": "Haver Analytics 5/14 U.S. Retail Sales Slowed in April But Remained Solid",
+        "url": "https://www.haver.com/articles/u-s-retail-sales-slowed-in-april-but-remained-solid"
+      },
+      {
+        "name": "S&P Global 5/15 April US retail sales rise as expected; default risk climbs",
+        "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/5/april-us-retail-sales-rise-as-expected-default-risk-climbs-101733084"
+      },
+      {
+        "name": "RetailBrew 5/15 Higher prices push up April retail sales",
+        "url": "https://www.retailbrew.com/stories/higher-prices-push-up-april-retail-sales"
+      },
+      {
+        "name": "SupplyChainBrain 5/15 U.S. Industrial Production Rises by Most in Over a Year",
+        "url": "https://www.supplychainbrain.com/articles/44106-us-industrial-production-rises-by-most-in-over-a-year"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/14 Capital Economics + IEA】6 月底 OECD 油庫存可能「critical」、「non-linear」價格急升警告；極端 Brent $150+；EU 7/1 EUR3 倒數 44 天",
+    "summary": "5/14 Capital Economics 與 IEA 同步警告 6 月油市「tipping point」、疊加 EU 7/1 EUR3 €3/件小包關稅倒數 44 天，雙重結構性成本壓力鎖定 Q3 EU 賣家：\n        ① Capital Economics 5/14 note（Fortune 5/16 / Yahoo 5/16 / Reuters 5/15 引述）：氣候與商品經濟學家 Hamad Hussain 5/14 note 警告「若 Hormuz 持續關閉、OECD 商業原油庫存以 4 月速度下降，6 月底油庫存將達 critical level」、「non-linear 價格急升 + panic buying」風險隨 Hormuz 持續關閉「continues to grow」。極端情境（Iran 戰爭升級）：Brent 突破 $150/桶、持續至 2027。\n        ② IEA 5 月月報 5/14（The National 5/15 引述）：「即使戰爭下個月結束、全球油市可能 severely undersupplied 至 10 月」、Hormuz 流量已大幅下降、tanker 流量恢復有限。\n        ③ 即時油市現狀（見新聞 1）：Brent $109.26 +8% 週、WTI $105.42 +10.5% 週、Hormuz「effectively closed」、ceasefire 名存實亡、美海軍封鎖 Iranian 港口持續、Trump 對 Fox「I am not going to be much more patient」+「could bomb Iran's enriched uranium again」。\n        ④ EU 7/1 EUR3 €3/件小包關稅倒數 44 天（既有政策、本日聚焦進度更新）：5/1 EU Commission 確認 €3/件 + 廢除 €150 免稅；10 月起加收 €2 handling fee；實施日 2026 年 7 月 1 日，距今 44 個工作天。Trump-Xi 北京峰會（新聞 2）未討論小包議題、亦無美方介入跡象，EU 立場鎖定。\n        結論：EU 賣家面對「Q3 油價 base case 從 $95-105 上修到 $105-115、極端 $150」+ 「7/1 EUR3 小包關稅 1:1 加 cost」雙重結構性壓力，Q3 物流 / 燃油附加費 / IOSS 操作成 cost line 的關鍵變量。",
+    "public_impact": "5/14 Capital Economics 氣候與商品經濟學家 Hamad Hussain note 警告：若 Hormuz 持續關閉、OECD 商業原油庫存以 4 月速度下降，6 月底油庫存將達 critical level，「non-linear 價格急升 + panic buying」風險上升。極端情境（Iran 戰爭升級）：Brent 突破 $150/桶持續至 2027。IEA 5 月月報同步警告：「即使戰爭下個月結束、全球油市可能 severely undersupplied 至 10 月」。即時：Brent $109.26 +8% 週、Hormuz「effectively closed」。同步倒數：EU 7/1 起 €3/件小包關稅 + 廢除 €150 免稅，距今 44 個工作天，10 月再加 €2 handling fee。對跨境賣家意味：Q3 物流成本與小包關稅雙重結構性壓力鎖定。",
+    "public_action": "① Q3 油價 base case 從 $95-105 上修到 $105-115，stress scenario $120-150（Capital Economics 極端）；② FBA 燃油附加費 Q3 末再上調風險，物流敏感類目提前談判運價或鎖定運能；③ 中國直郵 EU 賣家面臨 7/1 EUR3 €3/件 + 10 月 €2 handling fee，三套劇本評估：IOSS 註冊上架（6/15 deadline）、FBA 轉換、漲價；④ 5 月末 - 6 月中提前補 Q3 必需品 + 高 margin 品（避開 Hormuz tanker 真空期 + 7/1 EUR3 之前清關洗牌）；⑤ 監控：5/27 OPEC+ 6 月會議、6/11 ECB 決議、7/1 EUR3 生效。",
+    "sources": [
+      {
+        "name": "Fortune 5/16 Oil markets may face moment of truth in June. Brace for a 'non-linear' price spike and panic buying",
+        "url": "https://fortune.com/2026/05/16/oil-markets-crude-non-linear-price-spike-panic-buying-inventories-iran-hormuz/"
+      },
+      {
+        "name": "Yahoo Finance 5/16 Oil markets could be a month away from the moment of truth",
+        "url": "https://finance.yahoo.com/sectors/energy/articles/oil-markets-could-month-away-190842717.html"
+      },
+      {
+        "name": "Reuters 5/15 Capital Economics sees oil at $150 per barrel through 2027 in an extreme case",
+        "url": "https://www.reuters.com/business/energy/capital-economics-sees-oil-150-per-barrel-through-2027-an-extreme-case-2026-05-15/"
+      },
+      {
+        "name": "Capital Economics 5/16 Weekly Roundup - A tipping point for oil",
+        "url": "https://www.capitaleconomics.com/blog/weekly-roundup-tipping-point-oil"
+      },
+      {
+        "name": "The National 5/15 Oil posts sharp weekly gain as Strait of Hormuz and inflation woes linger（IEA 引述）",
+        "url": "https://www.thenationalnews.com/business/energy/2026/05/15/oil-headed-for-weekly-gain-as-hormuz-disruptions-continue/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/13 ECB Lane CER 演講硬核 paper】DSGE 4 國模型量化能源衝擊→歐元區 GDP -0.2~-0.3pp/年連 3 年；6/11 倒數 24 天",
+    "summary": "ECB 首席經濟學家 Lane 5/13 在 London Centre for European Reform 發表 paper《Analytical perspectives on energy supply shocks》，提供 ECB 6/11 升息決策的量化模型基礎（5/15 日報曾引述其「6 月升息是 test 不是 given」rate decision 表態，今日深讀其 academic substance）：\n        ① BVAR 模型量化（Lane paper Chart 1）：基於 1985-2023 數據，Geopolitical 油價衝擊推升真實油價 10%，歐元區 GDP 增速第一年至第三年每年降 0.2-0.3pp；私人消費 + 投資皆下降，投資反應更顯著（不確定性高時投資對地緣衝擊更敏感）。2003 後重估顯示效應略降（油密集度下降）。\n        ② 全球 vs 區域衝擊比較（Chart 2-3）：Lane 用 4 國 DSGE 模型（EU/US/CN/RoW）比較 2022 Russia 戰（regional shock）vs 2026 Iran 戰（global shock）。10% 能源價格衝擊：global shock 對 EU GDP 拖累更大（無法靠進口替代緩衝）+ 通膨非能源項貢獻 累積 +1.5pp（regional shock 為 +0.4pp）。\n        ③ 第二輪效應追蹤（Chart 7-9）：① 企業「inflation attention」（earnings call 提及）已上升、但 低於 2022 水平；② 工資談判 — 5/6 ECB wage tracker 仍顯示「easing of wage pressures」、尚未對能源衝擊反應；③ 食品 frequency of price changes 已年初微升、但 repricing 速度慢於 2022。\n        ④ 政策框架：「small + transitory deviation 不需反應、material + persistent deviation 需 forceful response」、且應「non-linear」（小偏離微調、大偏離強硬）；6/11 升息與否取決於後續數據確認衝擊「persistent」程度。\n        結論：Lane paper 為 ECB 6/11 升息（市場 92%、5/13 報導）提供「漸進」框架基礎。若 Capital Economics 6 月底 oil tipping point + Brent 突破 $115 實現（見新聞 4），第二輪 wage / 通膨 attention 加速，6/11 ECB 升息 base case 從「漸進 25bp」可能升級為「forceful 50bp」討論。",
+    "public_impact": "ECB 首席經濟學家 Lane 5/13 在 London CER 發表 paper《Analytical perspectives on energy supply shocks》，量化能源衝擊對歐元區的影響：① BVAR 模型：地緣油價衝擊推升真實油價 10%，歐元區 GDP 增速第一年至第三年每年降 0.2-0.3pp，投資反應更顯著；② 4 國 DSGE 模型比較：2026 Iran 戰（global shock）對 EU GDP 拖累比 2022 Russia 戰（regional shock）更大、通膨非能源項累積 +1.5pp（regional shock 僅 +0.4pp）；③ 第二輪效應追蹤：企業 inflation attention 已升但低於 2022；工資談判仍顯示 easing；食品 repricing 慢於 2022；④ 政策框架：「small + transitory 不需反應、material + persistent 需 forceful response」、應 non-linear。對跨境賣家意味：Q3 EU 經濟下行錨定、ECB 6/11 升息 base case「漸進 25bp」、若油價突破 $115 則升級「forceful 50bp」討論。",
+    "public_action": "① Q3 EU5 GDP forecast 維持保守 +0~1% YoY、2026 全年下修到 +0.5-0.7%；② 6/11 ECB base case 升息 25bp（3.75% → 4.00%），若 Brent 突破 $115 + 工資加速反應則升級 50bp；③ Q3 EU 借貸成本預期上行 50-75bp，現金流敏感的賣家提前評估融資；④ 高 margin 類目（避開低毛利大宗品）Q3 優先布局；⑤ 監控：5/22 EU 5 月 PMI flash、5/30 EU 5 月 HICP flash、6/3 ECB 月度宏觀預測、6/11 ECB 決議 + Lagarde 記者會。",
+    "sources": [
+      {
+        "name": "ECB 5/13 Lane: Analytical perspectives on energy supply shocks (CER London 完整演講稿)",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260513~5b14c78806.en.html"
+      },
+      {
+        "name": "ECB 5/13 Lane Slides Annex (PDF)",
+        "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260513_annex~cfdc2fe196.en.pdf"
+      },
+      {
+        "name": "MEXC News 5/13 ECB's Lane: Current Energy Shock Unfolds in Less Demand-Supportive Environment Than 2022",
+        "url": "https://www.mexc.com/news/1087677"
+      },
+      {
+        "name": "Breaking The News 5/13 ECB's Lane: Rate moves to be based on inflation outlook",
+        "url": "https://breakingthenews.net/Article/ECB's-Lane:-Rate-moves-to-be-based-on-inflation-outlook/66290098"
+      },
+      {
+        "name": "Cyprus Mail 5/15 ECB integrates climate change into monetary policy strategy",
+        "url": "https://cyprus-mail.com/2026/05/15/ecb-integrates-climate-change-into-monetary-policy-strategy"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-15",
     "type": "daily",
     "tags": [
