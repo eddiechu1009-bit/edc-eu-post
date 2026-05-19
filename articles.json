@@ -1,5 +1,195 @@
 [
   {
+    "date": "2026-05-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/17-18 Trump「Clock Ticking」→ 取消週二攻擊】Brent $111→$109 雲霄飛車、US 10Y 4.63%、JP 30Y 創史高 4.2%、Lagarde「I always worry」 G7 巴黎承壓",
+    "summary": "單日反覆：戰爭威脅 → 取消攻擊 → 油價急跌、債市急升、Lagarde 在 G7 巴黎現場警告 — 中東緊張 + 全球 duration 重定價疊加，EU 進入「升息 + 貿易摩擦 + 地緣升溫」三角壓力鍋：\n        ① Trump Truth Social 5/17 嗆 Iran（Sun Sentinel / Globe and Mail / Yahoo Finance / Euronews 5/18）：「For Iran, the Clock is Ticking, and they better get moving, FAST, or there won't be anything left of them. TIME IS OF THE ESSENCE!」 — 訊號 5/19（週二）對 Iran 軍事行動，與 Netanyahu 通話後發出。\n        ② 取消攻擊 + 重啟談判（BBC / CBS 5/18）：5/18 倫敦下午盤 Trump 再發 Truth Social 確認 — Saudi、Qatar、UAE 三國領袖請求「hold off」原訂週二攻擊；Iran 提出修訂版和平方案、Trump 表態「serious negotiations are now taking place」+「NO NUCLEAR WEAPONS FOR IRAN」，但留 caveat：「full, large scale assault on a moment's notice」。\n        ③ 油市雲霄飛車（BBC / Trading Economics 5/18）：Brent 早盤衝 $111（+1.3%、年漲 +69%）、Trump 取消攻擊後跌到 $109、亞盤 5/19 收 $108-110；WTI $102.25 → $108 區間振盪。Hormuz「effectively closed」進入第 11 週、IEA Birol：「商業庫存只剩數週存量」、Goldman/JPM 估每日損失 10M+ barrels。\n        ④ 全球 bond selloff（BBC / Globe and Mail 5/18）：US 10Y 4.63%（vs 5/14 4.47%、戰前 ~4.0%）、US Treasury 上週首次發 5% yield 債（since 2007）；JP 30Y 創史高 4.2%、JP 10Y 2.8%（since Oct 1996）；UK 30Y gilt 寫本世紀最高、Eurozone 公債開盤跟跌、午後油價回落才修復。\n        ⑤ G7 巴黎現場 + ECB 警告（BBC 5/18）：Lagarde 抵達 G7 財長會議、被問是否擔心 bond selloff，回應「I always worry, that's my job」；Survey of Professional Forecasters 5/16 預測 US Q1/2027 CPI 衝 6%（pre-war 預期 2.7%）；Rystad chief economist Galimberti：「summer of pain」即將來臨「unless Hormuz is opened」。\n        結論：5/17-18 是「戰爭升級風險的反覆預演」，市場已明確訊號 — Hormuz 持續關閉 + 美 10Y 衝 4.6%+ + 全球 duration 同步重定價是 Q3 base case，不是極端情境。EU 賣家 Q3 forecast 必須包含「能源高 + 借貸貴 + EUR 弱」三重打擊持續。",
+    "public_impact": "5/17-18 單日反覆確認 Q3 stagflation + duration 衝擊 base case 鎖定。① Trump 5/17 Truth Social「Clock is Ticking」嗆 Iran，市場一度預期 5/19 軍事行動；② 5/18 倫敦盤 Trump 再發 Truth Social：Saudi/Qatar/UAE 三國領袖求「hold off」原訂攻擊、Iran 提修訂版和平方案，攻擊取消但留 caveat；③ 油市：Brent 早盤衝 $111（年漲 +69%）→ 取消攻擊後 $109，Hormuz 持續關閉第 11 週、IEA Birol 警告商業庫存「只剩數週」；④ 全球 bond selloff：US 10Y 4.63%（vs 戰前 4.0%）、JP 30Y 創史高 4.2%、UK 30Y 寫本世紀最高、Eurozone 公債跟跌；⑤ Lagarde G7 巴黎被問擔不擔心：「I always worry, that's my job」；⑥ Survey of Professional Forecasters 預測 US Q1/2027 CPI 衝 6%。對跨境賣家意味：Q3 forecast 必須包含「能源高 + 借貸貴 + EUR 弱」三重打擊持續，不再是極端情境。",
+    "public_action": "① Q3 油價 base case 維持 $105-115，stress scenario $115-130 觸發任何時點重啟攻勢；FBA 燃油附加費 6 月底重審、物流敏感類目提前談判運價；② EUR/USD Q3 base 1.13（downside 1.10），對美出口 EU 賣家評估遠期合約鎖定 60-70% 美元收入；③ Q3 借貸成本 +50-75bp 進入定價、現金流敏感賣家提前評估融資安排，庫存補貨節奏建議 -5~-10%；④ 升息倒數：Polymarket 6/11 25bp 升息機率 86%，若 5/20 4 月 HICP 終值 ≥3.0% 則 90%+，EUR 計價融資 / 房貸 6/11 後 +25bp 立刻鎖定；⑤ 監控：5/19 09:00 Eurostat 3 月 trade balance、5/20 09:00 4 月 HICP 終值、5/27 OPEC+、6/11 ECB 決議、6/17-18 FOMC。",
+    "sources": [
+      {
+        "name": "Sun Sentinel 5/18 Stocks fall and oil prices gain after Trump warns the Iran 'clock is ticking'",
+        "url": "https://www.sun-sentinel.com/2026/05/18/stocks-fall-and-oil-prices-gain-after-trump-warns-the-iran-clock-is-ticking/"
+      },
+      {
+        "name": "Globe and Mail 5/18 Trump warns 'clock is ticking' for Iran as oil climbs and bonds sell off",
+        "url": "https://www.theglobeandmail.com/business/article-us-iran-peace-deal-oil-markets-bonds/"
+      },
+      {
+        "name": "Yahoo Finance 5/18 Oil prices rise as Trump says 'clock is ticking' for Iran",
+        "url": "https://ca.finance.yahoo.com/news/oil-prices-rise-as-trump-says-clock-is-ticking-for-iran-162211239.html"
+      },
+      {
+        "name": "BBC 5/18 Oil price slumps as Trump says he called off Iran attacks",
+        "url": "https://www.bbc.com/news/articles/czx2ne2ryppo"
+      },
+      {
+        "name": "Euronews 5/18 Oil prices climb as Donald Trump signals tougher action on Iran",
+        "url": "https://www.euronews.com/business/2026/05/18/oil-prices-climb-as-donald-trump-signals-tougher-action-on-iran"
+      },
+      {
+        "name": "CBS 5/18 Live Updates: Trump calls off scheduled attack on Iran",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
+      },
+      {
+        "name": "The Hindu 5/18 Stocks fall, oil prices gain after Trump warns Iran 'clock is ticking'",
+        "url": "https://www.thehindu.com/business/markets/stocks-fall-oil-prices-gain-after-trump-warns-iran-clock-is-ticking/article70992554.ece"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/17 UAE Barakah 核電廠遭無人機擊中 + Saudi 攔截 3 drones】IAEA Grossi「grave concern」、UAE「won't tolerate」、Iran-backed 嫌疑：地緣紅線突破、區域升級風險回升",
+    "summary": "5/17（週日）UAE 阿布達比 Barakah 核電廠遭無人機擊中、UAE「won't tolerate」、IAEA 出聲、與週日 Trump 嗆 Iran 並行 — 中東緊張突破核設施紅線：\n        ① 攻擊細節（BBC / Al Jazeera 5/17 / WSJ 5/18）：UAE 國防部 5/17 確認「3 架無人機從西部邊界進入 UAE」，2 架被攔截、第 3 架擊中 Barakah Nuclear Power Plant 內圍外電力發電機並引燃火警；UAE 總統顧問 Anwar Gargash X 帖：「terrorist attack」「dangerous escalation」。Barakah 距 Saudi 邊界近、距阿布達比 ~225km。\n        ② 同日 Saudi 攔截 3 架 from Iraq（Times of India 5/18）：Saudi 同日聲明攔截 3 架從 Iraq 進入領空的無人機（Iraq 有 Iran-linked 民兵）、警告「necessary operational measures」against any sovereignty 違反。\n        ③ IAEA + 國際反應（BBC 5/18）：IAEA 總幹事 Rafael Grossi「grave concern」、「military activity that threatens nuclear safety is unacceptable」、呼籲「maximum military restraint」near nuclear power plants；其中一個反應器因攻擊一度依賴緊急柴油發電機；輻射等級維持正常。印度外交部「dangerous escalation」呼籲克制。\n        ④ Iran 嫌疑 + UAE 警告：UAE 未公開指認來源但 Gargash 帖暗示 Iran；Iran 自 2/28 開戰起多次以「美軍基地 / Israeli-linked 利益」威脅美盟區域目標；上週 5/12 Fujairah 油港遭 Iran missile/drone 攻擊、3 名印度人受傷 + 油廠失火。Iran 上週指控 UAE 「strengthening ties with Israel」+ Netanyahu 戰時「secret visit」UAE 報導（UAE 否認）。\n        結論：Iran-嫌疑攻擊核設施 = 戰爭升級量級的紅線跨越（即使輻射未洩漏、即使來源未確認），與週日 Trump「Clock is Ticking」+ 5/12 Fujairah 油港攻擊形成連續 9 天升級曲線。Saudi-UAE 兩國 5/18 對 Trump 「hold off」勸阻是否能延續未知，Q3 升級風險已不能視為 tail risk。",
+    "public_impact": "5/17 UAE 阿布達比 Barakah 核電廠遭無人機擊中（3 架從西部邊界進入、2 架攔截、第 3 架擊中內圍外電力發電機並引燃火警）；同日 Saudi 攔截 3 架從 Iraq 進入無人機。IAEA 總幹事 Grossi「grave concern」、「military activity that threatens nuclear safety is unacceptable」呼籲克制；其中一個反應器一度依賴緊急柴油發電機；輻射維持正常。UAE「won't tolerate」、暗示 Iran 嫌疑（未公開定性）。Iran 自 2/28 開戰起多次以美盟區域目標為目標、上週 5/12 Fujairah 油港遭 Iran 攻擊。對跨境賣家意味：Iran-嫌疑攻擊核設施 = 戰爭升級紅線跨越，Q3 中東升級風險不再是 tail risk，海運保險費 + Hormuz 繞道海運運價 + Brent 油價情境機率上修。",
+    "public_action": "① Q3 中東升級 stress scenario 機率上修，base 65% / 升級 25-35% / 極端 5-10%；② 物流敏感類目 Q3 海運運價提前談判鎖定、評估空運替代、避開 Hormuz 真空期；③ 必需品 + 高 margin SKU 庫存深度建議 +10-15%、目標 5 月末 - 6 月中清關完畢、避開 7/1 EUR3 deadline + 升息 + Hormuz 三重窗口；④ Pan-EU 多國庫存配置賣家可考慮多倉分散降低單點風險；⑤ 監控：5/19-21 UAE/Saudi 對攻擊源頭定性、5/27 OPEC+、6 月初 G7 地緣議程。",
+    "sources": [
+      {
+        "name": "BBC 5/18 UAE reports drone strike near Abu Dhabi nuclear power plant",
+        "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o"
+      },
+      {
+        "name": "Al Jazeera 5/17 Drone strike sparks fire on perimeter of UAE's Barakah nuclear power plant",
+        "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant"
+      },
+      {
+        "name": "WSJ 5/18 Drone Strike Sparks Fire Near U.A.E. Nuclear Plant（付費牆）",
+        "url": "https://www.wsj.com/world/middle-east/drone-strike-sparks-fire-near-u-a-e-nuclear-plant-b061ab0d"
+      },
+      {
+        "name": "Times of India 5/18 UAE fumes after Iranian attack near nuclear plant, warns of retaliation",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-news-uae-fumes-after-iranian-attack-near-nuclear-plant-warns-of-retaliation-wont-tolerate-threat-to-security/articleshow/131165439.cms"
+      },
+      {
+        "name": "Wikipedia UAE in the 2026 Iran war（背景）",
+        "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates_in_the_2026_Iran_war"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/18 NBS 重磅 miss】中國 4 月 retail +0.2% YoY（vs 預期 +2%、Dec 2022 來最弱）、工業 +4.1%（vs +5.9%）、固投 -1.6%、汽車 -21.6%：Iran 戰爭傳導 + 內需 K 型分化",
+    "summary": "5/18 中國 NBS 公布 4 月經濟數據全面 miss（同日 Trump-Xi 北京峰會餘溫剛過 + Iran 戰爭傳導確認）：\n        ① 零售大幅 miss（Reuters / IndexBox 5/18）：4 月零售 +0.2% YoY（vs 預期 +2.0%、3 月 +1.7%、Dec 2022 來最弱）；汽車銷售 -21.6% YoY（連 7 個月跌）、家電 -5.0%、家具 -8.7%、餐飲 +2.9% > 商品 +1.5%。\n        ② 工業生產 miss：4 月工業 +4.1% YoY（vs 預期 +5.9%、3 月 +5.7%）；半導體出口 +14.1%（韌性）vs 國內鋼產量 -2.8%、汽車製造下行；4 月失業率 5.2%（vs 3 月 5.4%）。\n        ③ 固投意外收縮（Reuters 5/18）：1-4 月固投 -1.6%（vs 1-3 月 +1.7%、預期 +1.6%、第一次轉負），房地產 + 信貸需求疲弱、Goldman Sachs Lisheng Wang「weaker credit demand + 南方暴雨 + NBS statistical correction」。\n        ④ Iran 戰爭傳導確認（Reuters 5/18 / IndexBox）：「higher energy costs from the Iran war + persistently weak domestic demand」是 NBS 主因；中國國內燃油控價 + 出口優於預期暫穩戰爭衝擊，但「higher input costs threaten to squeeze already weak factory margins」、若 Iran 戰持續更久則消費 + 工業雙軸下行。\n        ⑤ K 型分化深化（Conference Board Yuhan Zhang）：「retail growth in first 4 months 2026 points to still-weak household demand, with consumers concentrating spending on selective discretionary and upgrade categories」— 小升級項目（電子、AI 相關）穩定；但大宗 / 信貸驅動的房屋 + 收入相關品類疲弱、汽車 7 個月連跌。\n        結論：中國 4 月數據確認「Iran 戰爭傳導 + 內需 K 型分化」雙軸下行格局；對歐洲跨境電商最關鍵 — 中國採購端 Q3 出口能量看似仍強（半導體 +14.1%、export 數據 4/8 強勁）但 input cost 上升 + factory margins 壓縮、若 Q3 油價持續高位、Q4 中國對 EU 出口可能 cost-push 漲價。",
+    "public_impact": "5/18 中國 NBS 公布 4 月經濟數據全面 miss。① 零售 +0.2% YoY（vs 預期 +2.0%、Dec 2022 來最弱）、汽車 -21.6%（連 7 個月跌）、家電 -5.0%、家具 -8.7%；② 工業 +4.1%（vs +5.9%）、半導體出口 +14.1% 韌性、汽車製造 + 鋼鐵下行；③ 1-4 月固投 -1.6%（第一次轉負，房地產 + 信貸疲弱）。Iran 戰爭傳導 + 內需 K 型分化雙軸下行。中國國內燃油控價 + 出口優於預期暫穩戰爭衝擊，但 input cost 上升 + factory margins 壓縮，若 Q3 油價持續高位、Q4 中國對歐美出口可能 cost-push 漲價。Conference Board：「consumers concentrating spending on selective discretionary and upgrade categories」— 小升級項目穩定、大宗 + 信貸驅動品類疲弱。",
+    "public_action": "① 中國採購主要 SKU（家電、3C、玩具、家居）賣家 Q3 採購 cost base 維持、Q4 +1~3% cost-push 風險進入定價；② Top 100 跨境賣家從中國採購提前 3-6 個月鎖定 Q3-Q4 供應商 cost（避開油價傳導 + 升級風險）；③ 中國品牌方跨境出海是 Q3-Q4 最佳時間窗（國內消費 K 型分化）、Pan-EU 多國佈局 + GPSR 合規 + IOSS 操作為核心切入點；④ 汽車零配件 + 家電 Q3 base 微上修（中國 OEM 對外出口加大 + 美汽車 +5.3% 反彈訊號）；⑤ 監控：5/27 中國 4 月工業企業利潤、6/9 中國 5 月 PMI、11/2026 Busan tariff truce 屆滿。",
+    "sources": [
+      {
+        "name": "Reuters 5/18 China's April industrial output, retail sales growth miss expectations",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-april-industrial-output-retail-sales-growth-miss-expectations-2026-05-18/"
+      },
+      {
+        "name": "Reuters 5/18 China's economy loses steam at start of Q2 as consumption, output disappoint in April",
+        "url": "https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/"
+      },
+      {
+        "name": "AIMSFX 5/18 China's industrial and retail sectors see notable slowdown in April 2026",
+        "url": "https://aimsfx.com/2026/05/18/chinas-industrial-and-retail-sectors-see-notable-slowdown-in-april-2026/"
+      },
+      {
+        "name": "IndexBox 5/18 China's April Economic Data Misses Expectations Amid Iran War Impact",
+        "url": "https://www.indexbox.io/blog/chinas-april-economic-data-misses-expectations-amid-iran-war-impact/"
+      },
+      {
+        "name": "Trading Economics China Retail Sales YoY（背景）",
+        "url": "https://tradingeconomics.com/china/retail-sales-annual"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/18 Bundesbank 月報 + 德政府 GDP 砍半到 +0.5%】通膨上修到 +2.7%（vs 2.2%）、工業 + 消費雙弱、Reiche「shock has hit the structurally weakened economy」：EU 最大電商市場 stagflation 鎖定",
+    "summary": "德國 5/18 雙重訊號：Bundesbank 5 月月報發布 + 經濟部長 Reiche 砍半 2026 GDP forecast — 從 +1.0% 砍到 +0.5%（同步 IMF 4 月 +0.6% / 經濟所早 4 月 +0.6% 預測線），EU 最大電商市場 stagflation 確立：\n        ① 政府 GDP forecast 砍半（Yahoo Finance / Reiche 經濟部聲明 5/18 / The National 5/15 Reiche 引述）：經濟部長 Katherina Reiche 公布 — 2026 年 GDP 從 1 月 +1.0% 砍半到 +0.5%、2027 從 +1.3% 砍到 +0.9%；通膨 2026 從 +2.2% 上修到 +2.7%、2027 +2.8%（vs 原 +2.0%）。Reiche：「moderate recovery 的訊號 before war，escalation has hit the structurally weakened German economy hard once again」。\n        ② Bundesbank 5/18 月報主軸（Bundesbank 月報目錄 5/18 / Investing 5/18）：5/18 vol 78 no 5 月度宏觀更新（具體文章內容未公開但時程確認 5/18 10:00 CET 發布、本月將是中央銀行對 6/11 ECB 升息的最後 hawk 化 input），重點預期：　• 德國 4 月 CPI 終值 2.9% YoY 鎖定（Bundesbank Nagel 已 5/12 公開「升息 越來越可能」）　• 德國 Q1 GDP +0.4% 已 5/13 確認 + Q2 forecast 維持 base case +0.2~+0.3%　• 工業生產 + 訂單 / 建築業 PMI 4 月 42.1（13 月新低）寫入「實體經濟骨架傳導」段落\n        ③ Reiche 強調「能源 + 借貸 + 出口」三大壓力：　• 能源：5/15 Brent 收 $109.26 vs 戰前 ~$70（+57%），德國工業電力價格 Q2 起 +30-40% 跳升、heavy industry 鋼鐵 / 化學承壓　• 借貸：「public finances strained by rise in government borrowing costs since outbreak」、Bund 10Y 殖利率 4 月以來明顯走高　• 出口：「weak demand in export markets + fierce Chinese competition」（中國 4 月 NBS 數據對 EU 出口仍強、見新聞 3）\n        ④ 並列：歐盟 Commission 11 月最新 forecast vs 政府新 forecast（European Commission Spring 2026）：歐盟 Commission 早於 11 月發 GDP forecast 為 +1.2%（與政府舊 +1.0% 接近），政府 5/18 砍到 +0.5% 比歐盟還悲觀，反映戰爭傳導 8 週後最新 stress test 結果。\n        結論：德國 5/18 信號 = EU 最大經濟體 stagflation 從「外部變數」進入「政府基線」、6/11 ECB 升息決策上 Bundesbank Nagel + Reiche 雙鷹派 input 鎖定、25bp 機率 86%+ 明確；對 Amazon EU 跨境賣家最關鍵 — Q3 德國 GMV forecast 保守 base case +1~+2%（vs 早 +3-5%），SMB 庫存補貨 + 借貸需求結構性下行。",
+    "public_impact": "德國 5/18 雙重訊號：① Bundesbank 5/18 10:00 CET 發布 5 月月報、預期是 6/11 ECB 升息決策最後 hawk 化 input（4 月 CPI 終值 2.9% 鎖定、Bundesbank Nagel 已表態升息）；② 經濟部長 Reiche 砍半 2026 GDP forecast 從 +1.0% 到 +0.5%（同步 IMF + 經濟所早期預測），通膨 2026 從 +2.2% 上修到 +2.7%。Reiche：「shock has hit the structurally weakened German economy hard」三大壓力：能源（Brent vs 戰前 +57%、heavy industry 電力 Q2 起 +30-40%）、借貸（公共財政 borrowing costs 上升）、出口（弱海外需求 + 中國競爭）。對跨境賣家意味：EU 最大電商市場（Amazon.de 約占 EU 50%）stagflation 從「外部變數」進入「政府基線」、6/11 ECB 升息已基本鎖定（25bp 機率 86%+）。",
+    "public_action": "① 德國 Q3 GMV forecast 結構性下修（從 +3-5% 到 +1-2% YoY）、stress scenario 觸發 0-1%；② 德國本地賣家 + 中國 / 海外賣家對德國 Q3 庫存深度建議 -5~-10%、避免 Q3 末庫存堆積；③ 德國品牌方跨境出海是 Q3-Q4 最佳窗口（本土疲弱 + 海外深耕邏輯）、Pan-EU 多國 + 美 Amazon.com 出口分散；④ 能源密集品類 Q3 售價 messaging 用 Bundesbank 通膨 +2.7% + Brent +57% vs pre-war 作 anchor；⑤ Everyday Essentials 類目 Q3 強化「通膨對沖」定位；⑥ 監控：5/22 德國 5 月 Ifo + GfK、6/11 ECB 決議、6/22 Lagarde 半年報聽證。",
+    "sources": [
+      {
+        "name": "Bundesbank Current Monthly Reports（5/18 月報）",
+        "url": "https://www.bundesbank.de/en/publications/reports/monthly-reports/current-monthly-reports--764440"
+      },
+      {
+        "name": "Investing.com 5/18 10:00 German Bundesbank Monthly Report 預定發布",
+        "url": "https://www.investing.com/economic-calendar/german-buba-monthly-report-1741"
+      },
+      {
+        "name": "Yahoo Finance / AFP Germany halves 2026 growth forecast on Iran war fallout（Reiche 經濟部聲明）",
+        "url": "https://finance.yahoo.com/economy/policy/articles/germany-set-slash-growth-forecast-091525099.html"
+      },
+      {
+        "name": "European Commission Spring 2026 Forecast for Germany",
+        "url": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en"
+      },
+      {
+        "name": "Anadolu / Bundesbank：German economy to gradually recover next year（Bundesbank Nagel 12 月版）",
+        "url": "https://www.aa.com.tr/en/economy/german-economy-to-gradually-recover-next-year-bundesbank/3775756"
+      },
+      {
+        "name": "BMWK 3 月經濟形勢報告（背景）",
+        "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260319-the-economic-situation-in-germany-march-2026.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/19-22 ECB critical data window】今日 09:00 Eurostat 3 月 trade balance + 5/20 4 月 HICP 終值（預期 +3.0% YoY 鎖定）+ 5/22 美 4 月 PCE：6/11 ECB 升息倒數 23 天",
+    "summary": "本週 5/19-22 是 ECB 6/11 升息前 3 個 critical data 同時發布、且疊加新聞 4 Bundesbank 月報：每個都會直接修改 Polymarket 升息機率（目前 86%）：\n        ① 今日 5/19 09:00 CET Eurostat 3 月 trade balance（Trading Economics / Eurostat 5/19 release calendar）：上一期 2 月 €11.5B 黑字（vs 1 月赤字 €1.9B 大幅反彈），3 月共識 €5B、TE Forecast €35B、市場預期落差大；3 月對美出口可能因 Trump 關稅威脅 + Q1 stockpiling 效應反彈，但對中出口可能持續疲弱（中國 4 月 NBS 數據確認）。\n        ② 5/20 09:00 CET 歐元區 4 月 HICP 終值（Eurostat / Trading Economics）：4/30 flash +3.0% YoY（vs 3 月 +2.6% 大幅上修）、共識維持 +3.0%、TE Forecast +3.0%；能源從 -3.1% 跳升到 +10.9%（Iran 戰爭傳導 4 月生效）、服務 3.0%、food 2.5%；若終值 ≥ 3.0%、Polymarket 6/11 25bp 升息機率從 86% 升 90%+ 鎖定。\n        ③ 5/19 美國 NY Fed 5 月 Empire State 製造業 + 5/22 美 4 月 PCE：今日下午美 5 月 NY Fed 製造業（4 月 -8.1）+ 4 月領先指標；5/22 美 4 月 PCE 核心預期 +3.5% YoY（重點是 Iran 戰爭傳導入 PCE 速度），影響 Fed 6/17-18 FOMC 升息劇本（Warsh 首次主持）。\n        ④ 5/22 德國 5 月 Ifo + GfK：搭配新聞 4 Bundesbank 月報 + Reiche GDP 砍半，5/22 德國 Ifo 商業氣候 + GfK 消費者信心指數確認 stagflation 是否進入 sentiment 端（4 月 Ifo 84.0、5 月共識 84.5、若 ≤ 83 則 Q3 德國 GMV 必須再下修）。\n        ⑤ 連動：6/11 ECB 升息倒數 23 天、Polymarket 機率分布（Polymarket）：25bp 升息 86%、no change 13%、50bp+ <1%、降息 <1%；本週 5/19-22 完成最後 input、5/27 (週二) OPEC+ 6 月會議 + 6/3 ECB 月度宏觀預測 final input → 6/11 拍板。\n        結論：5/19-22 是 EU 賣家 Q3 forecast 重新校準的關鍵 4 天 — 任一 hawk 化（HICP ≥3.0%、trade balance miss、Ifo ≤83、Bundesbank 月報明確 hawk 信號）會把 Q3 EUR 計價融資 + 房貸 + 海運運價 base case 鎖死，賣家本週需要密集監控。",
+    "public_impact": "本週 5/19-22 是 ECB 6/11 升息前 critical data window：① 5/19 09:00 CET Eurostat 3 月 trade balance（上期 €11.5B 黑字、共識 €5B），對美 / 對中出口細項影響 EU 出口結構訊號；② 5/20 09:00 CET 歐元區 4 月 HICP 終值（4/30 flash +3.0%、共識 +3.0%、能源從 -3.1% 跳到 +10.9%）；③ 5/19 美 NY Fed 製造業 + 5/22 美 4 月 PCE（核心預期 +3.5%）；④ 5/22 德國 5 月 Ifo + GfK；⑤ 6/11 ECB 升息倒數 23 天、Polymarket 25bp 升息機率 86%、no change 13%。對跨境賣家意味：本週 4 天每個 release 都會直接修改 Q3 forecast — 任一 hawk 化（HICP ≥3.0%、trade balance miss、Ifo ≤83）會把 Q3 EUR 計價融資 + 房貸 + 海運運價 base case 鎖死。",
+    "public_action": "① 本週 4 天密集監控（5/19 trade balance + NY Fed、5/20 HICP 終值、5/22 美 PCE + 德國 Ifo）、每個 release 後重新校準 Q3 forecast；② HICP ≥3.0% 確認 = 6/11 ECB 升息基本鎖定，EUR 計價融資 / 房貸 / 商業地產 +25bp 立刻進入 cost base；③ 德國 Ifo ≤83 = 德國 Q3 stress scenario 啟動，本地 + 跨境德國賣家 Q3 庫存建議 -10%、避免 Q3 末庫存堆積；④ 對美出口 + 對美採購跨境賣家本週評估遠期合約鎖定 60-70% Q3 美元收入或美國採購支出；⑤ 監控：5/27 OPEC+ 6 月會議、6/3 ECB 宏觀預測、6/11 ECB 決議 14:15 CET、6/17-18 FOMC。",
+    "sources": [
+      {
+        "name": "Eurostat 4/17 Euro area international trade in goods surplus €11.5 bn（next release 19/05/2026）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-17042026-ap"
+      },
+      {
+        "name": "Trading Economics Euro Area Balance of Trade（5/19 release calendar）",
+        "url": "https://tradingeconomics.com/euro-area/balance-of-trade"
+      },
+      {
+        "name": "Eurostat 4/30 Euro area annual inflation up to 3.0%（4 月 flash、終值 5/20 release）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30042026-ap"
+      },
+      {
+        "name": "Trading Economics Euro Area Inflation Rate（5/20 09:00 final release calendar）",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      },
+      {
+        "name": "Investing.com 5/18 10:00 + 5/21 10:00 Bundesbank Monthly Report 計畫",
+        "url": "https://www.investing.com/economic-calendar/german-buba-monthly-report-1741"
+      },
+      {
+        "name": "Polymarket ECB Interest Rates: June 2026（25bp 86% / no change 13%）",
+        "url": "https://polymarket.com/event/ecb-interest-rates-june-2026"
+      },
+      {
+        "name": "ECB 4/30 Monetary policy decisions（前次 hold、6/11 重點）",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-18",
     "type": "daily",
     "tags": [
