@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-05-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/19 Eurostat】歐元區 3 月貿易順差縮至 €7.8bn（去年同期 €34.1bn）：出口 -5.5% YoY、能源逆差 -€28.6bn、化學品出口暴跌 -34.7%",
+    "summary": "Hormuz 封鎖效應正式「殺」進歐元區貿易帳 — 3 月出口急跌 + 能源進口成本飆升，Q1 順差從 €55.4bn 腰斬至 €16.6bn：\n        ① 歐元區整體（Eurostat 5/19）：3 月出口 €265.3bn（-5.5% YoY）、進口 €257.4bn（+4.4% YoY）、順差 €7.8bn（vs 去年同期 €34.1bn）。季調後順差僅 €3.5bn（2 月 €6.5bn）。\n        ② EU 整體（Eurostat 5/19）：EU 貿易順差 €5.9bn（去年同期 €34.0bn）、出口 -8.7% YoY、進口 +2.7% YoY。能源逆差從 2 月 -€21.9bn 擴大至 3 月 -€28.6bn。\n        ③ 化學品出口崩跌（ICIS 5/19）：EU 化學品出口 €47.8bn（-34.7% YoY），對美出口 -37.1%、化學品順差從 €40.8bn 縮至 €17.6bn。Hormuz 封鎖推高原料成本 + 美國關稅雙重打擊。\n        結論：Q1 貿易帳惡化速度超預期，能源逆差 + 出口競爭力下滑是 ECB 6/11 升息決策的 GDP 端 downside risk，但也強化「通膨由供給面驅動」的升息論述。",
+    "public_impact": "歐元區 3 月貿易順差從去年同期 €34.1bn 縮至 €7.8bn，出口 -5.5% YoY、能源逆差擴大至 -€28.6bn。化學品出口暴跌 -34.7%，代表工業原料成本飆升，下游消費品（清潔、美妝、家居化學品）Q2-Q3 成本 pass-through 不可避免。能源帳惡化壓縮消費者可支配所得，非必需品需求承壓。EUR 弱勢延續（base 1.14-1.16），非歐元計價賣家毛利被匯率侵蝕。EU 製造商因對美出口受阻轉向內銷，marketplace 供給增加、價格競爭加劇。",
+    "public_action": "① 化學品相關品類賣家本週評估 Q3 定價預案，能源逆差 -€28.6bn + 化學品出口 -34.7% 可作為漲價溝通依據；② 非歐元計價賣家在 EUR/USD 1.14-1.16 情境下重算 Q3 毛利，考慮提前鎖定匯率；③ 監控 5/20 歐元區 4 月 HICP 終值（預期 3.0%），確認後 6/11 ECB 升息幾乎確定；④ 非必需品賣家 Q3 備貨保守、SKU mix 往必需品傾斜。",
+    "sources": [
+      {
+        "name": "Eurostat 5/19 Euro Indicators",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-19052026-ap"
+      },
+      {
+        "name": "ICIS 5/19",
+        "url": "https://www.icis.com/explore/resources/news/2026/05/19/11209000/eu-chemical-exports-down-over-one-third-in-march-compared-with-last-year"
+      },
+      {
+        "name": "Sharecast",
+        "url": "https://www.sharecast.com/news/international-economic/eurozone-trade-surplus-narrows-sharply--22514021.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/15 ING + 5/13 Reuters poll】ECB 6/11 升息 25bp 至 2.25% 機率升至 85%：通膨 heading to 4%、stagflation 環境確認",
+    "summary": "ING 首席經濟學家 + Reuters 調查同步確認：ECB 6 月升息已從「可能」升級為「very likely」，第二次 9 月升息「cannot be ruled out」：\n        ① ING 5/15 分析（Peter Vanden Houte）：4 月 HICP flash 3.0% YoY（3 月 2.6%），能源價格急升驅動；核心通膨 2.2% 微降但 Easter 扭曲。ING 預測通膨將衝近 4%、2026 均值 3.3%、2027 回落至 2.3%。GDP 維持 0.7%（2026）/ 1.3%（2027）。\n        ② Reuters 5/13 poll：85% 經濟學家預期 6 月升息 25bp（vs 4 月會議前僅過半）；Morgan Stanley Eisenschmidt：「至少兩次升息 seem likely」；通膨 2026 餘下月份均值 3.2%。\n        ③ 消費者通膨預期飆升（ECB CES 3 月）：12 個月預期從 2.5% → 4.0%、3 年預期從 2.5% → 3.0%。Lagarde 4 月記者會：「6 月將有足夠數據做 informed decision」。\n        ④ ING 利率路徑（5/15 forecast table）：ECB deposit rate 維持 2.25% 至 2027 全年（即 6 月升一次後 hold）。Eurozone 3M rate 2.40% 持平至 2027。\n        結論：6/11 升息已是 base case，關鍵變數是「升幾次」— ING 認為一次後 hold、Morgan Stanley 認為至少兩次。5/20 HICP 終值若確認 3.0% 將 lock in 6 月行動。",
+    "public_impact": "ECB 6/11 升息 25bp 至 2.25% 已成 base case（85% 經濟學家預期），通膨 heading to 4%。升息將推高消費者信貸成本，EU5 家庭可支配所得進一步壓縮，非必需品需求承壓。歐元短期因升息預期走強（1.17-1.18），非歐元計價賣家有短期鎖匯窗口。SME 賣家融資成本 Q3 預估升至 4.5-5.0%，備貨資金壓力加大。消費者對漲價短期容忍度提高，但中期購買頻次會下降。",
+    "public_action": "① 6/11 前完成 Q3 定價模型更新，base case ECB deposit rate 2.25%；② 非歐元計價賣家把握 EUR/USD 1.17-1.18 短期反彈窗口考慮部分鎖匯；③ 今日（5/20）監控 11:00 CET Eurostat 4 月 HICP 終值，確認 3.0% 即 lock in 升息；④ Q3 非必需品促銷力度需加大，Prime Day 後 7-8 月 deal 頻率建議提升；⑤ SME 賣家提前確認 Q3 備貨融資方案。",
+    "sources": [
+      {
+        "name": "ING THINK 5/15",
+        "url": "https://think.ing.com/articles/eurozone-rising-inflation-signals-june-rate-hike/"
+      },
+      {
+        "name": "Reuters 5/13（付費牆）",
+        "url": "https://www.reuters.com/business/ecb-hike-rates-june-least-once-more-war-led-inflation-spike-2026-05-13/"
+      },
+      {
+        "name": "ING Forecasts 5/15",
+        "url": "https://think.ing.com/forecasts/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/19 油市】Brent 收 $111.28（-0.73%）：Vance 稱美伊談判「made a lot of progress」，短期降溫但 Hormuz 仍封第 11 週",
+    "summary": "5/19 油價小幅回落，Vance 外交訊號帶來短暫喘息，但 Hormuz 封鎖持續 + 全球庫存告急的結構性問題未解：\n        ① 5/19 收盤（PFL Petroleum / Yahoo Finance）：Brent 7 月合約收 $111.28（-$0.82 / -0.73%）；WTI 6 月合約（到期日）收 $107.77（-$0.89 / -0.82%）；更活躍的 WTI 7 月合約 $104.15（-$0.23）。\n        ② Vance 外交訊號（PFL Petroleum 5/19）：副總統 Vance 白宮記者會：「We think that we've made a lot of progress. We think the Iranians want to make a deal.」— 市場解讀為短期降溫，但非突破。\n        ③ 結構性風險未解：Hormuz 封鎖進入第 11 週、全球每日損失 10M+ barrels；中國國有煉廠已減產 1M+ bpd；Again Capital Kilduff：「significant amounts of oil offline... waiting for either a deal or another round of military escalation」。\n        ④ 新制裁（PFL 5/19）：美國同日對伊朗外匯網絡追加制裁 + 封鎖 19 艘涉嫌運輸伊朗石油的船隻。\n        結論：Vance 訊號讓 Brent 從 $112 回到 $111，但 Hormuz 未開 = 油價 $105-115 區間震盪持續。Q3 base case 不變。",
+    "public_impact": "Brent 5/19 收 $111.28，Vance 稱美伊談判有進展但 Hormuz 封鎖進入第 11 週未解。物流成本維持高位（海運燃油附加費鎖定、空運 jet fuel 緊張），FBA inbound 成本 Q3 不會下降。EU5 家庭能源支出 YoY +30-40%，非必需品預算被擠壓。中國煉廠減產 1M+ bpd，中國製造商成本上升，對歐出口價格跟漲。Q3 油價 base case 維持 $105-115 區間。",
+    "public_action": "① Q3 物流成本模型維持 Brent $105-115 base case；② 監控美伊談判進展，若 Hormuz 重開訊號明確（Brent 跌破 $100）再下修；③ 能源密集品類 Q3 定價預案維持漲價 5-8%；④ 中國供應商若 Q2 末再漲 3-5%，用煉廠減產事實作為談判分攤依據；⑤ 非必需品 Q3 備貨保守，SKU mix 往必需品傾斜。",
+    "sources": [
+      {
+        "name": "PFL Petroleum 5/19",
+        "url": "https://pflpetroleum.com/reports/petroleum-daily-report-5-19-2026/"
+      },
+      {
+        "name": "Yahoo Finance 5/19",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/current-price-oil-may-19-132432585.html"
+      },
+      {
+        "name": "Capital.com 5/19",
+        "url": "https://capital.com/en-int/market-updates/crude-oil-price-forecast-19-05-2026"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-20",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【5/19 Practical Ecommerce】GPSR 執法深度解析：listing 必須顯示 Responsible Person + 安全資訊，marketplace 下架義務明確化",
+    "summary": "Practical Ecommerce 5/19 發布 GPSR 全面解析，確認執法已進入實戰階段 — 非 EU 賣家若未指定 Responsible Person 將面臨 listing 下架：\n        ① 適用範圍：GPSR 2024 年 12 月生效，覆蓋所有非食品消費品（家居、運動、配件、廚房、生活用品），不限於玩具或電子產品。適用於所有對 EU 銷售的賣家，包括美國和中國賣家。\n        ② Responsible Person 義務：非 EU 製造商必須在 EU 境內指定一名 Responsible Person（經濟營運者），負責產品安全通訊、配合市場監管機構、處理召回。無 RP = 不得在 EU 市場銷售。\n        ③ Listing 資訊要求：產品頁面必須在購買前顯示：製造商名稱、RP 聯絡資訊、批號或識別碼、預期用途、安全警告、保養說明。適用於 Amazon、Etsy、eBay 等所有平台。\n        ④ Marketplace 義務：平台必須配合市場監管機構、接到通知後下架不安全產品、提供消費者和機構舉報管道。EU Commission 4 月已採納 76 項新歐洲產品安全標準（Implementing Decision 2026/901）。\n        ⑤ 執法升級：Kaufland 5/15 已移除舊版 GPSR 管理工具、強制賣家使用新系統；斯洛維尼亞已下架不合規兒童餵食產品；西班牙 4/4 擴大進口前安全檢查清單。",
+    "public_impact": "GPSR 執法已進入實戰階段。非 EU 賣家若未在 EU 境內指定 Responsible Person，listing 隨時可能被下架。產品頁面必須在購買前顯示製造商名稱、RP 聯絡資訊、批號、安全警告等資訊。Marketplace 有義務配合監管機構下架不合規產品。Kaufland 5/15 已強制切換新系統，Amazon 預計跟進。兒童用品風險最高（需 CE + 實驗室測試），家居 / 廚房 / 運動配件次之。",
+    "public_action": "① 盤點自己的 EU listing 是否已指定 Responsible Person，未指定的立即處理；② 高風險品類（兒童、家居、運動）確認 CE 標記 + 實驗室測試報告 + 批號已上傳；③ 非 EU 賣家可透過 CERT Rep 等服務商快速取得 RP 資格；④ 產品頁面補齊安全資訊（製造商、RP 聯絡、預期用途、警告）；⑤ 持續監控各平台 GPSR 欄位驗證更新公告。",
+    "sources": [
+      {
+        "name": "Practical Ecommerce 5/19",
+        "url": "https://www.practicalecommerce.com/e-u-product-safety-laws-reach-sellers"
+      },
+      {
+        "name": "Foresight GPSR Monitor",
+        "url": "https://www.useforesight.io/topics/general-product-safety-regulation-eu"
+      },
+      {
+        "name": "Kaufland Seller University",
+        "url": "https://www.kauflandglobalmarketplace.com/en/seller-university/formal-framework/gpsr/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-20",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【5/15 Amazon + 倒數 84 天】PPWR 研究：10 國 EPR 註冊共 64 欄位、55% 國別特有；8/12 PPWR 強制執行，非合規包裝將被海關退回",
+    "summary": "Amazon 5/15 發布獨立研究揭露 PPWR 合規的實際痛點 — 10 國 EPR 註冊流程碎片化嚴重，8/12 強制執行倒數 84 天：\n        ① Amazon 委託研究（aboutamazon.eu 5/15）：模擬一位 Amazon 賣家在 10 個 EU 國家完成 EPR 包裝註冊，發現共 64 個獨特欄位、平均每國 16 個、55% 為國別特有、83% 的欄位僅被 3 個國家要求。欄位數從 11 到 20+ 不等。\n        ② PPWR 核心要求（Regulation EU 2025/40）：8/12/2026 起 27 國統一強制執行。賣家必須在每個銷售國取得 EPR 註冊號、marketplace 必須驗證賣家註冊狀態才能允許銷售。包裝必須符合最小化義務（void space 限制）、回收性要求、再生含量標準。\n        ③ 非合規後果：海關退回、marketplace 暫停帳號、罰款。非 EU 公司必須有實體 EU Authorized Representative 持有技術合規文件。\n        ④ Amazon 立場：呼籲 EU 簡化跨國 EPR 註冊流程，減少中小企業合規負擔。但在簡化前，賣家仍須逐國註冊。",
+    "public_impact": "PPWR（EU 包裝與包裝廢棄物法規）8/12/2026 起 27 國統一強制執行，倒數 84 天。Amazon 研究顯示 10 國 EPR 註冊共 64 個欄位、55% 為國別特有，中小賣家合規成本極高。未取得 EPR 號的賣家 8/12 後 listing 將被暫停。包裝必須符合最小化義務（void space 限制）、回收性要求。非 EU 賣家必須有 EU Authorized Representative。",
+    "public_action": "① 8/12 倒數 84 天，本週確認 EU5 站點 EPR 註冊狀態；② 優先處理 DE + FR + IT + ES 四大站（覆蓋 80%+ 營收）；③ 非 EU 賣家確認已指定 EU Authorized Representative（可與 GPSR 共用同一 AR）；④ 審查包裝是否符合 void space 限制，紙箱尺寸不應超過產品 150%；⑤ 小站（NL、BE、AT）可 Q4 補齊，但四大站必須 8/12 前完成。",
+    "sources": [
+      {
+        "name": "About Amazon EU 5/15",
+        "url": "https://www.aboutamazon.eu/news/policy/new-study-why-small-businesses-struggle-with-eu-packaging-rules-and-how-to-fix-it"
+      },
+      {
+        "name": "INNORHINO PPWR Guide",
+        "url": "https://innorhino.com/blog/about-business/supply-chain-trade-compliance/eu-ppwr-compliance-us-brands"
+      },
+      {
+        "name": "Global VAT Compliance",
+        "url": "https://www.globalvatcompliance.com/globalvatnews/eu-low-value-import-duty/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-19",
     "type": "daily",
     "tags": [
