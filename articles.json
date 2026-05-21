@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-05-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/20 Eurostat】歐元區 4 月 HICP 終值 3.0% YoY 確認（2023/9 來新高）、能源貢獻 +0.99pp、6/11 ECB 升息決議 lock-in",
+    "summary": "Eurostat 5/20 公布 4 月 HICP 終值，與 4/30 flash 完全一致 3.0% YoY，能源從 +5.1% 跳升至 +10.8% 為主因，6/11 ECB 升息決議的最後一塊拼圖到位：\n        ① 歐元區整體（Eurostat 5/20）：HICP 4 月 3.0% YoY（vs 3 月 2.6%、Apr 2025 為 2.2%）、月增 +1.0%；EU27 為 3.2%（vs 3 月 2.8%）。能源 +10.8% YoY 貢獻 +0.99pp（3 月僅 +0.48pp），是衝高主力。\n        ② 主要國家（Eurostat 5/20）：德國 2.9%（vs 3 月 2.8%）、法國 2.5%（vs 2.0% 急升）、義大利 2.8%（vs 1.6% 大跳）、西班牙 3.5%（vs 3.4%）、荷蘭 2.5%、奧地利 3.4%。21 國上升、5 國下降、1 國持平。\n        ③ 核心數據（Eurostat 5/20）：核心通膨（扣能源食品菸酒）2.2%（vs 3 月 2.3% 反而微降）、服務業降至 3.0%（vs 3.3% 連 4 月降）、非能源工業品 0.8%（vs 0.5%）、食品菸酒 2.4%（vs 2.4% 持平）。能源以外通膨依舊溫和。\n        ④ 21 國新成員（Eurostat 5/20）：保加利亞 1/1 加入歐元區後首份 EA21 報告，4 月 HICP +6.0% YoY（最高 3 國之一），對歐元區整體統計權重影響有限（GDP 占比 ~0.6%）。\n        結論：能源驅動的單月通膨衝高 + 核心通膨持續降溫，正是 ECB「升息打通膨預期、保留 Q3 後鴿派空間」的最佳劇本。6/11 升息 25bp 至 2.25% 機率維持 85-90%。",
+    "public_impact": "歐元區 4 月 HICP 終值確認 3.0% YoY，能源 +10.8% 貢獻 +0.99pp 是衝高主因，核心通膨 2.2% 持續降溫。EU5 家庭 4 月能源帳單 YoY +35-45%，非必需品需求 Q2 末預估下滑 3-5%。義大利（1.6% → 2.8%）和法國（2.0% → 2.5%）通膨跳升幅度大於德西，二線市場定價策略需差異化。6/11 ECB 升息 25bp 機率維持 85-90%，EUR/USD 短期支撐在 1.16-1.18 區間，非歐元計價賣家 6/11 前是鎖匯窗口期。",
+    "public_action": "① 義法義法兩站賣家本週用 EU5 平均 +2.9% 重算 Q3 定價，比德國單一 anchor 更符合實際；② 能源密集品類（家電、暖通、戶外、3C）可用能源 +10.8% YoY 作為與消費者溝通漲價的合理性依據；③ 食品 / 美妝 / 服飾因核心通膨僅 2.2%，Q3 促銷力度維持 base、ASP 微調即可；④ 非歐元計價賣家把握 EUR/USD 1.16-1.18 區間，6/11 ECB 升息決議前考慮鎖匯；⑤ 5/22 美 4 月 PCE 公布若超 3%，跨大西洋通膨同步壓力會推高物流成本。",
+    "sources": [
+      {
+        "name": "Eurostat 5/20 Euro Indicators",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-20052026-ap"
+      },
+      {
+        "name": "Trading Economics 5/20",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      },
+      {
+        "name": "IndexBox 5/20",
+        "url": "https://www.indexbox.io/blog/eu-hicp-inflation-update-april-2026-data-released-by-eurostat"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/20 Destatis】德國 4 月 PPI +1.7% YoY 兩年來首度轉正（vs 3 月 -0.2%）、礦油 +35.5% 驅動、批發價 +6.3%：上游成本反彈鎖定",
+    "summary": "德國工業生產者物價結束連 13 個月年減負成長，4 月 +1.7% YoY 是 May 2023 以來最大年增，礦油 +35.5% YoY 是 Iran 戰爭推升的最直接證據：\n        ① 標題數據（Destatis 5/20 Press release No. 169）：4 月 PPI +1.7% YoY（vs 3 月 -0.2%、預期 +1.6% beat）、+1.2% MoM（vs 3 月 +2.5%、預期 +2.0%）。扣能源 +1.6% YoY、+0.7% MoM。\n        ② 礦油與能源（Destatis 5/20）：能源 +2.0% YoY、+2.4% MoM。其中礦油產品 +35.5% YoY、+10.7% MoM 為衝高主力（Iran 戰爭直接傳導）。Heating oil +57.6% YoY，Naphtha +47.4% YoY，汽柴油 +34.0% YoY。但天然氣 -3.1% YoY、電力 -4.7% YoY 因烏俄戰後高基期效應持續。\n        ③ 中間財與金屬（Destatis 5/20）：中間財 +2.6% YoY（+1.2% MoM）。金屬 +9.1% YoY 為主驅，貴金屬 +63.6% YoY（5/19 黃金 $4495）、銅 +20.9% YoY。木材 +5.4%、基本化學品 +3.2%、肥料 +8.4%。\n        ④ 消費財分化（Destatis 5/20）：耐久消費財 +1.9% YoY、資本財 +2.0% YoY 漲價傳導正常；非耐久消費財 -1.0% YoY 因食品 -2.5% 拉低（奶油 -38.8%、豬肉 -11.0%）。\n        ⑤ 批發價同步飆升（Destatis 5/13 Press release No. 164）：4 月批發價 +6.3% YoY（vs 3 月 +4.1%、2 月 +1.2%）— 是 2023 年 4 月以來最高，零售商成本全面上升。\n        結論：德國上游通膨從負轉正 + 批發價飆升 = Q3 消費品 ASP 漲價傳導 timeline 確立，5-8% 的零售端漲幅 Q3 末會 flow through 完成。",
+    "public_impact": "德國 4 月 PPI +1.7% YoY 是兩年來首度轉正，礦油 +35.5%、批發價 +6.3% 為 2023 年 4 月以來最高。上游成本確認反彈，Q3 零售端 5-8% 漲價傳導不可避免。金屬密集品類（家電、廚具、3C 配件）受銅 +20.9%、貴金屬 +63.6% 推升成本壓力最大。食品 / 個護品類因奶油 -38.8%、豬肉 -11.0% 通膨逆勢，Q3 是少數「不漲反降」促銷窗口。EU 內製造商成本推升 = 非 EU 賣家相對成本優勢可能擴大 3-5%。",
+    "public_action": "① 德國站賣家本週評估 Q3 ASP +5-8% 漲價方案，PPI +1.7% + 批發 +6.3% 是合理性 anchor；② 金屬密集品類（家電、廚具、3C 配件）優先漲價，銅 +20.9% / 貴金屬 +63.6% 是談判依據；③ 食品 / 個護品類 Prime Day 6 月主力 promo 可優先排，因核心成本反而下降；④ 非 EU 賣家把握 Q3 EU 製造商漲價傳導期搶市佔；⑤ 監控 6/19 5 月 PPI 數據，確認上游通膨反轉是否結構性。",
+    "sources": [
+      {
+        "name": "Destatis 5/20 PE 169",
+        "url": "https://www.destatis.de/EN/Press/2026/05/PE26_169_61241.html"
+      },
+      {
+        "name": "Destatis 5/13 批發價 PE 164",
+        "url": "https://www.destatis.de/EN/Press/2026/05/PE26_164_61711.html"
+      },
+      {
+        "name": "Investing.com 5/20",
+        "url": "https://www.investing.com/economic-calendar/germany-producer-price-index-(ppi)-mom-137"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/20 ONS】UK 4 月 CPI 2.8% YoY 大幅低於預期 3.0%（vs 3 月 3.3%）、9 個月來首度低於德國：Ofgem 能源 cap 降幅 7% 為主因",
+    "summary": "UK 4 月 CPI 大幅 surprise 降至 2.8%（vs 預期 3.0%、3 月 3.3%）為 March 2025 以來最低，但 ONS 同步警告「漲價將回歸」，BoE 6/18 升息壓力暫降：\n        ① 標題數據（ONS 5/20 7am UK time）：CPI 2.8% YoY（vs 3 月 3.3%、預期 3.0% beat downside）、+0.7% MoM。CPIH 3.0% YoY（vs 3 月 3.4%）。核心 CPI 2.5% YoY（vs 3 月 3.1%）為 July 2021 以來最低、服務 3.2%（vs 4.5% 急降）、商品 2.4%（vs 2.1% 微升）。\n        ② 主因 Ofgem 能源 cap（ONS / Guardian 5/20）：4/1 起 Ofgem 雙燃料 cap 從 £1,849 降至 £1,641（-7% / -£117/年）。電力價格 -8.4% YoY（vs 去年同期 +2.9%）、天然氣 -4.4% YoY（vs +7.5%）。住宅 / 家用服務 12 個月通膨從 4.3% 急降至 3.0%。\n        ③ 但燃油 +23.0% YoY 抵消部分（ONS 5/20）：汽油從 3 月 +4.9% 急升至 4 月 +23.0% YoY（Sept 2022 來最高），平均零售價 156.8 pence/L 為 Nov 2022 以來最高；柴油 190.0p/L 為 July 2022 以來最高。\n        ④ 9 個月來首度 UK CPI 低於德國（ONS 5/20 vs Eurostat 5/20）：UK 2.8% vs 德國 2.9% — 是 December 2024 以來首次。背後是英國能源 cap 緩衝 + 強勢英鎊（GBP/USD 1.34 May 高）。\n        ⑤ 經濟學家警告短暫（Guardian / CNBC 5/20）：「This decline could be the final fall in inflation this year, with surging fuel and food costs set to push it to 4% this summer」— Iran 戰爭傳導未完整、Q3 將反彈衝 4%。\n        結論：UK 4 月 CPI 是「能源 cap 行政降溫」+「Iran 戰爭尚未完整傳導」雙重短暫因子造成的低點，BoE 6/18 升息壓力大降但 Q3 通膨反彈幾乎確定。Amazon.co.uk 短期消費信心可能有短暫 tailwind。",
+    "public_impact": "UK 4 月 CPI 2.8% YoY 大幅低於預期 3.0%（vs 3 月 3.3%）、9 個月來首度低於德國，主因 Ofgem 能源 cap 4/1 降 7%。但燃油 +23.0% YoY（Sept 2022 來最高）抵消部分降溫，經濟學家警告 Q3 通膨將反彈衝 4%。BoE 6/18 升息壓力大降、GBP/USD 短期可能修正回 1.32-1.33。UK 家庭可支配所得 Q2 末壓力暫緩，Amazon.co.uk Q2 末消費需求有 +1-2% upside。",
+    "public_action": "① UK 站賣家 Q2 末銷售 forecast 可上修 +1-2%、Prime Day 6 月 promo 強度可加碼；② UK 賣家把握 5 月底前補貨，避免燃油 +23% 持續推升 Q2 末 inbound 物流成本；③ Q3 promo planning 8-9 月 deal 強度建議比原 plan +25%，對應 Q3 通膨反彈衝 4%；④ 跨境多站賣家 SKU mix 短期偏向 UK +5%、德國持平、義法 -2%；⑤ 監控 6/17 5 月 CPI 與 6/18 BoE 決議。",
+    "sources": [
+      {
+        "name": "ONS 5/20 CPI April 2026",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/april2026"
+      },
+      {
+        "name": "Guardian 5/20",
+        "url": "https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs"
+      },
+      {
+        "name": "CNBC 5/20",
+        "url": "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html"
+      },
+      {
+        "name": "BBC Live 5/20",
+        "url": "https://www.bbc.com/news/live/c5y9jl1r9g9t"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/20 油市 + Trump】Brent 連 2 日跌至 $109.06（-1.99%）、Trump「very quickly」+ NATO 7 月初護航計畫：3 艘超級油輪離 Hormuz、油價情境下修風險浮現",
+    "summary": "Brent 在 Trump「one shot」外交 + NATO 護航計畫雙重壓力下連 2 日下跌，3 艘超級油輪 5/20 離開 Hormuz 是「軟性開放」首例、Q3 油價 base case 鬆動：\n        ① 5/20 收盤（Trading Economics / MarketWatch 5/20）：Brent $109.06（-1.99% / -$2.22）、WTI $99.30（-4.66%）。WTI 月活躍合約跌破 $100 是戰爭以來首次（從 5/19 $103.88 急跌）。\n        ② Trump「very quickly」訊號（PBS / France 24 5/20）：Trump 5/20 在前往 Coast Guard Academy 前對記者說「We're going to give this one shot. I'm in no hurry. Iran is being reasonable, maybe give them until early next week」、暗示願意接受「縮小版 deal — Hormuz 立即開放、不處理核問題」。\n        ③ NATO 護航計畫加碼壓力（Trading Economics 5/19/20、Capital.com 5/19）：NATO 高階軍方官員：「若 Hormuz 在 7 月初仍未開放，NATO 考慮直接派艦護送商船通過」— 這是首次官方表態 Hormuz 將「強制」開放的 timeline。\n        ④ 3 艘超級油輪 5/20 離 Hormuz（Trading Economics 5/20）：「Reports indicated that three supertankers carrying crude departed the Strait on Wednesday」— 這是封鎖第 12 週首次出現「軟性流出」，雖然遠低於戰前 130 艘 / 日。\n        ⑤ Trump 同時「軟硬兼施」（Trading Economics 5/19）：警告「若 Iran 不接受，2-3 天內可恢復攻擊」、Iran 也回擊「會把戰爭擴展到區域之外」。對立 rhetoric 仍在，但 5/20 雙方都沒升級行動。\n        結論：Brent 從 $111 → $109 是「外交 + NATO 護航 + 軟性流出」三重壓力，Q3 base case 從 $105-115 鬆動到 $98-110。但 deal 簽署前不會跌破 $95，因 deal 失敗風險仍大。",
+    "public_impact": "Brent 5/20 連 2 日跌至 $109.06（-1.99%）、WTI 跌破 $100（戰爭以來首次）。Trump「very quickly」外交 + NATO 7 月初護航計畫 + 3 艘超級油輪 5/20 離 Hormuz 三重壓力推動，Q3 油價 base case 從 $105-115 鬆動到 $98-110。EU FBA inbound 海運附加費 Q3 升幅可從 +12-15% 下修到 +8-10%。但 Trump「2-3 天可恢復攻擊」+ Iran「擴展到區域外」rhetoric 表明 deal 不確定性仍高，Q3 plan 不宜過度樂觀。EUR/USD 5/20 跌破 1.16 是非歐元計價賣家鎖匯加速訊號。",
+    "public_action": "① Q3 物流成本模型微調至 Brent $100-110 base + downside $90-100；② 監控 NATO 7 月初 Hormuz 護航 trigger，若 6/30 前實施 Brent 可能急跌至 $90-95；③ 能源密集品類 Q3 ASP +5-8% 維持（因 Q3 末 EUR 弱勢仍推高進口成本）；④ 非歐元計價賣家 EUR/USD 跌破 1.16 是鎖匯加速訊號，建議本週鎖 50% Q3 EUR 部位；⑤ 追蹤 Hormuz 流量回升訊號（每日 50+ 艘為 deal 實質落地）。",
+    "sources": [
+      {
+        "name": "Trading Economics 5/20",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "PBS 5/20「one shot」",
+        "url": "https://www.pbs.org/newshour/world/watch-trump-says-hes-in-no-hurry-to-make-an-iran-deal"
+      },
+      {
+        "name": "Capital.com 5/19 NATO 護航",
+        "url": "https://capital.com/en-int/market-updates/crude-oil-price-forecast-19-05-2026"
+      },
+      {
+        "name": "MarketWatch 5/20",
+        "url": "https://www.marketwatch.com/investing/future/brnq26?countrycode=uk"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-21",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【5/20 北京】Putin-Xi 峰會 Power of Siberia 2 仍未簽（pricing/financing 卡關）、聯合譴責 Trump Golden Dome：能源地緣再洗牌、中俄貿易達 $240bn 全用本幣",
+    "summary": "Putin 5/20 北京之行未能簽下俄方最想要的 Power of Siberia 2 大單，但中俄關係「unprecedented level」聲明 + 21 份協議簽署 + 聯合譴責美國 Golden Dome 是上週 Trump-Xi 北京會談後的明確 counter-signal：\n        ① 沒簽到的 PoS-2（Reuters / BBC / UPI 5/20）：Power of Siberia 2 為俄向中提供 50bcm/年天然氣的 2,600km 管線，Putin 帶 5 位副總理、8 位部長、Gazprom + Rosneft 老闆隨行，但 40 份雙邊文件中無一提及油氣或 PoS-2。卡關點：北京要求 ~$0.12-0.13/cubic meter（俄內銷價）、俄方要求接近歐洲價。\n        ② 簽到的 21 份協議（Reuters / RFE/RL 5/20）：包括「strengthening comprehensive partnership」聯合聲明、「multipolar world / new type of international relations」宣言、AI 合作、稀有動物保護等 — 但無能源大單。\n        ③ 聯合譴責 Trump Golden Dome（Reuters 5/20）：中俄聯合聲明指 Trump 5/13 公布的「ground- and space-based missile interceptor system」威脅全球戰略穩定，並批評美方讓 New START 條約 2 月過期，Putin 提的延長 1 年提案 Trump 沒回。\n        ④ 中俄貿易 $240bn 全本幣（YouTube / Russian-Chinese 5/20）：Putin 開場說「Russia-China trade has surged to $240 billion, with transactions now done entirely in rubles and yuan」— 對美元結算系統的 de-dollarization 訊號。\n        ⑤ 中國 Q1 進口俄油 +35%（BBC 5/20）：俄油成為 Iran 戰爭 + Hormuz 封鎖下中國最直接替代來源，1-3 月俄油進口比 2025 同期 +35%。Russian Deputy PM Novak: 4 個月內俄油對中出口 +10%。\n        結論：俄方「需要中國比中國需要俄方更多」（BBC 引述 Brookings Patricia Kim）的局勢確立 — 中俄結盟更深但中方掌握話語權，能源地緣的「東向 pivot」短期會放慢、長期不可逆。",
+    "public_impact": "Putin-Xi 5/20 北京峰會未簽下 Power of Siberia 2（pricing / financing 卡關）、但簽 21 份協議深化中俄結盟、聯合譴責 Trump Golden Dome。中俄貿易 $240bn 全用本幣、中國 Q1 進口俄油 +35%。EU 能源安全中期壓力延續，Q3-Q4 LNG 仍依賴美卡高價，能源密集品類 EU5 家庭電費 Q4 可能再 +5-10%。美中貿易短期框架穩定，Temu / Shein / 中國賣家對歐擴張環境 Q3 平穩。de-dollarization 邊際效應推升 EUR/USD Q4 重回 1.18+ 機率。",
+    "public_action": "① 中國跨境賣家 Q3 對歐擴張環境穩定，可加大 EU 站投入；② 高端 EU 本土品牌賣家把握 EU 能源安全推動本土產能政策窗口建立 EU 市佔；③ 能源密集品類 Q4 ASP 不下修，EU 仍依賴美卡高價 LNG 為合理性 anchor；④ 非歐元計價賣家 Q4 起考慮 EUR 計價合約，因 EUR/USD Q4 重回 1.18+ 機率上升；⑤ 關注 6 月底中俄後續部長級會晤的 PoS-2 進展。",
+    "sources": [
+      {
+        "name": "Reuters 5/20",
+        "url": "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19"
+      },
+      {
+        "name": "BBC Live 5/20",
+        "url": "https://www.bbc.com/news/live/c86d7yqyyz6t"
+      },
+      {
+        "name": "UPI 5/20",
+        "url": "https://www.upi.com/amp/Top_News/World-News/2026/05/20/Russia-summit-gas-pipeline-deal-not-finalized/7361779277200"
+      },
+      {
+        "name": "RFE/RL 5/20",
+        "url": "https://www.rferl.org/a/putin-xi-power-of-siberia-iran-war-trump-china-russia/33760781.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-20",
     "type": "daily",
     "tags": [
