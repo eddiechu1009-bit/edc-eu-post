@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-05-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/21 EC】歐元區 2026 GDP 砍至 0.9%（vs 秋季 1.2%）、通膨 3.0%（vs 1.9%）：Spring Forecast 確認「第二次能源衝擊」重塑經濟全貌",
+    "summary": "歐盟執委會 5/21 發布 Spring 2026 Economic Forecast，正式確認中東衝突為「五年內第二次能源衝擊」，全面下修增長、上修通膨：\n        ① 歐元區 GDP（EC 5/21）：2026 年 0.9%（vs 秋季預測 1.2%、下修 -0.3pp）、2027 年 1.2%（vs 1.4%）。EU27 為 1.1%（vs 1.4%）。主因：Hormuz 衝擊推升油氣價格 65%，拖累企業投資與家庭消費。\n        ② 通膨大幅上修（EC 5/21）：歐元區 2026 通膨 3.0%（vs 秋季 1.9%、+1.1pp）、2027 年 2.3%（vs 2.0%）。EU27 為 3.1%（+1.0pp）。能源通膨 Q2 峰值 >11%，全年維持 10%+。\n        ③ adverse scenario（EC 5/21 / Reuters）：若衝突持續、Brent 衝 $180/bbl，增長與就業「roughly halve」、通膨不會在 2027 回落。Dombrovskis 稱此為「worst case but not unlikely」。\n        ④ 消費者信心（EC 5/21）：消費者信心指數跌至 40 個月低點，但消費仍為增長主動力（vs 投資和出口雙弱）。EU 2022 俄烏能源危機後的多元化投資使抗衝擊能力略勝。\n        ⑤ 貿易弱化（EC 5/21）：EU 出口 2026 僅增 0.9%（大幅下修），進口增 1.7%（強歐元 + 弱內需）。貿易 2026 年將「drag 約 -0.4pp」國內增長。\n        結論：EC 把整個 2026 經濟 outlook 從「溫和復甦」改寫為「能源衝擊下的 stagflation 格局」，這份 forecast 將主導 ECB 6/11 升息論述和 EU5 跨境電商 Q3-Q4 forecast。",
+    "public_impact": "歐盟執委會 5/21 Spring Forecast 全面下修歐元區 2026 GDP 至 0.9%（vs 秋季 1.2%），通膨上修至 3.0%（vs 1.9%），確認中東衝突為「五年內第二次能源衝擊」。消費者信心跌至 40 個月低，非必需品需求 Q3-Q4 繼續承壓。能源通膨 Q2 峰值 >11%，EU5 消費者帳單壓力持續升高。EC 同時提出 adverse scenario（Brent $180），若發生增長將「roughly halve」。好消息是 EU 在 2022 後已投資能源多元化，衝擊傳導速度比 2022 慢、賣家有 2-3 個月調整期。",
+    "public_action": "① 用 EC 歐元區 GDP 0.9% 作為 Q3-Q4 銷售 forecast 的 anchor，非必需品類預估 -2 to -4%、必需品持平；② 通膨 3.0% 意味著 6/11 ECB 升息幾乎確定，評估融資成本上升對備貨周轉金的影響；③ 若 Brent 連 2 週 >$120，做好 adverse scenario 準備（庫存收斂、SKU 精簡）；④ 非歐元計價賣家注意歐元走強（EUR/USD 1.17）對毛利的正面影響，可考慮延後結匯；⑤ 5/28 EC Economic Sentiment 指數公布將進一步確認消費方向。",
+    "sources": [
+      {
+        "name": "EC 5/21 官方新聞稿",
+        "url": "https://commission.europa.eu/news-and-media/news/eu-economy-forecast-slow-down-amid-rising-inflation-following-energy-shock-2026-05-21_en"
+      },
+      {
+        "name": "Reuters 5/21",
+        "url": "https://www.reuters.com/business/euro-zone-growth-set-slow-2026-middle-east-conflict-fuels-inflation-says-eu-2026-05-21"
+      },
+      {
+        "name": "EC DG ECFIN",
+        "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/spring-2026-economic-forecast-slowdown-growth-energy-shock-drives-inflation_en"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/21 S&P Global】歐元區 5 月 Flash Composite PMI 47.5（31 個月低）、Services 46.4（63 個月低）：Q2 GDP -0.2% 已成定局",
+    "summary": "S&P Global 5/21 Flash PMI 大幅 miss 共識，服務業崩跌至疫情後最弱、製造業動能也在消退，stagflation 從「風險」升級為「現實」：\n        ① Composite PMI（S&P Global 5/21）：5 月 flash 47.5（vs 4 月 48.8、預期 48.8），31 個月低（Oct 2023 以來最弱）。連 2 個月低於 50 收縮線，且收縮速度加快。\n        ② Services PMI（S&P Global 5/21）：5 月 flash 46.4（vs 4 月 47.6），63 個月低 — 是 Feb 2021 以來最弱。新訂單 Oct 2023 來最快跌速、出口需求惡化、就業轉跌。消費者因能源帳單削減服務支出。\n        ③ Manufacturing PMI（S&P Global 5/21）：5 月 flash 51.4（vs 4 月 52.2、預期 51.7），仍在擴張但動能明顯放緩。Manufacturing Output Index 51.0（4 個月低）。製造業受惠於客戶「怕漲價先囤貨」的 pre-buying 效應，但可持續性存疑。\n        ④ Chris Williamson 評論（S&P Global 5/21）：「Q2 GDP 預估 -0.2%」「job losses are becoming worryingly widespread」「business confidence in any swift turnaround fades further」。\n        ⑤ 國別分化（S&P Global 5/21）：法國為本月最弱（製造 + 服務雙跌）、德國小幅收縮、其餘歐元區整體也在走弱。製造 vs 服務的分化持續（製造靠囤貨撐住、服務直接受消費者荷包衝擊）。\n        結論：PMI 確認 Q2 歐元區將收縮 0.1-0.2%，是 2023 以來首次季度負增長。服務業（佔歐元區 GDP ~70%）崩跌的 signal 比製造業更值得擔心。",
+    "public_impact": "歐元區 5 月 Flash Composite PMI 47.5（31 個月低），Services PMI 46.4（63 個月低），S&P Global 明確預估 Q2 GDP -0.2%——是 2023 以來首次季度收縮。服務業（佔歐元區 GDP ~70%）崩跌反映消費者因能源帳單大幅削減非必需支出。就業開始轉弱、企業對快速復甦信心進一步消退。法國為歐元區本月最弱市場。製造業雖仍擴張（51.4），但主因客戶「怕漲價先囤貨」，非真實需求增長。",
+    "public_action": "① Q2 歐元區 GMV 預期歸零甚至微負，非必需品類賣家考慮 Prime Day 以「清庫存」而非「追加進貨」為主策略；② 法國站為歐元區最弱，法國賣家 Q2 促銷強度建議 +30% 以維持 sell-through；③ 製造業「囤貨效應」Q3 可能反轉，避免在高位追加大量備貨；④ 關注 6/1 歐元區 4 月失業率和 6/3 PMI 終值，若就業數據惡化需提前調整 Q3 計畫；⑤ 服務業支出轉向商品消費的 shift 在必需品類（家用品、食品、DIY）可能帶來正面效益。",
+    "sources": [
+      {
+        "name": "S&P Global 5/21 Flash PMI",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/cfc7983038764cd0bf61ed86b6d27a52"
+      },
+      {
+        "name": "Investing.com 5/21",
+        "url": "https://www.investing.com/economic-calendar/hcob-eurozone-composite-pmi-1491"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/euro-area/composite-pmi"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-22",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【倒數 4 天】Prime Day 6 月 EU：Lightning Deal 截止 5/26、FBA 到貨 5/27 & 6/5，賣家最後提交窗口全面進入倒數",
+    "summary": "Amazon 4/29 官方確認 Prime Day 2026 移至 6 月（11 年來首次從 7 月前移），目前所有 EU 賣家關鍵截止日已全面進入最後倒數：\n        ① 官方確認（aboutamazon.eu 4/29 + Forbes 4/29）：Prime Day 2026 will take place in June，涵蓋 Austria、Belgium、France、Germany、Italy、Ireland、Luxembourg、Netherlands、Poland、Portugal、Spain、Sweden、UK 等 22 國。確切日期預計 5 月底 - 6 月初公布。\n        ② 關鍵截止日（Amazon Seller Central / 10XCREW 5/4）：5/26（週一）Best Deals & Lightning Deal 最後提交日、5/27 AWD + 最少拆分 FBA 到貨日、5/30 Coupon 截止、6/2 deal inventory in transit 最後日、6/5 Amazon-optimized shipment splits 到貨日、6/20 Prime Exclusive Discounts 最後提交。\n        ③ 今年變動（Bloomberg 3/12 + Quivo / SupplyKick 5 月分析）：從傳統 7 月中移到 6 月下旬（推測 6/24-27），壓縮準備期 2-3 週。多數賣家 guide 仍假設 7 月，反應慢者將錯失 deal slot。EU Omnibus Directive 要求折扣須以「前 30 天最低價」為基準，4-5 月定價紀律直接影響 Prime Day 折扣幅度。\n        ④ 2025 參考數據（aboutamazon.eu）：Prime Day 2025 為首次 4 天制（7/8-11），全球 Prime 會員全年節省 $105bn fast/free delivery。2026 若延續 4 天 + 提前到 6 月，GMV 峰值將從 Q3 拉到 Q2 結算。\n        結論：5/26 Lightning Deal 截止 = 本週一是最後動作日。在 PMI 47.5 確認 Q2 消費弱化的背景下，Prime Day 成為 EU 賣家 Q2 唯一的 GMV pulse — 錯過 deal slot 等同放棄 Q2 翻盤機會。",
+    "public_impact": "Amazon Prime Day 2026 確認移至 6 月（11 年來首次），Lightning Deal 最後提交日 5/26、FBA 到貨 5/27 & 6/5。準備期比往年壓縮 2-3 週。EU Omnibus Directive 要求折扣以「前 30 天自己最低價」為基準，4-5 月的定價紀律直接影響 Prime Day 折扣幅度。在歐元區 Q2 PMI 47.5 確認消費弱化下，Prime Day 是 Q2 唯一大型 GMV 脈衝——錯過 deal slot 等同放棄 Q2 翻盤機會。",
+    "public_action": "① 5/26 前完成 Lightning Deal / Best Deal 提交（倒數 4 天）；② 5/26 前避免降價——Omnibus Directive 30 天最低價基準會壓縮 Prime Day 折扣空間；③ FBA 庫存未到的走 6/5 Amazon-optimized splits，注意物流成本差異；④ PMI 確認消費轉向商品（vs 服務），家用品 / 廚房 / DIY / 食品品類 deal 值得加碼；⑤ 5/30 Coupon 截止作為 5/26 未趕上的 backup 方案。",
+    "sources": [
+      {
+        "name": "aboutamazon.eu 4/29",
+        "url": "https://www.aboutamazon.eu/news/retail/amazons-prime-day-event-is-back-this-june"
+      },
+      {
+        "name": "Forbes 4/29",
+        "url": "https://www.forbes.com/sites/forbes-personal-shopper/2026/04/29/amazon-prime-day"
+      },
+      {
+        "name": "10XCREW 5/4",
+        "url": "https://10xcrew.com/amazon-prime-day-2026-seller-prep-and-key-dates"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-22",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【倒數 40 天】7/1 EU 小包 EUR3 關稅 + €150 免稅廢除：Customs Reform 三讀通過、handling fee 11 月跟進、IOSS 最後佈局期",
+    "summary": "EU Customs Reform 3/26 三讀通過、7/1 EUR3 正式生效倒數 40 天。在 EC Spring Forecast 確認經濟弱化的背景下，這是 EU 唯一「增收」而非「減負」的政策：\n        ① 7/1 生效內容（EC / Council 3/26 + BDO 5 月分析）：€150 以下免稅廢除，每件商品（per item line，按 4-digit HS code）徵收 €3 flat duty。B2C 直郵小包全數適用，B2B 另計。\n        ② handling fee 11 月跟進（cmtradelaw.com 12/2025 + Council 3/26）：€2 Union handling fee 預計 11/1/2026 上線（需 Customs Data Hub 配合，可能延後）。法國、荷蘭、比利時、羅馬尼亞已先行推出國家版 handling fee。\n        ③ 平台責任轉移（EC / Customs Support Group 5 月）：e-commerce platforms 被指定為 importer of record，負責完稅 + VAT + 安全合規。消費者不再被「hidden charges」和意外 paperwork 困擾。\n        ④ Customs Data Hub 時程（EC 官網）：2028 年起 Data Hub 先為 e-commerce 啟用、2032 自願加入、2035 review、2038 強制。過渡期用簡化 4-tier duty（vs 現行數千種稅率）。\n        ⑤ IOSS 影響（STAT Trade Times 5/3 + FZCO / BDO）：IOSS 註冊賣家享受簡化申報、non-IOSS 則面臨全額 customs process + 延遲。7/1 前完成 IOSS 是直郵賣家的最低門檻。\n        結論：7/1 EUR3 對 Temu/Shein 直郵模式衝擊最大，但所有非 EU 直郵賣家都受影響。Amazon FBA 因已在 EU 境內清關 + VAT 代繳，影響較小但仍需確認 HS code 精確度。",
+    "public_impact": "7/1 起 EU 廢除 €150 免稅門檻，所有直郵小包每件課 €3 flat duty（按 4-digit HS code 分類）。11 月預計再加 €2 handling fee。直郵模式成本大幅上升：€5-8 均價商品受衝擊 37-60%。IOSS 註冊賣家享受簡化申報，non-IOSS 面臨全額 customs process + 延遲。平台被指定為 importer of record，負責完稅 + VAT。EU 境內倉儲（FBA 模式）不受 EUR3 直接影響，但 FBM 直郵模式需全面重算毛利。",
+    "public_action": "① 所有從非 EU 直郵的 SKU 在 7/1 前評估 €3/item 對毛利影響（倒數 40 天）；② 6/15 前完成 IOSS 註冊確保簡化申報銜接；③ 做 4-digit HS code accuracy check，錯誤分類可能導致海關退回或罰款；④ <€10 商品的直郵模式利潤嚴重壓縮，考慮轉 EU 境內倉儲模式；⑤ 11 月 €2 handling fee 上線後 €5/item total，<€15 直郵幾無利潤——提前規劃物流轉型。",
+    "sources": [
+      {
+        "name": "EC Customs Reform",
+        "url": "https://taxation-customs.ec.europa.eu/customs/eu-customs-reform_en"
+      },
+      {
+        "name": "BDO 5 月分析",
+        "url": "https://www.bdo.de/en-gb/insights/updates/new-customs-regulations-for-small-parcels-from-1-july-2026"
+      },
+      {
+        "name": "STAT Trade Times 5/3",
+        "url": "https://www.stattimes.com/ecommerce/eu-customs-reset-what-the-end-of-de-minimis-means-for-logistics-1358998"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/21 EC 德國篇】GDP 0.7%、失業率升至 4.0%、出口持平：能源通膨 + 製造業結構轉型雙壓下的 EU 最大電商市場前景",
+    "summary": "EC Spring Forecast 德國單國篇確認 EU 最大電商市場 2026 年「弱增長 + 通膨飆升 + 勞動市場轉弱」三重壓力，但財政刺激可能提供 H2 緩衝：\n        ① GDP（EC 5/21 Germany chapter）：2026 年 0.7%（低於歐元區 0.9%）、2027 年 1.2%。Q1 +0.3% 超預期（5/13 Eurostat 確認），但 Q2 預計走弱。公共支出 + 轉移支付是主要增長支撐。\n        ② 勞動市場（EC 5/21）：失業率預估升至 4.0%（2026）、3.9%（2027）。製造業持續裁員被公共服務（教育、醫療）增聘抵消。勞動力因人口老化開始萎縮。實質薪資增長因通膨衝高大幅放緩。\n        ③ 通膨（EC 5/21）：能源價格驅動 2026 通膨急升，但 EC 預期 2027 名目薪資增長將反彈（因 2026 高通膨 feed into 工資協商）。消費者「能源帳單衝擊 + 信心低落」vs「就業仍在 + 財政移轉」的拉鋸。\n        ④ 出口（EC 5/21）：連 3 年出口萎縮後 2026 僅「broadly stagnate」。關稅 + 弱全球需求 + EUR 走強三重壓力。manufacturing 就業已連月下降。\n        ⑤ 住宅建設延後（EC 5/21）：原本預期 H1 2026 啟動的建設回暖延至 H2，因高度不確定性 + 融資收緊 + 能源成本推升建材價格。對家居 / 裝修品類 Amazon.de Q2-Q3 需求不利。\n        結論：德國是「結構性弱化 + 短期能源衝擊」疊加的典型案例。Amazon.de 作為 EU 最大站，Q2-Q3 GMV 走向將在「消費萎縮」和「Prime Day 刺激 + 財政移轉」之間拉鋸。",
+    "public_impact": "EC Spring Forecast 德國篇確認 2026 GDP 0.7%（低於歐元區 0.9%）、失業率升至 4.0%、出口僅持平。消費者在「能源帳單衝擊 + 信心低落」vs「就業尚在 + 財政移轉」間拉鋸。實質薪資增長因通膨大幅放緩、price sensitivity 上升。住宅建設原定 H1 回暖延至 H2（融資收緊 + 建材成本推升）。製造業持續裁員但公共服務增聘部分抵消。Amazon.de 非 Prime Day 期間 organic growth 幾乎歸零。",
+    "public_action": "① Amazon.de Q2-Q3 non-Prime Day 週預期 organic 成長歸零，Prime Day 是唯一 spike，deal 提交不可錯過；② 中高價位品類（€50+）Prime Day 折扣幅度需加大到 -15 to -25%（消費者 price sensitivity 上升）；③ 家居 / 裝修品類 Q2 sell-through 低於預期時不急清倉，H2 住宅建設回暖將帶動需求；④ <€30 低價必需品 SKU mix 值得加碼，消費者下移趨勢確認；⑤ 5/28 Ifo Business Climate + GfK 同日公布，為 6 月策略方向定調。",
+    "sources": [
+      {
+        "name": "EC 5/21 Germany Forecast",
+        "url": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/germany/economic-forecast-germany_en"
+      },
+      {
+        "name": "EC Spring 2026 Full Document",
+        "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/spring-2026-economic-forecast-slowdown-growth-energy-shock-drives-inflation_en"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-21",
     "type": "daily",
     "tags": [
