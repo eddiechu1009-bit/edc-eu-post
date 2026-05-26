@@ -7,7 +7,7 @@ build.py — 從 eu-intel/ 目錄的 HTML 日報/週報自動解析新聞，
   python3 eu-intel-site/build.py
 
 流程：
-  1. 掃描 eu-intel/daily-report-*.html 和 weekly-report-*.html
+  1. 掃描 eu-intel/daily/daily-report-*.html 和 weekly/weekly-report-*.html
   2. 用 BeautifulSoup 解析每則新聞的標題、標籤、摘要、影響、行動、來源
   3. 輸出 eu-intel-site/articles.js（JSON 陣列）
   4. 同時更新 index.html 中的 articles 資料區塊（可選）
@@ -322,7 +322,7 @@ def main():
     all_articles = []
 
     # 解析日報（週報內容與日報重複，不另外解析）
-    daily_files = sorted(glob.glob(os.path.join(eu_intel_dir, 'daily-report-*.html')), reverse=True)
+    daily_files = sorted(glob.glob(os.path.join(eu_intel_dir, 'daily', 'daily-report-*.html')), reverse=True)
     for f in daily_files:
         print(f"  📰 解析日報: {os.path.basename(f)}")
         all_articles.extend(parse_daily_report(f))
