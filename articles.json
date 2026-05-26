@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-05-26",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/24-25】Brent 單日 -6% 跌破 $100 至 $97.44：US-Iran 14 點框架突破後美軍空襲反彈 $98.39，油價雲霄飛車週末",
+    "summary": "US-Iran 三個月戰爭迎來首個具體和平框架，油價週末經歷三年來最劇烈單日跌幅後又被軍事行動拉回：\n        ① 14 點框架浮現（OilPrice 5/24-25）：雙方達成 14 點框架，核心包含重開 Hormuz 海峽（不收通行費）、60 天停火延長、伊朗交出高濃縮鈾、美方解凍 $200-250 億伊朗資產。伊朗外交部 Baghaei 表示「立場趨近但簽署未定」。\n        ② Brent 跌破 $100（OilPrice 5/25）：週一亞盤 Brent -5.9% 至 $97.44/bbl（三週來首破百）、WTI 至 $90.99。Trump 稱「不急於簽約」、Rubio 放話「談不攏就用另一種方式處理伊朗」。\n        ③ 美軍空襲逆轉（OilPrice 5/25 夜間）：美軍 CENTCOM 打擊伊朗南部 Bandar Abbas 附近飛彈基地和佈雷船艦，稱「保護美軍」。Brent 反彈至 $98.39（+2.34%），WTI $91.79。\n        結論：和談框架存在但核議題（核武、海峽管轄權）未解，短期油價在 $95-100 區間高波動，中期若簽約成功 Brent 可能回落至 $85-90。",
+    "public_impact": "US-Iran 14 點和平框架浮現推動 Brent 原油單日暴跌 6% 跌破 $100/bbl（三週來首次），但美軍隨即空襲伊朗南部又拉回 $98.39。短期油價在 $95-100 高波動區間震盪。若框架最終簽署、Hormuz 海峽重開，海運保險費和物流附加費有望回落，FBA 海運 lead time 可回歸正常。但核議題未解，賣家 Q3 物流成本預測需維持雙情境假設。歐洲消費者通膨預期若因油價回落而緩解，6 月零售信心和客單價都有 upside 空間。",
+    "public_action": "① 持續追蹤 US-Iran 談判進展，若 60 天停火正式宣布可評估下修 Q3 物流成本預測 5-8%；② Q3 定價預案建議維持雙情境（base Brent $95-105 / adverse $110-120），等 6 月中 HICP 數據再定方向；③ 能源密集品類若 Brent 連續 5 個交易日維持低於 $100 可考慮鎖定 Q3 運價合約；④ 油價回落若推動消費信心改善，6 月大促期間高客單價品類可維持原定價不需加碼折扣。",
+    "sources": [
+      {
+        "name": "OilPrice - Oil Falls 6%",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-6-as-US-Iran-Peace-Talks-Gain-Ground.html"
+      },
+      {
+        "name": "OilPrice - Plunge Below $100",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-100-on-Iran-Deal-Optimism.html"
+      },
+      {
+        "name": "OilPrice - US Strikes",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-US-Strikes-Iranian-Missile-Sites.html"
+      },
+      {
+        "name": "Trading Economics - Brent",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-26",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/25】EU 天然氣 TTF -5% 跌至 EUR 45.4/MWh（兩週低），但庫存僅 35% 遠低於 50% 季節常態 — 冬季供應風險浮現",
+    "summary": "歐洲天然氣價格因 US-Iran 和談樂觀情緒大跌，但庫存水位暴露冬季危機隱患：\n        ① TTF 價格暴跌（OilPrice / Trading Economics 5/25）：EU 天然氣期貨 TTF 跌逾 5% 至 EUR 45.4/MWh（兩週低點），受 Hormuz 重開預期帶動。5/26 小幅反彈至 EUR 46.2（+1.71%）。年增仍達 +24.8%。\n        ② 庫存嚴重不足（OilPrice 5/25）：歐洲天然氣儲氣設施目前僅約 35% 滿載，遠低於同期季節常態 50%。挪威 Equinor 警告：若 Hormuz 封鎖再持續 1-3 個月，歐洲將無法在入冬前達到安全庫存水位。\n        ③ 結構性困境（OilPrice 5/25）：目前冬季期貨合約價格低於夏季（backwardation），反而降低業者注氣入庫意願。即便 Hormuz 短期重開，LNG 供應回復到正常水平仍需 30-60 天。\n        結論：短線 TTF 因和談跌 5%，但 EU 天然氣庫存結構性風險未解，Q3-Q4 能源成本仍是 EU 消費力最大壓力來源。",
+    "public_impact": "歐洲天然氣 TTF 因 US-Iran 和談樂觀情緒單日暴跌 5% 至 EUR 45.4/MWh，但庫存僅約 35%（遠低於 50% 季節常態）。若 Hormuz 封鎖持續 1-3 個月，歐洲入冬前恐無法達到安全庫存水位，Q3-Q4 能源帳單將持續壓抑歐洲消費力。天然氣年增 +24.8% 直接削弱家庭可支配所得，對跨境電商賣家而言，Q4 高客單價品類轉化率可能面臨壓力，但節能家電、保暖用品等品類有望受益。",
+    "public_action": "① 關注 EU 天然氣庫存週報（GIE AGSI+ 每週四更新），若 6 月底庫存仍低於 40% 代表 Q4 消費力 downside 風險升高；② 節能/保暖相關品類賣家建議 6 月中前完成 FBA Q3 備貨，搶佔 9-10 月搜尋量攀升期；③ Q4 大促選品向必需品和低單價日用品傾斜，高客單價品類可能需要更大折扣力道；④ 追蹤 Hormuz 海峽重開進展，若 LNG 供應正常化確認，能源成本壓力可望在 Q4 緩解。",
+    "sources": [
+      {
+        "name": "OilPrice - EU Gas -5%",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Prices-Drop-5-On-Renewed-US-Iran-Talks-Optimism.html"
+      },
+      {
+        "name": "Trading Economics - EU Natural Gas",
+        "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-26",
+    "type": "daily",
+    "tags": [
+      "物流",
+      "貿易"
+    ],
+    "title": "【5/25】Hormuz 封鎖第 13 週觸發全球肥料供應衝擊：硫磺/磷酸鹽斷供推高食品與化工品類成本",
+    "summary": "Hormuz 海峽封鎖已從原油/LNG 危機擴散到農業與化工供應鏈，形成跨品類成本壓力：\n        ① 肥料供應鏈斷裂（OilPrice / FT 引述 5/25）：Hormuz 封鎖第 13 週，沙特 SABIC / Ma'aden 嘗試從紅海港口替代出口但產出仍大幅下降，其他中東生產商硫磺和磷酸鹽完全無法出貨。全球最大磷酸鹽出口商 OCP Group CEO Faris Derrij 對 FT 表示：「這已從原料問題演變為肥料供應衝擊。」\n        ② 連鎖效應（OilPrice 5/25）：受影響品項不只肥料 — 石腦油（塑膠原料）、氦氣（半導體用）、LPG 均因 Hormuz 被堵而全球短缺。肥料漲價 → 糧食生產成本上升 → 食品通膨再推高。\n        ③ 歐洲工業影響（OilPrice 5/25 相關報導）：EU 已警告能源價格將「維持高檔至 2027」，UK 能源帳單因中東危機面臨再度飆升。歐洲化工業依賴中東石腦油 feedstock，Q3-Q4 塑膠/化學品原料成本持續上揚。\n        結論：Hormuz 危機不再只是油價問題 — 肥料、塑膠、化工品全面受波及，EU 跨境賣家面臨多品類成本結構性上移。",
+    "public_impact": "Hormuz 海峽封鎖已進入第 13 週，從油價問題擴散至肥料、塑膠原料（石腦油）和化工品供應鏈。全球最大磷酸鹽出口商 OCP 已確認「從原料問題演變為肥料供應衝擊」。對跨境賣家而言，影響涵蓋多品類：食品/保健品因農產品成本上升面臨毛利壓力；所有使用塑膠包裝的品類（美妝、清潔、食品容器）包材成本預估 Q3 上升 5-10%；化工/日用品類 COGS 結構性上移。同時也帶來機會：亞洲非 Hormuz 路線供應商可搶佔歐洲市場供應缺口。",
+    "public_action": "① 化工/日用品類賣家評估 Q3 成本上修 5-10%，提前與供應商確認報價是否已含原料漲幅；② 食品/保健品類持續監控 EU 食品通膨數據，若連續加速上升需調整定價；③ 包材成本方面可評估 refill 或環保包裝替代方案（同時符合 PPWR 法規方向），降低塑膠依賴；④ 非 Hormuz 路線供應商（東南亞、印度）有機會切入歐洲供應缺口，可作為替代供應鏈布局方向。",
+    "sources": [
+      {
+        "name": "OilPrice - Fertilizer Supply Shock",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Crisis-Triggers-Global-Fertilizer-Supply-Shock.html"
+      },
+      {
+        "name": "OilPrice - EU Gas/Energy",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Prices-Drop-5-On-Renewed-US-Iran-Talks-Optimism.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-26",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/22 GfK】德國消費者信心 6 月 -29.8（vs forecast -34）意外反彈：所得預期 +11.4pt 跳升、儲蓄傾向連 3 月降",
+    "summary": "GfK/NielsenIQ 5/22 發布德國 6 月消費者信心，大幅優於市場悲觀預期，但仍處歷史深度負值區間：\n        ① 整體指數（GfK 5/22）：-29.8（vs 5 月 -33.1、市場預期 -34），回升 3.3pt。市場原預期因中東衝突 + ECB 升息預期惡化而繼續下探。\n        ② 所得預期領頭（GfK 5/22）：+11.4pt 跳升至 -13.0，為分項中最強反彈。驅動力：中東衝突「暫未進一步升級」+ 政府救濟措施預期（德國柴油/汽油能源稅減免）。\n        ③ 經濟預期微升（GfK 5/22）：-11.2（vs -13.7），多數消費者仍預期未來一年經濟走弱。\n        ④ 消費意願仍低（GfK 5/22）：-13.2（vs -14.4），大額消費謹慎。儲蓄傾向連 3 月下降至 13.9（vs 16.1），價格預期驟降至 -0.4（vs 5.8），部分反映能源稅減免效果。\n        結論：德國消費者信心「止血不等於康復」— 從 -33 反彈到 -29.8 仍遠低於長期均值 -0.03，但所得預期跳升暗示 Q2 德國零售有邊際改善空間。",
+    "public_impact": "GfK 德國消費者信心 6 月讀數 -29.8，大幅優於市場預期的 -34（前月 -33.1），所得預期分項跳升 11.4 點。雖仍處歷史深度負值區間（長期均值 -0.03），但止跌反彈代表消費者信心最惡時期可能已過。對 Amazon.de 賣家而言，Prime Day 6 月檔期的轉化環境比 4 月樂觀，中價位品類（EUR 30-80）消費意願有邊際改善。價格預期驟降至 -0.4 暗示消費者對漲價的抗拒微降，賣家定價彈性略有增加。",
+    "public_action": "① Amazon.de 6 月大促期間中價位品類促銷力道可維持原計畫，不需額外加碼折扣；② 可嘗試在非促銷品項小幅調漲 3-5% 觀察轉化率變化；③ 追蹤 6/24 GfK 7 月讀數和 5/29 德國 5 月 CPI 初值，若雙雙不惡化代表 Q3 消費環境趨穩；④ 德國市場止穩訊號明確，觀望中的賣家可在 6 月完成 FBA 備貨入倉搶佔下半年商機。",
+    "sources": [
+      {
+        "name": "Trading Economics - Germany Consumer Confidence",
+        "url": "https://tradingeconomics.com/germany/consumer-confidence"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-26",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/26 CBI】UK 零售 5 月 -68 維持 1983 年來歷史最低：連 5 月惡化、消費斷崖見底未回升",
+    "summary": "英國 CBI 零售調查 5 月持平於 4 月的歷史谷底 -68，確認消費力崩潰已穩定在極端低位而非觸底反彈：\n        ① 5 月數據（CBI 5/26）：Distributive Trades reported sales -68 net balance（市場預期 -60、前月 -68）。不僅未如市場期待回升，反而 miss consensus 8pt。自 1983 年 CBI 開始編制以來最低紀錄連續第二個月。\n        ② 崩潰軌跡（CBI）：1 月 -17 → 2 月 -43 → 3 月 -52 → 4 月 -68 → 5 月 -68，五個月內從「略低於零」急墜至「歷史極值」。4 月報告已指出伊朗戰爭加劇家庭通膨憂慮。\n        ③ 驅動因素（CBI / Trading Economics）：中東衝突推高能源和食品帳單、UK CPI 2.8%（4 月）持續高於目標、BoE 暫緩降息（利率維持 4.75%），三重壓力同時擠壓消費者支出。\n        結論：UK 零售在 -68 底部已「穩定」但未反彈，Amazon.co.uk Q2-Q3 GMV 面臨結構性逆風。",
+    "public_impact": "UK CBI 零售調查 5 月報告 -68 net balance，連續第二個月維持 1983 年以來最低水位，未如市場期待的 -60 回升。從 1 月 -17 到 5 月 -68 的五個月崩潰軌跡顯示 UK 消費力正處於歷史極值低谷。中東衝突推高能源/食品成本、CPI 維持 2.8%、利率 4.75% 未降，三重壓力持續擠壓消費支出。對 Amazon.co.uk 賣家而言，Q2-Q3 面臨結構性逆風，非必需品類（家電、家具、時尚）銷售壓力最大。",
+    "public_action": "① Amazon.co.uk 大促期間高客單價品類折扣力道需比歐洲大陸更激進（建議 25%+）才能驅動轉化；② UK 市場 Q3 品類策略向必需品、低客單價（低於 GBP 25）和大包裝/量販品類傾斜；③ 持續監控 6/17 UK CPI、6/18 GfK 消費者信心、6/19 ONS 零售銷售三組數據，評估 Q3 趨勢；④ 非必需品類 UK 站點廣告投放需嚴控 ACOS/ROI，避免在低轉化環境下過度支出。",
+    "sources": [
+      {
+        "name": "Trading Economics - CBI Distributive Trades",
+        "url": "https://tradingeconomics.com/united-kingdom/cbi-distributive-trades"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-22",
     "type": "daily",
     "tags": [
