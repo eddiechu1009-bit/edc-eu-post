@@ -1,5 +1,110 @@
 [
   {
+    "date": "2026-05-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/26 INE】西班牙 4 月 PPI +8.3% YoY（Dec 2022 來新高）：能源 +22.3% 帶動全品類成本傳導，ECB 升息論述再添彈藥",
+    "summary": "西班牙生產者物價指數暴漲至三年半高點，能源成本已全面向下游傳導：\n        ① 能源主導暴漲（INE 5/26）：西班牙 4 月 PPI YoY 從 3 月的 3.1% 跳升至 8.3%（市場預期 3.8%），為 2022 年 12 月以來最高。能源類 +22.3%（vs 3 月 +7.1%），反映「石油精煉價格上升」。\n        ② 全面傳導已啟動（INE 5/26）：扣除能源後 PPI 仍達 +2.6%（vs 3 月 +1.2%），中間財 +3.8%、耐久財 +2.9%、非耐久消費財 +1.5%，顯示成本壓力已從能源擴散到製造業全鏈。\n        ③ MoM 動能（INE 5/26）：月增 +1.7%（vs 3 月修正後 +6.2%），減速主因石油精煉月增從 46.3% 降至 10.3%、電力從 +13.1% 轉為 -3.1%。但年增率結構性上移已成事實。\n        結論：PPI 是 CPI 的領先指標，西班牙 4 月 CPI 已達 3.2%、HICP 3.5%，PPI-CPI gap 擴大到 5.1ppt 意味後續要不企業壓毛利、要不消費者承接漲價。ECB 6/11 升息機率維持高檔。",
+    "public_impact": "西班牙 4 月 PPI 暴漲至 +8.3% YoY（2022 年 12 月來新高），能源類漲幅達 22.3%，且已全面向中間財（+3.8%）、消費財（+1.5-2.9%）傳導。扣除能源後 PPI 仍達 +2.6%（倍增於 3 月 1.2%），代表成本壓力不只是能源 — 已進入全面供應鏈傳導階段。對出口至西班牙的跨境賣家而言，Q3 進貨報價預期上調，西班牙消費者在 CPI 後續上行壓力下可支配所得將受壓，高單價非必需品轉化率可能下降。ECB 6/11 升息幾乎確定，歐元維持強勢利好非 EU 賣家換匯，但壓縮歐洲整體消費力。",
+    "public_action": "① 從西班牙本地採購的賣家本週評估 Q3 供應商報價是否已反映 PPI 上漲，建議提前鎖定或尋找替代供應鏈；② 關注 6/13 西班牙 5 月 CPI flash，若 CPI 從 3.2% 跳升至 3.5% 以上代表 PPI 傳導加速；③ 6 月大促期間西班牙站零售動能仍強（3 月 YoY +4.1%），可維持攻勢，但 Q4 促銷預案需預留成本上漲空間；④ 能源密集品類可利用公開 PPI 數據建立漲價 narrative，降低消費者對調價的抗拒。",
+    "sources": [
+      {
+        "name": "Trading Economics - Spain PPI",
+        "url": "https://tradingeconomics.com/spain/producer-prices-change"
+      },
+      {
+        "name": "Trading Economics - Spain Producer Prices Index",
+        "url": "https://tradingeconomics.com/spain/producer-prices"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/26 CBI】UK 零售 5 月反彈 22 點至 -46（vs 4 月 -68 歷史低），優於預期 -60：零售價格通膨降至 15 個月低",
+    "summary": "UK 零售業從 1983 年以來最深谷底首度反彈，但仍遠低於長期均值 +14：\n        ① 改善幅度（CBI 5/26）：5 月 CBI Distributive Trades 指數從 4 月的 -68（歷史最低）回升至 -46，優於市場預期的 -60，為 6 個月來首次改善。零售商預期 6 月進一步回升至 -36。\n        ② 零售價格通膨減速（CBI 5/26）：零售售價 balance 從 41 降至 28，為 2025 年 2 月以來最低。CBI 經濟學家 Charlotte Dendy 指出「價格增速放緩反映消費需求疲弱」而非供應端成本改善。\n        ③ 結構性困境未解（CBI 5/26）：就業持續減少（雖速度放緩）、資本支出預期降至 2025 年 2 月以來最弱、銷售量仍低於季節常態。CBI 呼籲商業稅改革、降低能源成本、減輕法規負擔三大政策介入。\n        結論：最壞點可能已過（從 -68 回到 -46），但回到中性 +14 需要 12-18 個月，Amazon.co.uk 短期消費力仍弱但惡化速度趨緩。",
+    "public_impact": "UK CBI 零售指數 5 月從歷史最低 -68 反彈至 -46，優於市場預期的 -60，為 6 個月來首次改善。零售售價通膨同步從 41 降至 28（15 個月低），但 CBI 指出這是「消費需求疲弱」所致而非成本改善。就業持續減少、資本支出預期降至 15 個月新低。對 UK 站跨境賣家而言，最壞點可能已過，但回到正常水位仍需 12-18 個月。短期消費力仍弱，但惡化速度趨緩代表 Q2-Q3 不需過度悲觀。實體零售投資縮減也意味線上轉移趨勢持續，電商市佔有結構性支撐。",
+    "public_action": "① UK 站 Q2 銷售預期可從極悲觀微調至「深度疲弱但改善中」，6 月大促可維持原定促銷力道不需加碼折扣；② 低單價日用品和必需品仍是 UK 站當前最強品類，高客單價品類等 Q3 確認復甦再投入；③ 關注 6/23 CBI 6 月數據，若繼續回升至 -36 附近確認底部已過；④ 零售價格通膨減速代表消費者對漲價更敏感，賣家定價需保持競爭力、避免逆勢調漲。",
+    "sources": [
+      {
+        "name": "Trading Economics - UK CBI Distributive Trades",
+        "url": "https://tradingeconomics.com/united-kingdom/cbi-distributive-trades"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-27",
+    "type": "daily",
+    "tags": [
+      "總經",
+      "物流"
+    ],
+    "title": "【5/26】QatarEnergy LNG force majeure 延至 8 月中：Edison 損失 17 船貨（2.2 bcm），EU 冬季補庫時間窗口收窄",
+    "summary": "全球最大 LNG 出口商之一延長不可抗力，歐洲冬季天然氣供應風險進一步升高：\n        ① Force majeure 延期（Reuters/OilPrice 5/26）：QatarEnergy 將 LNG force majeure 從原定 7 月初延至 8 月中。起因為 3 月初伊朗打擊 Ras Laffan 和 Mesaieed 工業城設施後產能停擺，影響 LNG、尿素、聚合物、甲醇和鋁產出。\n        ② Edison 損失規模（Reuters 引述 5/26）：義大利 Edison 確認已損失 17 船 LNG 貨物，相當於 2.2 bcm 天然氣（其年度合約為 6.4 bcm）。受影響買家已轉向美國 LNG 替代：3 月美國 LNG 出口創紀錄 1,170 萬噸，近三分之二流向歐洲。\n        ③ EU 補庫危機（OilPrice 5/26）：EU 儲氣設施目前僅 35% 滿載（EU 法規目標為 10 月前達 80-90%）。force majeure 延至 8 月意味 5-8 月注氣高峰期少了卡達供應，缺口需由美國 LNG + 挪威管道氣彌補。\n        結論：卡達 LNG 停供延長直接壓縮 EU 冬季補庫時間窗口，若 8 月後仍無法復產，Q4 歐洲天然氣價格可能從目前 EUR 46 重新衝高至 60-70 區間。",
+    "public_impact": "QatarEnergy 將 LNG 不可抗力延至 8 月中旬，義大利 Edison 已損失 17 船 LNG 貨物（2.2 bcm）。歐洲天然氣儲氣目前僅 35%（法規目標 10 月前 80-90%），補庫時間窗口因卡達停供延長而進一步收窄。若 8 月後仍無法復產，Q4 歐洲天然氣價格可能從 EUR 46 重新衝至 60-70 區間，直接推高冬季能源帳單和家庭可支配所得壓力。對跨境賣家而言，Q4 歐洲消費力可能出現 downside，尤其義大利和西班牙市場受影響較大。節能和保暖相關品類反而有望受益。",
+    "public_action": "① 追蹤 QatarEnergy 8 月中 force majeure 到期後動態，若再延長代表 Q4 歐洲能源危機確認；② 義大利/西班牙站 Q4 銷售預期建議加入悲觀情境（天然氣 EUR 65+），高客單價品類折扣力道需加大；③ 節能家電、保暖用品賣家 Q3 提前備貨，搶佔 9-10 月搜尋量攀升期；④ 每週追蹤 GIE AGSI+ 歐洲儲氣進度報告，6 月底若低於 40% 代表冬季供應風險偏高。",
+    "sources": [
+      {
+        "name": "OilPrice - QatarEnergy Force Majeure",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/QatarEnergy-Extends-LNG-Force-Majeure-Into-August.html"
+      },
+      {
+        "name": "Trading Economics - EU Natural Gas",
+        "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-27",
+    "type": "daily",
+    "tags": [
+      "總經",
+      "貿易"
+    ],
+    "title": "【5/26 UKSIF】Hormuz 危機推動 $7.4T 機構資金湧入再生能源：87% 看多 renewables，EU 加速風光電部署",
+    "summary": "Hormuz 危機從「短期能源供應中斷」演化為「全球能源轉型加速器」，機構資金大規模重新配置：\n        ① 機構調查（UKSIF/OilPrice 5/26）：英國永續投資與金融協會（UKSIF）調查管理約 $7.4T（5.5 兆英鎊）資產的投資機構，87% 預期全球及 UK 再生能源投資將因戰爭增加，78% 認為再生能源投資風險「相對油氣已降低」。\n        ② 歐洲加速部署（OilPrice 5/26）：歐洲正加速風電、太陽能、電池儲能建設計畫，作為對抗化石燃料地緣風險的避險策略。新加坡氣候大使 Ravi Menon 向 Bloomberg 表示：「聰明資金應該現在就投入。」\n        ③ EU 政策連動（OilPrice 5/26 相關）：EU 官員警告能源價格將「維持高檔至 2027」，歐洲風電龍頭 Nordex 正遊說 EU 禁止中國風機進入歐洲電網，能源自主政策加速成形。\n        結論：能源轉型從「氣候政策」升級為「國安政策」，EU 再生能源 CAPEX 未來 2-3 年大幅增加，對跨境電商意味能源成本中長期可望下降，但短期 CAPEX 擠佔其他消費支出。",
+    "public_impact": "UKSIF 調查管理 $7.4T 資產的機構投資人，87% 因 Hormuz 危機看多再生能源投資，78% 認為再生能源風險已低於傳統油氣。歐洲正加速風電、太陽能和電池儲能部署，能源轉型從氣候政策升級為國安政策。對跨境賣家短期意味能源高成本延續，但中長期（2027-2028）大規模再生能源上線後電價有望下行。品類機會方面，家用太陽能板、壁掛電池、EV 充電器、節能改裝產品搜尋量預期 Q3-Q4 加速攀升。EU 若推進禁止中國風機進入歐洲電網，相關零組件貿易可能受影響。",
+    "public_action": "① 綠能/節能品類賣家把握趨勢，Q3 加速備貨家用儲能、太陽能板、EV 充電器等品類；② 關注 EU 對中國風機/太陽能設備禁令立法進度（預計 Q4 歐洲議會表決），若禁令擴大可能影響逆變器/電池供應鏈；③ Q4 大促可用「能源獨立」「節能省錢」作為行銷主題，消費者對能源成本敏感度持續升高；④ 年營收超過 EUR 50M 的賣家開始準備 2027 年 CSRD/ESG 碳足跡揭露要求。",
+    "sources": [
+      {
+        "name": "OilPrice - Capital Flooding Into Renewables",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shutdown-Sends-Capital-Flooding-Back-Into-Renewables.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-27",
+    "type": "daily",
+    "tags": [
+      "總經",
+      "物流"
+    ],
+    "title": "【5/26】烏克蘭調降儲氣費 11% 搶冬季庫存，但 EU 儲氣僅 35% + TTF backwardation 抑制注氣意願",
+    "summary": "歐洲最大地下儲氣設施降價搶客，但市場結構反而不利注氣，冬季供應風險持續堆疊：\n        ① 烏克蘭降費措施（OilPrice 5/26）：烏克蘭能源監管機構調降天然氣儲存費 11%，長期（一年以上）租約另有額外折扣。目標為冬季前儲存至少 14.6 bcm（佔總容量 30+ bcm 的 34%）。2023 年外國企業在烏儲約 3 bcm，但俄羅斯攻擊基礎設施後外資信心下降。\n        ② EU 儲氣困境（OilPrice 5/26）：歐洲儲氣設施目前剛超過 35%，遠低於歷史同期 50% 和 EU 法規 80-90% 目標。Equinor 高管警告：若 Hormuz 再封鎖 1-3 個月將觸發「LNG 嚴重短缺」。\n        ③ TTF backwardation 問題（OilPrice 5/26）：目前夏季 TTF 合約高於冬季合約 EUR 0.5-1.3/MWh（backwardation），意味業者「夏天買氣冬天賣」無利可圖，破壞傳統注氣商業模式。正向曲線反映市場預期新 LNG 供應上線將壓低年末價格。\n        結論：政策端（降費）與市場端（backwardation）互相矛盾，EU 冬季補庫進度堪憂。若 8-9 月仍未達 60%+，Q4 能源危機幾乎確定。",
+    "public_impact": "烏克蘭調降儲氣費 11% 鼓勵冬季庫存注入，但歐洲儲氣設施目前僅 35%（EU 法規目標 10 月前 80-90%）。更複雜的是 TTF 期貨呈 backwardation（夏季 > 冬季），破壞業者注氣的商業動機。若 8-9 月儲氣未能跟上進度，Q4 天然氣價格可能從 EUR 46 重新攀升至 60-70 區間，直接影響歐洲消費力。義大利因高度依賴 LNG 進口受影響最大，德國和法國相對有能源多元化緩衝。跨境賣家 Q4 銷售預期需建立雙情境假設。",
+    "public_action": "① 每週追蹤 GIE AGSI+ 歐洲儲氣進度報告（每週四更新），6 月底 40%、7 月底 55%、8 月底 70% 為正常軌道基準線；② Q4 銷售預期建立三情境：樂觀（儲氣達標 80%+ / 天然氣 EUR 45-50）、中性（65-80% / EUR 55-65）、悲觀（低於 65% / EUR 65-75）；③ 義大利站 Q4 消費力壓力最大，品類配置可預先向必需品和低單價傾斜；④ 節能保暖品類在所有情境下都有 upside，Q3 提前備貨是低風險策略。",
+    "sources": [
+      {
+        "name": "OilPrice - Ukraine Gas Storage",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Cuts-Gas-Storage-Rates-To-Encourage-Domestic-Buildup-Ahead-Of-Winter.html"
+      },
+      {
+        "name": "Trading Economics - EU Natural Gas",
+        "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-26",
     "type": "daily",
     "tags": [
