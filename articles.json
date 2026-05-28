@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-05-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/27】Brent -3.6% 跌至 $95.98：WaPo 報導 US-Iran 60 天備忘錄含 Hormuz 掃雷重啟計畫",
+    "summary": "Hormuz 危機自 2/28 以來首次出現具體重啟路線圖，油價跌至 2.5 週低：\n        ① 備忘錄內容（Washington Post 5/27 + CNN 5/24）：美伊同意延長停火 60 天，期間 Hormuz 海峽將進行掃雷並逐步重啟商業航運，Iran 承諾在 30 天內恢復至戰前水準的航運量。美方條件為凍結資產僅在海峽實際重啟後解凍。\n        ② 油價反應（Trading Economics + Barchart 5/27）：Brent 收 $95.98（-3.62%），WTI Jul CLN26 收 $90.64（-3.46%），RBOB 汽油 -6.10%，均為 2.5 週低。CME Brent front month 盤中一度觸及 $94.87。\n        ③ 不確定性（Al Jazeera + CNBC 5/27）：美軍同日仍在海峽附近執行「自衛」空襲，打擊伊朗佈雷船。Rubio 稱談判「仍需數天」。Piper Sandler 逆向觀點認為 Hormuz 可能再關閉數月、油價將再創新高。\n        結論：若備忘錄正式簽署，Q3 Brent base case 可從 $100-110 下修至 $85-95 區間，但 execution risk 極高——伊朗 IRGC 仍未正式表態配合掃雷。",
+    "public_impact": "Brent 原油 5/27 大跌 3.6% 至 $95.98，主因美伊協議進展傳出 Hormuz 海峽將在 60 天內掃雷重啟。若協議落實，亞洲到歐洲海運成本 Q3 有望回落 15-20%，能源通膨壓力減輕將改善歐洲消費者購買力。但短期 execution risk 極高（伊朗軍方尚未正式配合），賣家不宜過早調降售價或取消已鎖定的物流艙位。建議在 Q3 物流成本模型中加入「Hormuz 重啟」情境試算，同時保持靈活性。",
+    "public_action": "① Q3 物流預算加入海運費下降 15-20% 的情境試算，但不取消已鎖定艙位；② 若 Brent 連續 5 日收在 $95 以下，可開始評估 Q3 能源密集品類的促銷空間；③ 持續監控 5/28-30 Doha 談判、6/2 歐元區通膨數據、6/5 OPEC+ 會議結果；④ 不建議現在就調降 EU 售價——協議破裂的風險仍在。",
+    "sources": [
+      {
+        "name": "CNBC 5/27",
+        "url": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "Barchart",
+        "url": "https://www.barchart.com/futures/quotes/CBK26"
+      },
+      {
+        "name": "CNN 5/24",
+        "url": "https://www.cnn.com/2026/05/24/middleeast/iran-us-proposed-deal-wwk-intl"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/21-26】法國 5 月 Composite PMI 43.5（66 個月低）+ INSEE 服務業景氣 93：EU 第二大經濟體衰退風險急升",
+    "summary": "法國私部門活動以 COVID 外最快速度萎縮，Q2 GDP 負增長幾成定局：\n        ① PMI 全面崩跌（S&P Global Flash 5/21）：Composite 43.5（vs 4 月 47.6，預期 47.7）、Services 42.9（vs 46.5）、Manufacturing 48.9（vs 52.8）。三項均為 66 個月低，服務業收縮速度為 Nov 2020 來最快。\n        ② INSEE 確認（5/26）：法國服務業景氣指標 5 月降至 93（-1pt），為 March 2015 以來最低（排除疫情）。住宿餐飲業指標崩塌，零售業持續惡化。\n        ③ 通膨壓力同步升溫：投入成本增速為 March 2023 來最快（自 2 月以來指數累升超 13 點），燃油與金屬為主要推手。新訂單以 2020 底以來最快速度下滑，就業以去年 2 月以來最大幅度裁減。\n        結論：S&P Global 分析師明確警告「法國衰退風險 materially 上升」，法國為歐元區第二大經濟體、Amazon.fr 為 EU5 站點之一，Q2 GMV 下行壓力確認。",
+    "public_impact": "法國 5 月 PMI 全面崩跌至 66 個月低點（Composite 43.5、Services 42.9），INSEE 服務業景氣指標也降至 2015 年以來最低。這意味著法國消費環境在 Q2 顯著惡化，新訂單以 2020 底以來最快速度下滑，就業裁減加速。對 Amazon.fr 賣家而言，Q2 非必需品類銷售將面臨下行壓力，必需品與低單價品類相對防禦。法國 + 德國 + 歐元區三大經濟體 PMI 全部在 50 以下，整體歐洲消費氣氛偏弱。",
+    "public_action": "① Amazon.fr 站點 Q2 銷售預期保守，非必需品類（家居裝飾、時尚配件）庫存備貨適度收縮；② Prime Day 促銷預算建議往 €15-30 低中價位必需品類傾斜；③ 考慮加強 Amazon.fr 的 Coupon / Lightning Deal 力度以刺激需求，但避免過度降價傷害毛利；④ 監控 6/2 通膨數據與 6/11 ECB 利率決議對消費信心的後續影響。",
+    "sources": [
+      {
+        "name": "Trading Economics - France PMI",
+        "url": "https://tradingeconomics.com/france/composite-pmi"
+      },
+      {
+        "name": "S&P Global Flash France PMI 5/21",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/f0ad28c72bfd49949cf67d52daf16aee"
+      },
+      {
+        "name": "INSEE 5/26",
+        "url": "https://www.insee.fr/en/statistiques/8996236"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-28",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【5/27】Amazon \"Ask Amazon\" Prime Day Readiness 問答活動啟動：Ads + Listing + Returns 跨團隊即時解答",
+    "summary": "Amazon 5/27 在 Seller Forums 啟動 Prime Day 專屬大型問答，正式確認 Prime Day 2026 為 6 月：\n        ① 活動規格（Seller Central Forums 5/27）：8:00 AM - 5:00 PM PT，由 Ads、Listing Optimization、Returns 三大團隊跨部門即時回覆。這是 \"Ask Amazon Monthly Series\" 5 月教育系列的收官活動，將整個 5 月的 Ads（Week 1）、Listing（Week 2）、Returns（Week 3）主題一次整合。\n        ② Prime Day 6 月確認：Seller Central 帖文明確表述「Prime Day 2026 is in June」，與 5/22 Lightning Deal 截止日 5/26、FBA 到貨截止 5/27（已過）& 6/5 一致。\n        ③ 社群規則更新（ecombrainly 5/27）：Amazon 同步發布新社群守則——禁止推薦連結、平台外導流、協調刷讚。三次違規 90 天內禁言。但 verified forum 帳號問題將優先導向 Seller Support 專員。",
+    "public_impact": "Amazon 於 5/27 在 Seller Forums 啟動 Prime Day Readiness 大型問答活動，由 Ads、Listing Optimization、Returns 三大團隊同場解答賣家問題，正式確認 Prime Day 2026 在 6 月舉行。同時 Amazon 更新社群規則：禁止推薦連結、平台外導流、協調刷讚，三次違規 90 天禁言。FBA 第一批到貨截止日 5/27 已過，第二批為 6/5。未完成 FBA 入倉的賣家僅能以 FBM 或 SFP 方式參與 Prime Day。",
+    "public_action": "① 立即確認 FBA 庫存是否已入倉（5/27 截止已過），若未送達建議準備 FBM 出貨方案作為備案；② 6/5 前為第二批 FBA 到貨最後期限，請把握最後 8 天完成補貨；③ 善用 Ask Amazon 活動帖 thread 提問 Ads 預算配置、Lightning Deal 審核相關問題；④ 注意 Seller Forums 新社群規則，避免在帖文中放置外部連結或推薦碼。",
+    "sources": [
+      {
+        "name": "Seller Central Forums - Ask Amazon Prime Day 5/27",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/d8916147-4118-42b9-8303-14fa88dff0c4"
+      },
+      {
+        "name": "ecombrainly",
+        "url": "https://ecombrainly.com/amazon-marketplace-policy-updates"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【Preview】6/2 歐元區 5 月 HICP flash 預期跳升至 3.4%：若確認將觸發 ECB 6/11 升息 +25bp 鎖定",
+    "summary": "5 天後 Eurostat 將發佈 5 月 HICP flash，市場共識已從 3.0% 大幅上修至 3.4%：\n        ① 預測基礎（Trading Economics + ING Think 5/15）：Trading Economics 模型預測 5 月 HICP 3.4%（vs 4 月 3.0%）。ING 分析明確表示「6 月升息非常可能、9 月不能排除」。4 月已確認能源 +10.8%、NEIG +0.8%、unprocessed food +4.6%。\n        ② 為何 5 月會再加速：4 月 HICP 數據反映的是 3 月中-4 月中油價（Brent 當時 $105-115），而 5 月前半仍在 $108-111 高位，直到 5/24 後才因美伊和談大跌。5 月 HICP 取樣期多數仍在高油價環境。\n        ③ ECB 路徑（ECB SPF Q2 + ING）：ECB 專業預測者 Q2 Survey 上修 2026 通膨至 2.7%（vs Q1 的 2.1%），market pricing 6/11 升息 +25bp 機率已達 85-90%。Lagarde 4 月記者會表示「6 月有足夠數據做決定」，market reaction function is well understood。\n        結論：6/2 HICP flash 是 6/11 升息的最後一塊拼圖。若 3.4% 確認（或更高），升息 +25bp 至 2.25% 幾成定局，甚至有少數聲音討論 +50bp。消費者預期已跳至 4.0%（3 月），通膨 de-anchor 風險上升。",
+    "public_impact": "歐元區 5 月通膨數據將於 6/2 發佈，市場預期從 4 月的 3.0% 跳升至 3.4%。若確認，ECB 6/11 升息 25bp（利率從 2.0% 升至 2.25%）幾乎確定。對賣家意味著：歐洲消費者購買力持續被侵蝕、非必需品需求承壓；企業融資成本上升；歐元偏強可能壓縮非歐盟賣家的匯率利潤。Prime Day 預計在 ECB 升息前舉辦，是 Q2 消費者尚未完全感受升息衝擊的窗口。",
+    "public_action": "① 6/2 關注 Eurostat 發佈的 5 月 HICP flash estimate，作為 Q3 定價策略參考基準；② 若通膨持續加速，Q3 非必需品定價需保守、避免大幅加價導致需求流失；③ Prime Day 是升息衝擊前的最佳銷售窗口，建議加大 Deal 投入力度；④ 非歐元區賣家注意歐元走強風險，評估是否需要鎖定匯率或調整結算貨幣。",
+    "sources": [
+      {
+        "name": "Trading Economics - Euro Area Inflation",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      },
+      {
+        "name": "ING Think 5/15",
+        "url": "https://think.ing.com/articles/eurozone-rising-inflation-signals-june-rate-hike"
+      },
+      {
+        "name": "Eurostat 4 月 HICP",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30042026-ap"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-28",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【倒數 34 天】7/1 EU EUR3 平稅正式法規已刊登：€3/件 + 11 月 €2 handling fee，IOSS 整合最後窗口",
+    "summary": "EU Customs Reform 法規 4/30 正式刊登、7/1 生效確認——跨境小包成本結構永久改變：\n        ① 法規狀態（euverify + EC DG TAXUD）：Regulation 4/30 正式刊登於 Official Journal，7/1/2026 生效。3/26 Council 最終同意文本（political agreement 2025/12 達成）。\n        ② 雙重成本時間表（Archipel Tax Advice）：7/1 起每件跨境小包課徵 €3 flat customs duty（取代原 €150 免稅）；11/1 起加收 €2/件 handling fee。VAT 計算基礎 = 商品價 + 運費 + €3 關稅 + €2 handling fee。\n        ③ IOSS 角色（Floship + EC）：持有 IOSS ID 的包裹走「Green Channel」快速通關；無 IOSS 包裹面臨人工清關延遲 + 買家被收稅（DDP 體驗崩壞）。Marketplace deemed seller 規則下，Amazon/平台代收 VAT 的賣家已自動符合，但自建站（Shopify）賣家必須主動註冊 IOSS。\n        結論：€3 + €2 = €5/件的額外成本對 <€30 低單價品類衝擊最大（成本佔比 +15-20%）。非 EU 直郵賣家若未整合 IOSS，7/1 後包裹通關將嚴重延遲。",
+    "public_impact": "EU Customs Reform 法規已於 4/30 正式刊登，7/1 起生效——每件跨境小包課徵 €3 固定關稅（取代原 €150 免稅門檻），11 月再加 €2 handling fee。對 <€30 低單價品類衝擊最大（額外成本佔比 +15-20%）。使用 IOSS 的賣家包裹走 Green Channel 快速通關；未註冊 IOSS 的賣家包裹將面臨人工清關延遲，買家可能被要求補稅，購物體驗嚴重受損。Amazon FBA 賣家（Pan-EU 模式）因倉儲在 EU 境內，基本不受 per-parcel duty 影響。",
+    "public_action": "① 直郵模式賣家立即評估轉 FBA（Pan-EU 倉儲）的可行性，7/1 後直郵成本每件增加 €3-5；② 自建站賣家確認 IOSS 註冊狀態，未註冊者 7/1 後將失去 Green Channel 快速通關資格；③ <€30 低單價品類重新計算毛利，評估是否需要調價或調整 SKU mix；④ Q4 促銷規劃需預先納入 11/1 起 €2/件 handling fee 的額外成本。",
+    "sources": [
+      {
+        "name": "euverify",
+        "url": "https://euverify.com/resource/eu-de-minimis-e150-customs-exemption"
+      },
+      {
+        "name": "Archipel Tax Advice",
+        "url": "https://www.archipeltaxadvice.nl/insights/eu-customs-reform-e-commerce"
+      },
+      {
+        "name": "EC DG TAXUD",
+        "url": "https://taxation-customs.ec.europa.eu/customs/eu-customs-reform_en"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-27",
     "type": "daily",
     "tags": [
