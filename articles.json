@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-05-29",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/28】Brent +3.7% 反彈至 $97.29：美軍再空襲伊朗 + IRGC 反擊美基地，備忘錄和平紅利隔日蒸發",
+    "summary": "前日 WaPo 60 天備忘錄推動 Brent -3.6% 的和平紅利，隔日因雙方升級行動而完全蒸發：\n        ① 美軍空襲（CNBC 5/28）：美國中央司令部確認對伊朗南部軍事目標發動新一輪空襲，打擊「威脅美軍與商業航運的設施」，包括飛彈發射場和佈雷船。伊朗 Bandar Abbas 沿岸地區傳出爆炸。\n        ② IRGC 反擊（Tasnim 5/28）：伊朗革命衛隊聲明於當地凌晨 4:50 攻擊一處美軍基地，未指明地點。雙方交火規模為 5 月以來最大。\n        ③ 油價反應（CNBC 5/28）：ICE Brent Jul 26 收 $97.80（+3.72%），WTI 收 $91.71（+3.42%）。前日收 $95.98（-3.62%）→ 今日 $97.80，兩日淨回升 +1.9%。\n        ④ 分析師觀點（Citi 5/27 note via CNBC）：Citi 認為市場「正在 price out 最壞供應中斷情境」，但 5/28 雙方升級再度讓 risk premium 回歸，短期油價將在 $95-100 區間高波動震盪。",
+    "public_impact": "Brent 原油 5/28 反彈 3.7% 至 $97.29，因美軍再度空襲伊朗軍事目標、IRGC 隨即反擊美軍基地。前一天因美伊 60 天備忘錄傳出而大跌的油價，隔日即因雙方軍事升級而收復跌幅。這代表 Hormuz 海峽重啟的時間線充滿不確定性，亞洲到歐洲海運費率短期不會明顯回落。賣家的 Q3 物流成本規劃不宜過度樂觀，應維持多情境假設。油價在 $95-100 區間高波動震盪，對歐洲消費者信心形成持續壓力，非必需品需求前景偏弱。",
+    "public_action": "① 不要因和平傳聞就取消已鎖定的物流艙位，execution risk 仍極高；② Q3 定價模型維持 Brent $90-105 三情境同步規劃（bull/base/bear）；③ 關注 6/2 歐元區 5 月通膨快報（市場預期 3.4%）和 6/5 OPEC+ 會議是否討論重啟後產量調整；④ 能源密集品類（家電、大型家具）的 Q3 成本估算維持保守假設。",
+    "sources": [
+      {
+        "name": "CNBC 5/28",
+        "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html"
+      },
+      {
+        "name": "NYT 5/28（付費牆）",
+        "url": "https://www.nytimes.com/2026/05/28/business/oil-gas-price-iran.html"
+      },
+      {
+        "name": "NDTV Profit 5/28",
+        "url": "https://www.ndtvprofit.com/markets/oil-prices-on-may-28-brent-crude-rises-to-96-after-fresh-us-strikes-on-iran-hormuz-uncertainty-11557526"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-05-29",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【ECB 倒數 14 天】6/11 升息 94% 定價鎖定，但 Rehn / Schnabel 暗示「one and done」條件浮現",
+    "summary": "市場已幾乎完全定價 6/11 升息 +25bp 至 2.25%，但鴿派 Governing Council 成員開始為「升完即停」埋下伏筆：\n        ① 市場定價（Polymarket 5/28）：ECB 6/11 升息 +25bp 的 market-implied probability 達 94%，為 4/30 決議以來最高。投資人目前預期年底前共升 2-3 次（deposit rate 2.5-2.75%）。\n        ② 鴿派反敘事（Yahoo Finance + CNBC）：芬蘭央行 Rehn 5/28 稱通膨預期「still anchored」、薪資成長「reassuring」；Schnabel（ECB 最鷹派 board member）也表示「tighter policy only required if the energy-price shock broadens」——暗示若核心通膨不繼續升，6 月後可暫停。\n        ③ Conference Board 基線：「one June hike followed by a wait-and-see stance remains the most plausible path」，但前提是能源衝擊不嵌入薪資談判循環。\n        結論：6/11 +25bp 幾乎確定，但年底是否升到 2.5% 以上取決於 6/2 HICP flash 和 Q3 核心通膨走向。",
+    "public_impact": "ECB 6/11 升息 +25bp 至 2.25% 的市場定價已達 94%，幾乎確定。但多位 ECB 官員暗示可能「升完即停」——只要能源衝擊沒有擴散到核心通膨和薪資。對賣家而言，若只升一次，Q3 融資成本增幅有限、歐元走強幅度溫和；若後續再升 1-2 次，賣家借貸成本和歐元升值壓力會明顯加大。6/2 歐元區 5 月通膨快報是關鍵分水嶺，將決定 ECB 後續路徑。",
+    "public_action": "① 準備兩套 Q3 假設——A：只升 1 次（deposit rate 停 2.25%）、B：升 2 次（2.5%）；② 有融資需求的賣家建議在 6/11 前鎖定利率條件；③ 非歐元區賣家的 EUR/USD 假設維持 1.16-1.18（one hike 基線）；④ 密切關注 6/2 通膨快報——若 ≤3.2% 代表鴿派佔上風、後續升息壓力減輕。",
+    "sources": [
+      {
+        "name": "Polymarket ECB",
+        "url": "https://polymarket.com/event/ecb-interest-rates-june-2026"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/economy/policy/articles/why-ecb-june-interest-rate-041500174.html"
+      },
+      {
+        "name": "Reuters 5/4",
+        "url": "https://www.reuters.com/world/europe/ecb-may-need-hike-rates-june-nagel-says-2026-05-04"
+      },
+      {
+        "name": "Conference Board",
+        "url": "https://www.conference-board.org/publications/eur-forecast"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-05-29",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【KPMG 5 月】2026 歐洲經濟展望：全年 HICP 3.1%、GDP 0.9%、年底 deposit rate 2.5%（= 共升 2 次）",
+    "summary": "KPMG 5 月發布年度中期更新，是繼 EC Spring Forecast 後第二份機構級全年預測，確認「第二次能源衝擊」主敘事：\n        ① 核心預測（KPMG May 2026 PDF）：歐元區 2026 GDP +0.9%（vs 2025 +1.4%）、HICP 全年均值 3.1%（vs 2025 +2.1%）、消費支出 +0.9%（vs +1.5%）、投資 +1.7%（vs +3.0%）、失業率 6.3% 持平。\n        ② 通膨拆解：能源價格為近期通膨主驅動——fuel prices 自衝突爆發以來已上漲 +55%，間接效果將延伸至非能源品項，H2 核心通膨有上行風險。\n        ③ 利率路徑：KPMG 預估 key deposit rate 年底達 2.5%（現為 2.00%），暗示 6 月 + 秋季共升 2 次 +25bp。與 ECB SPF Q2（GDP 1.0%、inflation 2.7%）相比，KPMG 通膨預測偏高（3.1% vs 2.7%）。\n        ④ 消費展望：「consumers face a renewed squeeze on real incomes」，消費增速將在未來數月持續減弱。",
+    "public_impact": "KPMG 5 月歐洲經濟展望預測 2026 歐元區通膨全年均值 3.1%（能源 fuel +55% 驅動）、GDP 僅 +0.9%、消費支出 +0.9%。扣除通膨後實質消費接近持平甚至微縮。對賣家而言，名義銷售額可能因 ASP 提升（通膨效應）維持穩定，但實際銷售量走弱。能源密集品類（大家電、家具）成本壓力最大，低單價必需品相對抗壓。ECB 年底利率預估 2.5% 代表融資成本全年持續上升。",
+    "public_action": "① 銷售預測應拆分 volume（量）和 ASP（價）——名義 GMV 可能持平但 unit volume 偏弱；② 品類配置偏向低單價（€30 以下）+ 必需品 + 消耗品，高單價非必需品需要更深折扣才能帶動；③ 有融資需求的賣家留意利率將持續上升至年底，建議提早鎖定信貸條件；④ 關注 6/2 歐元區通膨快報——若 ≥3.4% 代表全年通膨可能超過 KPMG 預估的 3.1%。",
+    "sources": [
+      {
+        "name": "KPMG May 2026 PDF",
+        "url": "https://assets.kpmg.com/content/dam/kpmgsites/uk/pdf/2026/05/european-economic-outlook-may-2026.pdf"
+      },
+      {
+        "name": "ECB SPF Q2 2026",
+        "url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/html/ecb.spf2026q2.en.html"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-05-29",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【eMarketer】Temu / Shein 歐洲廣告加碼：US 54% 關稅封殺推流量轉 EU，7/1 EUR3 形成雙面夾擊",
+    "summary": "美國 de minimis 封殺 + EU €3 關稅同步壓縮低價直郵模式，但兩大平台正加碼歐洲投放：\n        ① US 端壓力（eMarketer 5 月）：Trump 政府 5/2 對中國小包加徵 120% 關稅（後降至 54%），Temu / Shein 美國站被迫漲價 → 銷售下滑 → 兩平台「ramped up digital ad spend in Europe」試圖以歐洲市場補量。\n        ② EU 端防禦（Euronews / Bloomberg Tax）：7/1 起 EU 對所有 <€150 直郵包裹徵收 €3/tariff item 關稅（per tariff classification、非 per parcel）。4.6 billion 小包 2024 年進入 EU、91% 來自中國。11 月另有 €2 handling fee（但 trilogue 共識未達、可能延遲）。\n        ③ 競爭態勢（eMarketer）：EU 的 €3 被視為「defensive play that shields local retailers from an influx of cut-rate goods」，但 Shein 商業模式（極低庫存 + 直郵）難以轉型本地倉儲。Temu 已開始建歐洲倉但規模有限。\n        結論：Q3 起 EU 低價直郵成本結構性上升，Amazon EU5 的「value / low-price」品類將面對 Temu 廣告投放加碼但定價優勢被 €3 duty 侵蝕的矛盾局面。",
+    "public_impact": "美國對中國小包徵收 54% 高關稅後，Temu 和 Shein 銷售下滑、轉而加碼歐洲數位廣告投放搶市場。同時 EU 7/1 起對所有直郵小包徵收 €3/tariff item 關稅，形成「美歐雙面夾擊」。對已在 EU 本地設倉的賣家而言，這是利好——本地發貨免 €3 duty，相對 Temu 直郵的成本優勢擴大。但 Temu/Shein 廣告投放加碼將推高社群和搜尋廣告成本。低單價品類（€15 以下）面臨最大競爭壓力。",
+    "public_action": "① EU 本地設倉的賣家應強調「本地發貨免 €3 duty」優勢，在 listing 和廣告中突出快速配送 + 無額外關稅；② Q3 數位廣告預算建議 +10-15% 因應 Temu/Shein 廣告溢出帶動的 CPC 上升；③ 低單價品類（€15 以下）margin 壓力大，建議 focus 有品牌差異化的中單價 SKU（€30-80）；④ 持續監控 7/1 後 Temu 定價策略是否調整（漲價 or 吸收 duty 壓縮利潤）。",
+    "sources": [
+      {
+        "name": "eMarketer",
+        "url": "https://www.emarketer.com/content/eu-small-parcel-tax-shein-temu-global-trade-shift"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/my-europe/2025/12/12/eu-countries-agree-temporary-3-flat-customs-fee-for-small-imported-parcels"
+      },
+      {
+        "name": "Bloomberg Tax",
+        "url": "https://news.bloombergtax.com/daily-tax-report-international/eu-takes-first-step-toward-new-era-in-e-commerce-compliance"
+      },
+      {
+        "name": "Sibiz.eu",
+        "url": "https://sibiz.eu/eu-introduces-e3-customs-duty-on-small-parcels-from-july-1-2026-end-of-the-eur-150-exemption-and-major-impact-on-e-commerce"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-05-29",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【Bain + Conference Board 5 月】EU5 2026 零售前瞻：德 +2.5%↓、法 +1.5%、UK +2%，非必需品續弱",
+    "summary": "三大機構 5 月報告交叉驗證 EU5 2026 零售走勢：消費復甦被能源衝擊打斷、量增極為有限：\n        ① 德國（Bain）：名義零售 +2.5%（↓from 2025 +3.6%）。通膨 ~2.2% → 實質量增僅 +0.3%。失業率上升 + 工廠關閉裁員 → 消費信心脆弱。63% 德國消費者過去一年減少支出（Mintel）。\n        ② 法國（Bain）：+1.5%（vs 2025 +1.7%）幾乎持平。失業率升至 7.7%、政治不確定性壓制消費信心（-33 points net balance）。租金通膨加速。\n        ③ UK（Bain / PwC）：+2% 名義。通膨 ~2.5% → 實質 volume 略負。非食品品類 volume 微縮，消費者「brought spreadsheets, not impulse, to Christmas」（PwC）。\n        ④ 跨 EU 整體（CBRE + ING）：Western Europe 2026 retail sales volume +2%，與去年持平。Prime high-street rent 仍成長 +2.1%。儲蓄率持續上升 = 消費者謹慎心態未解除。",
+    "public_impact": "Bain、Conference Board、CBRE 等機構 5 月報告一致顯示 2026 EU5 零售增長極為溫和——德國名義 +2.5%（實質近 0）、法國 +1.5%、UK +2%（實質微負）。消費者儲蓄率持續上升、非必需品支出減少。對跨境賣家而言，名義銷售額可能靠 ASP 通膨效應勉強維持，但真正的銷售量增長很有限。消費者變得更理性、折扣依賴度升高、非食品非必需品類面臨最大壓力。",
+    "public_action": "① 非必需品類 Q3 促銷深度需要比去年更深（≥20% off 才能有效帶動轉換）；② 品類配置偏向必需品（居家日用、健康、寵物、嬰兒用品），抗跌性較強；③ 法國市場成長有限（+1.5%），新進賣家不宜過度 commit 備貨量；④ UK 市場消費者明確 trade-down，低單價 essentials 和高 CP 值品類較有機會。",
+    "sources": [
+      {
+        "name": "Bain 2026 Retail",
+        "url": "https://www.bain.com/insights/2026-global-retail-sales-outlook-snap-chart"
+      },
+      {
+        "name": "Conference Board",
+        "url": "https://www.conference-board.org/publications/eur-forecast"
+      },
+      {
+        "name": "CBRE Retail 2026",
+        "url": "https://www.cbre.com/insights/books/european-real-estate-market-outlook-2026/retail"
+      },
+      {
+        "name": "PwC UK Retail",
+        "url": "https://www.pwc.co.uk/industries/retail-consumer/insights/retail-outlook.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-28",
     "type": "daily",
     "tags": [
