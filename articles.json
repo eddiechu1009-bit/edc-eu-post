@@ -1,5 +1,107 @@
 [
   {
+    "date": "2026-06-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5 月月結】Brent -18.7% 創 2020 年來最大月跌至 $93：US-Iran 協議預期 vs Chevron 揭露多船遭襲，Saudi 7 月 OSP 預降",
+    "summary": "五月油價經歷「史詩級回吐」，三個驅動力同時作用：\n        ① US-Iran 60 天框架協議（OilPrice.com 5/29）：市場押注 Hormuz 重開，Brent 從月初 ~$114 一路跌至 5/29 盤中 $91.2（六週低），月跌幅達 -18.7%，為 2020 年疫情崩盤以來最大。VP Vance 稱協議「close but not there yet」，含掃雷 + 航道重開計畫。\n        ② 新鮮攻擊反覆（OilPrice.com 5/29）：Chevron CEO Wirth 5/29 揭露「multiple ships attacked in Hormuz」本週仍發生，ADNOC 油輪 dark mode 通過、菲律賓收到首批伊朗原油——訊號矛盾，市場雲霄飛車。6/1 Brent 回彈至 $93.01（+2.07%），以色列擴大黎巴嫩攻勢提振。\n        ③ Saudi 7 月 OSP 預降（OilPrice.com 5/29）：沙烏地阿拉伯預計調降 7 月亞洲官方售價，反映需求走弱 + 供應恢復預期。\n        結論：油價從「地緣溢價 $110+」回歸「供需基本面 $90-100」區間，但 Hormuz 實際通行能力仍受限，Q3 波動區間 $85-105。",
+    "public_impact": "Brent 原油五月暴跌 18.7% 至 $93（2020 年來最大月跌），主因市場押注 US-Iran 協議將重開 Hormuz 海峽。對歐洲跨境賣家而言，海運 surcharge 有望在 Q3 降低 8-12%，改善補貨成本。油價回落亦有利歐洲消費者可支配所得回升，非必需品消費可能在 Q3 出現溫和反彈。但 Hormuz 實際通行仍受限、Chevron CEO 揭露本週仍有船隻遭襲，波動風險高，不宜過度樂觀 price-in。",
+    "public_action": "① Q3 海運 booking 可觀望 1-2 週等地緣情勢明朗，再鎖定 surcharge 費率；② 短期維持現價，待 7 月通膨數據確認油價傳導後再評估促銷力道；③ 戶外、旅行、汽車周邊品類可提前追加 15-20% 庫存，迎接油價回落 + 暑假 + 熱浪三重利好；④ 設 Brent $100 警戒線，一旦回升即切回保守定價策略。",
+    "sources": [
+      {
+        "name": "Trading Economics - Brent Crude",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "OilPrice.com 5/29",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-06-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/2 Eurostat】歐元區 5 月 HICP flash 3.0%（共識 3.3% 大幅 miss）：通膨未加速，ECB 6/11「one-and-done」敘事確認",
+    "summary": "通膨預期上修被打臉，ECB 鷹派敘事面臨修正：\n        ① HICP flash（Eurostat 6/2 發布）：歐元區 5 月通膨年率 3.0%，與 4 月持平，遠低於市場共識 3.3% 和 Trading Economics 預測 3.4%。能源對 headline 的貢獻未如預期進一步擴大。\n        ② Core inflation（同日）：核心通膨（扣除能源食品）flash 預期 2.4%（vs 4 月 2.2%），尚待確認。若核心亦低於預期，6/11 ECB 加碼空間更受限。\n        ③ 市場反應：此數據強化 5/29 Rehn / Schnabel「one-and-done」暗示——6/11 升息 +25bp 至 2.25% 幾乎鎖定，但後續再升的壓力明顯減輕。EUR/USD 6/1 收在 1.1645（月跌 -0.39%），德國 10Y 殖利率 2.93%。\n        結論：油價回落 + HICP 低於預期 = 能源衝擊傳導比預期慢。ECB 6/11 升 25bp 後大機率暫停觀察，Q3 利率環境比 5 月時預期的寬鬆。",
+    "public_impact": "歐元區 5 月 HICP flash 維持 3.0%（市場預期 3.3%），意味能源衝擊對通膨的傳導比預期緩慢。ECB 6/11 升息 +25bp 幾乎鎖定但後續加碼壓力減輕，「一次升完觀察」機率大增。對賣家而言：① EUR 計價融資成本短期見頂，Q3 不會再攀升；② 消費者實質購買力侵蝕放緩，非必需品消費 Q3 有溫和回升空間；③ EUR/USD 偏弱有利非歐元計價賣家進貨 margin。",
+    "public_action": "① 6/11 ECB 決議前維持現有定價，等 forward guidance 明朗再定 Q3 策略；② Prime Day 折扣力道可從保守 -15% 上調到 -20%，消費者比預期有餘裕；③ 若「一次升完」確認，EUR 計價信貸已見頂，可考慮鎖定 6-12 個月 term loan；④ 追蹤 6/11 ECB presser 和 6/20 HICP 終值。",
+    "sources": [
+      {
+        "name": "Trading Economics - Euro Area Inflation",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      },
+      {
+        "name": "Eurostat Euro Indicators",
+        "url": "https://ec.europa.eu/eurostat/web/main/news/euro-indicators"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-06-01",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【6/1】EU 天然氣 TTF €46.91 + 庫存僅 38%（vs 50% 常態）+ 歐洲首波熱浪：冬季補庫風險急升",
+    "summary": "三重壓力同時浮現，歐洲天然氣進入危險平衡：\n        ① 庫存缺口（Trading Economics 6/1）：歐洲天然氣庫存目前僅 38%，大幅低於同期五年平均 50%+。Hormuz 封鎖三個月造成 LNG 供應中斷是主因——QatarEnergy force majeure 延至 8 月中，Edison 損失 17 船貨。\n        ② 首波熱浪：歐洲本季第一波重大熱浪來襲，倫敦、巴黎、馬德里預計破紀錄高溫。空調 / 冷卻需求推高電力消耗，壓縮注氣窗口。\n        ③ 價格走勢：TTF 6/1 收 €46.91/MWh（+1.98%），月漲近 3%，年增 +34.12%。Trading Economics 12 個月預測 €57.59。VP Vance 稱 US-Iran deal「close but not there yet」限制了跌幅。\n        結論：若 Hormuz 7 月前未恢復正常、熱浪延長，歐洲可能重演 2022 年冬季補庫不足危機。能源密集品類成本 Q3-Q4 持續承壓。",
+    "public_impact": "歐洲天然氣 TTF 維持在 €46.91/MWh（年增 34%），庫存僅 38%（遠低於 50% 同期常態），加上首波熱浪來襲增加電力需求。對賣家影響：① 能源密集品類（家電、陶瓷、玻璃）Q3 供應商可能提價 5-10%；② 夏季品類（冷氣、風扇、遮陽）需求因熱浪激增，是短期機會；③ 若冬季天然氣飆升至 €60-80，Q4 歐洲消費環境可能再度惡化。",
+    "public_action": "① 夏季品類（移動式冷氣、風扇、冷感寢具）趁熱浪確認後立即追加備貨；② 能源密集品類與供應商鎖定 Q3 不漲價條款或漲幅上限；③ 監控每週四 GIE 庫存報告和 QatarEnergy force majeure 進展；④ 若 TTF 8 月突破 €55，考慮 home & kitchen 品類微幅調價。",
+    "sources": [
+      {
+        "name": "Trading Economics - EU Natural Gas",
+        "url": "https://tradingeconomics.com/commodity/eu-natural-gas"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-06-01",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【4/29 官宣】Amazon Prime Day 2026 六月歐洲確認：15+ 國參與（含 EU5 + UK + 波蘭瑞典土耳其），賣家最終準備窗口開啟",
+    "summary": "Prime Day 2026 歐洲部署進入最後階段：\n        ① 官方確認（aboutamazon.eu 4/29）：Amazon 正式宣布 Prime Day 2026 將於六月在歐洲舉辦。參與國家包括：德國、法國、義大利、西班牙、荷蘭、UK、奧地利、比利時、愛爾蘭、盧森堡、波蘭、葡萄牙、瑞典、土耳其、UAE、Saudi。\n        ② 規模指標：2025 年 Prime Day 全球配送超過 130 億件商品（same-day / next-day），Prime 會員全年省下 $1,050 億運費。獨立賣家佔 Amazon 商店銷售額超過 60%。\n        ③ 具體日期未公布：官方表示「We'll share more details soon」，但歷年規律為六月中下旬（2025 年為 6/16-17）。按此推估 2026 年 Prime Day 落在 6/15-16 或 6/22-23 機率最高。\n        結論：距離 Prime Day 剩餘約 2-3 週，所有賣家應已完成 Lightning Deal 提交和 FBA inbound。現在是最後的 listing 優化 + Ads 預算確認窗口。",
+    "public_impact": "Amazon 正式確認 Prime Day 2026 六月在歐洲 15+ 國舉辦（含德法義西荷 UK 波蘭瑞典土耳其等）。今年宏觀背景相對有利——油價回落、通膨未加速、消費者信心反彈——Prime Day GMV 有望優於保守預期。獨立賣家佔 Amazon 銷售超過 60%，Prime Day 是全年最大曝光窗口。距離活動僅剩 2-3 週，現在是最後的 listing 優化和 Ads 策略確認期。",
+    "public_action": "① 本週確認 FBA 庫存到位狀態，Prime Day 前 7 天 inbound 優先權會被凍結；② A+ Content 和主圖本週定稿，活動期間不建議大改 listing；③ Sponsored Products 日預算設為常態 3-5 倍，bid 用 dynamic-down only；④ 確認 UK、荷蘭、波蘭等多站點 deal 是否通過審核；⑤ Deal price 需在 6/7 前鎖定，base price 本週不動。",
+    "sources": [
+      {
+        "name": "About Amazon EU - Prime Day 2026",
+        "url": "https://www.aboutamazon.eu/news/retail/amazons-prime-day-event-is-back-this-june"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-06-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【5/28】歐元區消費者信心 -19.0 + 德國 GfK -29.8 雙 beat consensus：所得預期 +11.4pt 跳升，消費底部訊號浮現",
+    "summary": "兩大消費信心指標同步 beat，底部反轉訊號集中出現：\n        ① 歐元區消費者信心（EC 5/28 終值）：5 月終值 -19.0（vs 4 月 -20.6），beat 共識 -20.8，為 12 月 2022 以來低點後連續第二月改善。EU 整體亦升至 -18.2（from -19.9）。\n        ② 德國 GfK（5/22 發布、指向 6 月）：-29.8（vs 共識 -34.0、vs 5 月 -33.1 修正值），大幅 beat 4.2 個百分點。所得預期 +11.4pt 跳升至 -13.0 是主驅動力；經濟預期 -11.2（from -13.7）、購買意願 -13.2（from -14.4）同步改善。\n        ③ 價格預期驟降（GfK 子指標）：從 +5.8 降至 -0.4，反映德國能源稅減免（柴油 + 汽油）+ 油價回落，消費者通膨感知明顯降溫。\n        結論：信心觸底反彈 + 通膨預期降溫 + 油價下跌 = Q3 消費復甦的三重基礎。但水準仍遠低於長期均值（-9.4），復甦將是漸進式。",
+    "public_impact": "歐元區消費者信心 5 月終值 -19.0（beat 預期 -20.8）、德國 GfK 6 月 -29.8（大幅 beat 預期 -34.0），兩大指標同步改善。德國所得預期跳升 11.4 個百分點為主驅動力，價格預期亦從正轉負——消費者通膨焦慮降溫。對賣家而言，Q3 歐洲消費復甦基礎正在建立，尤其德國站可望率先回暖。非必需品（3C、美妝、運動）消費意願改善，但復甦將是漸進式，水準仍遠低於歷史均值。",
+    "public_action": "① 德國站可率先小幅加碼 Q3 行銷預算（+10-15%），GfK 連 2 月 beat 是消費回暖領先指標；② 非必需品（3C 配件、美妝、運動）品類可開始佈局新 ASIN；③ 法國站因 PMI 仍在衰退區，維持 Q2 預算不加碼；④ 追蹤 6/25 GfK 7 月值和 6/22 EC 消費者信心 flash。",
+    "sources": [
+      {
+        "name": "Trading Economics - EA Consumer Confidence",
+        "url": "https://tradingeconomics.com/euro-area/consumer-confidence"
+      },
+      {
+        "name": "Trading Economics - Germany GfK",
+        "url": "https://tradingeconomics.com/germany/consumer-confidence"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-05-29",
     "type": "daily",
     "tags": [
