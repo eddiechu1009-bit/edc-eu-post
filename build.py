@@ -286,30 +286,16 @@ def parse_weekly_report(filepath):
     return articles
 
 
-def inject_into_html(output_dir, all_articles):
-    """將 articles JSON 資料直接注入 index.html 的佔位符"""
+def update_last_date(output_dir, all_articles):
+    """更新 index.html 的最後更新日期（不再注入 JSON，改由前端 fetch）"""
     html_path = os.path.join(output_dir, 'index.html')
     with open(html_path, 'r', encoding='utf-8') as f:
         html = f.read()
 
-    # 產生壓縮的 JSON 字串
-    json_str = json.dumps(all_articles, ensure_ascii=False)
-
-    # 替換佔位符：/*__ARTICLES_JSON__*/[]/*__END_ARTICLES_JSON__*/
-    # 注意：用 lambda 取代字串，避免 re.sub 把 JSON 的 \n / \\ / \uXXXX 等
-    # escape 序列當成 regex back-reference 解析（會把 "\n" 變成真實換行、
-    # 導致 JS 解析失敗、整個網站空白）。
-    # 同時 .*? 預設 dot 不匹配 \n，當佔位符內已有真實換行（之前推壞時殘留）
-    # 會抓不到，所以必須加 re.DOTALL。
-    pattern = r'/\*__ARTICLES_JSON__\*/.*?/\*__END_ARTICLES_JSON__\*/'
-    replacement = f'/*__ARTICLES_JSON__*/{json_str}/*__END_ARTICLES_JSON__*/'
-    new_html = re.sub(pattern, lambda m: replacement, html, count=1, flags=re.DOTALL)
-
-    # 注入最後更新時間（以最新文章日期為準）
     latest_date = all_articles[0]['date'] if all_articles else datetime.now().strftime('%Y-%m-%d')
     update_pattern = r'<span id="lastUpdate">.*?</span>'
     update_replacement = f'<span id="lastUpdate">{latest_date}</span>'
-    new_html = re.sub(update_pattern, update_replacement, new_html, count=1)
+    new_html = re.sub(update_pattern, update_replacement, html, count=1)
 
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(new_html)
@@ -374,9 +360,9 @@ def main():
 
     print(f"\n✅ 已產出 {len(all_articles)} 則新聞 → {output_path}")
 
-    # 注入資料到 index.html
-    inject_into_html(output_dir, all_articles)
-    print(f"   ✅ 已注入資料到 index.html")
+    # 更新 index.html 最後更新日期
+    update_last_date(output_dir, all_articles)
+    print(f"   ✅ 已更新 index.html lastUpdate 日期")
 
     # 統計
     tags_count = {}
