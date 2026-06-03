@@ -1,5 +1,115 @@
 [
   {
+    "date": "2026-06-03",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【5/28 EC/Guardian】歐盟 DSA 史上最重罰：Temu €2 億，玩具/充電器抽測大量不合格，8/28 前須交整改計畫",
+    "summary": "平台對第三方不安全商品的責任正式被「真金白銀」追究，合規門檻一次拉高：\n        ① 罰款規模（EC / The Guardian / DW 5/28）：歐盟執委會依《數位服務法》(DSA) 對 Temu 開罰 €2 億（約 $2.32 億），為 DSA 史上最高罰款，也是繼去年 12 月 X 被罰 €1.2 億後第二起 DSA 重罰。\n        ② 認定理由：經 19 個月調查，執委會認定 Temu 未盡力辨識平台上違法商品的系統性風險——其 2024 年風險評估僅引用電商產業一般性資料、未針對自身平台舉證，嚴重低估歐盟消費者接觸違法商品的頻率，推薦系統與網紅推廣更可能放大擴散。\n        ③ 抽測結果：獨立機構神秘客抽測顯示「極高比例」充電器未通過基本安全測試、「高比例」嬰兒玩具因含超標化學物質或可拆零件造成窒息風險。\n        結論：Temu 須於 8/28 前提交整改行動計畫（DSA 第 75 條），歐洲數位服務委員會 1 個月出意見、執委會再 1 個月做最終決定；DSA 上限為全球營業額 6%（母公司 PDD 2024 全球營收 $540 億），執委會另就違法商品銷售、成癮設計等續查，可能再罰。Temu 稱罰款「不成比例」、正評估上訴。",
+    "public_impact": "歐盟執委會 5/28 依《數位服務法》(DSA) 對 Temu 開罰 €2 億，為 DSA 史上最高罰款。執委會經 19 個月調查認定 Temu 未盡力辨識平台上違法商品的系統性風險，獨立抽測顯示高比例充電器與嬰兒玩具不符安全標準。對合規型跨境賣家而言這實際上是利多——監管把玩具安全、化學品限值、CE、電氣安全等責任推到平台前線，放任不安全商品的低價平台首當其衝，正規上架審查的賣家競爭環境更公平。但這也意味各大平台對賣家的合規文件查核將同步收緊，高風險品類（兒童玩具、含電池/磁鐵商品、充電器）賣家被下架或限制的風險升高。",
+    "public_action": "① 兒童玩具、含電池/磁鐵商品、充電器/電源供應器等高風險品類賣家本週自查，備齊 CE、EN71、化學品 SVHC、電氣安全測試報告；② 旺季前完成產品安全文件預審，避免大促期間因合規問題被臨時下架；③ 重視長期經營的品牌方可善用平台的合規審查與品牌保護機制做差異化定位，降低與低價競品的正面價格戰；④ 留意 8/28 Temu 整改計畫進展與各平台合規查核政策更新，這是多法域同步收緊的結構性趨勢，提早佈防同類商品的標示與安全要求。",
+    "sources": [
+      {
+        "name": "The Guardian - EU fines Temu",
+        "url": "https://www.theguardian.com/world/2026/may/28/eu-fines-temu-sale-illegal-dangerous-products"
+      },
+      {
+        "name": "DW - Temu fine over unsafe products",
+        "url": "https://www.dw.com/en/temu-fine-eu-europe-unsafe-toys-noncompliant-products/a-77336877"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-06-03",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【3/26 Council/5/21 gov.uk】EU 海關改革第二階段：11/1 起小包裹強制申報 SKU+製造商碼+GTIN 三層識別碼 + 新增電商處理費",
+    "summary": "7/1 EUR3 平稅只是第一步，真正的資料合規大改在 11/1，現在就要動：\n        ① 三層產品識別碼強制（Council 3/26、gov.uk 5/21 更新）：自 11/1 起，遠距銷售小包裹海關申報每一申報行須提供最多三層識別碼——賣家 SKU、製造商產品碼、與標準化全球識別碼 GTIN/EAN/UPC（若存在）。此三項 7/1 起為自願、11/1 起強制（Zonos、gov.uk 一致）。\n        ② 新增電商處理費：海關對遠距銷售小包裹加收「handling fee」，費率由執委會 delegated act 決定，會員國最遲 11/1 適用。先前流傳的 €2/件未寫入最新法規、應視為暫估；業界估若與 €3 關稅疊加後每申報行約 €5。\n        ③ 平台＝進口商：法規明確把平台與遠距銷售者視為貨物「進口商」，須負責所有海關手續與付款，而非最終消費者。\n        結論：多數寄件郵政與賣家目前未在出口資料流中帶入產品識別碼，11 月達標的準備須現在開始；且此 SKU+製造商碼+GTIN 結構與 ESPR 數位產品護照（DPP）/EPREL 資料骨架一致，提早建檔可一魚多吃。",
+    "public_impact": "歐盟海關改革（Council 與 Parliament 2026/3/26 達成最終協議）除已知的 7/1 取消 €150 免稅門檻、€3 臨時關稅外，第二階段落在 11/1：自 11/1 起遠距銷售小包裹海關申報每一申報行須提供最多三層產品識別碼——賣家 SKU、製造商產品碼、與標準化 GTIN/EAN/UPC（7/1 起自願、11/1 起強制）；海關另新增「處理費」，費率由執委會決定、會員國最遲 11/1 適用（業界估與 €3 關稅疊加後每申報行約 €5）。法規明確把平台與遠距銷售者視為「進口商」，須負責所有海關手續與付款。多數寄件郵政與賣家目前未在出口資料流中帶入產品識別碼，11 月達標的準備須現在開始；且此資料骨架與數位產品護照（DPP）/EPREL 一致，提早建檔可一併滿足未來要求。",
+    "public_action": "① 本季完成全 SKU 的 GTIN/EAN 與製造商產品碼建檔，缺號 SKU 在 11/1 前補齊，避免清關受阻；② 向貨代/承運商確認出口資料流是否已支援三層識別碼傳輸，不支援者及早更換；③ 把 €3 關稅與估約 €5/件處理費納入 Q4 跨境定價模型，低單價 SKU 評估改用在地備貨降低單件稅費佔比；④ 監控執委會處理費正式費率與各國國家級附加費（法國 €2/件、義大利 7/1、羅馬尼亞約 €5）的疊加；⑤ 識別碼建檔可同時對接未來數位產品護照需求，建議一次到位。",
+    "sources": [
+      {
+        "name": "Council of the EU - Customs reform",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/26/eu-customs-council-and-parliament-agree-on-landmark-reform"
+      },
+      {
+        "name": "GOV.UK - EU UCC reforms",
+        "url": "https://www.business.gov.uk/campaign/europe/european-union-eu-regulations/eu-ucc-reforms"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-06-03",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【8/12 倒數】EU PPWR 包裝法規全面適用：27 國逐國 EPR 註冊 + 授權代表強制、電商包材空隙 ≤40%，缺註冊號自動下架",
+    "summary": "距離全面適用剩約 70 天，部分國家 EPR 註冊要 3-6 個月、現在不動就來不及：\n        ① 法規性質與時程（Latham & Watkins、Greenberg Traurig）：新版《包裝及包裝廢棄物法規》PPWR（Regulation (EU) 2025/40）將於 2026/8/12 全面適用，取代舊包裝指令。因屬 Regulation（非 Directive），27 國無需轉換國內法、同日同步生效；執委會已於 3/30 發布實施指引與 FAQ。\n        ② 逐國 EPR + 授權代表：凡在某 EU 會員國投放含包裝商品者，須在每個銷售國完成 EPR 註冊、取得各國註冊號（ERN），非 EU 實體須在各國指派授權代表（AR）。\n        ③ 用 Amazon 代繳也不豁免：即使用 Amazon「EPR Pay on Behalf」代繳，註冊義務仍不可豁免，缺註冊號會觸發上架自動暫停。\n        結論：自 8/12 起電商寄送包裹空隙比例不得超過 40%（一般包裝 50%）；數位標示（QR 連材質/可回收性）自 2027 起、可回收性分級與再生料目標分階段至 2030-2040。罰則由各國自訂、業界整理指最高可達每國約 €20 萬並可能市場排除。",
+    "public_impact": "歐盟新版《包裝及包裝廢棄物法規》PPWR（Regulation (EU) 2025/40）將於 2026/8/12 全面適用，因屬 Regulation 故 27 國同日同步生效、無需轉換國內法。核心衝擊：① 凡在某 EU 會員國投放含包裝商品者，須在每個銷售國完成 EPR 註冊、取得各國註冊號（ERN），非 EU 實體須在各國指派授權代表（AR）；② 即使用平台「EPR 代繳」服務，註冊義務仍不可豁免，缺註冊號會觸發上架自動暫停；③ 自 8/12 起電商寄送包裹空隙比例不得超過 40%。部分國家 EPR 註冊需 3-6 個月，距 8/12 僅約 70 天，現在不啟動恐來不及。罰則由各國自訂，業界整理指最高可達每國約 €20 萬並可能市場排除。",
+    "public_action": "① 多國銷售的賣家本週立即盤點各銷售國的 EPR 註冊與授權代表需求，部分國家需 3-6 個月、必須在 8/12 前完成，這是當前最急迫的合規動作；② 取得各國 EPR 註冊號（ERN）後務必回填平台合規系統，避免缺號觸發上架自動暫停；③ 檢視 FBA 外箱與商品包裝，確保電商寄送空隙比例 ≤40%，過度包裝在 8/12 後將違規；④ 關注執委會 3/30 發布的 PPWR FAQ 後續更新與各國罰則細則，並留意 2027 起的數位標示（QR 碼）要求提早規劃。",
+    "sources": [
+      {
+        "name": "Latham & Watkins - European PPWR",
+        "url": "https://www.lw.com/en/insights/european-packaging-and-packaging-waste-regulation-summary-of-provisions-and-new-guidance"
+      },
+      {
+        "name": "Greenberg Traurig - PPWR for E-Commerce",
+        "url": "https://www.gtlaw.com/en/insights/2025/8/eu-packaging-and-packaging-waste-regulation-new-compliance-requirements-for-e-commerce"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-06-03",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【5/28 Zalando】Zalando 攜 Vestiaire Collective 賣鑑真二手精品：覆蓋 14 國、50+ 品牌，首度對夥伴開放 Pre-owned",
+    "summary": "時尚二手賽道正被主流平台收編，Zalando 用「平台化 + 鑑真」搶循環時尚話語權：\n        ① 結盟內容（Zalando Corporate / FashionNetwork 5/28，柏林）：Zalando 與法國二手精品平台 Vestiaire Collective 結盟，把後者經嚴格鑑真的二手精品（成衣、鞋履、手袋、配件，來自 50+ 標誌性品牌）直接上架 Zalando，覆蓋 Pre-owned 類別所在的 14 個歐洲市場（含德法義西荷瑞典），即日生效。\n        ② 策略意義：這是 Zalando 首次把 Pre-owned 類別開放給外部合作夥伴（納入 Zalando Partner Program），凸顯其從「零售商」轉型為「零售賦能平台 / retail enabler」。鑑真由 Vestiaire 負責。\n        ③ 擴張軌跡：2026 年 Zalando 已把配件、童裝納入二手範圍，並擴張至希臘、葡萄牙，年內預計再進保加利亞、屆時覆蓋 28 個市場。\n        結論：循環/二手時尚正從 Vinted、純二手平台外溢到主流綜合平台，Zalando 用鑑真背書切入精品二手，對 Amazon 在時尚與配件品類的差異化形成新壓力。",
+    "public_impact": "Zalando 5/28 宣布與法國二手精品平台 Vestiaire Collective 結盟，把經鑑真的二手精品（成衣、鞋履、手袋、配件、50+ 品牌）直接上架，覆蓋 Pre-owned 類別所在的 14 個歐洲市場，即日生效。這是 Zalando 首次把 Pre-owned 開放給外部夥伴，凸顯其從零售商轉型為「零售賦能平台」。2026 年 Zalando 已把配件、童裝納入二手並擴張至希臘、葡萄牙，年內預計覆蓋 28 個市場。對時尚與配件跨境賣家而言，循環/二手時尚正從 Vinted、純二手平台外溢到主流綜合平台，平台用鑑真背書切入精品二手，意味多平台佈局時 Zalando 在時尚品類的權重提高，賣家評估通路時應把其二手與夥伴計畫納入考量。",
+    "public_action": "① 時尚、配件、鞋履賣家可評估 Zalando Partner Program 作為歐洲時尚通路的補充，但須留意其鑑真與品質審核門檻；② 重視品牌與永續定位的賣家可思考循環/二手商品線，回應消費者對二手精品的成長需求；③ 多平台佈局時把不同平台的品類強項納入考量（綜合電商 vs 時尚專業平台 vs 二手平台），分散通路風險；④ 持續關注 Zalando Pre-owned 擴張到 28 國的時程與是否吸納更多鑑真夥伴，二手賽道競爭將持續升溫。",
+    "sources": [
+      {
+        "name": "Zalando Corporate - Vestiaire Collective partnership",
+        "url": "https://corporate.zalando.com/en/brands-retailers/zalando-partners-vestiaire-collective-authenticated-luxury-opening-pre-owned"
+      },
+      {
+        "name": "Ecommerce News EU",
+        "url": "https://ecommercenews.eu/zalando-partners-with-vestiaire-collective"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-06-03",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【5/18 ecommercenews.eu】德國 Otto marketplace 對波蘭賣家開放（次月試點）：繼荷蘭後第二國，€99.9 月費 + 德語客服必備",
+    "summary": "德國第三大平台主動國際化招商，搶 Amazon DE 的第三方賣家供給：\n        ① 開放波蘭（ecommercenews.eu 5/18）：德國第三大 marketplace（GMV 僅次 Amazon、eBay）Otto 宣布把 Otto.market 對波蘭賣家開放、下月起試點，為繼荷蘭（兩個月前開放）之後第二個開放國家，是 Otto 近兩年籌備向他國夥伴擴張的一步。\n        ② 進入門檻：原本上架 Otto.de 須具德國法人實體與德國 VAT ID；現在荷蘭、即將波蘭的實體與稅號者只要參與 OSS（One-Stop Shop）即可加入。基本月費 €99.90（不論商品數量），且須提供德語客服（強制）。\n        ③ 後續國家：據 B2B 入口，奧地利、法國、西班牙、丹麥年內陸續開放；退貨須在德國或上述國家（含義大利、捷克）設倉，暗示義、捷賣家亦可能獲准。\n        結論：Otto 嚴選夥伴、逐家審核以維持商品品質，與 Amazon DE 的開放式 marketplace 路線不同，但正面爭奪同一批德國市場的跨境賣家供給。",
+    "public_impact": "德國第三大 marketplace（GMV 僅次 Amazon、eBay）Otto 宣布把 Otto.market 對波蘭賣家開放、下月起試點，為繼荷蘭後第二個開放國家。原本上架須具德國法人實體與德國 VAT ID，現在荷蘭、即將波蘭的實體與稅號者只要參與 OSS 即可加入；基本月費 €99.90（不論商品數量），且須提供德語客服（強制）。據 B2B 入口，奧地利、法國、西班牙、丹麥年內陸續開放，退貨須在德國或上述國家設倉。對想進德國市場的跨境賣家而言，這多了一個通路選擇，但德語客服強制、月費與設倉退貨要求是不低的成本門檻；Otto 採嚴選、逐家審核模式以維持品質。",
+    "public_action": "① 想拓展德國市場的賣家（尤其荷蘭、波蘭等鄰近國家）可評估 Otto.market 作為通路選擇，但須先算清德語客服、€99.9 月費與設倉退貨的總成本；② Otto 採嚴選審核，家居、時尚等其強勢品類賣家較有機會通過；③ 多平台佈局時比較各平台的門檻、流量與物流方案，選擇與自身品類和資源最匹配者，不必盲目鋪通路；④ 留意 Otto 奧地利、法國、西班牙、丹麥的後續開放時程，本土平台集體國際化招商是歐洲電商的結構性趨勢。",
+    "sources": [
+      {
+        "name": "Ecommerce News EU - Otto opens to Polish sellers",
+        "url": "https://ecommercenews.eu/otto-opens-to-polish-sellers"
+      },
+      {
+        "name": "Otto Market - Shipping & Returns",
+        "url": "https://www.otto.market/en/howitworks/shipping-returns.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-06-02",
     "type": "daily",
     "tags": [
