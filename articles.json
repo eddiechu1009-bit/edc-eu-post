@@ -1,5 +1,123 @@
 [
   {
+    "date": "2026-06-11",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/11 ECB】今日 12:15 GMT 利率決議：市場 99.6% 定價 +25bp 升至 2.25%（2022 以來首升），Lagarde presser 定調是否續升",
+    "summary": "歐元區進入升息週期的關鍵一天，EUR/USD 與下半年招商財務假設全繫於今日 presser 的鷹鴿訊號：\n        ① 決議內容（ECB / Reuters poll 6/3 / Polymarket）：ECB 今日（6/11）12:15 GMT 公布利率決議，市場以 99.6% 機率定價升 25bp、deposit facility rate 由 2.00% 升至 2.25%，main refinancing rate 升至 2.40%。Reuters 6/3 民調 80 位經濟學家有 74 位預期升息。\n        ② 為何升：歐元區 5 月 HICP flash 3.2% YoY（4 月 3.0%），能源因中東 Iran 戰事漲價、服務通膨 3.5%，4 月會議紀要顯示部分委員當時就「不反對升息」，Schnabel、Villeroy、Panetta 一致放鷹。\n        ③ 經濟背景：這是 stagflation 兩難——歐元區成長預估 2026 全年 <1%（EC 春季預測 0.9%），卻被迫為通膨升息，是 2024-25 降息週期的反轉。\n        結論：升息本身已 priced-in，真正變數是 presser 是否暗示 9 月再升一碼（逾 60% 經濟學家、市場約 50% 預期）。鷹派續升訊號 → EUR 走強、歐元計價賣家獲利受擠；若 Lagarde 偏「one-and-done」→ EUR 回落、利差收斂。",
+    "public_impact": "ECB 今日（6/11）12:15 GMT 公布利率決議，市場以 99.6% 機率定價升 25bp、存款利率由 2.00% 升至 2.25%，main refinancing rate 升至 2.40%，將是 2022 以來首度升息、反轉 2024-25 降息週期。升息主因是歐元區 5 月 HICP flash 升至 3.2% YoY、能源因中東戰事漲價、服務通膨 3.5%。但歐元區 2026 全年成長預估不到 1%，形成「通膨高、成長弱」的兩難。對跨境賣家而言，升息本身已被市場消化，真正變數是 Lagarde 記者會是否暗示 9 月再升一碼：若釋出續升訊號，歐元偏強（近 1.15-1.16），對美出口的歐洲品牌競爭力下滑、以美元進貨的歐洲賣家成本變輕；若偏向「升一次就停」，歐元可能回落。升息同時推升 SME 融資成本，下半年旺季備貨的資金壓力上升。",
+    "public_action": "① 即時追今日 12:15 GMT 決議與 12:45 GMT Lagarde 記者會，重點看「9 月是否再升」與「升息終點」措辭，當日更新匯率與利率假設；② 歐元計價的大賣家準備 EUR/USD base 1.16、upside 1.19、downside 1.14 三套定價與避險預案；③ 倚賴信貸備貨的賣家注意 Q3 融資成本上行，Prime Day 備貨資金提前鎖定、避免旺季臨時調度；④ 監控 6/16 歐元區 5 月 HICP 終值與 7/22-23 ECB 下次會議，確認升息是否延伸；⑤ 升息疊加成長不到 1%、終端消費偏弱，下半年選品與定價以「升息 + 弱需求」雙因子重算，剛需與低單價品類適度加碼。",
+    "sources": [
+      {
+        "name": "Reuters - ECB June hike a done deal",
+        "url": "https://www.reuters.com/business/ecb-june-hike-done-deal-another-likely-september-economists-say-2026-06-03"
+      },
+      {
+        "name": "Polymarket - ECB June 2026",
+        "url": "https://polymarket.com/event/ecb-interest-rates-june-2026"
+      },
+      {
+        "name": "Euronews - ECB rate hike in focus",
+        "url": "https://www.euronews.com/business/2026/05/29/ecb-rate-hike-in-focus-as-eurozones-big-four-report-stubbornly-high-inflation"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-06-11",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/10 BLS】美國 5 月 CPI 4.2% YoY（3 年新高）、汽油年漲 40.5%，但 core MoM +0.2% 偏軟：Fed 料按兵到 2027",
+    "summary": "美國通膨因 Iran 戰事能源衝擊衝上 3 年高點，但核心偏軟，Fed 鎖定高利率更久、影響 EUR/USD 與全球需求：\n        ① 頭條數據（BLS / Reuters / CNBC 6/10）：5 月 CPI 4.2% YoY（4 月 3.8%），為 2023/4 以來最高；MoM +0.5%。能源占當月漲幅逾 60%，能源 YoY +23.5%、汽油 MoM +7%／YoY +40.5%。\n        ② 核心偏軟：core CPI YoY 2.9%（4 月 2.8%），但 core MoM +0.2% 低於預期，住房 +0.3%、食品 +0.2%，顯示通膨集中在能源、非全面擴散。\n        ③ 政策含意：Reuters 指數據「給 Fed 更多理由維持利率不動至 2027」；5 月就業連 3 月超預期，市場一度反向 price-in 升息。Trump 稱「我愛通膨」、戰事結束就會「像石頭一樣掉下來」。\n        結論：美歐同步面臨能源驅動通膨，但 Fed 按兵、ECB 升息 → 利差走向牽動 EUR/USD；油價與中東局勢仍是兩地通膨與運費的共同上行風險。",
+    "public_impact": "美國勞工統計局 6/10 公布 5 月 CPI 升至 4.2% YoY（4 月 3.8%），為 2023 年 4 月以來最高，MoM +0.5%；能源占當月漲幅逾 60%，能源年漲 23.5%、汽油月漲 7%、年漲 40.5%。不過核心 CPI 為 2.9% YoY、核心 MoM 僅 +0.2% 低於預期，顯示通膨集中在能源、非全面擴散。Reuters 指數據給 Fed 更多理由維持利率不動至 2027。對跨境賣家而言，美國 Fed 按兵、歐洲 ECB 升息，美歐利差走向牽動 EUR/USD 與跨境定價的不確定性；美歐能源同步上漲（美汽油 +40.5%、歐元區能源 +12.3%），能源密集品類的到岸成本與運費兩地同升；美國 CPI 超過薪資成長，當地終端需求承壓，影響對美出口賣家的銷量與定價彈性。Iran 戰事是同時推升美歐通膨與油價、運費的共同上行風險。",
+    "public_action": "① 把美國 Fed 與歐洲 ECB 的利率路徑並列監控，更新 EUR/USD 與美歐需求假設；② 把美汽油 +40.5%、歐元區能源 +12.3% 的能源溢價納入下半年運費與到岸成本，能源密集品類（家電、家具、3C）毛利重算；③ 有 EU→US 出口鏈路的賣家注意美國終端需求轉弱與高通膨，評估定價與促銷節奏；④ 監控油價、Brent 走勢、Iran 戰事進展與美國下期 CPI，戰事降溫是通膨與運費同步回落的關鍵觸發；⑤ 在匯率波動加大期間，歐元與美元計價的賣家分別評估遠期鎖匯，降低跨境結算的匯損風險。",
+    "sources": [
+      {
+        "name": "Reuters - US CPI May 2026",
+        "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10"
+      },
+      {
+        "name": "CNBC - Inflation breakdown",
+        "url": "https://www.cnbc.com/2026/06/10/heres-the-inflation-breakdown-for-may-2026-in-one-chart.html"
+      },
+      {
+        "name": "Fox Business - CPI May 2026",
+        "url": "https://www.foxbusiness.com/economy/cpi-inflation-may-2026"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-06-11",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【6/4 ChannelEngine】Amazon AI 助手 Rufus 已逾 2.5 億人用、成主要選品入口：6/23-26 Prime Day 未做 AI 化 listing 居結構性劣勢",
+    "summary": "Prime Day 前最後備戰窗口，Amazon 選品邏輯正從關鍵字搜尋轉向 AI 對話式推薦，listing 沒對齊就吃不到流量：\n        ① 規模數據（ChannelEngine / Amazon / Jungle Scout 聯合資料 6/4）：Amazon AI 購物助手 Rufus 已有逾 2.5 億人使用、成為平台「主要選品入口」；Prime Day 2025 美國線上銷售達 $241 億、YoY +30%。\n        ② 機制轉變：Rufus 已整合進 Alexa，靠對話式查詢、綜合內容/圖片/評論/屬性給推薦，而非傳統關鍵字搜尋——只針對舊式 SEO 調的 listing 在新系統下可能「不被看見」。\n        ③ 時間風險：Amazon 主管指「Rufus 需要時間索引你的內容才會在流量到來前生效」，早動手者表現優於最後一刻優化者；Prime Day 6/23-26，意味調整窗口僅剩約 2 週。\n        結論：報告點名五大賣家優先項（可見度/庫存/定價/廣告/營運），核心是「Prime Day 不是在當天贏的、是在前幾週贏的」，未做 AI 化內容的賣家落於結構性劣勢。",
+    "public_impact": "ChannelEngine 偕 Amazon、Jungle Scout 於 6/4 指出，Amazon 的 AI 購物助手 Rufus 已有逾 2.5 億人使用、成為平台主要的選品入口（Prime Day 2025 美國線上銷售達 241 億美元、年增 30%）。Rufus 已整合進 Alexa，靠對話式查詢綜合內容、圖片、評論與屬性給推薦，而非傳統關鍵字搜尋；只針對舊式 SEO 調整的 listing 在新系統下可能「不被看見」。Amazon 主管提醒「Rufus 需要時間索引內容才會在流量到來前生效」，早動手者表現優於最後一刻優化者。由於 Prime Day 落在 6/23-26，調整窗口僅剩約兩週。對跨境賣家而言，listing 內容是否「AI-ready」（完整屬性、A+ 內容、結構化賣點、健康評論）直接影響活動期的曝光與銷售，未做 AI 化內容的賣家會落於結構性劣勢。",
+    "public_action": "① 本週對主力 listing 做「AI-ready」內容檢查，補齊完整屬性、A+ 內容、結構化賣點與評論，趕在 Prime Day 索引窗口前完成；② 排查被抑制的 listing 並補齊合規與屬性欄位，避免活動期吃不到 AI 推薦流量；③ Prime Day 廣告活動提前開跑，預留演算法索引與優化時間；④ 把產品內容深度（圖片、影片、問答、評論經營）當成長期投資，AI 推薦重內容與屬性，內容做得深的品牌更容易被推薦；⑤ 監控 6/23-26 Prime Day 表現與 Rufus、語音購物相關功能更新，把 AI 選品納入長期經營框架，而非單次活動的臨時優化。",
+    "sources": [
+      {
+        "name": "PR Newswire - ChannelEngine on Rufus",
+        "url": "https://www.prnewswire.com/news-releases/channelengine-highlights-amazons-ai-assistant-reaching-250-million-shoppers-ahead-of-prime-day-2026-302791874.html"
+      },
+      {
+        "name": "About Amazon - Prime Day 2026",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-prime-day-2026-date"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-06-11",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【9/1 倒數】法國 B2B 強制電子發票上路：大中型企業先行、2027 輪中小微，採 PDP/PPF Y-model 近即時申報",
+    "summary": "法國境內 B2B 交易的開票與申報方式即將全面數位化，在法國有 B2B 業務或本地實體的賣家須在 9 月前接好系統：\n        ① 時程與對象（VATupdate 6/8 / 多家稅務顧問）：法國 B2B 強制電子發票自 2026/9/1 起適用於大型與中型企業，2027/9/1 起擴及中小與微型企業；原訂 2024/7 上路、兩度延後至此。\n        ② 技術模型：採去中心化 Y-model——企業透過認證的 Approved Platform（PA/PDP）連到公共開票入口（PPF），為 近即時申報（非預先清算 pre-clearance）。\n        ③ 範圍與格式：B2B 境內交易強制電子發票、B2C 與跨境走 e-reporting；接受 UBL 2.1、CII、Factur-X（EN 16931 相容）；法國 e-reporting 還涵蓋服務的付款資料，為他國少見。\n        ④ 罰則：每張不合規發票 €15、每申報期設上限，初期有寬容期。\n        結論：這與 EU ViDA 2030 全面跨境 B2B 電子發票同向，法國是 EU5 最大市場之一先行者，在法有 B2B 開票需求的賣家須提前接 PDP。",
+    "public_impact": "法國 B2B 強制電子發票自 2026/9/1 起適用於大型與中型企業，2027/9/1 起擴及中小與微型企業（原訂 2024/7 上路、兩度延後）。法國採去中心化 Y-model：企業透過認證的合格平台（PA/PDP）連到公共開票入口（PPF），為近即時申報而非預先清算；B2B 境內交易強制電子發票，B2C 與跨境交易走電子報送（e-reporting），接受 UBL 2.1、CII、Factur-X 等 EN 16931 相容格式，每張不合規發票罰 €15、每申報期設上限、初期有寬容期。對跨境賣家而言，在法國做 B2B（含對法國企業開票、Amazon Business）的賣家 9/1 起須能透過 PDP 開立與接收結構化電子發票。這與 EU ViDA 2030 全面跨境 B2B 電子發票同向，法國是先行者，德國、比利時、波蘭等也陸續跟進，是賣家財稅系統的長期升級。",
+    "public_action": "① 在法國做 B2B 的賣家本月確認 ERP 或開票工具是否支援結構化電子發票（Factur-X / UBL 2.1 / CII），9/1 前接好 PDP/PPF 流程；② 檢查系統格式相容性，避免每張不合規發票 €15 的罰款累積；③ 把法國（9/1 大中型）、德國、比利時、波蘭與 ViDA 2030 的電子發票時程整理成跨國時程表，一次規劃財稅系統升級而非逐國臨時應對；④ 與會計或稅務顧問確認 B2B 與 B2C/跨境（e-reporting）的不同義務，釐清自身交易結構落在哪一類；⑤ 監控法國 PDP 認證平台清單與 9/1 寬容期細則，選擇已認證、能對接多國的開票服務商。",
+    "sources": [
+      {
+        "name": "VATupdate - E-Invoicing & E-Reporting Explained",
+        "url": "https://www.vatupdate.com/2026/06/08/e-invoicing-e-reporting-explained-why-mandates-can-look-similar-but-behave-differently-in-practice"
+      },
+      {
+        "name": "OriginStamp - EU e-invoicing timeline",
+        "url": "https://originstamp.com/en/blog/reader/eu-e-invoicing-mandates-timeline-2026-2030"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-06-11",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【mid-2026 上線】EU 數位產品護照 DPP 登錄中心啟用：電池 2027/2 強制、紡織電子 2027 末跟進，跨境品牌須建產品資料鏈",
+    "summary": "ESPR 另一支柱由概念變法定基建，DPP 中央登錄系統年中上線、品類分階段強制，跨境品牌的產品資料治理須提前佈局：\n        ① 登錄中心上線（Smartlinks / Certivo 6/4，ESPR Regulation (EU) 2024/1781）：EU 數位產品護照（DPP）中央登錄系統預計 mid-2026 上線，作為「索引」指向 DPP 資料存放位置（非集中儲存）；同年另有 8 項調和標準規範資料格式與互通性。\n        ② 品類時程：2027/2 電池 DPP 強制（含工業、EV、可攜式電池）；2027 末紡織與電子預計依各自授權法案要求 DPP；2028-2030 家具、輪胎、清潔劑、建材陸續納入。\n        ③ 技術要求：DPP 須透過 QR code 或 NFC 等資料載體實體附於產品或包裝，須機器可讀、可互通，向消費者/監管/回收者開放，含完整 BOM（含關切物質）、環境足跡、可修復評分、回收含量、合規文件與供應鏈溯源。\n        結論：DPP 與 7/19 ESPR 銷毀禁令是同一母法的不同支柱。任何「在 EU 市場販售」的產品（含非 EU 出口商）都受涵蓋，準備窗口從現在開始。",
+    "public_impact": "依 ESPR（Regulation (EU) 2024/1781），EU 數位產品護照（DPP）中央登錄系統預計 2026 年中上線，作為索引指向 DPP 資料存放位置（非集中儲存），同年另有 8 項調和標準規範資料格式與互通性。品類分階段強制：2027/2 電池 DPP（含工業、EV、可攜式電池），2027 年底紡織與電子預計依各自授權法案要求 DPP，2028-2030 家具、輪胎、清潔劑、建材陸續納入。DPP 須透過 QR code 或 NFC 等資料載體實體附於產品或包裝，機器可讀、可互通，向消費者、監管與回收者開放，內容含完整物料清單（含關切物質）、環境足跡、可修復評分、回收含量、合規文件與供應鏈溯源。任何在 EU 市場販售的產品（含非 EU 出口商）都受涵蓋。DPP 與 7/19 ESPR 未售品銷毀禁令是同一母法的不同支柱，準備窗口從現在開始。",
+    "public_action": "① 在 EU 銷售電池、3C、紡織品類的賣家提早盤點產品資料缺口，因應電池 2027/2、紡織電子 2027 年底的 DPP 時程；② 建立產品級資料鏈（完整物料清單、關切物質、回收含量、環境足跡、供應鏈溯源），並規劃 QR code 或 NFC 載體導入；③ 把 7/19 ESPR 未售品銷毀禁令、2026 年中 DPP 登錄中心上線、2027 品類強制整併成單一 ESPR 合規時間軸，統一規劃而非逐項應對；④ 非 EU 出口商注意，凡在 EU 市場販售即適用，提早與供應商協作取得上游資料；⑤ 監控 DPP 登錄中心正式上線日、8 項調和標準定稿與各品類授權法案細則，選擇能對接 DPP 資料格式的合規或產品資訊管理工具。",
+    "sources": [
+      {
+        "name": "Smartlinks - EU DPP 2026",
+        "url": "https://www.smartlinks.app/blog/eu-digital-product-passports-2026-real-work-begins"
+      },
+      {
+        "name": "EC - ESPR (Regulation (EU) 2024/1781)",
+        "url": "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-06-05",
     "type": "daily",
     "tags": [
