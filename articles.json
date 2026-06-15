@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-15",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/15 Reuters】美伊達協議將重開荷莫茲海峽、解除封鎖：Brent 早盤 -4.7% 摔到 $83.25（3/10 來新低）、EUR/USD +0.4% 至 1.1608，股市風險偏好全面回升",
+    "summary": "過去三個月壓著 EU 成本與通膨的「能源風險溢價」週末開始 unwind——這是 5 月以來最大的單一 macro 反轉，Q3 油價與 EUR/USD 情境須立即下修：\n        ① 協議內容（Reuters 6/15）：Trump 與伊朗副外長宣布初步協議結束戰事、重開荷莫茲海峽，週五於瑞士簽署 MOU（巴基斯坦斡旋）；Trump 稱海峽將「免通行費」開放、美方解除對伊朗港口封鎖，伊朗 Mehr 通訊社稱海峽 30 天內重開，雙方進入 60 天停火談判更廣泛協議。\n        ② 油價反應（Reuters 6/15 約 0415 GMT）：Brent 跌 $4.08（-4.7%）至 $83.25、WTI 跌 $4.35（-5.1%）至 $80.53，雙雙創 3/10 以來新低（自 5 月高點 $126.41 大幅回落）。荷莫茲海峽是全球約 1/5 石油與 LNG 的咽喉，封鎖逾三月抽掉數百萬桶供給。\n        ③ 匯市與股市：美元普跌、EUR/USD +0.4% 至 1.1608、GBP/USD +0.3% 至 1.3446；EUROSTOXX 50 與 DAX 期貨皆 +1.7%、FTSE 期貨 +0.7%；亞股日經 +5.4%、韓股 +5.6%；黃金 +2.5% 至 $4,322。\n        ④ 變數：CBA 估流量只需回到戰前 60-70% 即回到「戰前供過於求」、年底 Brent 看 $80；但分析師提醒焦點將轉向「供給正常化速度與遵約」，海峽航行自由細節仍不明。E4（英法德義）表態願在伊朗核步驟後解除制裁。\n        結論：能源通膨壓力鬆動，正好趕在本週 Fed/BoE/BoJ 議息前「改變央行的對話」——對 EU5 消費信心與物流燃油成本都是 tailwind。",
+    "public_impact": "美伊週末達成初步協議將重開荷莫茲海峽、解除港口封鎖，週五於瑞士簽署 MOU、進入 60 天停火，伊朗稱海峽 30 天內重開。市場反應強烈：6/15 早盤 Brent 跌 4.7% 至 $83.25、WTI 跌 5.1% 至 $80.53，雙雙創 3 月 10 日以來新低（自 5 月高點 $126.41 大幅回落）；EUR/USD 升 0.4% 至 1.1608、EUROSTOXX 50 與 DAX 期貨皆漲 1.7%、黃金漲 2.5%。荷莫茲海峽是全球約五分之一石油與 LNG 的咽喉，過去三月封鎖抽掉大量供給。對跨境賣家而言，能源風險溢價 unwind 直接緩解物流燃油與海運 BAF 附加費的上行壓力，EUR/USD 走強對以美元進貨的歐元收入賣家改善毛利，油價回落也支撐 EU5 消費信心，對非必需品需求是利多——正好趕在 Prime Day 6/23-26 檔期前。但協議仍屬初步、60 天停火內變數大，賣家財務假設宜中性偏多，待週五 MOU 簽署與海峽實際重開再確認。",
+    "public_action": "① 受 6 月亞歐運價暴衝影響的賣家可更新成本評估，Brent $83 vs 前高 $126，Q3 到岸成本不必照最壞情境鎖定；② 油價跌帶動消費信心，3C、家電、家居等非必需品 Prime Day 6/23-26 備貨量可較保守情境略上調；③ 歐元計價賣家若擔心 EUR 續強擠壓對美毛利，可觀察週五瑞士 MOU 簽署後匯率走向再決定是否對沖；④ 監控週五美伊 MOU、海峽 30 天重開時程、本週 Fed 6/17-18 議息三個節點，任一不如預期油價會反彈。",
+    "sources": [
+      {
+        "name": "Reuters / Yahoo Finance（油價）",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/oil-slips-4-us-iran-000721917.html"
+      },
+      {
+        "name": "Reuters / Yahoo Finance（市場反應）",
+        "url": "https://finance.yahoo.com/markets/articles/shares-jump-oil-skids-asia-225712362.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-06-15",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【6/15 aboutamazon.eu】Amazon 2025 創紀錄投歐 €600 億、撐 150 萬個工作；今日公布瑞典十年投 420 億 SEK：在地化大投資是強化招商的最有力 anchor",
+    "summary": "Amazon 用「在地投資 + SME 出口」雙敘事鞏固 EU 平台地位——這是招商談「為什麼選 Amazon EU」時最硬的官方數據彈藥：\n        ① 全歐投資（aboutamazon.eu 6/4）：2025 年投歐 逾 €600 億（歷年最大、其中 EU 境內 €400 億+），撐起 逾 150 萬個工作（含 23 萬直接員工 + 60 萬個 SME 賣家相關工作）。國別：西班牙 €337 億（該國史上最大科技投資）、法國 €150 億+ 創 7,000 個常職、波蘭 €50 億+、荷蘭 €14 億+。\n        ② SME 出口里程碑：歐洲 SME 銷售首破 €600 億、EU 籍 SME 達 €400 億+，由跨境貿易帶動。Alexa+ 已在 6 國（英義西德奧法）上線。\n        ③ 瑞典案例（aboutamazon.eu 6/15）：十年投 逾 420 億 SEK、2025 單年 14 億 SEK，貢獻 GDP 240 億 SEK、撐逾 1 萬個工作；瑞典 SME 逾 80%在 Amazon 上做全球出口（主力市場德美法奧義）、2025 出口額逾 26 億 SEK，屬於 10 萬家 EU SME 創 4,400 億 SEK的一環。\n        結論：官方把「招商價值」量化為具體投資與 SME 出口數據，是對潛在賣家證明 Amazon EU 是長期、在地、可擴張通路的最佳素材。",
+    "public_impact": "Amazon 6/4 公布 2025 年投歐逾 €600 億（歷年最大、EU 境內 €400 億+），撐起逾 150 萬個工作（含 60 萬個 SME 賣家相關工作）；國別投資西班牙 €337 億、法國 €150 億+、波蘭 €50 億+、荷蘭 €14 億+。歐洲 SME 在 Amazon 銷售首破 €600 億、EU 籍 SME 達 €400 億+，由跨境貿易帶動。6/15 進一步公布瑞典案例：十年投逾 420 億 SEK，瑞典逾 80% 的中小企業透過 Amazon 做全球出口（主力市場德美法奧義）、2025 出口額逾 26 億 SEK，屬於 10 萬家 EU SME 創 4,400 億 SEK 的一環。對跨境賣家而言，這組數據顯示平台在歐洲的長期投入與在地履約能力持續擴張，跨境出口仍是 SME 在 Amazon 成長的主引擎；在 EUR3 與海關改革抬高直郵成本的背景下，善用在地倉與多國佈局的賣家相對更有優勢。（投資數字部分為 Keystone Strategy / Oxford Economics 估算）",
+    "public_action": "① 多國佈局的賣家可參考瑞典 SME「80% 透過平台跨境出口、主力德美法奧義」的路徑，評估自身的跨境市場優先序；② 在 7/1 EUR3 每件 €3 與海關改革抬高直郵成本的背景下，評估把熱賣 SKU 提前進 EU 在地倉以降低到岸成本並改善配送時效；③ 小語區 / 北歐賣家可把跨境出口（而非單一本國市場）視為成長主軸；④ 引用官方投資數據時留意部分為第三方機構估算。",
+    "sources": [
+      {
+        "name": "aboutamazon.eu（€600 億投歐）",
+        "url": "https://www.aboutamazon.eu/news/job-creation-and-investment/amazon-invested-a-record-60-billion-in-europe-in-2025-and-now-supports-over-1-5-million-jobs-across-the-region"
+      },
+      {
+        "name": "aboutamazon.eu（瑞典投資）",
+        "url": "https://www.aboutamazon.eu/news/job-creation-and-investment/building-swedens-next-chapter-how-amazons-investment-fuels-jobs-ai-and-carbon-free-energy"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-06-15",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【6/11 ecommercenews.eu】easyGroup 推 easyShop 進 21 國 marketplace（OnBuy 技術）+ 啟用 easyCourier 切末端配送：歐洲平台戰場再添一家「純 marketplace」",
+    "summary": "easyJet 母集團 easyGroup 把「easy」品牌延伸到電商與物流——歐洲 marketplace 玩家又多一家，賣家可選通路再擴大、但也意味碎片化加劇：\n        ① easyShop marketplace（ecommercenews.eu 6/11）：建在 OnBuy 技術之上、將於今年稍晚在 21 個歐洲國家上線（與 OnBuy 現有市場一致），定位「純 marketplace」——平台不自營、不與夥伴賣家競爭，與 Amazon 1P+3P 混合模式形成對比。\n        ② easyCourier 末端配送：easyGroup 把賽普勒斯物流商 Svelta Courier 改名 easyCourier，先在賽普勒斯提供當日急件快遞（面向電商與個人），計畫向歐洲擴張，把配送網與 easyShop 電商佈局綁在一起。\n        ③ 戰略意涵：easyGroup 用旅遊起家的國際品牌知名度切電商，但目前仍是早期、賽普勒斯起步、無公開定價；對 Amazon 不構成立即威脅，但「純 marketplace、不與賣家競爭」的定位是針對 Amazon 自營疑慮的差異化賣點。\n        結論：歐洲 marketplace 戰場（Kaufland、Otto、Zalando、TikTok Shop、JD Joybuy 之後再加 easyShop）持續碎片化，賣家通路選擇變多，但多平台維運成本與合規負擔同步上升。",
+    "public_impact": "easyJet 母集團 easyGroup 把「easy」品牌延伸到電商與物流。easyShop marketplace 建在 OnBuy 技術之上、將於今年稍晚在 21 個歐洲國家上線，定位「純 marketplace」——平台不自營、不與夥伴賣家競爭。同時 easyGroup 把賽普勒斯物流商 Svelta Courier 改名 easyCourier，先在賽普勒斯提供當日急件快遞、計畫向歐洲擴張，把配送網與電商佈局綁在一起。目前仍屬早期、賽普勒斯起步、無公開定價。對跨境賣家而言，歐洲 marketplace 戰場（Kaufland、Otto、Zalando、TikTok Shop、JD Joybuy 之後再加 easyShop）持續碎片化，通路選擇變多但多平台維運成本與合規負擔（VAT 註冊、GPSR、產品合規）同步上升，賣家須評估新平台的實際流量與履約能力再決定是否舖貨。",
+    "public_action": "① 評估新興 marketplace（如 easyShop）時，先看其實際流量、履約能力與目標市場是否與自身品類契合，不必盲目舖貨；② 多平台舖貨前先算清每個通路的維運與合規成本（各國 VAT 註冊、GPSR、產品安全）；③ 對在意平台是否自營競爭的品牌方，「純 marketplace」定位是差異點，但也須評估平台的成熟度與流量；④ 把 easyShop 等新平台列入觀察清單，待其今年稍晚 21 國上線後再評估實際表現。",
+    "sources": [
+      {
+        "name": "ecommercenews.eu（easyCourier / easyShop）",
+        "url": "https://ecommercenews.eu/easygroup-enters-parcel-delivery-market/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-06-15",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【6/12 EC 稅務關務總署】EU CBAM 碳邊境機制理事會達協議：擴及下游產品 + 強化反規避，9 月歐洲議會表決後進三方協商，鋼鋁水泥下游品類賣家須留意",
+    "summary": "CBAM 從「原物料」往「下游成品」擴張，意味更多含鋼鋁水泥的消費品可能進入碳邊境課稅範圍——跨境賣家的長期合規與成本軌跡須開始盤點：\n        ① 協議內容（EC 稅務關務總署 6/12）：理事會就「強化 CBAM」達成協議，擴大範圍至特定下游產品、強化既有反規避保障，並調整電力相關規則與技術性修改。委員會於 2025/12 提案，理事會 6/12 達協議。\n        ② 後續時程：歐洲議會預計 9 月全會表決確立立場，之後進入三方協商（trialogue），屆時「將有進一步實質討論」——表示最終範圍與細則仍可能變動。\n        ③ 範圍待明：官方新聞稿屬簡短摘要，未列出具體納入的下游產品清單、預設值（default values）或受影響行業細節，須待後續法規文本與 CBAM 官網更新。\n        結論：CBAM 此前聚焦鋼、鋁、水泥、化肥、電力、氫等原物料；擴及下游後，含這些材料的成品（如金屬製家具、五金、部分電器外殼）可能逐步納入，對相關品類跨境賣家是中長期成本與申報負擔的結構性增加。",
+    "public_impact": "EU 稅務關務總署 6/12 公布理事會就「強化 CBAM 碳邊境調整機制」達成協議，重點為擴大範圍至特定下游產品、強化既有反規避保障，並調整電力相關規則。委員會 2025/12 提案、理事會 6/12 達協議，歐洲議會預計 9 月全會表決確立立場，之後進入三方協商，最終範圍與細則仍可能變動。官方新聞稿屬簡短摘要，未列出具體下游產品清單與預設值。CBAM 此前聚焦鋼、鋁、水泥、化肥、電力、氫等原物料；擴及下游後，含這些材料的成品（如金屬家具、五金、部分電器外殼）可能逐步納入，對相關品類跨境賣家是中長期的進口碳成本與申報負擔。CBAM 與 EUR3、海關改革、PPWR 同方向，整體抬高高碳與低值進口的成本、保護 EU 在地產能。",
+    "public_action": "① 金屬家具、五金、含鋼鋁外殼家電等品類的對歐出口賣家，可開始盤點產品材料的碳含量資料，為 CBAM 下游擴張預作準備；② 追蹤 9 月歐洲議會表決與後續三方協商，待具體下游產品清單與預設值公布再更新合規流程；③ 時程仍早、範圍未明，目前以「持續關注」為主，不需立即行動；④ 把 CBAM 與 EUR3、海關改革、PPWR 一起視為 EU 進口合規成本全面上行的趨勢，評估在地供應鏈與履約佈局。",
+    "sources": [
+      {
+        "name": "EC 稅務關務總署（CBAM 理事會協議）",
+        "url": "https://taxation-customs.ec.europa.eu/news/commission-welcomes-council-agreement-strengthening-cbam-2026-06-12_en"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-06-15",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/15 Reuters】央行超級週開跑：Fed 料 6/17-18 按兵 3.50-3.75%、BoE 與 BoJ 同週議息（BoJ 估升至 1%）；油價急跌讓「能源通膨」籌碼鬆動、降息對話重啟",
+    "summary": "接續 ECB 6/11 升息 25bp，本週是全球央行超級週——美伊協議讓油價急跌、改變了所有央行的通膨對話，EUR/USD 與 Q3 利率路徑須一起重看：\n        ① Fed（Reuters 6/15）：市場預期 6/17-18 會議維持 3.50-3.75%不動；6/10 報過的美國 5 月 CPI 4.2% YoY（3 年高）讓 Fed 難鬆，但週末油價暴跌 unwind 能源通膨，給後續降息留出空間。\n        ② BoJ：日圓偏弱（USD/JPY 160.13），市場預期本週 升息至 1%，是日圓走向的關鍵變數。\n        ③ BoE：英國央行同週議息，在 UK 通膨與成長拉扯下，路徑受油價下行影響。\n        ④ 連動 ECB：ECB 已於 6/11 升 25bp 至 2.25%（17 日生效）、2026 成長下修至 0.8%、Lagarde 不預設路徑；油價急跌降低 HICP 上行風險，市場對 ECB 後續是否續升的定價將鬆動。\n        結論：油價這一摔「改變了央行的對話」——能源通膨壓力減輕，全球利率路徑由「擔心再升」往「觀望 / 留降息空間」傾斜，對 EU5 消費與賣家融資成本是中性偏多。",
+    "public_impact": "接續 ECB 6/11 升息 25bp 至 2.25%（17 日生效、2026 成長下修至 0.8%、不預設後續路徑），本週是全球央行超級週。市場預期 Fed 6/17-18 維持 3.50-3.75% 不動；BoJ 本週可能升息至 1%（日圓偏弱、USD/JPY 160）；BoE 同週議息。週末美伊協議令油價急跌（Brent -4.7% 至 $83.25），unwind 能源通膨壓力、改變所有央行的通膨對話，全球利率路徑由「擔心再升」往「觀望、留降息空間」傾斜。對跨境賣家而言，EUR/USD 回升至 1.1608 對以美元進貨的歐元收入賣家改善毛利；油價跌與利率路徑不再單向上行，支撐 EU5 家庭購買力與消費信心，對 Q3 非必需品需求是中性偏多，正好接 Prime Day 6/23-26 檔期。",
+    "public_action": "① 盯本週 Fed 6/17-18、BoE 與 BoJ 議息及記者會對油價下行與通膨路徑的措辭，作為 Q3 匯率與消費假設的依據；② 歐元計價賣家可留意 EUR/USD 回 1.16 後對美毛利改善，但美伊協議仍初步、匯率波動大，宜中性偏多；③ 可把「油價跌 + 利率觀望」納入 Prime Day 6/23-26 備貨樂觀情境，但不必全面上修；④ 需要鋪貨資金的賣家留意 ECB 升息已抬高歐元區借貸成本，提前評估融資時點。",
+    "sources": [
+      {
+        "name": "Reuters / Yahoo Finance（央行週與市場）",
+        "url": "https://finance.yahoo.com/markets/articles/shares-jump-oil-skids-asia-225712362.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-06-11",
     "type": "daily",
     "tags": [
