@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-06-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/17 Fed】Warsh 首會全票維持 3.50-3.75%、正式撤「寬鬆基調」，點陣圖轉「持平 vs 升息」分歧；2026 降息基本出局、市場開始定價升息",
+    "summary": "進展為何：昨日預告的「央行超級週」第二張底牌今日揭曉——Fed 在新主席 Warsh 首場會議如預期按兵，但溝通基調出現結構性轉向：從「等著降息」改為「可能要升息」，這比利率本身更關鍵：\n        ① 全票維持利率（Kiplinger / Barron's 6/17）：FOMC 維持聯邦基金利率 3.50-3.75%（自 2025/12 以來不變），且異於近期分歧投票，本次為全票一致；會前期貨定價約 97%機率不動。\n        ② 撤掉寬鬆基調：聲明刪去先前的降息傾向措辭，點名經濟活動「穩健」、勞動市場穩定；分析指這是「明確告別今年稍早的寬鬆語氣」。\n        ③ 點陣圖轉鷹：更新版經濟預測（SEP）顯示官員在「今年維持不動 vs 升息」之間分裂，3 月時還預估今年再降 2 碼的路徑已不成立；通膨假設上修、成長略下修。\n        ④ 背景：美 5 月 CPI 4.2%（3 年高）但核心偏軟、5 月就業報告強勁；油價端反向鬆動——Brent 6/16 跌破 $80 收 $78.96（3 月來首見），美伊預備協議將立即解除對伊制裁，Goldman 把 Q4 Brent 預估由 $90 下修至 $80、Morgan Stanley Q3 由 $100 降至 $90。\n        結論：Fed 利差結構維持、ECB 已於 6/11 升息，利差支撐 EUR 相對偏強；但 Fed 轉「不排除升息」+ 利率期貨已定價年底至少一次升息，是 Q3 跨幣別定價與美元資產波動的新變數。",
+    "public_impact": "美國聯準會（Fed）在新任主席 Warsh 主持的首場會議（6/16-17）如市場預期維持聯邦基金利率 3.50-3.75%（自 2025/12 以來不變），且本次為全票一致決議。比利率本身更重要的是溝通基調轉向：聲明刪去先前的降息傾向措辭，點名經濟活動「穩健」、勞動市場穩定；更新版經濟預測顯示官員在「今年維持不動 vs 升息」之間分裂，3 月時還預估今年再降 2 碼的路徑已不成立，通膨假設上修、成長略下修。背景上，美 5 月 CPI 4.2%（3 年高）但核心偏軟、就業強勁；油價反向鬆動——Brent 6/16 跌破 $80 收 $78.96（3 月來首見），美伊預備協議將立即解除對伊制裁，Goldman 把 Q4 Brent 由 $90 下修至 $80、Morgan Stanley Q3 由 $100 降至 $90。對跨境賣家而言，ECB 已升息、Fed 按兵且不排除升息，利差結構支撐歐元相對偏強，是 Q3 跨幣別定價與美元資產波動的新變數。",
+    "public_action": "① 歐元計價與對美出口賣家把 Q3 定價建在 EUR/USD base 1.16、upside 1.19、downside 1.14 三情境，並把「Fed 不排除升息」視為美元走強風險；② 若先前 forecast 押注「下半年 Fed 降息帶動美國消費回暖」，這個假設基本出局，跨站 Q3-Q4 美國需求預期宜回到中性；③ 油價急跌（Brent 跌破 $80、投行集體下修）對家電、家具、3C 等能源密集品類是成本利多，可重算到岸成本與毛利、評估定價空間，正好接旺季備貨；④ 追蹤 7/28-29 下次 FOMC、美後續 CPI 與霍莫茲海峽是否如期 7 月底復常。",
+    "sources": [
+      {
+        "name": "Kiplinger（Fed 全票維持、撤寬鬆基調）",
+        "url": "https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026"
+      },
+      {
+        "name": "Reuters（72/102 經濟學家估全年不動）",
+        "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09"
+      },
+      {
+        "name": "CNBC（Brent 跌破 $80）",
+        "url": "https://www.cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-06-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【6/17 ONS】UK 5 月 CPI 2.8% 低於預期、已低於 BoE 自估 Q2 3.1% 路徑；但運輸燃油 +6.8% 撐住、服務通膨升 3.7%，BoE 今日 6/18 料維持 3.75%",
+    "summary": "進展為何：昨日預告的 UK 5 月 CPI 今日揭曉，2.8% 低於市場估的 3.0%、且低於 BoE 自己在 4 月設定的 Q2 3.1% 路徑，理論上給降息留空間——但分項冷熱不均，加上能源風險，BoE 今日 6/18 中午料仍按兵：\n        ① CPI 低於預期（ONS / Trading Economics 6/17）：5 月 CPI 2.8% YoY（與 4 月持平、低於估 3.0%），為去年 3 月以來最低；MoM +0.2%。\n        ② 商品降、服務升：住房與家庭服務 2.7%（近兩年最軟）、食品 2.2%（2024/12 來最低）、服飾鞋類僅 0.2%；但服務通膨升至 3.7%（前 3.2%）、核心 CPI 2.6%（前 2.5%）。\n        ③ 運輸燃油是頂住通膨的主因：運輸通膨急升至 6.8%（前 4.5%、2022/12 來最高），由汽油價格帶動，反映中東衝突的能源溢價尚未完全消退。\n        ④ 今日節點：BoE 6/18中午公布利率決議（4/30 以 8-1 維持 3.75%、1 票主張升息）；Polymarket 定價 99.4%維持不變，市場焦點在後續是否轉鴿。\n        結論：CPI 已低於 BoE 自估路徑、商品端明顯降溫，但服務與燃油黏著、能源風險未解，BoE 料維持 3.75% 並維持「謹慎」，Amazon.co.uk Q3 GMV base 宜偏保守、待決議與 6/19 零售確認方向。",
+    "public_impact": "英國 5 月 CPI 於 6/17 公布為 2.8% YoY（與 4 月持平、低於市場估 3.0%），是去年 3 月以來最低，也低於英國央行（BoE）4 月設定的 Q2 3.1% 路徑。分項冷熱不均：住房與家庭服務 2.7%（近兩年最軟）、食品 2.2%（2024/12 來最低）、服飾鞋類僅 0.2%；但服務通膨升至 3.7%（前 3.2%）、核心 CPI 2.6%（前 2.5%），運輸通膨更急升至 6.8%（前 4.5%、2022/12 來最高），由汽油價格帶動，反映中東衝突能源溢價尚未完全消退。BoE 於 6/18 中午公布利率決議（4/30 曾以 8-1 維持 3.75%），市場定價約 99% 維持不變，焦點在後續是否轉鴿。對跨境賣家而言，UK 商品通膨明顯降溫利於價格敏感品類需求，但服務與燃油黏著仍擠壓家庭可支配所得。",
+    "public_action": "① 留意 6/18 BoE 決議與 6/19 UK 5 月零售，若 BoE 轉鴿且零售回穩，UK 站第四季旺季基本盤可略上修；② UK 站賣家把「服飾 0.2%、食品 2.2% 降溫 vs 服務 3.7% 黏著」納入分品類 Q3 基本盤，SKU mix 往必需品、低單價傾斜，大額非必需品維持保守；③ 若 BoE 轉鴿、英鎊走弱，跨境賣家可評估 GBP 收入的換匯時點與定價；④ 運輸與燃油成本仍黏著，留意對家庭可支配所得的擠壓尚未完全緩解。",
+    "sources": [
+      {
+        "name": "ONS / Trading Economics（5 月 CPI 2.8%、運輸 6.8%）",
+        "url": "https://tradingeconomics.com/united-kingdom/inflation-cpi"
+      },
+      {
+        "name": "ONS（5 月 CPI 公報、服務 3.7%）",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/may2026"
+      },
+      {
+        "name": "Polymarket（BoE 99.4% 維持）",
+        "url": "https://polymarket.com/event/bank-of-england-decision-in-june-221"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-06-18",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【7/1 倒數 13 天】EU 釋出 €3 關稅官方指南：按「稅則品項」每件 €3、非每包，5 件 T 恤算 €3、T 恤+手錶算 €6；PID 7/1 自願、11/1 強制",
+    "summary": "距 7/1 €3 小包過渡關稅上路剩 13 天，歐盟稅務總署 6/8 釋出官方指南與法律條文，把先前模糊的計費方式講清楚——關鍵是「按稅則品項計、不是按包裹計」，這會直接改變直送賣家的成本結構與選品策略：\n        ① 每件 €3、非每包（EC 稅務總署 6/8）：對價值 ≤€150的小包，按其內含「稅則品項（tariff classification）」每件課 €3固定關稅；指南舉例 5 件 T 恤算 €3（1 品項）、1 件 T 恤 + 1 支手錶算 €6（2 品項）。\n        ② 適用對象與期限：適用 IOSS 登記的賣家（涵蓋約 93%對歐電商貨流），實施至 2028/7/1 EU 海關資料中心上線為止；2025 年有近 59 億件低價小包免稅入歐。\n        ③ PID 產品識別碼時程：7/1起可自願申報 PID、11/1起強制，以強化溯源與安全查驗。\n        ④ 處理費另計：擬議中的「歐盟處理費」是費用、非關稅，金額與起始日預計 2026 秋敲定（業界傳約 €2/件）；由申報人（賣家/進口商）埋單、非消費者。\n        結論：€3 按品項計，對「單包多品項、低單價直送」的模式衝擊最大，會推賣家走「同品項合併出貨」與「歐洲在地倉」兩條路；對 Amazon 在地履約招商是結構性 tailwind。",
+    "public_impact": "距 7/1 €3 小包過渡關稅上路剩約兩週，歐盟稅務總署 6/8 釋出官方指南與法律條文，釐清計費方式：對價值 ≤€150 的小包，按其內含「稅則品項」每件課 €3 固定關稅，而非按包裹計——指南舉例 5 件 T 恤算 €3（1 品項）、1 件 T 恤加 1 支手錶算 €6（2 品項）。適用 IOSS 登記賣家（涵蓋約 93% 對歐電商貨流），實施至 2028/7/1 EU 海關資料中心上線為止；2025 年有近 59 億件低價小包免稅入歐。產品識別碼（PID）自 7/1 可自願申報、11/1 起強制，以強化溯源與安全查驗。另有擬議中的「歐盟處理費」屬費用、非關稅，金額與起始日預計 2026 秋敲定，由申報人（賣家或進口商）埋單、非消費者。對賣家而言，€3 按品項疊加，對「單包多品項、低單價直送」模式衝擊最大。",
+    "public_action": "① 把「每稅則品項 €3 + 秋季約 €2 處理費」納入 Q3 到岸成本重算，特別留意單包多品項的疊加風險；② 評估從「單品項合併出貨」「品項精簡」「歐洲在地倉拆包」三個方向降本；③ 仍走跨境直送的賣家在 11/1 PID 強制申報前備妥產品識別碼與資料鏈，避免通關卡關；④ 追蹤 7/1 €3 上路的各國執行細則，以及秋季歐盟處理費的金額與生效日定案。",
+    "sources": [
+      {
+        "name": "EC 稅務關務總署（€3 官方指南、PID 時程）",
+        "url": "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en"
+      },
+      {
+        "name": "EU 理事會（€3 每品項、93% 貨流）",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-06-18",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【6/17 JD】Joybuy 開放歐洲+中國第三方賣家入駐：從自營百貨轉 marketplace，JD 加碼歐洲平台布局、對 Amazon 招商正面對打",
+    "summary": "昨日報導 JD 用 JoyExpress 鋪 60+ 在地倉做履約，今日浮現的是商業模式的下一步——Joybuy 開放第三方賣家入駐，從「JD 自營百貨」轉成「開放 marketplace」，這是 JD 對歐洲招商的正面進攻，與 Amazon 搶的是同一批賣家：\n        ① 從 1P 轉 3P（Cross-Border Magazine 6/17）：Joybuy（JD.com 旗下歐洲零售平台）原以「第一方自營線上百貨」型態在歐洲上線，現準備開放給歐洲與中國的精選第三方賣家入駐。\n        ② JD 加碼歐洲：報導定調這是「JD.com 在歐洲 marketplace 布局的明顯升級」，Joybuy 雖仍新，但開放 3P 顯示 JD 準備在歐洲電商扮演更大角色。\n        ③ 與在地履約合流：搭配 JD Logistics 旗下 JoyExpress 在英德荷法的自營車隊與在地倉，JD 等於同時備齊「平台 + 履約」兩端，對標 Amazon「marketplace + FBA」的整體打法。\n        結論：歐洲 marketplace 競爭進入「招商搶賣家」的正面階段——JD 不只當低價直郵通路，而是要直接招歐洲與中國賣家上架；招商敘事須回到 Amazon 的流量規模、Prime 會員基數、廣告 ROI 與品牌工具的整體價值。",
+    "public_impact": "JD.com 旗下歐洲零售平台 Joybuy 於 6/17 傳出將開放歐洲與中國的精選第三方賣家入駐，從原本的「第一方自營線上百貨」型態轉為「開放 marketplace」。報導定調這是 JD.com 在歐洲 marketplace 布局的明顯升級，Joybuy 雖仍屬新平台，但開放第三方賣家顯示 JD 準備在歐洲電商扮演更大角色。搭配 JD Logistics 旗下 JoyExpress 在英、德、荷、法的自營車隊與在地倉，JD 等於同時備齊「平台 + 履約」兩端。對跨境賣家而言，歐洲 marketplace 競爭進入「平台搶賣家」的正面階段，賣家的鋪貨選項增加，但也意味要更清楚比較各平台在流量、會員基數、廣告與履約上的實際差異。",
+    "public_action": "① 把 JD Joybuy 開放第三方賣家與其在地倉布局，納入歐洲平台觀察清單，理解競爭已從「直郵 vs 在地」進入「平台招商搶賣家」階段；② 評估新平台時務實比較各通路在轉換率、客單價、會員復購、廣告與品牌工具上的實際差異，鎖定自身主力通路；③ 多通路鋪貨可分散風險，但建議集中資源在數據表現最好的核心平台；④ 追蹤 Joybuy 第三方招商的費率、品類與在地倉政策等條件，再決定是否入駐。",
+    "sources": [
+      {
+        "name": "Cross-Border Magazine（Joybuy 開放第三方賣家）",
+        "url": "https://cross-border-magazine.com/joybuy-opens-to-european-sellers"
+      },
+      {
+        "name": "Yahoo Finance（JoyExpress 在地倉布局）",
+        "url": "https://finance.yahoo.com/news/jd-com-launches-joybuy-marketplace-095012782.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-06-18",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【6/17 平台/支付】歐洲三訊號同日浮現：ACI 接入 EPI Wero 泛歐錢包（SEPA 即時軌）、Merchantee €180萬 + ShopAgentic €190萬 agentic 電商募資",
+    "summary": "6/17 歐洲電商工具圈同日三則訊號，合起來指向兩個結構趨勢：泛歐即時支付軌成形、agentic（自主代理）電商基建吸金——這兩件事中長期會改寫賣家的收款與營運方式：\n        ① 泛歐支付軌（Practical Ecommerce 6/17）：ACI Worldwide 以技術服務商身分加入歐洲支付倡議（EPI），整合 Wero 泛歐數位錢包——跑在 SEPA 即時支付軌上，支援 P2P、電商與 POS；商家與金融中介可向歐洲消費者與企業提供 Wero。\n        ② agentic 電商募資（一）：Merchantee 完成 €180 萬（$210 萬）募資，由 Reflex Capital 領投、Czech Founders VC 與 Lighthouse Ventures 跟投；平台以 AI 代理管理資料、決策、執行與優化，讓賣家設定預算/銷售上限自動跑折扣與動態定價。\n        ③ agentic 電商募資（二）：ShopAgentic 完成 €190 萬（$220 萬）pre-seed，由 May Ventures 與 Greenfield Capital 領投；以一組專責 AI 代理自動化選品、動態定價、客服與履約。\n        結論：Wero 代表歐洲想擺脫對 Visa/Mastercard 的依賴、建自己的即時支付軌；agentic 工具則把「定價/客服/履約」自動化往前推。兩者短期對招商無直接衝擊，但是賣家未來收款成本與營運效率的結構性變數，值得提早認識。",
+    "public_impact": "6/17 歐洲電商工具圈同日出現三則訊號，合起來指向兩個結構趨勢。其一是泛歐即時支付軌成形：ACI Worldwide 以技術服務商身分加入歐洲支付倡議（EPI），整合 Wero 泛歐數位錢包——跑在 SEPA 即時支付軌上，支援 P2P、電商與 POS，商家與金融中介可向歐洲消費者與企業提供 Wero。其二是 agentic（自主代理）電商基建吸金：Merchantee 完成 €180 萬（$210 萬）募資（Reflex Capital 領投），以 AI 代理管理資料、決策、執行與優化；ShopAgentic 完成 €190 萬（$220 萬）pre-seed（May Ventures、Greenfield Capital 領投），以專責 AI 代理自動化選品、動態定價、客服與履約。對跨境賣家而言，Wero 代表歐洲想建立自有的即時支付軌、降低對國際卡組織依賴，agentic 工具則把定價/客服/履約自動化往前推，兩者是未來收款成本與營運效率的結構性變數。",
+    "public_action": "① 把 Wero 泛歐錢包與 agentic 電商工具放進中長期觀察清單，作為未來收款成本與營運效率的背景趨勢，目前不需立即行動；② 營運成熟的賣家可開始了解 AI 自動化定價、客服、履約工具，評估能否提升效率；③ 留意泛歐即時支付軌普及後，對自有獨立站收款成本與到帳速度的影響；④ 追蹤 Wero 在主要市場的商家採用率，以及主流 agentic 工具是否整合主要電商平台 API。",
+    "sources": [
+      {
+        "name": "Practical Ecommerce（ACI/Wero、Merchantee、ShopAgentic 6/17）",
+        "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2026"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-06-17",
     "type": "daily",
     "tags": [
