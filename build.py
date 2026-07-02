@@ -353,12 +353,34 @@ def main():
             print(f"   其餘 {missing} 則為舊日報（未加 public-impact / public-action 註解塊），")
             print(f"   公開站只顯示 title + summary + sources。")
 
-    # 輸出 JSON
+    # 輸出全量 JSON（保留：搜尋 / 歷史瀏覽 / 分類切換時前端 lazy fetch 這份）
     output_path = os.path.join(output_dir, 'articles.json')
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
 
     print(f"\n✅ 已產出 {len(all_articles)} 則新聞 → {output_path}")
+
+    # ── 首屏加速：另產近 N 天的精簡檔 articles-recent.json ──
+    # index.html 首屏只 fetch 這份（行動裝置首次載入從全量 ~750KB 降到 ~120KB）；
+    # 使用者一旦搜尋 / 切分類 / 翻到更舊的頁，前端才 lazy fetch 全量 articles.json。
+    # all_articles 已按日期倒序，直接用日期門檻切片即可。
+    RECENT_DAYS = 30
+    recent_articles = all_articles
+    if all_articles:
+        from datetime import datetime as _dt, timedelta as _td
+        try:
+            latest = _dt.strptime(all_articles[0]['date'], '%Y-%m-%d')
+            cutoff = (latest - _td(days=RECENT_DAYS)).strftime('%Y-%m-%d')
+            recent_articles = [a for a in all_articles if a['date'] >= cutoff]
+        except (ValueError, KeyError):
+            recent_articles = all_articles  # 日期異常時退回全量，寧可大也不要漏
+    recent_path = os.path.join(output_dir, 'articles-recent.json')
+    with open(recent_path, 'w', encoding='utf-8') as f:
+        json.dump(recent_articles, f, ensure_ascii=False, indent=2)
+    _full_kb = os.path.getsize(output_path) / 1024
+    _recent_kb = os.path.getsize(recent_path) / 1024
+    print(f"   ✅ 首屏精簡檔：近 {RECENT_DAYS} 天 {len(recent_articles)} 則 "
+          f"→ articles-recent.json ({_recent_kb:.0f} KB vs 全量 {_full_kb:.0f} KB)")
 
     # 更新 index.html 最後更新日期
     update_last_date(output_dir, all_articles)

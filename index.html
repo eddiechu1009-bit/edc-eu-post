@@ -798,6 +798,28 @@ let currentSearch = '';
 const PER_PAGE = 10;
 let currentPage = 1;
 
+// ── 漸進載入：首屏只載近 60 天(articles-recent.json)，使用者一旦搜尋/切分類/翻頁
+//    才 lazy fetch 全量(articles.json)，把全站歷史無縫接上。─────────────────
+let fullDataLoaded = false;   // 全量是否已載入
+let fullDataPromise = null;   // 進行中的 fetch，避免重複請求
+function ensureFullData() {
+  if (fullDataLoaded) return Promise.resolve();
+  if (fullDataPromise) return fullDataPromise;
+  fullDataPromise = fetch('articles.json')
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(raw => {
+      articles = deduplicateAndMerge(raw);
+      fullDataLoaded = true;
+      renderGrid();  // 全量到齊後重繪，補上舊資料
+    })
+    .catch(e => {
+      // 全量載入失敗不影響已顯示的近期資料，只記錄
+      fullDataPromise = null;  // 允許下次互動再重試
+      console.error('Failed to load full articles.json:', e);
+    });
+  return fullDataPromise;
+}
+
 // ── HTML ESCAPE ──
 function esc(str) {
   if (!str) return '';
@@ -980,6 +1002,7 @@ function renderGrid() {
 
 function goPage(p) {
   currentPage = p;
+  ensureFullData();  // 翻到更舊的頁可能超出近 60 天，補載全量
   renderGrid();
   window.scrollTo({ top: document.querySelector('.section-header').offsetTop - 80, behavior: 'smooth' });
 }
@@ -1043,6 +1066,7 @@ document.querySelectorAll('.nav-link').forEach(link => {
     link.classList.add('active');
     currentFilter = link.dataset.filter;
     currentPage = 1;
+    ensureFullData();  // 切分類可能涉及舊資料，補載全量
     renderGrid();
   });
 });
@@ -1055,6 +1079,7 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
   searchTimer = setTimeout(() => {
     currentSearch = val;
     currentPage = 1;
+    if (val) ensureFullData();  // 搜尋要涵蓋全站歷史，補載全量
     renderGrid();
   }, 250);
 });
@@ -1078,7 +1103,14 @@ function showLoading() {
 async function initApp() {
   showLoading();
   try {
-    const resp = await fetch('articles.json');
+    // 首屏先載近 60 天精簡檔；不存在(舊 build 未產)則退回全量
+    let resp = await fetch('articles-recent.json');
+    if (resp.ok) {
+      // 首屏用 recent；全量待使用者互動時才 lazy 載
+    } else {
+      resp = await fetch('articles.json');
+      fullDataLoaded = true;  // 直接載了全量，不必再 lazy fetch
+    }
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const raw = await resp.json();
     articles = deduplicateAndMerge(raw);
