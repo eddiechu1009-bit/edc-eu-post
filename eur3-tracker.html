@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>7/1 三大新制生效追蹤：€3 小包關稅 · 免稅廢除 · EU-US 關稅 | EDC EU POST</title>
+<meta name="description" content="2026/7/1 歐盟三大貿易新制同日生效：€150 免稅廢除 + €3 小包過渡關稅、EU-US 貿易協議、鋼鐵保障新制。機制、成本試算、退貨二次清關陷阱與跨境賣家行動清單。">
+<meta name="author" content="Eddie Chu">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="7/1 三大新制生效追蹤 | EDC EU POST">
+<meta property="og:description" content="€3 小包關稅 · €150 免稅廢除 · EU-US 關稅：機制、成本試算、退貨陷阱與賣家行動清單。">
+<meta property="og:image" content="https://eddiechu1009-bit.github.io/edc-eu-post/ec-logo.png">
+<meta property="og:site_name" content="EDC EU POST">
+<meta property="og:locale" content="zh_TW">
+
+<link rel="icon" type="image/png" href="ec-logo.png">
+<link rel="apple-touch-icon" href="ec-logo.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;0,700&family=Noto+Sans+TC:wght@300;400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#f5f5f5;--surface:#ffffff;--text:#1a1a1a;--text-secondary:#555;--text-muted:#999;
+  --border:#ebebeb;--accent:#0c4a6e;--accent-light:#e0f2fe;
+  --eur3-bg:#fff7ed;--eur3-border:#c2410c;--eur3-accent:#9a3412;
+  --hi:#dc2626;--mid:#d97706;--lo:#16a34a;
+}
+body{font-family:'Noto Sans TC',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;-webkit-font-smoothing:antialiased;}
+
+.site-nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,0.92);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border);}
+.nav-inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:64px;}
+.nav-brand{display:flex;align-items:center;gap:12px;text-decoration:none;}
+.nav-brand-text{display:flex;flex-direction:column;line-height:1.2;}
+.nav-brand-name{font-family:'Space Grotesk',sans-serif;font-size:17px;font-weight:700;color:var(--accent);}
+.nav-brand-sub{font-size:11px;color:var(--text-secondary);letter-spacing:1px;}
+.nav-back{font-size:14px;color:var(--accent);text-decoration:none;padding:8px 14px;border-radius:6px;border:1px solid var(--accent);transition:background .2s;cursor:pointer;}
+.nav-back:hover{background:var(--accent-light);}
+
+.hero{max-width:920px;margin:32px auto 16px;padding:0 24px;}
+.hero-kicker{font-family:'Space Grotesk',sans-serif;font-size:12px;letter-spacing:3px;color:var(--eur3-accent);text-transform:uppercase;font-weight:600;margin-bottom:10px;}
+.hero-title{font-family:'Newsreader',serif;font-size:38px;font-weight:700;line-height:1.25;color:#0f172a;margin-bottom:14px;}
+.hero-sub{font-size:16px;color:var(--text-secondary);margin-bottom:8px;}
+.hero-meta{font-size:13px;color:var(--text-muted);}
+
+.summary-card{max-width:920px;margin:16px auto;padding:20px 24px;background:var(--eur3-bg);border-left:4px solid var(--eur3-border);border-radius:6px;}
+.summary-card h3{font-family:'Newsreader',serif;font-size:18px;color:var(--eur3-accent);margin-bottom:10px;}
+.summary-card p{font-size:14px;color:#1f2937;line-height:1.8;}
+
+.stats-grid{max-width:920px;margin:24px auto;padding:0 24px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+.stat-box{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:16px;text-align:center;}
+.stat-num{font-family:'Space Grotesk',sans-serif;font-size:22px;font-weight:700;color:var(--eur3-accent);}
+.stat-label{font-size:12px;color:var(--text-muted);margin-top:4px;}
+@media(max-width:640px){.stats-grid{grid-template-columns:repeat(2,1fr);}}
+
+.section-title{max-width:920px;margin:40px auto 16px;padding:0 24px;font-family:'Newsreader',serif;font-size:24px;color:#0f172a;border-bottom:2px solid var(--eur3-border);padding-bottom:8px;}
+
+/* 三大新制卡 */
+.reforms{max-width:920px;margin:16px auto;padding:0 24px;display:grid;grid-template-columns:repeat(3,1fr);gap:14px;}
+.reform-card{background:var(--surface);border:1px solid var(--border);border-top:4px solid var(--eur3-border);border-radius:8px;padding:18px;}
+.reform-card h4{font-family:'Newsreader',serif;font-size:17px;color:#0f172a;margin-bottom:8px;}
+.reform-card .tagline{font-size:12px;color:var(--eur3-accent);font-weight:600;margin-bottom:10px;text-transform:uppercase;letter-spacing:.5px;}
+.reform-card p{font-size:13px;color:#374151;line-height:1.7;}
+@media(max-width:760px){.reforms{grid-template-columns:1fr;}}
+
+/* 成本試算表 */
+.calc-table{max-width:920px;margin:16px auto;padding:0 24px;}
+.calc-table table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--border);border-radius:8px;overflow:hidden;}
+.calc-table th{background:#fff7ed;color:var(--eur3-accent);font-size:13px;text-align:left;padding:12px 14px;font-family:'Space Grotesk',sans-serif;}
+.calc-table td{padding:11px 14px;border-top:1px solid var(--border);font-size:14px;color:#1f2937;}
+.calc-table .pct-hi{color:var(--hi);font-weight:700;font-family:'Space Grotesk',sans-serif;}
+.calc-table .pct-mid{color:var(--mid);font-weight:700;font-family:'Space Grotesk',sans-serif;}
+.calc-table .pct-lo{color:var(--lo);font-weight:700;font-family:'Space Grotesk',sans-serif;}
+
+.timeline{max-width:920px;margin:16px auto;padding:0 24px;}
+.cal-row{display:grid;grid-template-columns:120px 90px 1fr;gap:16px;align-items:center;padding:14px 18px;background:var(--surface);border:1px solid var(--border);border-radius:8px;margin-bottom:10px;}
+.cal-row.past{opacity:.62;}
+.cal-row.now{border-color:var(--eur3-border);background:var(--eur3-bg);}
+.cal-date{font-family:'Space Grotesk',sans-serif;font-size:15px;font-weight:700;color:#0f172a;}
+.cal-type{font-size:11px;color:var(--text-muted);text-transform:uppercase;letter-spacing:1px;}
+.cal-name{font-size:14px;color:#1f2937;line-height:1.5;}
+@media(max-width:640px){.cal-row{grid-template-columns:1fr;gap:6px;}}
+
+.ev-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:18px 20px;margin-bottom:14px;}
+.ev-card h4{font-family:'Newsreader',serif;font-size:17px;color:#0f172a;margin-bottom:6px;}
+.ev-meta{font-size:12px;color:var(--text-muted);font-family:'Space Grotesk',sans-serif;margin-bottom:10px;text-transform:uppercase;letter-spacing:1px;}
+.ev-card p{font-size:14px;color:#374151;line-height:1.7;}
+.ev-card .quote{background:#f9fafb;border-left:3px solid var(--eur3-border);padding:8px 14px;margin:10px 0;font-style:italic;color:var(--text-secondary);font-size:13px;}
+
+.key-takeaway{max-width:920px;margin:40px auto;padding:24px;background:#fffbeb;border:1px solid #f59e0b;border-radius:8px;}
+.key-takeaway h3{font-family:'Newsreader',serif;font-size:20px;color:#92400e;margin-bottom:14px;}
+.key-takeaway ul{padding-left:20px;}
+.key-takeaway li{font-size:14px;color:#1f2937;line-height:1.8;margin-bottom:8px;}
+
+.footer{max-width:920px;margin:40px auto 20px;padding:20px 24px;border-top:1px solid var(--border);color:var(--text-muted);font-size:13px;text-align:center;}
+.footer a{color:var(--accent);text-decoration:none;}
+.footer a:hover{text-decoration:underline;}
+
+@media(max-width:640px){.hero-title{font-size:27px;}}
+</style>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-brand">
+      <img src="ec-logo.png" alt="EDC EU POST" width="42" height="42" style="border-radius:8px;object-fit:contain;">
+      <div class="nav-brand-text">
+        <span class="nav-brand-name">EDC EU POST</span>
+        <span class="nav-brand-sub">跨境電商情報站</span>
+      </div>
+    </a>
+    <a href="index.html" class="nav-back">← 返回主站</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="hero-kicker">📦 Special Topic · 7/1 Reforms</div>
+  <h1 class="hero-title">7/1 三大新制生效追蹤</h1>
+  <p class="hero-sub">2026/7/1 同日生效：€150 免稅廢除 + €3 小包過渡關稅、EU-US 貿易協議、鋼鐵保障新制——跨境賣家到岸成本一次重定錨。</p>
+  <p class="hero-meta">更新時間：2026-07-02 · 資料來源：歐盟執委會稅務海關總署、EEAS、Reuters、Global VAT Compliance、InternetRetailing 等交叉驗證</p>
+</div>
+
+<div class="summary-card">
+  <h3>📌 一分鐘總結</h3>
+  <p>2026/7/1 是歐盟貿易規則的「三制同生效日」：<strong>①€150 免稅廢除 + €3 小包過渡關稅</strong>（≤€150 非歐盟小包取消免稅，改按每一稅則品項行課 €3，與 VAT 分開，適用至 2028/7/1 海關數據中心上線）；<strong>②EU-US 貿易協議歐盟側生效</strong>（EU 對美工業品降至零關稅、美對歐多數出口封頂 15%）；<strong>③鋼鐵保障新制</strong>（免稅配額砍 47%、配額外課 50%）。對跨境賣家而言，真正的衝擊點不是「多繳 €3」，而是 <strong>(1) 低單價直郵品的實質稅率被推高（€8 商品約 +40%）(2) 退貨變二次清關、文件不全成本恐遠超 €3 (3) 純跨境直郵小賣家最受壓、有在地倉與 IOSS 的賣家相對有護城河</strong>。</p>
+</div>
+
+<div class="stats-grid">
+  <div class="stat-box"><div class="stat-num">€3</div><div class="stat-label">每稅則品項行過渡關稅</div></div>
+  <div class="stat-box"><div class="stat-num">€150</div><div class="stat-label">免稅門檻廢除（原 de minimis）</div></div>
+  <div class="stat-box"><div class="stat-num">15%</div><div class="stat-label">美對歐多數出口關稅上限</div></div>
+  <div class="stat-box"><div class="stat-num">2028/7</div><div class="stat-label">€3 過渡期至海關數據中心上線</div></div>
+</div>
+
+<!-- 三大新制 -->
+<div class="section-title">🗂️ 7/1 同日生效的三大新制</div>
+<div class="reforms">
+  <div class="reform-card">
+    <div class="tagline">稅務 · 影響最廣</div>
+    <h4>€150 免稅廢除 + €3 小包關稅</h4>
+    <p>7/1 起非歐盟、價值 ≤€150 小包取消免稅，改按海關申報「每一稅則品項行（HS code line）」課 €3 過渡關稅，與 VAT 分開；混品項包裹按行數疊加（3 種品項 = €9）。適用至 2028/7/1 海關數據中心上線。</p>
+  </div>
+  <div class="reform-card">
+    <div class="tagline">貿易 · 不確定性下降</div>
+    <h4>EU-US 貿易協議</h4>
+    <p>歐盟側 7/1 正式生效：EU 對美所有工業品降至零關稅、擴大海產農產准入；美對歐多數出口（含汽車、藥品、半導體）關稅上限鎖 15%。帶保障條款、2029 年底到期，美方違約時 EU 可暫停優惠。</p>
+  </div>
+  <div class="reform-card">
+    <div class="tagline">貿易 · 供應鏈外溢</div>
+    <h4>鋼鐵保障新制</h4>
+    <p>年度免稅鋼鐵進口配額砍 47% 至 1830 萬噸、配額外對 26 類鋼品課 50% 關稅；UK 等 13 個 FTA 國配額僅減 1/3。對電商賣家的外溢在含鋼零件、金屬製品、工具、家具五金、家電的到岸成本。</p>
+  </div>
+</div>
+
+<!-- €3 成本試算 -->
+<div class="section-title">🧮 €3 對不同單價的實質稅率</div>
+<div class="calc-table">
+  <table>
+    <thead>
+      <tr><th>商品單價</th><th>€3 佔比（單一品項）</th><th>受影響程度</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>€8 低單價品（配件、快時尚小物）</td><td class="pct-hi">約 +40%</td><td class="pct-hi">重</td></tr>
+      <tr><td>€30 中單價品</td><td class="pct-mid">約 +10%</td><td class="pct-mid">中</td></tr>
+      <tr><td>€60 品項</td><td class="pct-lo">約 +5%</td><td class="pct-lo">輕</td></tr>
+      <tr><td>€150 品項（門檻上緣）</td><td class="pct-lo">約 +2%</td><td class="pct-lo">輕</td></tr>
+    </tbody>
+  </table>
+  <p style="font-size:12px;color:var(--text-muted);margin-top:8px;font-style:italic;">註：€3 為「每稅則品項行」固定費，單價越低佔比越高。混品項包裹按行數疊加（例：3 種不同品項 = €9）。低單價、無在地倉可攤成本的純跨境直郵賣家最受壓。</p>
+</div>
+
+<!-- 退貨陷阱 -->
+<div class="section-title">⚠️ 真正的盲點：退貨變二次清關</div>
+<div class="timeline">
+  <div class="ev-card">
+    <h4>顧問圈示警：每一筆跨境退貨都可能成為獨立海關事件</h4>
+    <div class="ev-meta">2026-06-30 · InternetRetailing 顧問投書</div>
+    <p>7/1 起真正的成本不在繳 €3，而在「double-duty 二次清關陷阱」：缺文件、缺可追溯性、缺流程控管的賣家，退貨的合規成本恐遠超新關稅本身。核心風險是進口清關 + 退貨清關的雙重申報、HS code 分類正確性、單據可追溯——處理錯誤可能被課雙重稅或卡關。</p>
+    <div class="quote">「7/1 起，每一筆退貨都可能成為另一個海關事件——€3 反而是最小的挑戰。」—— Shopreturns 顧問, 6/30</div>
+  </div>
+  <div class="ev-card">
+    <h4>11 月還有第二波：處理費 + 強制 PID</h4>
+    <div class="ev-meta">2026-11-01 · 歐盟後續時程</div>
+    <p>11/1 起最遲再加歐盟「處理費」（早期提案約 €2/件）+ 強制 PID 產品識別碼申報，成本與資料義務再升級。7/1 只是第一波，資料合規門檻會分階段拉高。</p>
+  </div>
+</div>
+
+<!-- 時間軸 -->
+<div class="section-title">📅 低價進口監管時間軸</div>
+<div class="timeline">
+  <div class="cal-row now">
+    <div class="cal-date">2026/7/1</div>
+    <div class="cal-type">生效 T-0</div>
+    <div class="cal-name">EU €150 免稅廢除 + €3 小包過渡關稅上路；EU-US 貿易協議、鋼鐵保障新制同日生效</div>
+  </div>
+  <div class="cal-row">
+    <div class="cal-date">2026/7/12</div>
+    <div class="cal-type">合規</div>
+    <div class="cal-name">Temu / Shein 須交 DSA 合規說明（配合 €3，合規成跨境賣家護城河）</div>
+  </div>
+  <div class="cal-row">
+    <div class="cal-date">2026/11/1</div>
+    <div class="cal-type">第二波</div>
+    <div class="cal-name">歐盟處理費（提案約 €2/件）+ 強制 PID 產品識別碼申報</div>
+  </div>
+  <div class="cal-row">
+    <div class="cal-date">2028/7/1</div>
+    <div class="cal-type">過渡結束</div>
+    <div class="cal-name">歐盟海關數據中心上線，€3 過渡關稅機制結束、轉入正式制度</div>
+  </div>
+  <div class="cal-row">
+    <div class="cal-date">2028/10</div>
+    <div class="cal-type">UK 平行</div>
+    <div class="cal-name">英國提前砍 £135 以下低價進口免稅（原訂 2029/3、提前半年），與 EU €3 形成歐洲雙軌合圍</div>
+  </div>
+</div>
+
+<!-- 賣家行動 -->
+<div class="key-takeaway">
+  <h3>💡 跨境賣家行動清單</h3>
+  <ul>
+    <li><strong>先算實質稅率、再決定通路</strong>：低單價品（€8–€15）€3 等於加 20–40% 成本，純直郵已難有利潤——這類品項優先評估轉入歐盟在地倉/IOSS 履約，把 €3 攤薄或閃過。</li>
+    <li><strong>把退貨清關 SOP 建起來</strong>：7/1 起退貨是「二次海關事件」，先確認退貨的 HS code 分類、單據可追溯、退運文件齊全，避免被課雙重稅或卡關——這比省 €3 更關鍵。</li>
+    <li><strong>混品項包裹重新檢視</strong>：€3 按稅則品項行疊加，多品項合寄會讓費用倍增，評估是否調整併單策略。</li>
+    <li><strong>IOSS 與在地履約是護城河</strong>：已落實 IOSS 申報、在地倉、品項資料齊全的賣家相對抗壓；長尾純直郵賣家風險最高，宜及早調整。</li>
+    <li><strong>對美出口的歐洲品牌看 15% 上限</strong>：EU-US 協議把美對歐關稅封頂 15%（低於先前威脅），對美出口毛利結構已被墊高但能見度到 2029；留意 Trump 數位稅施壓等變數。</li>
+    <li><strong>含鋼品類注意到岸成本</strong>：金屬製品、工具、家具五金、家電即使非鋼鐵直接進口，也可能透過供應鏈被動吸收鋼鐵配額外 50% 關稅的漲價。</li>
+    <li><strong>備妥 11 月第二波</strong>：PID 產品識別碼與處理費會再拉高資料義務，現在就把產品主檔（HS code、材質、識別碼）整理到位，屆時不必臨時抱佛腳。</li>
+  </ul>
+</div>
+
+<div class="footer">
+  <p>EDC EU POST · 跨境電商情報站 · 7/1 新制追蹤持續更新中</p>
+  <p style="margin-top:6px;"><a href="index.html">返回主站 →</a></p>
+</div>
+
+</body>
+</html>
