@@ -19,6 +19,27 @@ from collections import Counter
 
 SITE_DIR = os.path.dirname(os.path.abspath(__file__))
 INTEL_DIR = os.path.join(SITE_DIR, '..', 'eu-intel')
+MONITOR_LOG_DIR = os.path.join(SITE_DIR, '..', 'share', 'monitor-logs')
+
+
+def get_days_computer_on():
+    """回傳「當天電腦有開、排程有跑」的日期集合。
+
+    訊號來源：share/monitor-logs/monitor-YYYY-MM-DD.log。KIRO monitor 每小時跑一次，
+    只要當天電腦有開機、排程有觸發就會留下 log。沒有 log ⇒ 當天電腦沒開（休假/關機），
+    這種日子沒產日報是「合理缺席」，不該算內容空窗。
+
+    回傳空集合代表拿不到 monitor log（例如 starter-kit 複本），呼叫端應退回舊行為
+    （不因此判斷放假），以免把真實空窗蓋掉。
+    """
+    days = set()
+    if not os.path.isdir(MONITOR_LOG_DIR):
+        return days
+    for path in glob.glob(os.path.join(MONITOR_LOG_DIR, 'monitor-*.log')):
+        m = re.search(r'monitor-(\d{4}-\d{2}-\d{2})\.log$', os.path.basename(path))
+        if m:
+            days.add(m.group(1))
+    return days
 
 
 def check_file_sizes():
@@ -60,9 +81,9 @@ def analyze_articles(articles):
         flags = country_pattern.findall(a.get('summary', '')[:50])
         country_counter.update(flags)
 
-    # EU 公定假日白名單（不產日報的合理日期）
-    EU_HOLIDAYS = {
-        # 2026
+    # 公定假日白名單（不產日報的合理日期）。日報作者在台灣，故 EU + 台灣假日都算合理缺席。
+    HOLIDAYS = {
+        # ── EU 2026 ──
         '2026-01-01',  # New Year
         '2026-04-03',  # Good Friday
         '2026-04-06',  # Easter Monday
@@ -73,7 +94,14 @@ def analyze_articles(articles):
         '2026-12-25',  # Christmas Day
         '2026-12-26',  # Boxing Day
         '2026-12-31',  # New Year's Eve
-        # 2027（提前登記，避免明年誤報）
+        # ── 台灣 2026（作者所在地，依行政院人事行政總處公告）──
+        '2026-02-16', '2026-02-17', '2026-02-18', '2026-02-19', '2026-02-20',  # 春節
+        '2026-02-27', '2026-02-28',  # 和平紀念日
+        '2026-04-03', '2026-04-06',  # 兒童節/清明（部分與 EU 重疊）
+        '2026-06-19',  # 端午節
+        '2026-09-25',  # 中秋節
+        '2026-10-09', '2026-10-10',  # 國慶日
+        # ── EU 2027（提前登記，避免明年誤報）──
         '2027-01-01',
         '2027-03-26',  # Good Friday
         '2027-03-29',  # Easter Monday
@@ -86,18 +114,27 @@ def analyze_articles(articles):
         '2027-12-31',
     }
 
-    # 覆蓋日期檢查：最近 20 個工作日是否都有日報（跳過 EU 假日）
+    # 「電腦有開」的日子（有 monitor log）。空集合＝拿不到 log，退回舊行為（不靠此判斷放假）。
+    days_computer_on = get_days_computer_on()
+    have_monitor_data = len(days_computer_on) > 0
+
+    # 覆蓋日期檢查：最近 20 個工作日是否都有日報
+    # 跳過三種合理缺席：① 公定假日 ② 電腦沒開（無 monitor log）③ 今天(尚未產出)
     dates_covered = set(a['date'] for a in recent if a['type'] == 'daily')
     missing_days = []
+    skipped_off_days = []  # 電腦沒開而略過的工作日，供報告區隔「真空窗 vs 放假」
     check_date = now.date()
     business_days_checked = 0
     while business_days_checked < 20:
         if check_date.weekday() < 5:  # 週一~週五
             date_str = check_date.strftime('%Y-%m-%d')
-            if (date_str not in dates_covered
-                and date_str not in EU_HOLIDAYS
-                and check_date < now.date()):
-                missing_days.append(date_str)
+            if date_str not in dates_covered and check_date < now.date():
+                if date_str in HOLIDAYS:
+                    pass  # 公定假日，合理缺席
+                elif have_monitor_data and date_str not in days_computer_on:
+                    skipped_off_days.append(date_str)  # 電腦沒開，合理缺席
+                else:
+                    missing_days.append(date_str)  # 真空窗：電腦有開卻沒產出
             business_days_checked += 1
         check_date -= timedelta(days=1)
 
@@ -111,6 +148,7 @@ def analyze_articles(articles):
         'tag_distribution': dict(tag_counter.most_common()),
         'top_countries': dict(country_counter.most_common(5)),
         'missing_business_days': missing_days[:10],
+        'off_days_computer_off': skipped_off_days[:10],  # 電腦沒開的工作日（放假/關機，非故障）
         'total_sources_30d': total_sources,
         'avg_sources_per_article': round(sources_per_article, 2),
         'latest_date': articles[0]['date'] if articles else None,
@@ -298,11 +336,13 @@ def main():
         print(f"   最常提及國家: {list(ca['top_countries'].keys())}")
         print()
         if ca['missing_business_days']:
-            print(f"   ⚠️ 遺漏的工作日（最近 20 天）:")
+            print(f"   ⚠️ 真空窗（電腦有開卻沒產出，需追排程）:")
             for d in ca['missing_business_days']:
                 print(f"      {d}")
         else:
-            print(f"   ✅ 最近 20 個工作日都有日報")
+            print(f"   ✅ 最近 20 個工作日無真空窗")
+        if ca['off_days_computer_off']:
+            print(f"   💤 電腦沒開（放假/關機，非故障）: {', '.join(ca['off_days_computer_off'])}")
         print()
 
         sd = report['sidebar_dates']
