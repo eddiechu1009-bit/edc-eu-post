@@ -1,5 +1,153 @@
 [
   {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【7/16-17 官宣】Rakuten France（前 PriceMinister）年底關站、西班牙同步收攤：16 年找不到買家；同期 Kaufland 夏末擴 ES+NL 湊 9 國 220M 客，EU marketplace 洗牌",
+    "summary": "週末 EU 第三方 marketplace 版圖出現兩個相反方向的大事，合起來是同一個訊號——中型泛用平台被兩頭擠壓、規模化的跨國網絡才活得下去，對做多站的名下賣家是「通路組合要重估」的提醒：\n        ① Rakuten France 年底關站（Le Figaro/AFP，經 FashionNetwork、Ecommerce News、RetailDetail 轉載，7/16-17）：日本 Rakuten 2010 年以 €200M收購的法國老牌平台 PriceMinister（後改名 Rakuten France）確認 2026 年底停止 marketplace 營運，因找不到符合「保留就業＋財務條件＋長期可持續」的買家；近 10 年活躍客戶 -33%、流量 -42%，2016 年估值已從 €200M 砍到 €65M。\n        ② 西班牙一起收：Rakuten 2025/9 才進的西班牙站因與法國同一組織架構，同步關閉；官方給「過渡期讓賣家與買家安排」，約 180 個職位受影響。\n        ③ 同期 Kaufland 逆勢擴張（Ecommerce News / Cross-Border Commerce Association）：德國量販 Kaufland Global Marketplace 夏末加開西班牙、荷蘭，湊足 9 國、觸及 220M線上消費者，主打「1 次註冊、6,400+ 品類、單一後台」的歐洲本土泛歐替代。\n        結論：Rakuten 退、Kaufland 進，共同的敘事是「泛用型 marketplace 靠流量飛輪，斷一環就崩」。對名下賣家，Amazon 在法國市占再獲鞏固；有押 Rakuten FR/ES 的賣家要在過渡期內搬家，多站賣家則多了一個 Kaufland 的增量通路可評估。",
+    "public_impact": "週末歐洲第三方電商平台版圖出現兩件方向相反的大事，合起來是同一個訊號：中型泛用平台被兩頭擠壓，規模化的跨國網絡才活得下去，對做多國市場的賣家是通路組合要重估的提醒。第一，據 Le Figaro、AFP（經 FashionNetwork、Ecommerce News、RetailDetail 轉載），日本 Rakuten 2010 年以 2 億歐元收購的法國老牌平台 PriceMinister（後改名 Rakuten France）確認 2026 年底停止平台營運，因找不到符合保留就業、財務條件與長期可持續的買家，近十年活躍客戶減 33%、流量減 42%。第二，Rakuten 2025 年 9 月才進的西班牙站因與法國同一組織架構同步關閉，官方給過渡期讓賣家與買家安排，約 180 個職位受影響。第三，同期德國量販 Kaufland Global Marketplace 夏末加開西班牙、荷蘭，湊足 9 國、觸及 2.2 億線上消費者，主打一次註冊管多國。整體看，泛用型平台靠流量飛輪，斷一環就崩；有押 Rakuten 法國或西班牙的賣家要在過渡期內搬家，多國賣家則多了一個 Kaufland 的增量通路可評估。",
+    "public_action": "① 若你有在 Rakuten France 或 Rakuten Spain 鋪貨，記住平台 2026 年底關站、過渡期內要把銷售通路搬到其他平台，別等到過渡期結束才動；② 做法國市場的賣家可把本土對手退場視為既有主通路更穩固的訊號，集中資源顧好核心通路；③ 做多國市場的賣家可借 Kaufland 擴到西班牙、荷蘭的機會重估各平台通路組合與庫存分佈，評估是否新增一個歐洲本土泛歐通路；④ 不要因為新平台開站就盲目 all-in、分散資源反而弱化主力通路表現；⑤ 追蹤 Rakuten 法國/西班牙的過渡期時程與 Kaufland 西班牙、荷蘭的正式開站時間。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe（7/17：Rakuten France 年底關站、找不到買家、活躍客戶 -33%/流量 -42%、西班牙同步關）",
+        "url": "https://ecommercenews.eu/rakuten-france-is-closing"
+      },
+      {
+        "name": "FashionNetwork（7/17：管理層向 AFP 證實、確認 Le Figaro 報導、法西同一架構同步收攤）",
+        "url": "https://ww.fashionnetwork.com/news/Rakuten-france-to-close-by-end-2026-spain-also-to-shut,1853310.html"
+      },
+      {
+        "name": "WORLDEF（7/17：約 180 個職位受影響、2016 估值已砍至 €65M）",
+        "url": "https://worldef.com/2026/07/17/rakuten-france-is-shutting-down"
+      },
+      {
+        "name": "Zineps / Ecommerce News（Kaufland 夏末擴西班牙+荷蘭、9 國 220M 消費者、1 次註冊 6,400+ 品類）",
+        "url": "https://www.zineps.com/blog/kaufland-marketplace-netherlands-logistics-guide-2026"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【7/16 Reuters】Shein 香港 IPO 估值恐被砍：目標 $40-50B、投資人押向 $30B，直指 7/1 €3 小包費咬住歐洲（佔營收 1/3）——€3 不是小費用，是把低價直郵估值打掉一截的證據",
+    "summary": "上週日報談的是 Shein 拿到香港 IPO 批准；週末的新進展是「估值被壓」——Reuters 7/16 直接把矛頭指向 7/1 生效的 €3 小包費，這讓「€3 到底有沒有殺傷力」有了具體答案：不是賣家嫌煩的小數字，而是能把一家巨頭 IPO 估值打掉一截的結構性成本：\n        ① 估值目標 vs 投資人心理價（Reuters 7/16，經 ETBrandEquity、Ecotextile、TradingView 轉載）：Shein 目標 $40-50B，但因歐洲新費侵蝕成長，投資人傾向壓到 $30B；對照 2022 年 $100B、2023 年 $66B，估值一路走低。\n        ② 歐洲是關鍵拖累：歐洲佔 Shein 營收約 1/3（Euromonitor），CEO Sky Xu 得說服投資人「€3 衝擊只是暫時、2027 回升」；去年營收逾 $40B、淨利近 $2B。\n        ③ 掛牌時點與規模：7/10 獲 CSRC 批准後，最快 9-10 月掛牌、初步擬售至多 8%股份；仍遠小於對手 Temu 母公司 PDD（市值約 $117B）。\n        結論：這件事對名下賣家不是「Shein 股價八卦」，而是把上週還在講的 €3 費具象化——低價、直郵、跨境到 EU 的商業模式正被結構性課稅，資本市場已在定價這個風險。對比之下，把庫存放進歐洲境內、走本土履約的賣家，正是這輪重定價裡相對受益的一方。",
+    "public_impact": "上週的新聞是 Shein 拿到香港 IPO 批准，週末的新進展是估值被壓，而 Reuters 7/16 直接把矛頭指向 7 月 1 日生效的 €3 小包費，這讓 €3 到底有沒有殺傷力有了具體答案：它不是賣家嫌煩的小數字，而是能把一家巨頭 IPO 估值打掉一截的結構性成本。第一，據 Reuters（經 ETBrandEquity、Ecotextile 轉載），Shein 目標估值 400 至 500 億美元，但因歐洲新費侵蝕成長，投資人傾向壓到 300 億美元，對照 2022 年的 1,000 億、2023 年的 660 億一路走低。第二，歐洲約佔 Shein 營收三分之一（Euromonitor），去年營收逾 400 億美元、淨利近 20 億美元，CEO 得說服投資人衝擊只是暫時、2027 回升。第三，7/10 獲中國證監會批准後最快 9 至 10 月掛牌、初步擬售至多 8% 股份，仍遠小於對手 Temu 母公司 PDD。整體看，低價、直郵、跨境到歐盟的商業模式正被結構性課稅，資本市場已在定價這個風險；把庫存放進歐洲境內、走本土履約的賣家，是這輪重定價裡相對受益的一方。",
+    "public_action": "① 把 Shein 估值被壓當成 €3 費真的咬人的外部證據，若你做跨境到歐盟的低單價商品，認真評估把貨放進歐洲境內、走本地履約以降低 €3 曝險；② 針對 20 歐元以下的小包直郵，把每件 €3（不同品類分開計）納入到岸成本重算，評估轉本地倉是否更划算；③ 走本土庫存的賣家可趁低價直郵競爭者成本上升的空檔搶佔價格帶，把第三、四季當進攻視窗；④ 記得 Amazon 已在結帳頁明列進口費，本土備貨可免這行、對轉化率更有利；⑤ 追蹤 Shein 9 至 10 月香港掛牌定價與 Temu、Shein 在歐洲的在地倉佈局。",
+    "sources": [
+      {
+        "name": "Reuters（7/16：Shein 目標 $40-50B、投資人押 $30B、EU €3 費衝擊、歐洲佔營收 1/3、去年營收 >$40B/淨利近 $2B）",
+        "url": "https://www.reuters.com/business/retail-consumer/shein-ipo-faces-lower-valuation-e-commerce-crackdown-starts-bite-2026-07-16"
+      },
+      {
+        "name": "ET BrandEquity / Reuters（7/17：€3 費料拖累今年成長、Sky Xu 須說服投資人為暫時性）",
+        "url": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/shein-ipo-faces-lower-valuation-as-e-commerce-crackdown-starts-to-bite/132459799"
+      },
+      {
+        "name": "Ecotextile News（7/17：€3 費壓低估值、法國本週把快時尚罰則升至最高 €20/件 2030）",
+        "url": "https://www.ecotextile.com/2026071764181/radar/shein-ipo-valuation-hampered-by-new-eu-rules"
+      },
+      {
+        "name": "Reuters（7/10：CSRC 批准、最快 9-10 月掛牌、擬售至多 8%、PDD 市值約 $117B）",
+        "url": "https://wtvbam.com/2026/07/10/shein-wins-chinese-approval-for-hong-kong-ipo"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【7/16 ONS＋今日政局】UK 5 月 GDP +0.1% MoM 回正（服務業撐、生產/營建雙降）；今日 7/20 Burnham 正式接任首相改組內閣、7/22 UK 6 月 CPI 揭曉：低成長＋政策換手雙不確定",
+    "summary": "UK 5 月 GDP 週三（7/16）出爐、月增回正但動能不強，而今天（7/20）Burnham 正式接任首相、本週還有 6 月 CPI，三件事合起來把「Amazon.co.uk Q3 需求維持中性、且多一層政策不確定」的判讀定調：\n        ① 5 月 GDP +0.1% MoM（ONS 7/16）：4 月 -0.1%後回正、符合預期；服務業 +0.3%撐盤（科研 +5.1%為最大貢獻），但生產 -0.5%、營建 -0.8%雙雙下滑；3 個月滾動 +0.7%（略低於前值 +0.8%）。\n        ② 新首相今日上任（Bloomberg/Yahoo）：Andy Burnham 7/20接任首相、將任命新財相並公布影響經濟的政策，Reeves 預料卸任財相——政策走向短期進入觀望。\n        ③ 本週數據節點：7/22UK 6 月 CPI 揭曉（5 月持平 2.8%、市場關注是否續黏），公共財政、就業與薪資同週公布。\n        ④ 全年基調：IMF 7 月把 UK 2026 成長上修到 1.0%（4 月 0.8%），但仍低於 Iran 戰事前 1.3% 的預估，BoE 維持觀望。\n        結論：對做 UK 站的名下賣家，這批數據不改「英國低成長、消費偏謹慎」的基調，且新政府政策方向未明會再添一層不確定。Q3 需求維持中性、定價與備貨別押強復甦，焦點放到 7/22 CPI 與新內閣財政訊號。",
+    "public_impact": "英國 5 月 GDP 週三（7/16）出爐、月增回正但動能不強，而今天（7/20）Andy Burnham 正式接任首相，本週還有 6 月 CPI，三件事合起來把英國市場第三季需求維持中性、且多一層政策不確定的判讀定調。第一，據 ONS，5 月 GDP 月增 0.1%（4 月為 -0.1%）、符合預期，服務業 +0.3% 撐盤（科研 +5.1% 為最大貢獻），但生產 -0.5%、營建 -0.8% 雙降，3 個月滾動 +0.7%（略低於前值 0.8%）。第二，據 Bloomberg、Yahoo，Burnham 於 7/20 接任首相、將任命新財相並公布影響經濟的政策，短期政策走向進入觀望。第三，7/22 英國 6 月 CPI 揭曉（5 月持平 2.8%），公共財政、就業與薪資同週公布。第四，IMF 7 月把英國 2026 成長上修到 1.0%，但仍低於年初預估，央行維持觀望。整體看，英國低成長、消費偏謹慎的基調不變，且新政府政策方向未明會再添一層不確定。",
+    "public_action": "① 做英國市場的賣家第三季需求維持中性偏保守、以價值優先為主軸，別因單月 GDP 回正就樂觀上修；② 新首相與新財相上任、財政與稅政方向未明，重大定價或擴張決策建議等 7/22 英國 6 月 CPI 與新內閣財政訊號更清楚再動；③ 服務業撐盤但生產與營建走弱，家居、工具、建材周邊需求偏弱、服務體驗相關較穩，品類判讀維持分化視角；④ 政策空窗期英鎊波動可能加大，毛利模型別押英鎊單邊；⑤ 追蹤 7/22 英國 6 月 CPI 與新內閣財相任命後的財政訊號。",
+    "sources": [
+      {
+        "name": "ONS（英國 5 月 GDP +0.1% MoM、服務 +0.3%、生產 -0.5%、營建 -0.8%、3 個月 +0.7%）",
+        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/may2026"
+      },
+      {
+        "name": "The Guardian（7/16：5 月 GDP 回正、科研 +5.1% 最大貢獻、Reeves 預料週一卸任、Burnham 接任）",
+        "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war"
+      },
+      {
+        "name": "Yahoo/Moneyweek（IMF 把 UK 2026 成長上修至 1.0%、仍低於年初 1.3% 預估）",
+        "url": "https://finance.yahoo.com/economy/articles/uk-economy-shrunk-april-iran-121827388.html"
+      },
+      {
+        "name": "ONS（UK 5 月 CPI 持平 2.8%、6 月 CPI 次一釋出 7/22）",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/may2026"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【7/19 生效】EU ESPR 未售服飾/鞋類「銷毀禁令」對大型企業正式上路（中型 2030、微小永久豁免）；同日 DPP 登錄中心是「執委會的死線」非賣家上架開關——別被 vendor 恐嚇話術帶走",
+    "summary": "上週日報預告的 ESPR 兩個 7/19 節點，昨天（7/19，週日）正式到期。這裡最重要的是把「真的變了什麼」和「被 vendor 講得像天塌下來、其實還沒」分清楚，避免名下賣家被行銷話術嚇著亂花錢：\n        ① 銷毀禁令對大型企業正式生效（ESPR 第 25 條，Regulation (EU) 2024/1781）：7/19起大型企業不得銷毀未售出的服飾、配件、鞋類（含滯銷庫存與退貨），無寬限期；中型企業 2030/7/19 才納入、微小企業永久豁免；並有防規避條款，禁止用豁免小商當大廠的銷毀出口。\n        ② DPP 登錄中心是「執委會的義務」不是賣家開關（第 13 條）：同日是歐盟執委會把 DPP 登錄中心「建置完成」的死線，登錄中心只是「驗證檢查點」（存識別碼、經濟操作者身分、關稅碼、指向護照資料的指標），不是要你的商品當天就登錄；紡織品的 DPP 委任法規預計 2027公布、實際強制約 2028-2029。\n        ③ 罰則由各會員國定：無單一歐盟罰金，見到具體數字要能對到某國法規才採信。\n        結論：對名下賣家，7/19 真正「開關打開」的只有大型時尚/鞋類品牌的銷毀禁令；DPP 是方向、不是當日死線。對紡織/時尚賣家，正確動作是「趁還沒強制，先把產品資料、供應鏈紀錄、產品識別碼整理好」，而不是被 vendor「每個 SKU 都要立刻登錄」的話術牽著走。",
+    "public_impact": "上週日報預告的 ESPR 兩個 7/19 節點，昨天（7/19）正式到期，這裡最重要的是把真的變了什麼和被行銷話術講得像天塌下來、其實還沒分清楚，避免被嚇著亂花錢。第一，據 ESPR 第 25 條（Regulation (EU) 2024/1781），7/19 起大型企業不得銷毀未售出的服飾、配件、鞋類（含滯銷庫存與退貨），無寬限期；中型企業 2030 年 7 月才納入、微小企業永久豁免，並有防規避條款，禁止用豁免小商當大廠的銷毀出口。第二，同日是歐盟執委會把數位產品護照（DPP）登錄中心建置完成的死線（第 13 條），登錄中心只是驗證檢查點，存識別碼、經濟操作者身分、關稅碼與指向護照資料的指標，不是要你的商品當天就登錄；紡織品的 DPP 委任法規預計 2027 公布、實際強制約 2028 至 2029。第三，罰則由各會員國自訂，沒有單一歐盟罰金，見到具體數字要能對到某國法規才採信。整體看，7/19 真正開關打開的只有大型時尚與鞋類品牌的銷毀禁令，DPP 是方向、不是當日死線。",
+    "public_action": "① 做紡織與時尚的賣家先分清 7/19 是歐盟執委會建置 DPP 登錄中心的死線、不是你的商品當天就得登錄，別被每個 SKU 都要立刻登錄的行銷話術牽著走；② 趁還沒強制，先把纖維成分、原產地、供應鏈紀錄與產品識別碼（如 GTIN）整理好，紡織 DPP 約 2028 至 2029 才強制；③ 大型服飾與鞋類品牌記住 7/19 起不得銷毀未售出商品，改用轉售、捐贈、回收處理並建立年度揭露流程，中型企業 2030 才適用、微小企業豁免；④ 把 ESPR、8/12 包裝法規、8/2 AI 法一次盤點，避免旺季前逐項補件塞車；⑤ 見到具體罰款數字先確認是否對應某國法規，因為罰則由各會員國自訂。",
+    "sources": [
+      {
+        "name": "Fluxy（ESPR 第 25 條銷毀禁令 7/19 對大型企業生效、中型 2030、微小豁免、防規避條款；第 13 條 DPP 登錄中心是執委會義務非賣家開關）",
+        "url": "https://fluxy.one/post/espr-2026-textile-deadlines-19-july"
+      },
+      {
+        "name": "PassportCraft（7/19 銷毀禁令為時尚首個 ESPR 硬死線、DPP 登錄中心是執委會 Art.13(1) 死線非全員登錄日）",
+        "url": "https://passportcraft.com/insights/dpp-timeline-2026-2030-every-deadline"
+      },
+      {
+        "name": "Retraced（銷毀禁令 7/19 生效、微小豁免、中型 2030；紡織委任法規約 2027、強制約 2028+）",
+        "url": "https://www.retraced.com/blogs/magazine/digital-product-passport"
+      },
+      {
+        "name": "Portugal Clothing Factory（ESPR 2024/7 生效、紡織委任法規 2025-2027、DPP 需可驗證成分/原產地/認證/EPR）",
+        "url": "https://www.portugalclothingfactory.com/blog/espr-textile-regulation"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [],
+    "title": "【7/23 前瞻】ECB 本週四決策：市場估按兵不動、維持存款利率 2.25%；但 7 月初以來 Brent 反彈約 16% 成新變數，6 月 HICP 終值確認 2.8%、9 月才是下次可能升息窗口",
+    "summary": "ECB 本週四（7/23）開會，市場共識是按兵不動，但這次前瞻多了一個新變數——油價在 7 月初以來又反彈——讓「這次先按、9 月再看」的敘事帶點張力，對做 EU5 的名下賣家是 EUR 與定價假設的關鍵一週：\n        ① 決策共識：先按（Morningstar 7/17 / Economic Times 引 Reuters）：市場普遍估 ECB 7/23維持存款利率 2.25%不變（6/11 已升息一次，是主要央行中首個因地緣衝擊升息者）；經濟學家多數看 9 月才是下次可能升息窗口。\n        ② 新變數：油價反彈：Brent 自 7 月初以來反彈約 16%，重新點燃通膨疑慮，但幅度不如 3-4 月；DWS 等預期油價後續回落、能源對通膨轉為抑制。\n        ③ 通膨背景：續降但仍黏：6 月 HICP 終值確認 2.8%（前 3.2%、2 月來最低）、核心 2.4%、能源由 10.8% 降至 8.5%，仍高於 2% 目標；ECB 6 月已把 2026 通膨上修到 3.0%。\n        ④ 對 EUR 的意涵：先按＋油價反彈＋通膨仍黏，短線 EUR 缺明確方向；Reuters 另一調查估一年內 EUR/USD 升向 1.20，但屬中期。\n        結論：對做 EU5 的名下賣家，這週不改「EUR 中性、消費力回升有限」的基調。Q3 毛利與定價維持中性錨點，焦點放到 7/23 ECB 措辭（尤其對 9 月升息的暗示）與 7/31 歐元區 7 月 HICP flash。",
+    "public_impact": "歐洲央行本週四（7/23）開會，市場共識是按兵不動，但這次前瞻多了一個新變數，油價在 7 月初以來又反彈，讓這次先按、9 月再看的敘事帶點張力，對做歐洲市場的賣家是歐元與定價假設的關鍵一週。第一，據 Morningstar、Economic Times 引 Reuters，市場普遍估歐洲央行 7/23 維持存款利率 2.25% 不變（6/11 已升息一次），經濟學家多數看 9 月才是下次可能升息窗口。第二，Brent 原油自 7 月初以來反彈約 16%，重新點燃通膨疑慮，但幅度不如 3 至 4 月，部分機構預期油價後續回落。第三，6 月調和通膨終值確認 2.8%（前 3.2%、2 月來最低）、核心 2.4%、能源由 10.8% 降至 8.5%，仍高於 2% 目標。第四，先按加上油價反彈與通膨仍黏，短線歐元缺明確方向，另有調查估一年內歐元兌美元升向 1.20，但屬中期。整體看，歐元中性、消費力回升有限的基調不變。",
+    "public_action": "① 做歐洲市場的賣家毛利與定價的匯率假設維持中性、別押歐元單邊，因為歐洲央行 7/23 估按兵不動、歐元短線缺方向；② 家電、家具、3C 等能源密集品類第三季成本要把 Brent 油價 7 月來反彈約 16% 當上行風險，別假設能源已全面回落；③ 歐元計價的大賣家留意，若央行措辭偏鷹、9 月升息機率升，第四季信貸成本可能上行，可在 9 月前評估鎖定融資成本並對齊旺季備貨現金流；④ 歐洲央行高度看數據，別把單週措辭當定局，7/31 通膨初值與後續油價才是關鍵；⑤ 追蹤 7/23 央行決策與記者會措辭、7/31 歐元區 7 月通膨初值與油價走勢。",
+    "sources": [
+      {
+        "name": "Economic Times / Reuters（ECB 7/23 估維持 2.25%、6/11 已升息、9 月為最可能下次升息窗口、油價反彈重燃通膨疑慮）",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-ecb-weighs-inflation-risks-digital-euro-progress-at-july-meeting/articleshow/132456458.cms"
+      },
+      {
+        "name": "Reuters（6/30 Sintra：油價回落降低 ECB 立即升息急迫、7 月機率約 1/3、下次會議 7/23）",
+        "url": "https://www.reuters.com/business/energy/surprisingly-quick-oil-price-retreat-eases-urgency-ecb-act-sources-say-2026-06-30"
+      },
+      {
+        "name": "WSJ（歐元區 6 月 HICP 2.8%、優於市場估 3.0%、能源退燒、升高 ECB 本月按兵機率）",
+        "url": "https://www.wsj.com/economy/global/eurozone-inflation-declines-as-energy-shock-fades-in-relief-for-ecb-0f7d7670"
+      },
+      {
+        "name": "Trading Economics / Eurostat（6 月 HICP 終值 2.8%、核心 2.4%、能源 8.5%、7/31 7 月 flash）",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-07-17",
     "type": "daily",
     "tags": [

@@ -1,5 +1,153 @@
 [
   {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【7/16-17 官宣】Rakuten France（前 PriceMinister）年底關站、西班牙同步收攤：16 年找不到買家；同期 Kaufland 夏末擴 ES+NL 湊 9 國 220M 客，EU marketplace 洗牌",
+    "summary": "週末 EU 第三方 marketplace 版圖出現兩個相反方向的大事，合起來是同一個訊號——中型泛用平台被兩頭擠壓、規模化的跨國網絡才活得下去，對做多站的名下賣家是「通路組合要重估」的提醒：\n        ① Rakuten France 年底關站（Le Figaro/AFP，經 FashionNetwork、Ecommerce News、RetailDetail 轉載，7/16-17）：日本 Rakuten 2010 年以 €200M收購的法國老牌平台 PriceMinister（後改名 Rakuten France）確認 2026 年底停止 marketplace 營運，因找不到符合「保留就業＋財務條件＋長期可持續」的買家；近 10 年活躍客戶 -33%、流量 -42%，2016 年估值已從 €200M 砍到 €65M。\n        ② 西班牙一起收：Rakuten 2025/9 才進的西班牙站因與法國同一組織架構，同步關閉；官方給「過渡期讓賣家與買家安排」，約 180 個職位受影響。\n        ③ 同期 Kaufland 逆勢擴張（Ecommerce News / Cross-Border Commerce Association）：德國量販 Kaufland Global Marketplace 夏末加開西班牙、荷蘭，湊足 9 國、觸及 220M線上消費者，主打「1 次註冊、6,400+ 品類、單一後台」的歐洲本土泛歐替代。\n        結論：Rakuten 退、Kaufland 進，共同的敘事是「泛用型 marketplace 靠流量飛輪，斷一環就崩」。對名下賣家，Amazon 在法國市占再獲鞏固；有押 Rakuten FR/ES 的賣家要在過渡期內搬家，多站賣家則多了一個 Kaufland 的增量通路可評估。",
+    "public_impact": "週末歐洲第三方電商平台版圖出現兩件方向相反的大事，合起來是同一個訊號：中型泛用平台被兩頭擠壓，規模化的跨國網絡才活得下去，對做多國市場的賣家是通路組合要重估的提醒。第一，據 Le Figaro、AFP（經 FashionNetwork、Ecommerce News、RetailDetail 轉載），日本 Rakuten 2010 年以 2 億歐元收購的法國老牌平台 PriceMinister（後改名 Rakuten France）確認 2026 年底停止平台營運，因找不到符合保留就業、財務條件與長期可持續的買家，近十年活躍客戶減 33%、流量減 42%。第二，Rakuten 2025 年 9 月才進的西班牙站因與法國同一組織架構同步關閉，官方給過渡期讓賣家與買家安排，約 180 個職位受影響。第三，同期德國量販 Kaufland Global Marketplace 夏末加開西班牙、荷蘭，湊足 9 國、觸及 2.2 億線上消費者，主打一次註冊管多國。整體看，泛用型平台靠流量飛輪，斷一環就崩；有押 Rakuten 法國或西班牙的賣家要在過渡期內搬家，多國賣家則多了一個 Kaufland 的增量通路可評估。",
+    "public_action": "① 若你有在 Rakuten France 或 Rakuten Spain 鋪貨，記住平台 2026 年底關站、過渡期內要把銷售通路搬到其他平台，別等到過渡期結束才動；② 做法國市場的賣家可把本土對手退場視為既有主通路更穩固的訊號，集中資源顧好核心通路；③ 做多國市場的賣家可借 Kaufland 擴到西班牙、荷蘭的機會重估各平台通路組合與庫存分佈，評估是否新增一個歐洲本土泛歐通路；④ 不要因為新平台開站就盲目 all-in、分散資源反而弱化主力通路表現；⑤ 追蹤 Rakuten 法國/西班牙的過渡期時程與 Kaufland 西班牙、荷蘭的正式開站時間。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe（7/17：Rakuten France 年底關站、找不到買家、活躍客戶 -33%/流量 -42%、西班牙同步關）",
+        "url": "https://ecommercenews.eu/rakuten-france-is-closing"
+      },
+      {
+        "name": "FashionNetwork（7/17：管理層向 AFP 證實、確認 Le Figaro 報導、法西同一架構同步收攤）",
+        "url": "https://ww.fashionnetwork.com/news/Rakuten-france-to-close-by-end-2026-spain-also-to-shut,1853310.html"
+      },
+      {
+        "name": "WORLDEF（7/17：約 180 個職位受影響、2016 估值已砍至 €65M）",
+        "url": "https://worldef.com/2026/07/17/rakuten-france-is-shutting-down"
+      },
+      {
+        "name": "Zineps / Ecommerce News（Kaufland 夏末擴西班牙+荷蘭、9 國 220M 消費者、1 次註冊 6,400+ 品類）",
+        "url": "https://www.zineps.com/blog/kaufland-marketplace-netherlands-logistics-guide-2026"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【7/16 Reuters】Shein 香港 IPO 估值恐被砍：目標 $40-50B、投資人押向 $30B，直指 7/1 €3 小包費咬住歐洲（佔營收 1/3）——€3 不是小費用，是把低價直郵估值打掉一截的證據",
+    "summary": "上週日報談的是 Shein 拿到香港 IPO 批准；週末的新進展是「估值被壓」——Reuters 7/16 直接把矛頭指向 7/1 生效的 €3 小包費，這讓「€3 到底有沒有殺傷力」有了具體答案：不是賣家嫌煩的小數字，而是能把一家巨頭 IPO 估值打掉一截的結構性成本：\n        ① 估值目標 vs 投資人心理價（Reuters 7/16，經 ETBrandEquity、Ecotextile、TradingView 轉載）：Shein 目標 $40-50B，但因歐洲新費侵蝕成長，投資人傾向壓到 $30B；對照 2022 年 $100B、2023 年 $66B，估值一路走低。\n        ② 歐洲是關鍵拖累：歐洲佔 Shein 營收約 1/3（Euromonitor），CEO Sky Xu 得說服投資人「€3 衝擊只是暫時、2027 回升」；去年營收逾 $40B、淨利近 $2B。\n        ③ 掛牌時點與規模：7/10 獲 CSRC 批准後，最快 9-10 月掛牌、初步擬售至多 8%股份；仍遠小於對手 Temu 母公司 PDD（市值約 $117B）。\n        結論：這件事對名下賣家不是「Shein 股價八卦」，而是把上週還在講的 €3 費具象化——低價、直郵、跨境到 EU 的商業模式正被結構性課稅，資本市場已在定價這個風險。對比之下，把庫存放進歐洲境內、走本土履約的賣家，正是這輪重定價裡相對受益的一方。",
+    "public_impact": "上週的新聞是 Shein 拿到香港 IPO 批准，週末的新進展是估值被壓，而 Reuters 7/16 直接把矛頭指向 7 月 1 日生效的 €3 小包費，這讓 €3 到底有沒有殺傷力有了具體答案：它不是賣家嫌煩的小數字，而是能把一家巨頭 IPO 估值打掉一截的結構性成本。第一，據 Reuters（經 ETBrandEquity、Ecotextile 轉載），Shein 目標估值 400 至 500 億美元，但因歐洲新費侵蝕成長，投資人傾向壓到 300 億美元，對照 2022 年的 1,000 億、2023 年的 660 億一路走低。第二，歐洲約佔 Shein 營收三分之一（Euromonitor），去年營收逾 400 億美元、淨利近 20 億美元，CEO 得說服投資人衝擊只是暫時、2027 回升。第三，7/10 獲中國證監會批准後最快 9 至 10 月掛牌、初步擬售至多 8% 股份，仍遠小於對手 Temu 母公司 PDD。整體看，低價、直郵、跨境到歐盟的商業模式正被結構性課稅，資本市場已在定價這個風險；把庫存放進歐洲境內、走本土履約的賣家，是這輪重定價裡相對受益的一方。",
+    "public_action": "① 把 Shein 估值被壓當成 €3 費真的咬人的外部證據，若你做跨境到歐盟的低單價商品，認真評估把貨放進歐洲境內、走本地履約以降低 €3 曝險；② 針對 20 歐元以下的小包直郵，把每件 €3（不同品類分開計）納入到岸成本重算，評估轉本地倉是否更划算；③ 走本土庫存的賣家可趁低價直郵競爭者成本上升的空檔搶佔價格帶，把第三、四季當進攻視窗；④ 記得 Amazon 已在結帳頁明列進口費，本土備貨可免這行、對轉化率更有利；⑤ 追蹤 Shein 9 至 10 月香港掛牌定價與 Temu、Shein 在歐洲的在地倉佈局。",
+    "sources": [
+      {
+        "name": "Reuters（7/16：Shein 目標 $40-50B、投資人押 $30B、EU €3 費衝擊、歐洲佔營收 1/3、去年營收 >$40B/淨利近 $2B）",
+        "url": "https://www.reuters.com/business/retail-consumer/shein-ipo-faces-lower-valuation-e-commerce-crackdown-starts-bite-2026-07-16"
+      },
+      {
+        "name": "ET BrandEquity / Reuters（7/17：€3 費料拖累今年成長、Sky Xu 須說服投資人為暫時性）",
+        "url": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/shein-ipo-faces-lower-valuation-as-e-commerce-crackdown-starts-to-bite/132459799"
+      },
+      {
+        "name": "Ecotextile News（7/17：€3 費壓低估值、法國本週把快時尚罰則升至最高 €20/件 2030）",
+        "url": "https://www.ecotextile.com/2026071764181/radar/shein-ipo-valuation-hampered-by-new-eu-rules"
+      },
+      {
+        "name": "Reuters（7/10：CSRC 批准、最快 9-10 月掛牌、擬售至多 8%、PDD 市值約 $117B）",
+        "url": "https://wtvbam.com/2026/07/10/shein-wins-chinese-approval-for-hong-kong-ipo"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【7/16 ONS＋今日政局】UK 5 月 GDP +0.1% MoM 回正（服務業撐、生產/營建雙降）；今日 7/20 Burnham 正式接任首相改組內閣、7/22 UK 6 月 CPI 揭曉：低成長＋政策換手雙不確定",
+    "summary": "UK 5 月 GDP 週三（7/16）出爐、月增回正但動能不強，而今天（7/20）Burnham 正式接任首相、本週還有 6 月 CPI，三件事合起來把「Amazon.co.uk Q3 需求維持中性、且多一層政策不確定」的判讀定調：\n        ① 5 月 GDP +0.1% MoM（ONS 7/16）：4 月 -0.1%後回正、符合預期；服務業 +0.3%撐盤（科研 +5.1%為最大貢獻），但生產 -0.5%、營建 -0.8%雙雙下滑；3 個月滾動 +0.7%（略低於前值 +0.8%）。\n        ② 新首相今日上任（Bloomberg/Yahoo）：Andy Burnham 7/20接任首相、將任命新財相並公布影響經濟的政策，Reeves 預料卸任財相——政策走向短期進入觀望。\n        ③ 本週數據節點：7/22UK 6 月 CPI 揭曉（5 月持平 2.8%、市場關注是否續黏），公共財政、就業與薪資同週公布。\n        ④ 全年基調：IMF 7 月把 UK 2026 成長上修到 1.0%（4 月 0.8%），但仍低於 Iran 戰事前 1.3% 的預估，BoE 維持觀望。\n        結論：對做 UK 站的名下賣家，這批數據不改「英國低成長、消費偏謹慎」的基調，且新政府政策方向未明會再添一層不確定。Q3 需求維持中性、定價與備貨別押強復甦，焦點放到 7/22 CPI 與新內閣財政訊號。",
+    "public_impact": "英國 5 月 GDP 週三（7/16）出爐、月增回正但動能不強，而今天（7/20）Andy Burnham 正式接任首相，本週還有 6 月 CPI，三件事合起來把英國市場第三季需求維持中性、且多一層政策不確定的判讀定調。第一，據 ONS，5 月 GDP 月增 0.1%（4 月為 -0.1%）、符合預期，服務業 +0.3% 撐盤（科研 +5.1% 為最大貢獻），但生產 -0.5%、營建 -0.8% 雙降，3 個月滾動 +0.7%（略低於前值 0.8%）。第二，據 Bloomberg、Yahoo，Burnham 於 7/20 接任首相、將任命新財相並公布影響經濟的政策，短期政策走向進入觀望。第三，7/22 英國 6 月 CPI 揭曉（5 月持平 2.8%），公共財政、就業與薪資同週公布。第四，IMF 7 月把英國 2026 成長上修到 1.0%，但仍低於年初預估，央行維持觀望。整體看，英國低成長、消費偏謹慎的基調不變，且新政府政策方向未明會再添一層不確定。",
+    "public_action": "① 做英國市場的賣家第三季需求維持中性偏保守、以價值優先為主軸，別因單月 GDP 回正就樂觀上修；② 新首相與新財相上任、財政與稅政方向未明，重大定價或擴張決策建議等 7/22 英國 6 月 CPI 與新內閣財政訊號更清楚再動；③ 服務業撐盤但生產與營建走弱，家居、工具、建材周邊需求偏弱、服務體驗相關較穩，品類判讀維持分化視角；④ 政策空窗期英鎊波動可能加大，毛利模型別押英鎊單邊；⑤ 追蹤 7/22 英國 6 月 CPI 與新內閣財相任命後的財政訊號。",
+    "sources": [
+      {
+        "name": "ONS（英國 5 月 GDP +0.1% MoM、服務 +0.3%、生產 -0.5%、營建 -0.8%、3 個月 +0.7%）",
+        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/may2026"
+      },
+      {
+        "name": "The Guardian（7/16：5 月 GDP 回正、科研 +5.1% 最大貢獻、Reeves 預料週一卸任、Burnham 接任）",
+        "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war"
+      },
+      {
+        "name": "Yahoo/Moneyweek（IMF 把 UK 2026 成長上修至 1.0%、仍低於年初 1.3% 預估）",
+        "url": "https://finance.yahoo.com/economy/articles/uk-economy-shrunk-april-iran-121827388.html"
+      },
+      {
+        "name": "ONS（UK 5 月 CPI 持平 2.8%、6 月 CPI 次一釋出 7/22）",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/may2026"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【7/19 生效】EU ESPR 未售服飾/鞋類「銷毀禁令」對大型企業正式上路（中型 2030、微小永久豁免）；同日 DPP 登錄中心是「執委會的死線」非賣家上架開關——別被 vendor 恐嚇話術帶走",
+    "summary": "上週日報預告的 ESPR 兩個 7/19 節點，昨天（7/19，週日）正式到期。這裡最重要的是把「真的變了什麼」和「被 vendor 講得像天塌下來、其實還沒」分清楚，避免名下賣家被行銷話術嚇著亂花錢：\n        ① 銷毀禁令對大型企業正式生效（ESPR 第 25 條，Regulation (EU) 2024/1781）：7/19起大型企業不得銷毀未售出的服飾、配件、鞋類（含滯銷庫存與退貨），無寬限期；中型企業 2030/7/19 才納入、微小企業永久豁免；並有防規避條款，禁止用豁免小商當大廠的銷毀出口。\n        ② DPP 登錄中心是「執委會的義務」不是賣家開關（第 13 條）：同日是歐盟執委會把 DPP 登錄中心「建置完成」的死線，登錄中心只是「驗證檢查點」（存識別碼、經濟操作者身分、關稅碼、指向護照資料的指標），不是要你的商品當天就登錄；紡織品的 DPP 委任法規預計 2027公布、實際強制約 2028-2029。\n        ③ 罰則由各會員國定：無單一歐盟罰金，見到具體數字要能對到某國法規才採信。\n        結論：對名下賣家，7/19 真正「開關打開」的只有大型時尚/鞋類品牌的銷毀禁令；DPP 是方向、不是當日死線。對紡織/時尚賣家，正確動作是「趁還沒強制，先把產品資料、供應鏈紀錄、產品識別碼整理好」，而不是被 vendor「每個 SKU 都要立刻登錄」的話術牽著走。",
+    "public_impact": "上週日報預告的 ESPR 兩個 7/19 節點，昨天（7/19）正式到期，這裡最重要的是把真的變了什麼和被行銷話術講得像天塌下來、其實還沒分清楚，避免被嚇著亂花錢。第一，據 ESPR 第 25 條（Regulation (EU) 2024/1781），7/19 起大型企業不得銷毀未售出的服飾、配件、鞋類（含滯銷庫存與退貨），無寬限期；中型企業 2030 年 7 月才納入、微小企業永久豁免，並有防規避條款，禁止用豁免小商當大廠的銷毀出口。第二，同日是歐盟執委會把數位產品護照（DPP）登錄中心建置完成的死線（第 13 條），登錄中心只是驗證檢查點，存識別碼、經濟操作者身分、關稅碼與指向護照資料的指標，不是要你的商品當天就登錄；紡織品的 DPP 委任法規預計 2027 公布、實際強制約 2028 至 2029。第三，罰則由各會員國自訂，沒有單一歐盟罰金，見到具體數字要能對到某國法規才採信。整體看，7/19 真正開關打開的只有大型時尚與鞋類品牌的銷毀禁令，DPP 是方向、不是當日死線。",
+    "public_action": "① 做紡織與時尚的賣家先分清 7/19 是歐盟執委會建置 DPP 登錄中心的死線、不是你的商品當天就得登錄，別被每個 SKU 都要立刻登錄的行銷話術牽著走；② 趁還沒強制，先把纖維成分、原產地、供應鏈紀錄與產品識別碼（如 GTIN）整理好，紡織 DPP 約 2028 至 2029 才強制；③ 大型服飾與鞋類品牌記住 7/19 起不得銷毀未售出商品，改用轉售、捐贈、回收處理並建立年度揭露流程，中型企業 2030 才適用、微小企業豁免；④ 把 ESPR、8/12 包裝法規、8/2 AI 法一次盤點，避免旺季前逐項補件塞車；⑤ 見到具體罰款數字先確認是否對應某國法規，因為罰則由各會員國自訂。",
+    "sources": [
+      {
+        "name": "Fluxy（ESPR 第 25 條銷毀禁令 7/19 對大型企業生效、中型 2030、微小豁免、防規避條款；第 13 條 DPP 登錄中心是執委會義務非賣家開關）",
+        "url": "https://fluxy.one/post/espr-2026-textile-deadlines-19-july"
+      },
+      {
+        "name": "PassportCraft（7/19 銷毀禁令為時尚首個 ESPR 硬死線、DPP 登錄中心是執委會 Art.13(1) 死線非全員登錄日）",
+        "url": "https://passportcraft.com/insights/dpp-timeline-2026-2030-every-deadline"
+      },
+      {
+        "name": "Retraced（銷毀禁令 7/19 生效、微小豁免、中型 2030；紡織委任法規約 2027、強制約 2028+）",
+        "url": "https://www.retraced.com/blogs/magazine/digital-product-passport"
+      },
+      {
+        "name": "Portugal Clothing Factory（ESPR 2024/7 生效、紡織委任法規 2025-2027、DPP 需可驗證成分/原產地/認證/EPR）",
+        "url": "https://www.portugalclothingfactory.com/blog/espr-textile-regulation"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-07-20",
+    "type": "daily",
+    "tags": [],
+    "title": "【7/23 前瞻】ECB 本週四決策：市場估按兵不動、維持存款利率 2.25%；但 7 月初以來 Brent 反彈約 16% 成新變數，6 月 HICP 終值確認 2.8%、9 月才是下次可能升息窗口",
+    "summary": "ECB 本週四（7/23）開會，市場共識是按兵不動，但這次前瞻多了一個新變數——油價在 7 月初以來又反彈——讓「這次先按、9 月再看」的敘事帶點張力，對做 EU5 的名下賣家是 EUR 與定價假設的關鍵一週：\n        ① 決策共識：先按（Morningstar 7/17 / Economic Times 引 Reuters）：市場普遍估 ECB 7/23維持存款利率 2.25%不變（6/11 已升息一次，是主要央行中首個因地緣衝擊升息者）；經濟學家多數看 9 月才是下次可能升息窗口。\n        ② 新變數：油價反彈：Brent 自 7 月初以來反彈約 16%，重新點燃通膨疑慮，但幅度不如 3-4 月；DWS 等預期油價後續回落、能源對通膨轉為抑制。\n        ③ 通膨背景：續降但仍黏：6 月 HICP 終值確認 2.8%（前 3.2%、2 月來最低）、核心 2.4%、能源由 10.8% 降至 8.5%，仍高於 2% 目標；ECB 6 月已把 2026 通膨上修到 3.0%。\n        ④ 對 EUR 的意涵：先按＋油價反彈＋通膨仍黏，短線 EUR 缺明確方向；Reuters 另一調查估一年內 EUR/USD 升向 1.20，但屬中期。\n        結論：對做 EU5 的名下賣家，這週不改「EUR 中性、消費力回升有限」的基調。Q3 毛利與定價維持中性錨點，焦點放到 7/23 ECB 措辭（尤其對 9 月升息的暗示）與 7/31 歐元區 7 月 HICP flash。",
+    "public_impact": "歐洲央行本週四（7/23）開會，市場共識是按兵不動，但這次前瞻多了一個新變數，油價在 7 月初以來又反彈，讓這次先按、9 月再看的敘事帶點張力，對做歐洲市場的賣家是歐元與定價假設的關鍵一週。第一，據 Morningstar、Economic Times 引 Reuters，市場普遍估歐洲央行 7/23 維持存款利率 2.25% 不變（6/11 已升息一次），經濟學家多數看 9 月才是下次可能升息窗口。第二，Brent 原油自 7 月初以來反彈約 16%，重新點燃通膨疑慮，但幅度不如 3 至 4 月，部分機構預期油價後續回落。第三，6 月調和通膨終值確認 2.8%（前 3.2%、2 月來最低）、核心 2.4%、能源由 10.8% 降至 8.5%，仍高於 2% 目標。第四，先按加上油價反彈與通膨仍黏，短線歐元缺明確方向，另有調查估一年內歐元兌美元升向 1.20，但屬中期。整體看，歐元中性、消費力回升有限的基調不變。",
+    "public_action": "① 做歐洲市場的賣家毛利與定價的匯率假設維持中性、別押歐元單邊，因為歐洲央行 7/23 估按兵不動、歐元短線缺方向；② 家電、家具、3C 等能源密集品類第三季成本要把 Brent 油價 7 月來反彈約 16% 當上行風險，別假設能源已全面回落；③ 歐元計價的大賣家留意，若央行措辭偏鷹、9 月升息機率升，第四季信貸成本可能上行，可在 9 月前評估鎖定融資成本並對齊旺季備貨現金流；④ 歐洲央行高度看數據，別把單週措辭當定局，7/31 通膨初值與後續油價才是關鍵；⑤ 追蹤 7/23 央行決策與記者會措辭、7/31 歐元區 7 月通膨初值與油價走勢。",
+    "sources": [
+      {
+        "name": "Economic Times / Reuters（ECB 7/23 估維持 2.25%、6/11 已升息、9 月為最可能下次升息窗口、油價反彈重燃通膨疑慮）",
+        "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-ecb-weighs-inflation-risks-digital-euro-progress-at-july-meeting/articleshow/132456458.cms"
+      },
+      {
+        "name": "Reuters（6/30 Sintra：油價回落降低 ECB 立即升息急迫、7 月機率約 1/3、下次會議 7/23）",
+        "url": "https://www.reuters.com/business/energy/surprisingly-quick-oil-price-retreat-eases-urgency-ecb-act-sources-say-2026-06-30"
+      },
+      {
+        "name": "WSJ（歐元區 6 月 HICP 2.8%、優於市場估 3.0%、能源退燒、升高 ECB 本月按兵機率）",
+        "url": "https://www.wsj.com/economy/global/eurozone-inflation-declines-as-energy-shock-fades-in-relief-for-ecb-0f7d7670"
+      },
+      {
+        "name": "Trading Economics / Eurostat（6 月 HICP 終值 2.8%、核心 2.4%、能源 8.5%、7/31 7 月 flash）",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-07-17",
     "type": "daily",
     "tags": [
@@ -1885,242 +2033,6 @@
       {
         "name": "Cross-Border Association / Händlerbund（撤回權按鈕、AI 標示守則、GPSR EAN 6/19）",
         "url": "https://www.cross-border-association.com/whats-new-in-e-commerce-june-19-2026"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-06-18",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【6/17 Fed】Warsh 首會全票維持 3.50-3.75%、正式撤「寬鬆基調」，點陣圖轉「持平 vs 升息」分歧；2026 降息基本出局、市場開始定價升息",
-    "summary": "進展為何：昨日預告的「央行超級週」第二張底牌今日揭曉——Fed 在新主席 Warsh 首場會議如預期按兵，但溝通基調出現結構性轉向：從「等著降息」改為「可能要升息」，這比利率本身更關鍵：\n        ① 全票維持利率（Kiplinger / Barron's 6/17）：FOMC 維持聯邦基金利率 3.50-3.75%（自 2025/12 以來不變），且異於近期分歧投票，本次為全票一致；會前期貨定價約 97%機率不動。\n        ② 撤掉寬鬆基調：聲明刪去先前的降息傾向措辭，點名經濟活動「穩健」、勞動市場穩定；分析指這是「明確告別今年稍早的寬鬆語氣」。\n        ③ 點陣圖轉鷹：更新版經濟預測（SEP）顯示官員在「今年維持不動 vs 升息」之間分裂，3 月時還預估今年再降 2 碼的路徑已不成立；通膨假設上修、成長略下修。\n        ④ 背景：美 5 月 CPI 4.2%（3 年高）但核心偏軟、5 月就業報告強勁；油價端反向鬆動——Brent 6/16 跌破 $80 收 $78.96（3 月來首見），美伊預備協議將立即解除對伊制裁，Goldman 把 Q4 Brent 預估由 $90 下修至 $80、Morgan Stanley Q3 由 $100 降至 $90。\n        結論：Fed 利差結構維持、ECB 已於 6/11 升息，利差支撐 EUR 相對偏強；但 Fed 轉「不排除升息」+ 利率期貨已定價年底至少一次升息，是 Q3 跨幣別定價與美元資產波動的新變數。",
-    "public_impact": "美國聯準會（Fed）在新任主席 Warsh 主持的首場會議（6/16-17）如市場預期維持聯邦基金利率 3.50-3.75%（自 2025/12 以來不變），且本次為全票一致決議。比利率本身更重要的是溝通基調轉向：聲明刪去先前的降息傾向措辭，點名經濟活動「穩健」、勞動市場穩定；更新版經濟預測顯示官員在「今年維持不動 vs 升息」之間分裂，3 月時還預估今年再降 2 碼的路徑已不成立，通膨假設上修、成長略下修。背景上，美 5 月 CPI 4.2%（3 年高）但核心偏軟、就業強勁；油價反向鬆動——Brent 6/16 跌破 $80 收 $78.96（3 月來首見），美伊預備協議將立即解除對伊制裁，Goldman 把 Q4 Brent 由 $90 下修至 $80、Morgan Stanley Q3 由 $100 降至 $90。對跨境賣家而言，ECB 已升息、Fed 按兵且不排除升息，利差結構支撐歐元相對偏強，是 Q3 跨幣別定價與美元資產波動的新變數。",
-    "public_action": "① 歐元計價與對美出口賣家把 Q3 定價建在 EUR/USD base 1.16、upside 1.19、downside 1.14 三情境，並把「Fed 不排除升息」視為美元走強風險；② 若先前 forecast 押注「下半年 Fed 降息帶動美國消費回暖」，這個假設基本出局，跨站 Q3-Q4 美國需求預期宜回到中性；③ 油價急跌（Brent 跌破 $80、投行集體下修）對家電、家具、3C 等能源密集品類是成本利多，可重算到岸成本與毛利、評估定價空間，正好接旺季備貨；④ 追蹤 7/28-29 下次 FOMC、美後續 CPI 與霍莫茲海峽是否如期 7 月底復常。",
-    "sources": [
-      {
-        "name": "Kiplinger（Fed 全票維持、撤寬鬆基調）",
-        "url": "https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026"
-      },
-      {
-        "name": "Reuters（72/102 經濟學家估全年不動）",
-        "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09"
-      },
-      {
-        "name": "CNBC（Brent 跌破 $80）",
-        "url": "https://www.cnbc.com/2026/06/16/us-iran-peace-agreement-oil-prices-tankers-strait-of-hormuz-transit.html"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-06-18",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【6/17 ONS】UK 5 月 CPI 2.8% 低於預期、已低於 BoE 自估 Q2 3.1% 路徑；但運輸燃油 +6.8% 撐住、服務通膨升 3.7%，BoE 今日 6/18 料維持 3.75%",
-    "summary": "進展為何：昨日預告的 UK 5 月 CPI 今日揭曉，2.8% 低於市場估的 3.0%、且低於 BoE 自己在 4 月設定的 Q2 3.1% 路徑，理論上給降息留空間——但分項冷熱不均，加上能源風險，BoE 今日 6/18 中午料仍按兵：\n        ① CPI 低於預期（ONS / Trading Economics 6/17）：5 月 CPI 2.8% YoY（與 4 月持平、低於估 3.0%），為去年 3 月以來最低；MoM +0.2%。\n        ② 商品降、服務升：住房與家庭服務 2.7%（近兩年最軟）、食品 2.2%（2024/12 來最低）、服飾鞋類僅 0.2%；但服務通膨升至 3.7%（前 3.2%）、核心 CPI 2.6%（前 2.5%）。\n        ③ 運輸燃油是頂住通膨的主因：運輸通膨急升至 6.8%（前 4.5%、2022/12 來最高），由汽油價格帶動，反映中東衝突的能源溢價尚未完全消退。\n        ④ 今日節點：BoE 6/18中午公布利率決議（4/30 以 8-1 維持 3.75%、1 票主張升息）；Polymarket 定價 99.4%維持不變，市場焦點在後續是否轉鴿。\n        結論：CPI 已低於 BoE 自估路徑、商品端明顯降溫，但服務與燃油黏著、能源風險未解，BoE 料維持 3.75% 並維持「謹慎」，Amazon.co.uk Q3 GMV base 宜偏保守、待決議與 6/19 零售確認方向。",
-    "public_impact": "英國 5 月 CPI 於 6/17 公布為 2.8% YoY（與 4 月持平、低於市場估 3.0%），是去年 3 月以來最低，也低於英國央行（BoE）4 月設定的 Q2 3.1% 路徑。分項冷熱不均：住房與家庭服務 2.7%（近兩年最軟）、食品 2.2%（2024/12 來最低）、服飾鞋類僅 0.2%；但服務通膨升至 3.7%（前 3.2%）、核心 CPI 2.6%（前 2.5%），運輸通膨更急升至 6.8%（前 4.5%、2022/12 來最高），由汽油價格帶動，反映中東衝突能源溢價尚未完全消退。BoE 於 6/18 中午公布利率決議（4/30 曾以 8-1 維持 3.75%），市場定價約 99% 維持不變，焦點在後續是否轉鴿。對跨境賣家而言，UK 商品通膨明顯降溫利於價格敏感品類需求，但服務與燃油黏著仍擠壓家庭可支配所得。",
-    "public_action": "① 留意 6/18 BoE 決議與 6/19 UK 5 月零售，若 BoE 轉鴿且零售回穩，UK 站第四季旺季基本盤可略上修；② UK 站賣家把「服飾 0.2%、食品 2.2% 降溫 vs 服務 3.7% 黏著」納入分品類 Q3 基本盤，SKU mix 往必需品、低單價傾斜，大額非必需品維持保守；③ 若 BoE 轉鴿、英鎊走弱，跨境賣家可評估 GBP 收入的換匯時點與定價；④ 運輸與燃油成本仍黏著，留意對家庭可支配所得的擠壓尚未完全緩解。",
-    "sources": [
-      {
-        "name": "ONS / Trading Economics（5 月 CPI 2.8%、運輸 6.8%）",
-        "url": "https://tradingeconomics.com/united-kingdom/inflation-cpi"
-      },
-      {
-        "name": "ONS（5 月 CPI 公報、服務 3.7%）",
-        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/may2026"
-      },
-      {
-        "name": "Polymarket（BoE 99.4% 維持）",
-        "url": "https://polymarket.com/event/bank-of-england-decision-in-june-221"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-06-18",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【7/1 倒數 13 天】EU 釋出 €3 關稅官方指南：按「稅則品項」每件 €3、非每包，5 件 T 恤算 €3、T 恤+手錶算 €6；PID 7/1 自願、11/1 強制",
-    "summary": "距 7/1 €3 小包過渡關稅上路剩 13 天，歐盟稅務總署 6/8 釋出官方指南與法律條文，把先前模糊的計費方式講清楚——關鍵是「按稅則品項計、不是按包裹計」，這會直接改變直送賣家的成本結構與選品策略：\n        ① 每件 €3、非每包（EC 稅務總署 6/8）：對價值 ≤€150的小包，按其內含「稅則品項（tariff classification）」每件課 €3固定關稅；指南舉例 5 件 T 恤算 €3（1 品項）、1 件 T 恤 + 1 支手錶算 €6（2 品項）。\n        ② 適用對象與期限：適用 IOSS 登記的賣家（涵蓋約 93%對歐電商貨流），實施至 2028/7/1 EU 海關資料中心上線為止；2025 年有近 59 億件低價小包免稅入歐。\n        ③ PID 產品識別碼時程：7/1起可自願申報 PID、11/1起強制，以強化溯源與安全查驗。\n        ④ 處理費另計：擬議中的「歐盟處理費」是費用、非關稅，金額與起始日預計 2026 秋敲定（業界傳約 €2/件）；由申報人（賣家/進口商）埋單、非消費者。\n        結論：€3 按品項計，對「單包多品項、低單價直送」的模式衝擊最大，會推賣家走「同品項合併出貨」與「歐洲在地倉」兩條路；對 Amazon 在地履約招商是結構性 tailwind。",
-    "public_impact": "距 7/1 €3 小包過渡關稅上路剩約兩週，歐盟稅務總署 6/8 釋出官方指南與法律條文，釐清計費方式：對價值 ≤€150 的小包，按其內含「稅則品項」每件課 €3 固定關稅，而非按包裹計——指南舉例 5 件 T 恤算 €3（1 品項）、1 件 T 恤加 1 支手錶算 €6（2 品項）。適用 IOSS 登記賣家（涵蓋約 93% 對歐電商貨流），實施至 2028/7/1 EU 海關資料中心上線為止；2025 年有近 59 億件低價小包免稅入歐。產品識別碼（PID）自 7/1 可自願申報、11/1 起強制，以強化溯源與安全查驗。另有擬議中的「歐盟處理費」屬費用、非關稅，金額與起始日預計 2026 秋敲定，由申報人（賣家或進口商）埋單、非消費者。對賣家而言，€3 按品項疊加，對「單包多品項、低單價直送」模式衝擊最大。",
-    "public_action": "① 把「每稅則品項 €3 + 秋季約 €2 處理費」納入 Q3 到岸成本重算，特別留意單包多品項的疊加風險；② 評估從「單品項合併出貨」「品項精簡」「歐洲在地倉拆包」三個方向降本；③ 仍走跨境直送的賣家在 11/1 PID 強制申報前備妥產品識別碼與資料鏈，避免通關卡關；④ 追蹤 7/1 €3 上路的各國執行細則，以及秋季歐盟處理費的金額與生效日定案。",
-    "sources": [
-      {
-        "name": "EC 稅務關務總署（€3 官方指南、PID 時程）",
-        "url": "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en"
-      },
-      {
-        "name": "EU 理事會（€3 每品項、93% 貨流）",
-        "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-06-18",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【6/17 JD】Joybuy 開放歐洲+中國第三方賣家入駐：從自營百貨轉 marketplace，JD 加碼歐洲平台布局、對 Amazon 招商正面對打",
-    "summary": "昨日報導 JD 用 JoyExpress 鋪 60+ 在地倉做履約，今日浮現的是商業模式的下一步——Joybuy 開放第三方賣家入駐，從「JD 自營百貨」轉成「開放 marketplace」，這是 JD 對歐洲招商的正面進攻，與 Amazon 搶的是同一批賣家：\n        ① 從 1P 轉 3P（Cross-Border Magazine 6/17）：Joybuy（JD.com 旗下歐洲零售平台）原以「第一方自營線上百貨」型態在歐洲上線，現準備開放給歐洲與中國的精選第三方賣家入駐。\n        ② JD 加碼歐洲：報導定調這是「JD.com 在歐洲 marketplace 布局的明顯升級」，Joybuy 雖仍新，但開放 3P 顯示 JD 準備在歐洲電商扮演更大角色。\n        ③ 與在地履約合流：搭配 JD Logistics 旗下 JoyExpress 在英德荷法的自營車隊與在地倉，JD 等於同時備齊「平台 + 履約」兩端，對標 Amazon「marketplace + FBA」的整體打法。\n        結論：歐洲 marketplace 競爭進入「招商搶賣家」的正面階段——JD 不只當低價直郵通路，而是要直接招歐洲與中國賣家上架；招商敘事須回到 Amazon 的流量規模、Prime 會員基數、廣告 ROI 與品牌工具的整體價值。",
-    "public_impact": "JD.com 旗下歐洲零售平台 Joybuy 於 6/17 傳出將開放歐洲與中國的精選第三方賣家入駐，從原本的「第一方自營線上百貨」型態轉為「開放 marketplace」。報導定調這是 JD.com 在歐洲 marketplace 布局的明顯升級，Joybuy 雖仍屬新平台，但開放第三方賣家顯示 JD 準備在歐洲電商扮演更大角色。搭配 JD Logistics 旗下 JoyExpress 在英、德、荷、法的自營車隊與在地倉，JD 等於同時備齊「平台 + 履約」兩端。對跨境賣家而言，歐洲 marketplace 競爭進入「平台搶賣家」的正面階段，賣家的鋪貨選項增加，但也意味要更清楚比較各平台在流量、會員基數、廣告與履約上的實際差異。",
-    "public_action": "① 把 JD Joybuy 開放第三方賣家與其在地倉布局，納入歐洲平台觀察清單，理解競爭已從「直郵 vs 在地」進入「平台招商搶賣家」階段；② 評估新平台時務實比較各通路在轉換率、客單價、會員復購、廣告與品牌工具上的實際差異，鎖定自身主力通路；③ 多通路鋪貨可分散風險，但建議集中資源在數據表現最好的核心平台；④ 追蹤 Joybuy 第三方招商的費率、品類與在地倉政策等條件，再決定是否入駐。",
-    "sources": [
-      {
-        "name": "Cross-Border Magazine（Joybuy 開放第三方賣家）",
-        "url": "https://cross-border-magazine.com/joybuy-opens-to-european-sellers"
-      },
-      {
-        "name": "Yahoo Finance（JoyExpress 在地倉布局）",
-        "url": "https://finance.yahoo.com/news/jd-com-launches-joybuy-marketplace-095012782.html"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-06-18",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【6/17 平台/支付】歐洲三訊號同日浮現：ACI 接入 EPI Wero 泛歐錢包（SEPA 即時軌）、Merchantee €180萬 + ShopAgentic €190萬 agentic 電商募資",
-    "summary": "6/17 歐洲電商工具圈同日三則訊號，合起來指向兩個結構趨勢：泛歐即時支付軌成形、agentic（自主代理）電商基建吸金——這兩件事中長期會改寫賣家的收款與營運方式：\n        ① 泛歐支付軌（Practical Ecommerce 6/17）：ACI Worldwide 以技術服務商身分加入歐洲支付倡議（EPI），整合 Wero 泛歐數位錢包——跑在 SEPA 即時支付軌上，支援 P2P、電商與 POS；商家與金融中介可向歐洲消費者與企業提供 Wero。\n        ② agentic 電商募資（一）：Merchantee 完成 €180 萬（$210 萬）募資，由 Reflex Capital 領投、Czech Founders VC 與 Lighthouse Ventures 跟投；平台以 AI 代理管理資料、決策、執行與優化，讓賣家設定預算/銷售上限自動跑折扣與動態定價。\n        ③ agentic 電商募資（二）：ShopAgentic 完成 €190 萬（$220 萬）pre-seed，由 May Ventures 與 Greenfield Capital 領投；以一組專責 AI 代理自動化選品、動態定價、客服與履約。\n        結論：Wero 代表歐洲想擺脫對 Visa/Mastercard 的依賴、建自己的即時支付軌；agentic 工具則把「定價/客服/履約」自動化往前推。兩者短期對招商無直接衝擊，但是賣家未來收款成本與營運效率的結構性變數，值得提早認識。",
-    "public_impact": "6/17 歐洲電商工具圈同日出現三則訊號，合起來指向兩個結構趨勢。其一是泛歐即時支付軌成形：ACI Worldwide 以技術服務商身分加入歐洲支付倡議（EPI），整合 Wero 泛歐數位錢包——跑在 SEPA 即時支付軌上，支援 P2P、電商與 POS，商家與金融中介可向歐洲消費者與企業提供 Wero。其二是 agentic（自主代理）電商基建吸金：Merchantee 完成 €180 萬（$210 萬）募資（Reflex Capital 領投），以 AI 代理管理資料、決策、執行與優化；ShopAgentic 完成 €190 萬（$220 萬）pre-seed（May Ventures、Greenfield Capital 領投），以專責 AI 代理自動化選品、動態定價、客服與履約。對跨境賣家而言，Wero 代表歐洲想建立自有的即時支付軌、降低對國際卡組織依賴，agentic 工具則把定價/客服/履約自動化往前推，兩者是未來收款成本與營運效率的結構性變數。",
-    "public_action": "① 把 Wero 泛歐錢包與 agentic 電商工具放進中長期觀察清單，作為未來收款成本與營運效率的背景趨勢，目前不需立即行動；② 營運成熟的賣家可開始了解 AI 自動化定價、客服、履約工具，評估能否提升效率；③ 留意泛歐即時支付軌普及後，對自有獨立站收款成本與到帳速度的影響；④ 追蹤 Wero 在主要市場的商家採用率，以及主流 agentic 工具是否整合主要電商平台 API。",
-    "sources": [
-      {
-        "name": "Practical Ecommerce（ACI/Wero、Merchantee、ShopAgentic 6/17）",
-        "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2026"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-06-17",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【6/16 ZEW】德國 6 月經濟景氣意外翻正 +10.5（前 -10.2、估 -6），歐元區同步 +9.5；但「當前情勢」續惡化到 -81",
-    "summary": "進展為何：昨日預告的「市場估 6 月 ZEW 約 -14」今日揭曉，實際大幅優於預期翻為 +10.5——這是 4 月戰事低點（-17.2）以來首度由負轉正，預期面快速修復，但反映現況的「當前情勢」續惡化，硬軟背離更明顯：\n        ① 德國 ZEW 翻正（ZEW / FXStreet 6/16）：6 月經濟景氣指數 +10.5，遠優於前值 -10.2（5 月）與市場預期 -6.0，是中東戰事爆發以來首度轉正、預期面顯著回暖。\n        ② 但當前情勢惡化：同份調查的「當前情勢」分項意外跌至 -81.0（前 -77.8、估 -77.5），顯示投資人是「賭未來好轉」而非「現況已改善」，復甦仍停在預期階段。\n        ③ 歐元區同步轉正：歐元區 ZEW 景氣 +9.5（前 -9.1、估 -7.2），方向與德國一致。\n        ④ 市場背景：受美伊停火與油價急跌帶動風險偏好，Brent 6/16 跌破 $80 至 $79.43（單日 -4.5%、近月 -29%），EUR/USD 約 1.160；接續 ECB 6/11 升息至 2.25%、5 月 HICP 3.2%。\n        結論：預期面回暖 + 油價急跌帶來的能源通膨鬆動，是 Q3 EU5 消費復甦的正向訊號，但「當前情勢 -81」提醒復甦尚未落地，招商 forecast 宜「德國 base 略上修、但保留情境彈性」。",
-    "public_impact": "德國 6 月 ZEW 經濟景氣指數於 6/16 意外翻正至 +10.5，遠優於前值 -10.2（5 月）與市場預期 -6.0，是中東戰事爆發以來首度由負轉正、預期面顯著回暖；歐元區 ZEW 也同步轉正至 +9.5（前 -9.1）。但同份調查反映現況的「當前情勢」分項續惡化至 -81.0（前 -77.8），顯示投資人是看好未來、而非現況已改善，復甦仍停在預期階段。市場背景上，受美伊停火與油價急跌帶動風險偏好，Brent 6/16 跌破 $80 至 $79.43（單日 -4.5%、近月 -29%），EUR/USD 約 1.160；接續 ECB 6/11 升息至 2.25%、5 月歐元區 HICP 3.2%。對跨境賣家而言，預期面回暖加上油價急跌帶來的能源通膨鬆動，是 Q3 歐洲消費復甦的正向訊號，德國相對有上修空間，但「當前情勢」仍弱提醒復甦尚未落地。",
-    "public_action": "① 德國市場賣家可把 ZEW 翻正與油價回落納入 Q3 備貨基本盤略樂觀的依據，但維持 base/upside/downside 三情境、不單押復甦；② 家電、家具、3C 等能源密集品類受惠於 Brent 跌破 $80、近月 -29%，可重算 Q3 到岸成本與毛利、評估定價空間；③ 留意「當前情勢 -81」顯示現況仍弱，需求復甦尚在預期階段，避免過度上修庫存；④ 追蹤 6/26 Eurostatistics 更新、後續 PMI 與 6 月 HICP flash，確認預期與現況的背離往哪個方向收斂。",
-    "sources": [
-      {
-        "name": "ZEW / FXStreet（6 月 +10.5）",
-        "url": "https://www.mitrade.com/au/insights/news/live-news/article-6-1815184-20260616"
-      },
-      {
-        "name": "Trading Economics（德國 ZEW）",
-        "url": "https://tradingeconomics.com/germany/zew-economic-sentiment-index"
-      },
-      {
-        "name": "Trading Economics（Brent $79.43）",
-        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-06-17",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【6/16 BoJ】日本央行升息至 1.0%、1995 來最高並暫停縮表，年底估再升 1.25%；Fed 6/17-18 料按兵 3.50-3.75%",
-    "summary": "進展為何：昨日預告的「央行超級週」今日交出第一張底牌——BoJ 如期升息至 1.0%、創 31 年新高並罕見暫停縮表，且明示還會再升；主要央行貨幣路徑分歧加大，匯率與資金流向是 EU 賣家要盯的變數：\n        ① BoJ 升息 1.0%（Reuters / CNBC 6/16）：升 25bp 至 1.0%、1995 以來最高；同時宣布明年 4 月起暫停縮減購債、續以約 ¥2 兆/月買 JGB，並取消每年檢視縮表計畫。\n        ② 還會再升：BoJ 點名中東油價推升通膨、FY2026 核心 CPI 上修至 2.8%；Reuters 調查 53/67 經濟學家估第四季再升至 1.25%、明年第二季 1.50%。\n        ③ Fed 接力：FOMC 6/17-18料維持 3.50-3.75%（美 5 月 CPI 4.2%、3 年高，但 core 偏軟）；USD/JPY 約 160。\n        結論：BoJ 持續收緊 + 日資從海外資產回流（Q1 淨賣美債 $296 億）可能擾動全球債市與匯率；對歐元計價賣家，EUR/USD 與美債殖利率波動是 Q3 定價與避險的關鍵變數。",
-    "public_impact": "日本央行（BoJ）於 6/16 升息 25bp 至 1.0%，創 1995 年以來最高，同時宣布明年 4 月起暫停縮減購債、續以約每月 2 兆日圓買進日本國債，並取消每年檢視縮表計畫；BoJ 點名中東油價推升通膨、FY2026 核心 CPI 上修至 2.8%，Reuters 調查多數經濟學家預期第四季再升至 1.25%、明年第二季 1.50%。Fed 則於 6/17-18 召開 FOMC，市場料維持 3.50-3.75%（美 5 月 CPI 4.2% 為 3 年高、但核心偏軟），USD/JPY 約 160。主要央行貨幣路徑分歧加大，加上日資從海外資產回流（Q1 淨賣美債約 296 億美元），可能擾動全球債市與匯率。對跨境賣家而言，EUR/USD 與美債殖利率波動會直接影響跨幣別利潤與定價，是 Q3 須密切追蹤的變數。",
-    "public_action": "① 歐元計價與對美出口賣家把 Q3 定價建在 EUR/USD base 1.16、upside 1.19、downside 1.14 的三情境上，避免鎖單一匯率假設；② 大額跨幣別賣家可在 Fed 6/18 決議與後續波動前，評估用遠期合約鎖定部分 Q3 換匯成本；③ 日本站旺季 7 月才開檔，BoJ 升息對日本站當期影響有限，真正風險是套利交易反轉引發的全球風險資產波動；④ 追蹤 6/17-18 Fed FOMC、6/18 BoE 決議與 USD/JPY 是否突破 160，作為匯率波動的早期訊號。",
-    "sources": [
-      {
-        "name": "Reuters（BoJ 升息 1.0%）",
-        "url": "https://www.reuters.com/world/asia-pacific/bank-japan-set-raise-rates-31-year-high-vow-further-increases-2026-06-15"
-      },
-      {
-        "name": "CNBC（31 年新高）",
-        "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html"
-      },
-      {
-        "name": "Reuters（年底估 1.25%）",
-        "url": "https://www.reuters.com/world/asia-pacific/boj-set-raise-key-rate-10-june-125-by-year-end-2026-06-10"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-06-17",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【6 月旺季提前】亞歐海運運價單週急彈：上海→鹿特丹 +25% 至 $1,870/20ft、→熱那亞 $3,000，霍莫茲燃油溢價疊加",
-    "summary": "2026 旺季比往年提早開打——6 月第一週亞歐與跨太平洋現貨運價同步跳升，疊加中東衝突的燃油溢價，正卡在 Prime Day 與 Q3 旺季入倉的關鍵窗口，賣家的物流成本與訂艙時程被同時擠壓：\n        ① 亞歐運價急彈（SeaRates 6 月）：上海→鹿特丹 +25%至 $1,870/20ft、上海→熱那亞 +20%至 $3,000、釜山→漢堡 $1,400 且續漲、新加坡→馬賽 $3,300 走升。\n        ② 燃油溢價疊加（Reuters 6/10 / Sea-Intelligence）：中東衝突自 2 月底已多燒 $55 億燃油成本，Hapag-Lloyd 單週多花高達 $5,000 萬維持船期；紅海繞行仍多 10-14 天、$800-1,500/箱。\n        ③ 結構面仍偏鬆：全球運力 2021-26 增約 28%、亞歐裝載率一度低於 80%，2026 長約價已跌至紅海危機前低點（北歐約 $2,010/FEU），本波是「旺季 + 地緣」的短期 spike，非趨勢反轉。\n        結論：短期現貨運價上行、訂艙窗口收緊，提前到 6 月底的 Prime Day 讓「貨能否準時到倉」成最大風險點，賣家須現在鎖艙、別等空間吃緊才訂。",
-    "public_impact": "2026 海運旺季比往年提早開打——6 月第一週亞歐與跨太平洋現貨運價同步跳升。據 SeaRates，上海→鹿特丹單週 +25% 至 $1,870/20ft、上海→熱那亞 +20% 至 $3,000、釜山→漢堡 $1,400 且續漲、新加坡→馬賽 $3,300 走升。疊加中東衝突的燃油溢價：Reuters 引述 Sea-Intelligence 指衝突自 2 月底已多燒約 55 億美元燃油成本，Hapag-Lloyd 單週多花高達 5,000 萬美元維持船期；紅海繞行仍多 10-14 天、每箱多 800-1,500 美元。不過結構面仍偏鬆，全球運力 2021-26 增約 28%、亞歐裝載率一度低於 80%，2026 長約價已跌至紅海危機前低點（北歐約 2,010 美元/FEU），本波屬「旺季 + 地緣」的短期上衝、非趨勢反轉。對賣家而言，短期現貨運價上行、訂艙窗口收緊，加上 Prime Day 提前到 6 月底，「貨能否準時到倉」成最大風險。",
-    "public_action": "① 靠海運補貨的賣家現在就鎖艙、別等空間吃緊才訂，優先確保旺季貨櫃的艙位與到倉時程；② 確認旺季促銷檔期的庫存是否已在倉，海運在途的評估改空運急件補位；③ 低單價、薄毛利品類把亞歐運價 +20-25% 與燃油溢價納入 Q3 到岸成本，重評定價與 SKU mix；④ 追蹤 Xeneta、Freightos 週度運價指數與霍莫茲海峽是否復常，判斷本波運價上衝何時回落，避免在高點大量訂艙。",
-    "sources": [
-      {
-        "name": "SeaRates（亞歐運價急彈）",
-        "url": "https://www.searates.com/blog/post/early-peak-season-container-rates-asia-europe-transpacific-2026"
-      },
-      {
-        "name": "Reuters（燃油溢價 +$55 億）",
-        "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10"
-      },
-      {
-        "name": "Xeneta（長約價結構面）",
-        "url": "https://www.xeneta.com/blog/red-sea-return-what-it-means-for-2026-container-shipping-contract-rates"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-06-17",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【7/1 倒數】中國平台搶在 €3 關稅前轉「歐洲在地履約」：JD JoyExpress 鋪 60+ 倉，義大利國家費已讓貨機減約 30 班",
-    "summary": "距 7/1 €3 小包過渡關稅剩兩週，中國電商平台的因應路線已浮現——不是退場，而是把「逐件直郵」改成「歐洲在地倉履約」，繞開每件通關費並縮短交期，這對 Amazon 的招商敘事是雙面刃：\n        ① JD 走在地化（The Loadstar 報導）：JD.com 旗下 JoyExpress（JD Logistics）支援 Joybuy 歐洲平台，於英德荷法以自營車隊與團隊做末端配送，據稱在歐洲鋪 60+倉與轉運點，定位為「在地倉儲 + 運輸 + 末端」一體化，而非從中國逐件寄。\n        ② 政策已在改變流向：分析指中國平台正因應 7/1 €3 關稅從「逐件直郵」轉向在地履約；義大利已開徵國家處理費，今年已導致約 30 班貨機航班減少。\n        ③ 直郵需求轉弱訊號（Xeneta）：中國跨境電商出口的前瞻訊號轉「less buoyant」，airfreight 對歐流量可能受在地化分流影響。\n        結論：低價直郵派被 €3 費抬高成本、轉向在地倉，等於在 Amazon 的主場（在地履約 + 快配）正面競爭；招商不能只說「對手變貴了」，要把 FBA 規模、Prime 流量、合規與信任的整體價值講清楚。",
-    "public_impact": "距 7/1 €3 小包過渡關稅剩兩週，中國電商平台的因應路線已浮現——不是退場，而是把「逐件直郵」改成「歐洲在地倉履約」，繞開每件通關費並縮短交期。據 The Loadstar，JD.com 旗下 JoyExpress（JD Logistics）支援 Joybuy 歐洲平台，於英、德、荷、法以自營車隊與團隊做末端配送，在歐洲鋪設 60+ 倉與轉運點，定位為在地倉儲、運輸與末端一體化。政策已在改變貨流：分析指中國平台正因應 7/1 €3 關稅轉向在地履約，義大利開徵國家處理費後，今年已導致約 30 班貨機航班減少；Xeneta 也指中國跨境電商出口前瞻訊號轉弱。對跨境賣家而言，這意味低價直郵派被 €3 費抬高成本後轉向在地倉，在「在地履約 + 快配」這個戰場上的競爭會更直接，而非單純退場。",
-    "public_action": "① 把中國平台「轉在地履約」納入歐洲平台觀察清單，理解競爭已從「直郵 vs 在地」轉為「在地 vs 在地」，差異化要回到流量、會員基數、廣告與品牌工具等整體價值；② 仍走直郵的賣家可用 7/1 €3 關稅、11/1 €2 處理費與近期運價急彈三重成本，評估把熱賣 SKU 提前進 EU 在地倉以降低到岸成本與交期；③ 評估競品衝擊時保持務實，低價平台是轉換營運模式而非退場；④ 追蹤主要平台在地倉與快配的擴張，以及 7/1 €3 關稅各國執行細則，更新自身的定價與通路策略。",
-    "sources": [
-      {
-        "name": "The Loadstar（JoyExpress 在地履約 / 義大利貨機）",
-        "url": "https://theloadstar.com/jd-com-goes-local-in-europe-as-ecommerce-shifts-beyond-de-minimis"
-      },
-      {
-        "name": "Yahoo Finance（Joybuy 歐洲 60+ 倉）",
-        "url": "https://finance.yahoo.com/news/jd-com-launches-joybuy-marketplace-095012782.html"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-06-17",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【UK】硬軟背離：Q1 GDP +0.6% 但 5 月 PMI 48.5 轉縮、4 月零售 -1.3%；5 月 CPI 6/17、BoE 6/18 議息接力",
-    "summary": "英國經濟訊號分裂：Q1 GDP 還在加速、但 Q2 前瞻指標全面轉弱，通膨與勞動市場同步降溫——本週 5 月 CPI（6/17）與 BoE 議息（6/18）兩個節點將定調 Amazon.co.uk 的 Q3 消費走向：\n        ① 硬數據還行、軟數據轉弱（ONS / S&P Global）：Q1 GDP +0.6%（一年最快、服務業 +0.8%），但 5 月 flash 綜合 PMI 跌至 48.5（2025/4 來首度轉縮）、服務業 47.9、製造業 53.7。\n        ② 消費收縮（ONS 4 月零售）：4 月零售銷售 MoM -1.3%（2025/5 來最大跌幅，燃油 -10.2% 領跌），扣燃油 -0.4%、服飾 -2.4% 創 2025/6 來新低。\n        ③ 通膨與勞動降溫：4 月 CPI 2.8%（服務業 3.2%、4 年低）、薪資成長放緩至 3.4%、失業率 5.0%、4 月 PAYE 受僱人數月減約 10 萬。\n        ④ 本週節點：5 月 CPI 6/17公布、5 月零售 6/19、BoE 6/18議息（4/30 以 8-1 維持 3.75%，Pill 主張升息）。\n        結論：UK 通膨已低於 BoE 自估的 Q2 3.1% 路徑、勞動市場快速鬆動，市場焦點轉向 BoE 是否轉鴿；Amazon.co.uk Q3 GMV base 宜偏保守、待 6/17-18 數據與決議確認方向。",
-    "public_impact": "英國經濟訊號分裂——Q1 GDP +0.6%（一年最快、服務業 +0.8%），但 5 月 flash 綜合 PMI 跌至 48.5（2025/4 來首度轉縮）、服務業 47.9。消費端轉弱：ONS 4 月零售銷售月減 1.3%（2025/5 來最大跌幅，燃油 -10.2% 領跌），扣燃油 -0.4%、服飾 -2.4% 創 2025/6 來新低。通膨與勞動同步降溫：4 月 CPI 2.8%（服務業 3.2%、4 年低）、薪資成長放緩至 3.4%、失業率 5.0%、4 月 PAYE 受僱人數月減約 10 萬。本週節點密集：5 月 CPI 於 6/17 公布、5 月零售 6/19、BoE 於 6/18 議息（4/30 以 8-1 維持 3.75%）。通膨已低於 BoE 自估的 Q2 3.1% 路徑、勞動市場快速鬆動，市場焦點轉向 BoE 是否轉鴿。對跨境賣家而言，UK 消費動能 Q2 轉弱，下半年走向待 6/17-18 數據與決議確認。",
-    "public_action": "① 留意 6/17 UK 5 月 CPI 與 6/18 BoE 決議，若通膨續降且 BoE 轉鴿，UK 站 Q4 旺季基本盤可略上修；② UK 站賣家把 4 月零售 -1.3%、服飾 -2.4% 納入 Q3 基本盤保守依據，SKU mix 往必需品、低單價傾斜，服飾與大額非必需品維持保守；③ 若 BoE 轉鴿、英鎊走弱，跨境賣家可評估 GBP 收入的換匯時點與定價策略；④ 追蹤 6/19 UK 5 月零售銷售，確認 4 月的下滑是單月波動還是趨勢。",
-    "sources": [
-      {
-        "name": "ONS / Trading Economics（4 月零售 -1.3%）",
-        "url": "https://tradingeconomics.com/united-kingdom/retail-sales"
-      },
-      {
-        "name": "UK 國會圖書館（經濟指標彙整）",
-        "url": "https://researchbriefings.files.parliament.uk/documents/CBP-9040/CBP-9040.pdf"
       }
     ],
     "color": "#0891b2"
