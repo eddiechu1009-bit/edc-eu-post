@@ -1,5 +1,157 @@
 [
   {
+    "date": "2026-07-24",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【7/24 數據】歐元區情緒回升「實際值」到位：7 月消費信心 flash -15.9（優於估 -17.0、連三月改善）＋德國 GfK 8 月升至 -28.7；UK 6 月零售今日揭曉",
+    "summary": "昨日日報標記為「今日續公布」的兩個情緒數據，今天實際值到位、且都優於預期——把 EU5 需求「谷底止穩、略有 upside」的判斷從預測落實成數據，但幅度溫和、仍與消費降級並存：\n        ① 歐元區消費信心（實際值）（DG ECFIN、Reuters/TradingView 7/23）：7 月 flash 升至 -15.9，優於市場估 -17.0、也高於 6 月確認值 -17.7；這是自 4 月低點 -20.6 以來連續第三個月改善（5 月 -19、6 月 -17.7、7 月 -15.9），三個月回升約 5 點，但仍低於 1985 年以來長期均值 -9.45。\n        ② 德國 GfK 8 月消費氣候（investing.com、Forex Factory 7/24）：8 月讀數 -28.7（前 -29.2、優於估），連續小幅改善但仍深陷負值；德國最大經濟體的家戶「省錢傾向」偏高、購買意願仍疲弱，回升力道明顯弱於歐元區整體。\n        ③ UK 6 月零售銷售（今日 7/24 揭曉）（ONS 行事曆）：ONS 6 月零售銷售今日公布，前值 5 月為月增 +1.2%（四個月最佳、非店銷售 +6.1% 帶動）；但民間調查分歧——BRC 6 月零售額年增 +1.9%（弱於去年 3.1%）、CBI 銷售平衡值 -40% 為兩年來最差，官方數字可能落在「溫和成長」與「季節性偏弱」之間。\n        結論：對名下賣家，這是需求端「總量止穩、結構仍價值優先」的再確認——歐元區情緒回升較明確、德國仍偏弱、UK 待今日官方數據定調。招商可維持「谷底回升、審慎中性」的 EU5 base，但別把情緒回升誤讀為消費全面反彈。",
+    "public_impact": "昨日標記為今日續公布的兩個情緒數據，今天實際值到位、且都優於預期，把歐洲市場需求谷底止穩、略有上檔空間的判斷從預測落實成數據，但幅度溫和、仍與消費降級並存。第一，據歐盟執委會與 Reuters（7/23），歐元區 7 月消費信心初值升至負 15.9，優於市場估負 17.0、也高於 6 月確認值負 17.7，是自 4 月低點負 20.6 以來連續第三個月改善，但仍低於 1985 年以來長期均值負 9.45。第二，據 investing.com 與 Forex Factory（7/24），德國 GfK 8 月消費氣候讀數負 28.7、前值負 29.2，連續小幅改善但仍深陷負值，回升力道明顯弱於歐元區整體。第三，據英國國家統計局行事曆，英國 6 月零售銷售今日公布，前值 5 月為月增 1.2%、四個月最佳，但民間調查分歧，官方數字可能落在溫和成長與季節性偏弱之間。整體看，需求端總量止穩、結構仍價值優先。",
+    "public_action": "① 歐元區消費信心連三月改善、實際值優於預期，做歐洲市場的賣家可把需求前景維持在谷底回升、審慎中性，用連三月回升作為溫和正向錨點；② 分國動能差異明顯，歐元區整體回升較明確、德國仍偏弱、英國待今日官方數據定調，備貨與資源別一刀切；③ 情緒回升是總量止穩、不是消費全面反彈，搭配近日消費降級數據，選品組合與價格帶仍要順著價值優先設計，別因單月情緒指標就樂觀擴張；④ 做英國市場的賣家等 7 月 24 日官方零售銷售出爐後再校準第三季假設，別搶跑；⑤ 追蹤 7 月 24 日英國零售銷售與歐元區、德、法、英 7 月採購經理人指數初值，以及 7 月 27 日德國 Ifo、7 月 30 日歐元區第二季 GDP 初值、7 月 31 日歐元區 7 月通膨初值。",
+    "sources": [
+      {
+        "name": "Crypto Briefing（歐元區 7 月消費信心 flash -15.9、優於估 -17.0、6 月 -17.7、連三月自 4 月 -20.6 回升、長期均值 -9.45）",
+        "url": "https://cryptobriefing.com/euro-area-july-consumer-confidence-beats-estimates"
+      },
+      {
+        "name": "Reuters/TradingView（歐元區 7 月消費信心升至 -15.9）",
+        "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N40J06E:0-euro-zone-consumer-confidence-rises-to-15-9-in-july"
+      },
+      {
+        "name": "Investing.com（德國 GfK 8 月消費氣候 -28.7、前 -29.2、7/24 07:00 公布）",
+        "url": "https://www.investing.com/economic-calendar/gfk-german-consumer-climate-359"
+      },
+      {
+        "name": "TradingEconomics（UK 5 月零售銷售月增 +1.2%、四個月最佳；6 月 7/24 公布）",
+        "url": "https://tradingeconomics.com/united-kingdom/retail-sales"
+      },
+      {
+        "name": "CBI（6 月零售銷售平衡值 -40%、兩年最差）",
+        "url": "https://www.cbi.org.uk/media-centre/articles/retail-sales-slump-deepens-in-june-2026-cbi-distributive-trades-survey"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-07-24",
+    "type": "daily",
+    "tags": [],
+    "title": "【7/23 ECB】如期維持存款利率 2.25%，但 Lagarde 記者會偏鷹：能源衝擊二輪效應未散、通膨恐「高於目標到 2027 上半」、「準備升息、只是不是今天」",
+    "summary": "昨日日報預告的 ECB 決策，結果如期「按兵不動」——但真正的新資訊在記者會語氣：Lagarde 明顯偏鷹，把「升息劇本沒結束」講得更白，對歐元計價賣家意味「短端不動、但別把 7/23 當終點」的判斷得到官方背書：\n        ① 決策結果（ECB 官方 7/23）：Governing Council 維持三大利率不變——存款利率 2.25%、MRO 2.40%、邊際放款 2.65%；聲明強調能源價格「高度波動但接近 6 月預測基準、且遠高於中東衝突前」，能源衝擊「完整通膨影響尚未顯現」，將密切監控其二輪效應。\n        ② Lagarde 偏鷹發言（Reuters/Yahoo、ING 7/23）：Lagarde 稱能源價格上升「將把通膨在夏季進一步推高、並使其在 2027 上半仍明顯高於目標」；部分潛在通膨指標已被能源衝擊推升。ING 直接下標「ECB 準備升息、只是不是今天」（ready to hike, just not today）。\n        ③ 市場解讀（investinglive、think.ing）：決策已被完全定價、市場反應有限；官方維持「不預設利率路徑、逐次會議、數據依賴」，多數觀察者延續昨日判斷——若 2026 年內要再升 1 碼，9/10 會議仍是最可能窗口。\n        結論：對名下賣家，7/23 的實質變化不是利率（維持 2.25%），而是官方語氣證實「升息傾向仍在」。歐元計價定價與融資規劃維持中性、但把資金與匯率節點拉到 9 月的建議，現在有 Lagarde 記者會作背書。",
+    "public_impact": "昨日預告的歐洲央行決策，結果如期按兵不動，但真正的新資訊在記者會語氣，主席 Lagarde 明顯偏鷹，把升息劇本沒結束講得更白，對歐元計價賣家意味短端不動、但別把 7 月 23 日當終點。第一，據歐洲央行官方（7/23），管理委員會維持三大利率不變，存款利率 2.25%、主要再融資利率 2.40%、邊際放款 2.65%，聲明強調能源衝擊的完整通膨影響尚未顯現，將密切監控其二輪效應。第二，據 Reuters、Yahoo 與 ING（7/23），Lagarde 稱能源價格上升將把通膨在夏季進一步推高、並使其在 2027 上半仍明顯高於目標，ING 直接以準備升息、只是不是今天為標。第三，據 investinglive 與 think.ing，決策已被完全定價、市場反應有限，官方維持不預設利率路徑、逐次會議、數據依賴，多數觀察者認為若年內要再升 1 碼，9 月 10 日會議仍是最可能窗口。整體看，7 月 23 日的實質變化不是利率，而是官方語氣證實升息傾向仍在。",
+    "public_action": "① 存款利率維持 2.25%，歐元計價的定價與現金流假設短線可維持中性，區間可抓歐元兌美元 1.15 至 1.18；② 主席把通膨高於目標到 2027 上半、能源二輪效應未散講白，年內再升 1 碼機率被官方語氣強化，歐元計價大賣家把資金與匯率規劃拉長到 9 月節點，別把 7 月 23 日當終點；③ 搭配近期銀行放款調查顯示信貸持續收緊，重度依賴外部融資的賣家旺季前備貨資金提前鎖定；④ 偏鷹不等於已決定升息，官方仍不預設路徑，別把準備講成確定，細節以官方原文為準；⑤ 追蹤 7 月 31 日歐元區 7 月通膨初值、油價走勢、8 月央行官員發言與 9 月 10 日下次會議。",
+    "sources": [
+      {
+        "name": "ECB 官方（7/23：維持三大利率 2.25%／2.40%／2.65%、能源衝擊完整通膨影響尚未顯現、密切監控二輪效應）",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html"
+      },
+      {
+        "name": "Reuters/Yahoo（Lagarde 記者會：能源上升將把通膨推高、2027 上半仍明顯高於目標、部分潛在通膨已被推升）",
+        "url": "https://uk.finance.yahoo.com/news/lagarde-comments-ecb-press-conference-140459212.html"
+      },
+      {
+        "name": "CryptoCraft 現場整理（ECB 不預設路徑、能源接近 6 月預測基準、「ready to hike, just not today」）",
+        "url": "https://www.cryptocraft.com/news/1409952-ecb-governing-council-press-conference-23-july"
+      },
+      {
+        "name": "InvestingLive（7/23：如期維持 2.25%、完全定價、市場反應有限、逐次會議數據依賴）",
+        "url": "https://investinglive.com/central-banks/ecb-leaves-deposit-rate-unchanged-at-2-25-as-widely-expected"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-07-24",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【7/21 起】Agentic commerce 生態戰升溫：ESW 把品牌目錄接進 Microsoft Copilot、AWS 推 Agentic Shopping Assistant；Amazon 走封閉自營（Rufus 破 3 億用戶）、封鎖 OpenAI、告 Perplexity",
+    "summary": "「AI 幫消費者下單」從概念進入卡位戰——本週多起動作顯示 agentic commerce 正分裂成三大生態，對名下賣家的意涵是：listing 除了寫給人看、寫給 Amazon 搜尋，現在還要寫給「AI 代理讀得懂」：\n        ① 開放生態擴張（Nova Analytics/ESW 7/21）：跨境電商平台 ESW 於 7/21 推出 Agentic Commerce，讓品牌目錄在 Microsoft Copilot 等 AI 購物介面「可被發現、可交易」；引 McKinsey 估 agentic commerce 到 2030 為 $3-5 兆機會、Gartner 估傳統搜尋將降 25%。\n        ② Amazon 走封閉自營（GeekWire 5/27、P2PI、Genrise）：Amazon 不加入 Stripe ACP／Google UCP，改自建——AWS 5/27 推 Agentic Shopping Assistant（同 Rufus 技術、Rufus 2025 帶動近 $12B 增量銷售）；Rufus 用戶破 3 億、已能自動比價/到價自動下單，Buy for Me 可跨站購買。\n        ③ walled garden 築高（opascope）：Amazon 更新 robots.txt 封鎖 OpenAI 爬蟲、從 ChatGPT 購物結果移除約 6 億商品，並更新條款封 AI 代理行為、對 Perplexity 未授權購買提告；賣家因此面對「Amazon 自營代理 / Google UCP / OpenAI ACP」三生態並存。\n        結論：對名下賣家，這不是「今天要做什麼」的急件，而是 12 個月級的結構訊號——AI 代理靠結構化商品資料（標題、屬性、identifier、即時庫存）做判斷。這正好接上 7/27 的 75 字標題 + 125 字 Item Highlights 新規：把 listing 資料整理乾淨，是「給人看」與「給 AI 讀」的同一件事。",
+    "public_impact": "AI 幫消費者下單從概念進入卡位戰，本週多起動作顯示 agentic commerce 正分裂成三大生態，對賣家的意涵是，商品頁除了寫給人看、寫給平台搜尋，現在還要寫給 AI 代理讀得懂。第一，據 Nova Analytics 與 ESW（7/21），跨境電商平台 ESW 於 7 月 21 日推出 Agentic Commerce，讓品牌目錄在 Microsoft Copilot 等 AI 購物介面可被發現、可交易，並引述 McKinsey 估到 2030 年為 3 至 5 兆美元機會、Gartner 估傳統搜尋將降 25%。第二，據 GeekWire（5/27）與多家報導，亞馬遜不加入 Stripe 或 Google 的開放協定，改自建，AWS 5 月 27 日推出 Agentic Shopping Assistant，其導購助手 2025 年帶動近 120 億美元增量銷售、用戶破 3 億，已能自動比價與到價自動下單。第三，據 opascope，亞馬遜更新爬蟲規則封鎖 OpenAI、從 ChatGPT 購物結果移除約 6 億商品，並更新條款封 AI 代理行為、對 Perplexity 未授權購買提告，賣家因此面對三生態並存。整體看，這是 12 個月級的結構訊號。",
+    "public_action": "① AI 代理靠結構化商品資料判斷，把乾淨的標題、屬性、產品識別碼與即時庫存做好，是 AI 導購可見度的前提，這和寫給人看是同一件事；② 亞馬遜走封閉自營、導購助手用戶破 3 億且已能自動下單，賣家的核心動作仍是把站內資料做好，評論、問答、屬性完整、價格競爭力，而非急著跨去外部協定；③ 這正好接上 7 月 27 日的標題與 Item Highlights 新規，把兩件事合併成一個目錄資料整備專案，事半功倍；④ 已多通路的大賣家可評估亞馬遜自營、Google 與 OpenAI 三生態並存的差異，feed 結構與結帳流程不同，是 12 個月級決策；⑤ 中小賣家把它當趨勢預告、非急件，別被 AI 電商急件的行銷話術帶著跑。追蹤導購助手新功能與 10 月 Prime Big Deal Days 的 AI 導購動作。",
+    "sources": [
+      {
+        "name": "Nova Analytics（7/21：ESW 推 Agentic Commerce、目錄接入 Microsoft Copilot、McKinsey 估 $3-5 兆、Gartner 估搜尋降 25%）",
+        "url": "https://novadata.io/resources/news"
+      },
+      {
+        "name": "GeekWire（5/27：AWS 推 Agentic Shopping Assistant、同 Rufus/Alexa for Shopping 技術、2025 帶動近 $12B 增量銷售）",
+        "url": "https://www.geekwire.com/2026/amazon-offers-its-ai-shopping-tech-to-outside-retailers-in-new-phase-of-agentic-commerce-race"
+      },
+      {
+        "name": "Opascope（Amazon 封鎖 OpenAI 爬蟲移除約 6 億商品、告 Perplexity、三生態並存：Amazon 自營／Google UCP／OpenAI ACP）",
+        "url": "https://opascope.com/insights/ai-shopping-assistant-guide-2026-agentic-commerce-protocols"
+      },
+      {
+        "name": "P2PI（Rufus 破 3 億用戶、可自動比價/到價自動下單/依清單加購）",
+        "url": "https://p2pi.com/amazons-rufus-levels-agentic-shopping-features-personalization"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-07-24",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【7/21 澳洲】跟進要對 Temu/Shein/AliExpress 課「平台級問責」、距歐盟 AliExpress €550M 罰款僅 24 小時：低價直郵的「全球合規地板」在三大洲同步成形",
+    "summary": "7/20 歐盟對 AliExpress 開出 €550M DSA 罰款後，隔天澳洲監管也出手——這則的新角度不是單一罰款，而是「第二個大洲的監管機關在同一週複製同一劇本」，低價直郵平台的合規壓力正從單一市場擴散為全球性：\n        ① 澳洲跟進（Sydney Morning Herald，Nova Analytics 7/21）：澳洲監管機關 7/21 表態要對 Temu、Shein、AliExpress就其銷售給澳洲消費者的違禁與不安全商品追究責任，並從「逐條下架」轉向平台級問責——落在歐盟 AliExpress 罰款後僅 24 小時。\n        ② 與歐盟劇本同源（Practical Ecommerce、MediaPost 7/16）：歐盟 DSA + GPSR 已建立「平台為違法/不安全商品負責」的雙重框架（AliExpress €550M、Temu €200M、X €120M）；同週歐盟才接受 X 的 DSA 改善計畫，顯示「查—罰—要求改善計畫」的執法節奏成熟。\n        ③ 對賣家的傳導：這類調查名義上針對平台，但操作上「賣家先受影響」——平台為降低自身風險，會加嚴賣家身分查驗、文件揭露與快速下架；歐盟 2023 年查扣 1.52 億件、價值 €34 億非法商品（vs 2020 年 6600 萬件）。\n        結論：對名下賣家，這是「合規＝在地競爭優勢」的再確認——當低價直郵在歐、澳、（先前美國）同步被課問責，體質好、文件齊全的合規賣家相對得利；但同時提醒，平台問責升級意味賣家端的身分/文件/產品安全查驗只會更嚴，別把它當「別人家的事」。",
+    "public_impact": "7 月 20 日歐盟對速賣通開出 5.5 億歐元的數位服務法罰款後，隔天澳洲監管也出手，這則的新角度不是單一罰款，而是第二個大洲的監管機關在同一週複製同一劇本，低價直郵平台的合規壓力正從單一市場擴散為全球性。第一，據雪梨晨鋒報與 Nova Analytics（7/21），澳洲監管機關 7 月 21 日表態要對 Temu、Shein、速賣通就其銷售給澳洲消費者的違禁與不安全商品追究責任，並從逐條下架轉向平台級問責，落在歐盟罰款後僅 24 小時。第二，據 Practical Ecommerce 與 MediaPost，歐盟數位服務法與產品安全規範已建立平台為違法商品負責的雙重框架，速賣通 5.5 億、Temu 2 億、X 1.2 億歐元，查、罰、要求改善計畫的執法節奏成熟。第三，這類調查名義上針對平台，但操作上賣家先受影響，平台為降風險會加嚴賣家身分查驗、文件揭露與快速下架。整體看，這是合規等於在地競爭優勢的再確認。",
+    "public_action": "① 低價直郵在歐、澳同週被課平台問責，體質好、文件齊全的合規賣家相對得利，合規是中期競爭優勢，且已是全球趨勢而非單一市場；② 平台為降低自身風險會加嚴賣家身分查驗、文件揭露與快速下架，賣家把身分驗證、稅務、產品安全負責人與技術文件備齊並維持最新，別被連帶收緊波及；③ 把 3 歐元關稅、法國專法、數位服務法罰款與澳洲跟進連起來看，低價直郵在歐澳的成本與合規紅利同步收窄，利好在地合規供給；④ 這些調查針對低價直郵平台，不是一般賣家被罰，避免與自身生產者責任、產品安全規範混淆；⑤ 追蹤 10 月 20 日速賣通改善措施死線、8 月 28 日 Temu 改善計畫、澳洲後續立法與各平台賣家查驗政策變動。",
+    "sources": [
+      {
+        "name": "Nova Analytics（7/21：澳洲監管轉向平台級問責 Temu/Shein/AliExpress、距歐盟 AliExpress 罰款 24 小時、三大洲同步）",
+        "url": "https://novadata.io/resources/news"
+      },
+      {
+        "name": "Practical Ecommerce（DSA+GPSR 雙重框架、平台為違法商品負責、賣家身分查驗與快速下架、2023 查扣 1.52 億件/€34 億）",
+        "url": "https://www.practicalecommerce.com/e-u-law-tightens-marketplace-selling"
+      },
+      {
+        "name": "MediaPost（7/16：歐盟接受 X 的 DSA 改善計畫、2025 首張 DSA 罰款 €120M）",
+        "url": "https://www.mediapost.com/publications/article/416563/eu-approves-x-action-plan-to-reverse-violations-of.html"
+      },
+      {
+        "name": "Reuters（歐盟 DSA 對大型平台合規要求脈絡）",
+        "url": "https://www.reuters.com/technology/eu-asks-amazon-more-info-digital-services-act-compliance-2024-07-05"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-07-24",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【7/8 頒布】法國反超快時尚法「正式頒布」（非即將）：逐件環境費今年約 €0.25–6、2030 升至 €10/件（上限售價 50%）；廣告與網紅禁令 2027/1/1 起、違者罰 €10 萬",
+    "summary": "進展更新：昨日日報標記為「待總統頒布」的法國反超快時尚法，其實已於 7/8 正式公布生效——新事實是「頒布已完成」＋出現具體的廣告禁令生效日與罰則金額，時間軸從模糊變清楚：\n        ① 已正式頒布（法國 Service-Public 企業版 7/20 官頁）：降低紡織業環境衝擊的法律已於 2026/7/8 公布；核心是針對「超快速時尚（ultra-express）」課逐件環境費（eco-modulation），今年約 €0.25–6/件、逐年升至 2030 年最高 €10/件，上限為稅前售價 50%。\n        ② 廣告禁令有明確生效日：自 2027/1/1 起，禁止為超快速時尚商品投放廣告或直接/間接推廣，並禁在行銷中使用「免費」字眼；網紅（不論有償無償）禁止推廣，違者行政罰 €100,000——這是昨日尚未見的具體罰則。\n        ③ 仍待實施細則＋歐盟審查（WWD 7/21、France 24）：部分措施待實施命令（décrets）明確；歐盟執委會曾質疑廣告條款是否符合歐盟法，若執委會不同意，該廣告禁令恐無法執行。定義仍鎖定純線上超快時尚，Zara/H&M 等不受廣告禁令影響。\n        結論：對名下賣家，昨日的「即將生效」今日變成「已頒布、費用生效、廣告禁令 2027/1/1、網紅罰 €10 萬」——這強化了「法國服飾市場對合規在地賣家中期相對有利」的判斷；但費用課的是超快時尚平台、非一般賣家上架開關，別讓賣家誤以為要立刻繳費。",
+    "public_impact": "進展更新，昨日標記為待總統頒布的法國反超快時尚法，其實已於 7 月 8 日正式公布生效，新事實是頒布已完成，並出現具體的廣告禁令生效日與罰則金額，時間軸從模糊變清楚。第一，據法國政府企業服務官頁（7/20），降低紡織業環境衝擊的法律已於 2026 年 7 月 8 日公布，核心是針對超快速時尚課逐件環境費，今年約每件 0.25 至 6 歐元、逐年升至 2030 年最高每件 10 歐元，上限為稅前售價 50%。第二，自 2027 年 1 月 1 日起，禁止為超快速時尚商品投放廣告或直接間接推廣、禁在行銷中使用免費字眼，網紅不論有償無償禁止推廣，違者行政罰 10 萬歐元。第三，據 WWD 與 France 24，部分措施待實施命令明確，歐盟執委會曾質疑廣告條款是否符合歐盟法，若不同意恐無法執行，定義仍鎖定純線上超快時尚，Zara、H&M 等不受廣告禁令影響。整體看，昨日的即將生效今日變成已頒布、費用生效、廣告禁令有明確日期。",
+    "public_action": "① 做服飾與鞋類的合規品牌方，可把法國專法 7 月 8 日已頒布、費用生效、廣告禁令 2027 年 1 月 1 日視為法國市場相對競爭力中期提升的正面訊號，且時間軸已明確；② 把 3 歐元關稅、數位服務法罰款、澳洲跟進與法國專法連起來看，低價超快時尚在歐洲的成本與行銷紅利同步收窄，利好在地合規供給；③ 廣告禁令仍待歐盟執委會審查，若不符歐盟法恐無法執行，別把該條款當已定案；④ 別誤讀為即時義務，這費用課的是超快時尚平台、不是一般賣家的上架開關，避免與生產者責任、產品安全規範等自身合規混淆；⑤ 追蹤實施命令細則、歐盟對廣告條款裁定、2027 年 1 月 1 日廣告禁令生效，以及其他國家是否跟進。",
+    "sources": [
+      {
+        "name": "法國 Service-Public 企業版（7/20 官頁：法律 7/8 公布、逐件環境費、廣告禁令 2027/1/1 起、網紅禁推廣違者罰 €100,000、待實施命令）",
+        "url": "https://entreprendre.service-public.gouv.fr/actualites/A18986?lang=en"
+      },
+      {
+        "name": "Reuters（6/29：兩院通過、針對 Shein/Temu/AliExpress、單件費 €0.25–6、2030 升至 €10/件）",
+        "url": "https://www.reuters.com/business/retail-consumer/french-parliament-passes-fast-fashion-law-curb-shein-temu-2026-06-29"
+      },
+      {
+        "name": "WWD（7/21：逐件 eco-modulation 費、禁廣告與網紅推廣、廣告條款待歐盟審查）",
+        "url": "https://wwd.com/business-news/government-trade/france-ultra-fast-fashion-law-targets-shein-temu-1239046331"
+      },
+      {
+        "name": "France 24（6/29：單件費今年 €0.25–6、2030 最高 €10/件、禁影響者推廣；歐盟執委會質疑廣告條款是否合法）",
+        "url": "https://www.france24.com/en/france/20260629-french-parliament-passes-fast-fashion-bill-targeting-shein-and-temu"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-07-23",
     "type": "daily",
     "tags": [],
