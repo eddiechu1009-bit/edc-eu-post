@@ -1,5 +1,179 @@
 [
   {
+    "date": "2026-08-04",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【8/17 開始收貨】Amazon AWD 歐洲上線 DE/FR/IT/ES/UK：EU 每月 €12.33/m³、UK £0.36/ft³，但 EU 與 UK 庫存不可互轉",
+    "summary": "AWD 在美國跑了幾年，這次首度進歐洲，而且時間點壓在 Q4 備貨的正前方：\n        ① 官方公告的日期是 8/20，收貨是 8/17（Amazon Seller Central 公告、Forest Shipping 7/25）：Seller Central 寫「Starting on 20 August 2026」把 AWD 帶到德法義西英五站；供應鏈端報導則指 8/17 起開始接收 inbound。兩個日期不衝突 —— 先收貨、後正式開跑。\n        ② 倉點只有兩個（Forest Shipping、ebrun 7/24）：英國 South Yorkshire 與德國 North Rhine-Westphalia，用德國倉覆蓋四個 EU 站。\n        ③ 費率是平價長倉、不看存放時間（Forest Shipping）：EU 標準 €12.33/m³/月、折扣價 €11.09；UK £0.36/ft³/月、折扣價 £0.32。另有進出倉處理費與 AWD→FBA 運費。\n        ④ 最容易被忽略的限制：EU 與 UK 是兩個網路（同上）：UK AWD 庫存不能直接調到 EU AWD，反向亦同。兩邊要各自報關、各自稅務登記、各自預測。\n        ⑤ 進門條件比想像嚴（同上）：EU 側需已加入 Pan-EU FBA ＋ 德國 VAT ＋ 法義波西之一的第二個 VAT；紙箱單邊 ≤ 63.5cm、毛重 ≤ 23kg、單一 SKU 不可混裝。\n        結論：這是 FBA 上游多了一層，不是 FBA 變便宜。",
+    "public_impact": "Amazon 在 Seller Central 公告，自 2026 年 8 月 20 日起將 Amazon Warehousing and Distribution（AWD）帶到德國、法國、義大利、西班牙與英國，供應鏈端報導指 8 月 17 日起開始接收入倉貨件。AWD 提供平價長期整批倉儲並自動補貨至 FBA，倉點設於英國南約克郡與德國北萊茵，以德國倉覆蓋四個歐盟站點。費率方面，歐盟標準為每立方公尺每月 12.33 歐元、折扣價 11.09 歐元；英國為每立方英尺每月 0.36 英鎊、折扣價 0.32 英鎊，不因存放時間變動，另有進出倉處理費與運費。一項容易被忽略的限制是歐盟與英國屬兩個獨立網路、庫存無法跨網調撥，兩邊需分別報關、稅務登記與需求預測。入倉條件方面，歐盟側需已加入 Pan-European FBA、持有德國加值稅登記，並在法義波西之一另有登記；紙箱單邊不得超過 63.5 公分、毛重不得超過 23 公斤，且不接受混裝。",
+    "public_action": "① 先確認是否符合入倉條件，歐盟側需已加入 Pan-European FBA、持有德國加值稅登記，並在法國、義大利、波蘭或西班牙另有一個登記；② 歐盟與英國屬兩個獨立網路、庫存不可跨網調撥，規劃第四季時需分別建立預測，避免一邊缺貨另一邊滿倉卻無法調度；③ 時間相當緊湊，8 月 17 日起收貨而中國至歐洲海運普遍需五至八週，若要趕上旺季補貨節奏建議 8 月內完成決策並安排船期，9 月才啟動將僅剩空運；④ 出貨規格宜在原倉或工廠端確認，包含紙箱單邊 63.5 公分、毛重 23 公斤上限、單一商品不可混裝與商品標籤，落地才查驗容易整批受阻；⑤ 使用 Amazon 全球物流，或將七成以上合格庫存交由自動補貨管理可取得較低費率，並可能免除部分與庫存水位、庫齡及倉容使用率相關的附加費；⑥ Amazon 提出的缺貨率下降約 15%、就近出貨提升 19% 等數字為平台自述、未經第三方驗證。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central 官方公告：AWD in Europe",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/0b50c2c2-7e6d-439e-b156-bd14db5e5f08"
+      },
+      {
+        "name": "Forest Shipping：費率與資格細節",
+        "url": "https://www.forestshipping.com/amazon-awd-europe-launch-august-17"
+      },
+      {
+        "name": "Ebrun（7/24）：倉點與覆蓋範圍",
+        "url": "https://english.ebrun.com/20260724/690302.shtml"
+      },
+      {
+        "name": "HeyCross（7/27）：Amazon 官方說明整理",
+        "url": "https://www.heycross.com/article/j8ZE2qRaMWBbO"
+      },
+      {
+        "name": "Amazon AWD 官方產品頁",
+        "url": "https://sell.amazon.com/programs/warehousing"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-04",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【8/12 倒數 8 天】PPWR 無寬限期上路：Amazon 包裝 EPR 查核擬從德法擴到全 EU，缺號即下架；DoC＋PFAS 限值同日適用",
+    "summary": "7/29 日報把 8/12 列為倒數時重點在荷比捷的豁免收窄；剩 8 天的今天，新的資訊是「報名已經來不及」與「Amazon 查核範圍會擴」：\n        ① 沒有寬限期，這點要先講清（Coolset PPWR 時程解析）：Reg (EU) 2025/40 是 regulation 而非 directive，27 國同日同標準生效、無須國內轉換立法；8/12 後不符規定的包裝不得投放 EU 市場。已在通路中的既有庫存「一般」可售完，但售完規則各國不一，不可假設有統一緩衝窗。\n        ② Amazon 側的變化是查核國別擴張（ekoniq 7 月更新）：目前 Amazon 只驗德國 LUCID 與法國 Citeo；8/12 起擬驗所有你有銷售或存貨的 EU 國家，無有效號碼即該國下架。Pay-on-Behalf 不等於免除自有登記義務。\n        ③ 現在才報名，時間上已經不夠（VATAi、ekoniq）：法西義等多國登記積壓、審核延長到 4 個月以上；一般登記本來就要 1-3 個月。\n        ④ 同日生效的不只 EPR（Coolset、Certivo）：食品接觸包裝 PFAS 限值（單一 25 ppb、總和 250 ppb、總氟 50 ppm）；全類包裝鉛鎘汞六價鉻合計 ≤ 100 mg/kg；EU 符合性聲明（DoC）須備妥、受查後 10 天內提出。\n        ⑤ 貼牌就等於製造商（Coolset Art 21）：包裝上印自己品牌的進口商視為製造商、須自出 DoC。\n        結論：8 天內能做的不是補登記，是先確認哪些站會被關。",
+    "public_impact": "歐盟包裝與包裝廢棄物規則（PPWR，Reg (EU) 2025/40）的第一批主要義務自 2026 年 8 月 12 日適用。由於 PPWR 屬規則而非指令、無須各國轉換立法，27 國同日以相同標準生效，且沒有一般性寬限期；該日之後不符規定的包裝不得投放歐盟市場。既有庫存一般可售完，但規則各國不一致，不宜假設有統一緩衝期。同日適用的義務包含：食品接觸包裝的 PFAS 限值，單一 25 ppb、總和 250 ppb、總氟 50 ppm；所有包裝的鉛、鎘、汞與六價鉻合計不得超過 100 mg/kg；每種包裝須備妥歐盟符合性聲明並於要求後十日內提出；以及在每個投放包裝商品的成員國完成生產者責任登記。依第 21 條，包裝上印有進口商自己品牌者即視為製造商、須自行出具聲明。平台端方面，Amazon 目前僅驗證德國 LUCID 與法國 Citeo，自 8 月 12 日起擬擴及賣家有銷售或存貨的所有歐盟國家，缺號者面臨該國下架。",
+    "public_action": "① 現階段最務實的動作不是啟動新登記，因一般登記需一至三個月、多國積壓已達四個月以上，8 月 12 日前完成機會極低，建議改為先盤點曝險：列出所有有銷售或有平台存貨的歐盟國家，逐國對照是否已持有有效包裝生產者責任登記號碼；② 使用泛歐盟庫存配置者須注意庫存會被分配到多國倉庫，實際曝險國別數往往多於自己認知的銷售國數，需逐一確認；③ 平台代繳方案處理的是費用繳納，並不免除自行完成登記的義務，這是最常見的認知落差；④ 盤點不應只涵蓋登記號碼，符合性聲明與食品接觸包裝 PFAS 限值同日適用，經營食品、保健品、寵物食品與廚房用品者應要求包裝供應商提供檢測數據；⑤ 自有品牌賣家若在包裝上印製自己品牌，依規則即視為製造商、須自行出具符合性聲明，不能僅保留供應商文件；⑥ 既有庫存售完規則各國不同，建議逐國向當地主管機關或服務商確認。",
+    "sources": [
+      {
+        "name": "Coolset：PPWR 8/12 適用範圍與無寬限期",
+        "url": "https://www.coolset.com/academy/ppwr-compliance-deadlines-explained-what-applies-from-august-2026-and-what-comes-later"
+      },
+      {
+        "name": "ekoniq（7 月更新）：Amazon 查核國別擴張與各國積壓",
+        "url": "https://ekoniq.eu/blog-ppwr-update-july-2026"
+      },
+      {
+        "name": "AVASK：EPR 執法沿革與下架／扣款後果",
+        "url": "https://avask.com/blog/epr-compliance-guide"
+      },
+      {
+        "name": "Certivo：DoC 與 Art 21 貼牌義務",
+        "url": "https://www.certivo.com/blog-details/ppwr-declaration-of-conformity-august-12-2026-a-pre-deadline-checklist-for-eu-bound-packaging"
+      },
+      {
+        "name": "Amazon Seller Central：新 EU 包裝法說明頁",
+        "url": "https://sellercentral-europe.amazon.com/help/hub/reference/external/G22AA5MS5P7TLNYM"
+      },
+      {
+        "name": "VATAi：各國登記審核延長情形",
+        "url": "https://www.vatai.com/blog/eu-ppwr-packaging-compliance-guide-2026"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-04",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/3 Destatis】德國 6 月零售 -1.1% MoM 為預估兩倍跌幅（估 -0.5%）：食品 -1.4%、非食品 -1.0%，但線上郵購逆勢 +0.4%",
+    "summary": "德國 5 月的反彈只撐了一個月，但實體與線上的方向這次分開了：\n        ① 月比跌幅是預估的兩倍以上（Destatis 8/3，經 FXStreet／RTTNews）：6 月實質零售 -1.1% MoM，市場估 -0.5%（部分機構估 -0.4%）；名目 -1.2%。5 月則從初值 +1.1% 上修到 +1.2%。\n        ② 年比由正翻負（同上）：實質 -0.2% YoY，逆轉 5 月的 +2.1%（初值 1.8% 上修）；名目仍 +1.2% YoY —— 實質負、名目正，差距就是物價。\n        ③ 分項全面走弱，唯一例外是線上（Destatis）：食品 -1.4% MoM、非食品 -1.0%，但線上與郵購 +0.4% MoM。\n        ④ 上半年整體仍是正的（同上）：2026 上半年實質零售 +0.7%，所以這是動能轉弱、不是衰退確認。\n        ⑤ 匯市幾乎沒反應（TMGM 8/3、Trading Economics 8/4）：數據公布後 EUR/USD 約 1.1537（+0.11%）；歐元受風險偏好與油價回落支撐，8/4 約 1.1505。TMGM 另指 6 月加油站銷售 +2.1%，若無此項跌幅會更深。\n        結論：實體零售被物價吃掉，線上是唯一還在爬的通路。",
+    "public_impact": "德國聯邦統計局於 8 月 3 日公布的初步數據顯示，6 月實質零售銷售較 5 月下滑 1.1%，跌幅為市場預估 0.5% 的兩倍以上，名目零售則下滑 1.2%。5 月數據經修正後由初值成長 1.1% 上修為 1.2%。就年比而言，6 月實質零售下滑 0.2%，逆轉 5 月成長 2.1% 的表現，名目年比仍為成長 1.2%，實質與名目之間的差距即反映物價因素。分項中食品銷售月比下滑 1.4%、非食品下滑 1.0%，唯一逆勢成長的是線上與郵購銷售，月比上升 0.4%。就上半年整體而言，2026 年前六個月實質零售仍成長 0.7%，顯示這是動能轉弱而非衰退確認。市場反應相對平淡，數據公布後歐元兌美元約在 1.1537、上漲 0.11%，歐元同時受風險偏好回升與油價回落支撐，8 月 4 日約在 1.1505。另有分析指出 6 月加油站銷售成長 2.1%，若扣除該項，整體跌幅將更為明顯。",
+    "public_action": "① 在整體零售走弱的月份，線上與郵購通路仍成長 0.4%，而食品下滑 1.4%、非食品下滑 1.0%，此為官方統計，可作為評估德國線上通路相對表現的依據；② 名目年比成長 1.2% 而實質下滑 0.2%，相差 1.4 個百分點即為物價因素，實務含意是客單價可望撐住但件數承壓，第四季預估宜將金額與件數分開檢視，僅看名目營收會高估需求；③ 加油站銷售成長 2.1% 對整體數字有支撐，而該成長主要來自油價而非消費意願，扣除後非必需品類萎縮更明顯，家具、家電、居家修繕與園藝的第三季預估宜偏保守；④ 德國 7 月通膨回升至 2.8%、月增幅為主要市場最劇，消費者已有感受、調價接受度相對較高，但調價會換來件數下滑，較適合以毛利為優先而非衝量的商品；⑤ 建議追蹤 8 月 5 日歐元區生產者物價、8 月 6 日歐元區零售銷售與德國 7 月物價終值，若歐元區零售同步走弱代表並非德國單一現象。",
+    "sources": [
+      {
+        "name": "Destatis 原文（經 Forex Factory 轉載，8/3）",
+        "url": "https://www.forexfactory.com/news/1411361-german-retail-sales-in-june-2026-were-11"
+      },
+      {
+        "name": "FXStreet（8/3）：預估對照與匯市反應",
+        "url": "https://www.fxstreet.com/news/germanys-retail-sales-falls-by-11-mom-in-june-vs-05-expected-202608030602"
+      },
+      {
+        "name": "RTTNews（8/3）：分項與上半年累計",
+        "url": "https://forex.tradingcharts.com/international_financial_news/german_retail_sales_fall_forecast_08032026_0407.html"
+      },
+      {
+        "name": "TMGM（8/3）：加油站銷售與歐元走勢",
+        "url": "https://www.tmgm.com/en/analysis/market-news/article/euro-remains-near-seven-week-highs-after-downwardly-revised-eurozone-manufacturing-pmi-202608030833"
+      },
+      {
+        "name": "Trading Economics EUR/USD（8/4）",
+        "url": "https://tradingeconomics.com/euro-area/currency"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-04",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/3 S&P Global】歐元區 7 月製造 PMI 終值 51.9（前 51.4）：產出指數 52.9 為 52 個月新高，但積壓訂單連三月降、幅度為 1 月來最大",
+    "summary": "7/27 日報報的是 flash 綜合 PMI 重返擴張；今天的終值揭露了一個 flash 看不到的問題 —— 產出是靠清庫存單撐起來的：\n        ① 終值略低於初值但仍是三個月高（S&P Global 8/3、Reuters 8/3）：製造業 PMI 51.9（6 月 51.4），略低於初估 52.0，為 4 月以來最強。調查期 7/9-24。\n        ② 產出指數是真的強（S&P Global）：產出 52.9（6 月 51.7），52 個月新高，即 2022 年 3 月以來最快。\n        ③ 但成長來源不是新需求（Reuters 8/3）：Reuters 明指產出激增「主要來自企業清理積壓訂單、而非需求上升」，指向脆弱的復甦。S&P Global 亦記積壓訂單連三月下降、消耗速度為 1 月以來最強。\n        ④ 同時在縮編（S&P Global）：工廠就業再度下滑、採購量連兩月減少、生產前後端庫存雙降 —— 產出創高與全面撤退同時發生。\n        ⑤ 國別分化極大（S&P Global）：德國是四大中最佳、指數為四年多來並列最強；義大利仍擴張但放緩至四個月低；西班牙與法國大致停滯。7 月投入與產出價格通膨雙雙降溫。\n        結論：這是把存貨與訂單簿榨乾的成長，不是需求回來了。",
+    "public_impact": "標普全球於 8 月 3 日公布的歐元區 7 月製造業採購經理人指數終值為 51.9，高於 6 月的 51.4，略低於初估的 52.0，為 4 月以來最強，調查期間為 7 月 9 日至 24 日。產出指數升至 52.9，高於 6 月的 51.7，為 52 個月新高，即 2022 年 3 月以來最快。不過成長來源值得注意：路透社報導明確指出，產出激增主要來自企業清理積壓訂單而非需求上升，指向脆弱的復甦；標普全球資料亦顯示未完成訂單量連續三個月下降，消耗速度為 1 月以來最強。同時製造業處於全面收縮狀態，工廠就業再度下滑、採購量連續兩個月減少、生產前後端庫存水位雙雙降低。國別分化顯著，德國為四大經濟體中表現最佳，指數為四年多來並列最強；義大利仍在擴張但成長放緩至四個月低點；西班牙與法國的製造業則大致停滯。價格面上，7 月投入成本與產出價格的通膨壓力雙雙降溫。",
+    "public_action": "① 終值揭露的機制與初估給人的印象不同，產出創 52 個月新高但伴隨未完成訂單連三月下降、就業與採購同步減少，宜理解為製造端在消耗既有訂單簿與庫存而非需求回升；② 對採購而言這是有利窗口，製造端目前有閒置產能與議價空間，但積壓訂單清完而新單未接上時工廠可能縮產、交期反而拉長，建議將第四季採購下單時點提前至 8 至 9 月鎖定價格與交期；③ 7 月製造業投入成本與產出價格通膨雙雙降溫，而同期能源通膨年增達 10%、整體物價年增 2.9%，此一進貨端有降價空間而終端仍在漲價的落差可作為向供應商爭取價格的依據；④ 國別分化明顯，德國供給強但零售走弱、西班牙需求較強但通膨偏高、法國供需兩面平緩，不宜以同一組假設涵蓋所有市場；⑤ 建議追蹤 8 月 5 日歐元區綜合與服務業指數終值及 8 月 6 日零售銷售，若服務業下修而零售走弱代表訂單消耗效應缺乏需求接手。",
+    "sources": [
+      {
+        "name": "S&P Global 歐元區製造業 PMI 新聞稿（7 月終值）",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/9f843b2c5bda4bb8adf528bc77675a89"
+      },
+      {
+        "name": "Reuters（8/3）：產出創高但需求仍弱",
+        "url": "https://wkzo.com/2026/08/03/euro-zone-factory-output-near-4-1-2-year-high-in-july-but-demand-still-weak-pmi-shows"
+      },
+      {
+        "name": "Seeking Alpha（8/3）：終值與初估對照",
+        "url": "https://seekingalpha.com/news/4623187-eurozone-manufacturing-activity-expands-in-july-as-pmi-rises-to-519"
+      },
+      {
+        "name": "Investing.com 經濟行事曆：歷史值對照",
+        "url": "https://www.investing.com/economic-calendar/manufacturing-pmi-201"
+      },
+      {
+        "name": "Trading Economics 歐元區製造業 PMI",
+        "url": "https://tradingeconomics.com/euro-area/manufacturing-pmi"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-04",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【8/6 適用】DPP 註冊庫實施細則上路：Reg (EU) 2026/1778 定下註冊與查驗架構，海關可電子驗證，首個強制品類 2027/2 大電池",
+    "summary": "數位產品護照（DPP）過去兩年一直是「未來的事」，8/6 起它的基礎設施規則正式適用：\n        ① 法規本體與日期（EUR-Lex、Normachem 7/29）：Commission Implementing Reg (EU) 2026/1778，7/16 通過、7/17 刊 OJ，適用日 8/6；依據為 ESPR（Reg (EU) 2024/1781）第 13(5) 條。\n        ② 註冊庫已於 7/20 上線（執委會 DG GROW 7/20）：連同測試環境一併開放；細則定下存取管理與使用者驗證、資料註冊與儲存要求、註冊庫技術架構，並釐清執委會與各國的職責分工。\n        ③ 註冊庫不存產品資料，這是最常被誤讀的一點（prodlaw.eu 7/28、Arianee）：註冊庫只存唯一識別碼、註冊資料與高階中介資料；完整產品資訊留在 DPP 本體，可由業者自存或委由 DPP 服務商去中心化存放。\n        ④ 海關與市場監管可直接電子查驗（prodlaw.eu）：海關可電子驗證進口品是否有有效已註冊 DPP 與商品碼；市場監管機關可存取已註冊 DPP。註冊可經介面或 API，並可申請註冊證明的安全電子文件。\n        ⑤ 涵蓋品類與時程（執委會 7/20）：ESPR 下含紡織、鋼鋁、輪胎、家具、ICT 產品與能源相關產品；另涵蓋大電池、建材、玩具、洗劑等。首個實施死線 2027/2/18，適用於特定大型電池。\n        結論：現在沒有任何品類要交 DPP，但海關查驗的管線已經接好了。",
+    "public_impact": "歐盟數位產品護照（DPP）的基礎設施規則自 2026 年 8 月 6 日適用。Commission Implementing Reg (EU) 2026/1778 於 7 月 16 日通過、7 月 17 日刊登官方公報，依據永續產品生態設計規則（ESPR，Reg (EU) 2024/1781）第 13(5) 條制定，訂下註冊庫的存取管理與使用者驗證、資料註冊與儲存要求，以及技術架構。註冊庫已於 7 月 20 日連同測試環境上線。架構上有一點常被誤讀：註冊庫僅儲存唯一識別碼、註冊資料與高階中介資料，完整產品資訊留在護照本體，可由業者自存或委由服務商以去中心化方式保存。在執法層面，海關可電子驗證進口商品是否具備有效且已註冊的護照與商品碼。涵蓋範圍在 ESPR 下包含紡織品、鋼鐵與鋁、輪胎、家具、資通訊與能源相關產品，另涵蓋特定大型電池、建築產品、玩具與洗劑。首個實施死線為 2027 年 2 月 18 日，適用於特定類型大型電池。",
+    "public_action": "① 首先須釐清目前並無任何品類負有註冊數位產品護照的義務，8 月 6 日適用的是註冊庫運作規則，第一個強制品類為 2027 年 2 月 18 日的特定大型電池，其餘須待各自的委任法案；② 本週另有包裝規則於 8 月 12 日適用且無寬限期、具立即義務，優先度高於護照的準備工作，兩者性質不同建議分開處理；③ 執法方式值得注意，海關可電子驗證進口商品是否具備有效且已註冊的護照與商品碼，代表查核點在通關環節而非僅靠平台抽查，經營紡織品、鋼鋁、輪胎、家具、資通訊與玩具的賣家宜及早向上游索取產品資料；④ 註冊庫僅保存識別碼與中介資料、完整護照採去中心化存放，賣家需自存或委由服務商辦理，性質類似選擇加值稅代理，建議 2027 年前完成評估；⑤ 八項技術標準中六項已於 5 月 27 日發布，惟發布不等同在官方公報引用為協調標準、尚不產生符合性推定，不宜引用已認證合規的說法；⑥ 執委會已開放測試環境與實作指引，屬零成本的提前熟悉機會。",
+    "sources": [
+      {
+        "name": "執委會 DG GROW：DPP 註冊庫上線（7/20）",
+        "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-now-live-2026-07-20_en"
+      },
+      {
+        "name": "EUR-Lex：Implementing Reg (EU) 2026/1778 全文",
+        "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1778/oj/eng"
+      },
+      {
+        "name": "PRODlaw.eu（7/28）：註冊庫功能與海關查驗",
+        "url": "https://prodlaw.eu/2026/07/european-commission-officially-launched-digital-product-passport-dpp-registry"
+      },
+      {
+        "name": "Normachem（7/29）：法規依據與刊登日期",
+        "url": "https://www.normachem.com/en/normachem-informs/digital-product-passport-moving-towards-the-operation-of-the-european-register"
+      },
+      {
+        "name": "Arianee（7/27 更新）：標準狀態與去中心化架構",
+        "url": "https://www.arianee.com/en/blog/digital-product-passports-guide"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-03",
     "type": "daily",
     "tags": [
