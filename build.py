@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
 """
-build.py — 從 eu-intel/ 目錄的 HTML 日報/週報自動解析新聞，
-生成 articles.js 資料檔，供 index.html 使用。
+build.py — 從 eu-intel/ 目錄的 HTML 日報解析新聞，
+產出 articles.json / articles-recent.json，供 index.html fetch。
 
 用法：
   python3 eu-intel-site/build.py
 
 流程：
-  1. 掃描 eu-intel/daily/daily-report-*.html 和 weekly/weekly-report-*.html
-  2. 用 BeautifulSoup 解析每則新聞的標題、標籤、摘要、影響、行動、來源
-  3. 輸出 eu-intel-site/articles.js（JSON 陣列）
-  4. 同時更新 index.html 中的 articles 資料區塊（可選）
+  1. 掃描 eu-intel/daily/daily-report-*.html
+     （週報內容是當週日報的彙整，一併收錄會重複，故 main() 刻意不掃 weekly/。
+       parse_weekly_report() 保留備用，未被呼叫。週報漏產由
+       site-health-check.py 的 check_weekly_coverage() 負責偵測。）
+  2. 用內建 HTMLParser 解析每則新聞的標題、標籤、摘要、公開版影響/行動、來源
+  3. 輸出 articles.json（全量）+ articles-recent.json（近 30 天，首屏用）
+  4. 更新 index.html 的 lastUpdate 日期
 """
 
 import os
@@ -73,6 +76,8 @@ def _strip_prefix(s, prefixes):
     return s
 
 # ── 標籤對應表 ──
+# 注意：tag-money 與 tag-currency 都對到「貨幣」（日報用前者、部分週報用後者），
+# 同一區塊可能同時出現兩個 class，取標籤時要去重。
 TAG_MAP = {
     'tag-tax': '稅務',
     'tag-compliance': '合規',
@@ -80,6 +85,9 @@ TAG_MAP = {
     'tag-platform': '平台',
     'tag-logistics': '物流',
     'tag-trade': '貿易',
+    'tag-money': '貨幣',
+    'tag-currency': '貨幣',
+    'tag-energy': '能源',
 }
 
 # ── 顏色對應 ──
@@ -137,7 +145,7 @@ def parse_daily_report(filepath):
 
         # 提取標籤
         for css_class, tag_name in TAG_MAP.items():
-            if css_class in block:
+            if css_class in block and tag_name not in article['tags']:
                 article['tags'].append(tag_name)
 
         # 提取標題 — 多種格式
@@ -240,7 +248,7 @@ def parse_weekly_report(filepath):
 
         # 提取標籤
         for css_class, tag_name in TAG_MAP.items():
-            if css_class in block:
+            if css_class in block and tag_name not in article['tags']:
                 article['tags'].append(tag_name)
 
         # 提取標題

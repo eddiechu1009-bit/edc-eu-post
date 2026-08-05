@@ -20,6 +20,12 @@ from collections import Counter
 SITE_DIR = os.path.dirname(os.path.abspath(__file__))
 INTEL_DIR = os.path.join(SITE_DIR, '..', 'eu-intel')
 MONITOR_LOG_DIR = os.path.join(SITE_DIR, '..', 'share', 'monitor-logs')
+WEEKLY_DIR = os.path.join(INTEL_DIR, 'weekly')
+EMAILS_DIR = os.path.join(INTEL_DIR, 'emails')
+SENT_LOG = os.path.join(INTEL_DIR, '.sent_log')
+
+# 週報回溯檢查的週數（約兩個月，足以看出連續漏產但不會翻到專案初期）
+WEEKLY_LOOKBACK = 8
 
 
 def get_days_computer_on():
@@ -40,6 +46,105 @@ def get_days_computer_on():
         if m:
             days.add(m.group(1))
     return days
+
+
+def read_sent_ok_files():
+    """回傳 .sent_log 裡曾有 OK 紀錄的檔名集合，以及每個檔名最新狀態。
+
+    auto-send.py 的格式：filename | timestamp | status | note
+    同一檔名可能有多行（FAIL 後重試），只要出現過 OK 就算寄成功。
+    """
+    ok_files = set()
+    latest_status = {}
+    if not os.path.exists(SENT_LOG):
+        return ok_files, latest_status
+    with open(SENT_LOG, 'r', encoding='utf-8') as f:
+        for line in f:
+            parts = [p.strip() for p in line.strip().split('|')]
+            if len(parts) < 3:
+                continue
+            name, status = parts[0], parts[2]
+            if status == 'OK':
+                ok_files.add(name)
+            latest_status[name] = status
+    return ok_files, latest_status
+
+
+def check_weekly_coverage():
+    """檢查最近 WEEKLY_LOOKBACK 週的週報是否都有產出。
+
+    日報覆蓋檢查（analyze_articles）只看 type == 'daily'，週報漏產它偵測不到，
+    所以這裡獨立檢查 weekly/ 目錄的 ISO 週編號。
+    當週（今天所在的週）若還沒到週五就不算缺，週五當天也不算（可能還沒跑）。
+    """
+    now = datetime.now()
+    existing = set()
+    for path in glob.glob(os.path.join(WEEKLY_DIR, 'weekly-report-*.html')):
+        m = re.search(r'weekly-report-(\d{4})-W(\d{1,2})\.html$', os.path.basename(path))
+        if m:
+            existing.add((int(m.group(1)), int(m.group(2))))
+
+    days_computer_on = get_days_computer_on()
+    have_monitor_data = len(days_computer_on) > 0
+
+    missing = []
+    off_weeks = []
+    # 從上一週往回數 WEEKLY_LOOKBACK 週（本週尚未收尾，不算缺）
+    for i in range(1, WEEKLY_LOOKBACK + 1):
+        ref = now - timedelta(weeks=i)
+        iso_year, iso_week, _ = ref.isocalendar()
+        if (iso_year, iso_week) in existing:
+            continue
+        # 該週的週五（週報產出日）
+        friday = ref + timedelta(days=(4 - ref.isoweekday()))
+        friday_str = friday.strftime('%Y-%m-%d')
+        label = f"{iso_year}-W{iso_week:02d}"
+        if have_monitor_data and friday_str not in days_computer_on:
+            off_weeks.append({'week': label, 'friday': friday_str})
+        else:
+            missing.append({'week': label, 'friday': friday_str})
+
+    return {
+        'weeks_checked': WEEKLY_LOOKBACK,
+        'weekly_reports_total': len(existing),
+        'missing_weeks': missing,
+        'off_weeks_computer_off': off_weeks,
+    }
+
+
+def check_delivery_status(recent_days=30):
+    """比對「.eml 產出」與「.sent_log 有 OK」，抓出產了沒寄的信。
+
+    這是 2026-08 發現 W31 週報產出後未寄送才補上的檢查：
+    resend-pending.py 只掃當日 daily + threads，週報寄送失敗沒有任何自動偵測。
+    """
+    ok_files, latest_status = read_sent_ok_files()
+    cutoff = datetime.now() - timedelta(days=recent_days)
+
+    unsent = []
+    if os.path.isdir(EMAILS_DIR):
+        for path in sorted(glob.glob(os.path.join(EMAILS_DIR, '*.eml'))):
+            name = os.path.basename(path)
+            mtime = datetime.fromtimestamp(os.path.getmtime(path))
+            if mtime < cutoff:
+                continue
+            if name in ok_files:
+                continue
+            unsent.append({
+                'file': name,
+                'created': mtime.strftime('%Y-%m-%d %H:%M'),
+                'log_status': latest_status.get(name, 'NONE'),  # NONE = auto-send 根本沒被呼叫
+                'kind': 'weekly' if 'weekly' in name else
+                        ('threads' if 'threads' in name else
+                         ('daily' if 'daily' in name else 'other')),
+            })
+
+    return {
+        'window_days': recent_days,
+        'sent_log_exists': os.path.exists(SENT_LOG),
+        'unsent_count': len(unsent),
+        'unsent': unsent,
+    }
 
 
 def check_file_sizes():
@@ -142,10 +247,20 @@ def analyze_articles(articles):
     total_sources = sum(len(a.get('sources', [])) for a in recent)
     sources_per_article = total_sources / len(recent) if recent else 0
 
+    # 無標籤文章 = build.py 的 TAG_MAP 沒收錄該 css class（靜默失真）。
+    # 網站上這些文章任何分類都篩不到，只有搜尋才找得到。
+    untagged_recent = [
+        {'date': a['date'], 'type': a.get('type', ''), 'title': (a.get('title') or '')[:60]}
+        for a in recent if not a.get('tags')
+    ]
+    untagged_total = sum(1 for a in articles if not a.get('tags'))
+
     return {
         'total_articles': len(articles),
         'last_30d_articles': len(recent),
         'tag_distribution': dict(tag_counter.most_common()),
+        'untagged_30d': untagged_recent,
+        'untagged_total': untagged_total,
         'top_countries': dict(country_counter.most_common(5)),
         'missing_business_days': missing_days[:10],
         'off_days_computer_off': skipped_off_days[:10],  # 電腦沒開的工作日（放假/關機，非故障）
@@ -303,6 +418,8 @@ def main():
 
     articles = load_articles()
     report['content_analysis'] = analyze_articles(articles)
+    report['weekly_coverage'] = check_weekly_coverage()
+    report['delivery_status'] = check_delivery_status()
     report['sidebar_dates'] = check_sidebar_dates()
 
     if check_links:
@@ -343,6 +460,44 @@ def main():
             print(f"   ✅ 最近 20 個工作日無真空窗")
         if ca['off_days_computer_off']:
             print(f"   💤 電腦沒開（放假/關機，非故障）: {', '.join(ca['off_days_computer_off'])}")
+        print()
+
+        if ca['untagged_30d']:
+            print(f"   ⚠️ 無分類標籤（build.py TAG_MAP 可能漏收 css class）: "
+                  f"近 30 天 {len(ca['untagged_30d'])} 則 / 全站 {ca['untagged_total']} 則")
+            for a in ca['untagged_30d'][:10]:
+                print(f"      {a['date']} [{a['type']}] {a['title']}")
+        else:
+            print(f"   ✅ 近 30 天文章全部有分類標籤")
+        print()
+
+        wc = report['weekly_coverage']
+        print("📰 週報覆蓋")
+        print(f"   週報總數: {wc['weekly_reports_total']}（回溯檢查最近 {wc['weeks_checked']} 週）")
+        if wc['missing_weeks']:
+            print(f"   ⚠️ 缺週報（電腦有開卻沒產出，需追排程）:")
+            for w in wc['missing_weeks']:
+                print(f"      {w['week']}（週五 {w['friday']}）")
+        else:
+            print(f"   ✅ 回溯期內週報無缺漏")
+        if wc['off_weeks_computer_off']:
+            print(f"   💤 週五電腦沒開: "
+                  f"{', '.join(w['week'] for w in wc['off_weeks_computer_off'])}")
+        print()
+
+        ds = report['delivery_status']
+        print("📮 寄送狀態（.eml 產出 vs .sent_log 有 OK）")
+        if not ds['sent_log_exists']:
+            print(f"   ⚠️ 找不到 .sent_log，無法驗證寄送")
+        elif ds['unsent']:
+            print(f"   ⚠️ 產出但未寄送 {ds['unsent_count']} 封（近 {ds['window_days']} 天）:")
+            for u in ds['unsent']:
+                note = "auto-send 未被呼叫" if u['log_status'] == 'NONE' else f"最新狀態 {u['log_status']}"
+                print(f"      [{u['kind']}] {u['file']}（產出 {u['created']}，{note}）")
+            print(f"   → 補寄: python eu-intel/auto-send.py --file eu-intel/emails/<檔名> --force")
+            print(f"      注意 auto-send.py 會直接 Send()，不是開草稿，寄前先確認收件人")
+        else:
+            print(f"   ✅ 近 {ds['window_days']} 天所有 .eml 都有寄送成功紀錄")
         print()
 
         sd = report['sidebar_dates']
