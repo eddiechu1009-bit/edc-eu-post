@@ -1,5 +1,199 @@
 [
   {
+    "date": "2026-08-10",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【今天 8/10 生效】Sponsored Products 自動外溢到創作者內容：預設「增加觸及」已開、Top of Search 出價調整在站外失效",
+    "summary": "這是今天就開始花錢的變動，而且沒有人需要按下同意：\n        ① 改了什麼（Amazon Ads 官方支援頁 8/4 改版，經 PPC Land 8/4）：Sponsored Products 的站外版位清單新增「創作者」，原本只有 premium 網站與 App。Amazon Influencer Program 中具備已驗證互動與 Amazon 銷售紀錄的創作者，可在自己的評測、編輯內容、購物指南中放入被廣告的商品。\n        ② 自動加入、無需動作：官方通知寫明廣告主不需要採取任何行動，現有出價與預算原封不動延用。也就是說今天之前沒調整過的活動，今天就開始為站外點擊付費。\n        ③ 最容易被忽略的機制落差：Top of Search 與 Product Pages 的出價調整在站外不適用，但動態出價策略仍適用。多數帳戶正是靠這兩個版位調整在控制錢往哪去——沒有人改任何設定，有效出價結構就變了。\n        ④ 控制項與地區：活動層級有 Increase reach（預設）與 Limit off-Amazon spend 兩個選項，可中途改；可排除特定創作者。地區含巴西、加拿大、印度、墨西哥、美國、中東、北非、土耳其與部分 EU 國家，官方清單未列 UK，Amazon 未說明原因。\n        ⑤ 報表會出現沒人打過的搜尋詞：無查詢字串的版位由 Amazon 自行推斷搜尋詞，可做否定投放。Q2 2026 廣告營收 $198 億、年增 26%，Sponsored Products 是最大貢獻者。",
+    "public_impact": "Amazon Ads 於 8 月 4 日改版支援文件，在 Sponsored Products 的站外版位清單新增「創作者」，生效日為 8 月 10 日。Amazon Influencer Program 中具備已驗證互動與銷售紀錄的創作者，可在評測、編輯內容與購物指南中放入被廣告的商品，點擊後導向商品頁，按標準單次點擊計費。現有活動一律自動加入，出價與預算原封不動延用，官方明言廣告主不需採取任何行動。關鍵的機制落差是：Top of Search 與 Product Pages 的出價調整在站外不適用，動態出價策略則仍適用，因此在無人變更設定的情況下，活動的有效出價結構已經改變。活動層級提供「Increase reach」（預設值）與「Limit off-Amazon spend」兩個選項，可中途調整，亦可排除特定創作者。涵蓋地區含巴西、加拿大、印度、墨西哥、美國、中東、北非、土耳其與部分歐盟國家，官方清單未列入英國。",
+    "public_action": "① 有投放 Sponsored Products 者今日即應至活動設定確認站外投放選項，預設為「Increase reach」且已開啟，欲先觀察成效可改為「Limit off-Amazon spend」；② 依賴 Top of Search 或 Product Pages 出價加成控制預算流向的活動須特別注意，這兩項調整在站外不適用，等於未變更任何設定但有效出價結構已改變；③ 建議本週起每日檢視 Placement Report 建立新基準線，8 月 10 日後的報表已混入站外點擊，兩週內不宜依舊基準大幅刪減關鍵字或調降出價；④ 報表中出現購物者未輸入的搜尋詞屬平台推斷所致，並非資料錯誤，可用否定投放處理；⑤ 官方僅載明「部分歐盟國家」且未列入英國，建議自行至後台確認站點狀態；⑥ 第四季預算不建議此時加碼，可先蒐集兩週成效數據再決定。",
+    "sources": [
+      {
+        "name": "PPC Land（8/4）：Amazon 8/4 改版官方支援頁、8/10 生效、自動加入、地區清單與出價機制",
+        "url": "https://ppc.land/amazon-sponsored-products-campaigns-gain-creator-placements-on-august-10"
+      },
+      {
+        "name": "PPC Land 深入版：四項機制、兩個設定選項、bulksheets 欄位與 EU 定價透明度報表",
+        "url": "https://ppc.land/amazon-puts-sponsored-products-into-creator-hands-on-august-10"
+      },
+      {
+        "name": "Relevant Audience（8/5）：預設開啟、版位加成失效的實務影響",
+        "url": "https://www.relevantaudience.com/ecommerce-marketing/amazon-sponsored-products-creator-placements-10-august"
+      },
+      {
+        "name": "Velocity Sellers（8/5）：Placement Report 基準線與 Q4 建議",
+        "url": "https://www.velocitysellers.com/2026/08/05/amazon-sponsored-products-creator-placements-august-2026"
+      },
+      {
+        "name": "Mazescale（8/7）：生效前檢查清單",
+        "url": "https://mazescale.com/amazon-is-about-to-spend-your-sponsored-products-budget-on-creator-content-starting-august-10"
+      },
+      {
+        "name": "Affiverse：歸因與揭露爭議",
+        "url": "https://www.affiversemedia.com/amazon-sponsored-products-creator-content"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-10",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【8/7】75 字標題死線由 7/26 延到 8/3、已改 9.84 億筆：Amazon 自家 listing 同樣適用，今天起 Item highlights 移到標題下方",
+    "summary": "三個新事實，其中兩個推翻了此前業界普遍的說法：\n        ① 生效日不是 7/27（EcommerceBytes 8/7）：Amazon 原定 7/26 開始限制 75 字，後來延到 8/3。此前業界文章普遍寫 7/27。非合規標題的建議自 7/27 開始發送，實際改寫則貫穿 2026 全年。\n        ② Amazon 自家 listing 不豁免：有賣家直接質問是否排除自營商品，版主回覆「政策同樣適用於 Amazon 的 listing」。這是首次官方明確表態。\n        ③ 今天 8/10 起顯示位置改變：Amazon 確認自 8/10 起 Item highlights 顯示在 Item name 下方，桌機與行動裝置皆然，實際可見字數依螢幕大小而異。\n        ④ 規模：自 6 月公告以來賣家已更新逾 9.84 億筆商品標題。\n        ⑤ 官方 FAQ 兩點澄清：搜尋與曝光不受影響——Item name 與 Item highlights 都是搜尋輸入、沒有優先權重；已合規（75 字以下）的標題不會被改動。總可索引空間仍為 200 字＝標題 75 ＋ highlights 125。品牌所有者仍有 14 天審核 AI 建議的窗口；Category Listings report 已預填 Item highlights 欄位，可批次上傳，約 8 小時內更新。",
+    "public_impact": "Amazon 於 8 月 7 日更新了商品標題新政的多項事實。首先是生效日：75 字標題限制原定自 7 月 26 日開始，後來延後至 8 月 3 日，此前業界普遍引述的 7 月 27 日並非實際起始日；針對非合規標題的建議自 7 月 27 日開始發送，實際改寫將貫穿 2026 全年逐步進行。其次，有賣家詢問平台是否將自營商品排除在限制之外，官方版主回覆政策同樣適用於平台自己的 listing。第三，平台確認自 8 月 10 日起 Item highlights 將顯示在 Item name 下方，桌機與行動裝置皆然，可見字數依螢幕大小而異。自 6 月公告以來賣家已更新逾 9.84 億筆商品標題。官方另澄清兩點：搜尋與曝光不受影響，因兩個欄位都是搜尋輸入、彼此沒有優先權重；已符合 75 字以下的標題不會被改動。可索引總空間仍為 200 字，由標題 75 字與 Item highlights 125 字組成。品牌所有者在 AI 建議實施前仍有 14 天審核窗口。",
+    "public_action": "① 實際生效日為 8 月 3 日（原定 7 月 26 日），並非廣泛流傳的 7 月 27 日，且改寫將貫穿 2026 全年，尚未處理者現在動手仍有實質意義；② 8 月 10 日起 Item highlights 改顯示在標題下方，搜尋結果頁視覺結構因此改變，未來一至兩週若點擊率波動，可能來自版面而非標題長度；③ 官方已明確說明兩個欄位都是搜尋輸入、沒有優先權重，且已合規標題不會被改動，「字數變少會被降權」的說法並無官方依據；④ 建議用批次路徑自行掌控內容：下載已預填的 Category Listings report、同時修改標題與 Item highlights 後上傳，約 8 小時內生效，不宜交由系統自動填寫；⑤ 品牌所有者有 14 天審核窗口，未註冊品牌者沒有緩衝期，應優先處理；⑥ 建議先處理營收前 20% 商品與變體父子頁，父子頁標題都須符合 75 字。",
+    "sources": [
+      {
+        "name": "EcommerceBytes（8/7）：7/26 延至 8/3、9.84 億筆、自家 listing 適用、8/10 顯示變更與官方 FAQ",
+        "url": "https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-listings"
+      },
+      {
+        "name": "Amazon Seller Central 官方公告原文（6/10 發布、6/11 更新）：75 字＋Item highlights 125 字、14 天審核窗口",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/145b6d0f-999c-4555-896c-c694bda2e470"
+      },
+      {
+        "name": "Canopy Management：品牌與非品牌賣家的審核窗口差異",
+        "url": "https://canopymanagement.com/amazon-75-character-title-limit-item-highlights"
+      },
+      {
+        "name": "PPC Land：政策時間軸與適用範圍",
+        "url": "https://ppc.land/amazon-cuts-product-title-limit-to-75-characters-on-july-27"
+      },
+      {
+        "name": "Clear Ads：確認適用 Amazon.co.uk 與 EU 站點、批次改寫流程",
+        "url": "https://clearadsagency.com/amazons-75-character-title-limit-the-complete-guide-for-e-commerce-sellers"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-10",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/7 Destatis】德國 6 月出口創單月新高 €1,393 億：但對美 -14.2%、順差由 €193 億縮至 €154 億，工業生產僅 +0.2%",
+    "summary": "創紀錄的出口與縮小的順差同時出現，拼圖的最後一塊補上了：\n        ① 出口破紀錄（Destatis 8/7 第 278 號）：6 月出口 €1,393 億、月比 +0.9%、年比 +6.6%，是有紀錄以來單月最高，超越 2022/9 的 €1,391 億。\n        ② 進口漲更多、順差縮水：進口 €1,239 億、月比 +4.4%、年比 +8.4%。順差由 5 月 €193 億降至 €154 億（去年同期 €164 億）。H1 出口 +3.7%、進口 +4.4%，順差 €1,050 億略低於去年 €1,059 億。\n        ③ 對美出口重挫：對美 €121 億、月比 -14.2%、年比 -1.2%，H1 累計 -5.8%；美國仍是最大出口目的地。對英 €73 億、月比 +7.7%（H1 +4.8%）；對中 €62 億、月比 -0.3%，H1 -12.3%。進口方面中國 €165 億居首、月比 +9.1%。\n        ④ 工業生產同日公布、勉強站住（IndexBox 8/7、Trading Economics）：6 月 +0.2% MoM，略優於估 +0.1%。汽車 +3.6%、其他運輸設備 +8.4% 撐盤，機械設備 -3.9%；扣能源與建築為零成長，中間財 -0.9%。能源密集產業 -1.8%。年比 -0.1%。\n        ⑤ 官方警告不要過度解讀：Destatis 說明這是臨時月度數據、此階段無法提供變動原因，詳細結果 8/20 公布。DIHK 對外貿易主管 Treier 稱 H1 出口成長「是一線希望，但言之過早，全球貿易前景仍然黯淡」。",
+    "public_impact": "德國統計局 8 月 7 日公布，6 月經調整後出口為 1,393 億歐元、月比上升 0.9%、年比上升 6.6%，為有紀錄以來單月最高，超越 2022 年 9 月的 1,391 億歐元。進口為 1,239 億歐元、月比上升 4.4%，因進口成長較快，貿易順差由 5 月的 193 億歐元縮小至 154 億歐元。上半年出口成長 3.7%、進口成長 4.4%。分國別，對美出口 121 億歐元、月比下降 14.2%、上半年累計下降 5.8%，美國仍為最大出口目的地；對英 73 億歐元、月比上升 7.7%；對中 62 億歐元、上半年下降 12.3%；自中進口 165 億歐元居首、月比上升 9.1%。同日公布的 6 月工業生產月比上升 0.2%，略高於預估的 0.1%；汽車上升 3.6%、其他運輸設備上升 8.4%，機械設備下降 3.9%；扣除能源與建築後為零成長，中間財下降 0.9%。統計局明言此為臨時數據、無法提供變動原因，詳細結果 8 月 20 日公布。",
+    "public_action": "① 出口創單月新高與工業生產僅微幅成長、扣除能源與建築後零成長並存，外需優於內需，不宜僅憑出口數字判斷經濟已進入復甦；② 對美出口單月下降 14.2%，但統計機關明言無法提供變動原因，且同期對英成長 7.7%，不宜將單月數字直接歸因於關稅，上半年累計下降 5.8% 才是較可靠的結構訊號；③ 中間財下降 0.9%、能源密集產業下降 1.8%，上游成本壓力尚未解除，與萊茵河低水位推升的運價屬同一條線，從德國或荷比採購包材與金屬件者可延續第四季提前鎖價；④ 德國對中出口上半年下降 12.3%、自中進口單月上升 9.1%，說明小包關稅與包裝法規在政治上具強勁支撐，對本地品牌而言合規投入具競爭屏障性質；⑤ 引用宜標註為臨時數據，統計局 8 月 20 日公布詳細結果，該機關近期曾將 5 月工廠訂單由 1.9% 下修至 0.3%。",
+    "sources": [
+      {
+        "name": "Destatis 官方新聞稿第 278 號（8/7）：6 月出口 €1,393 億創新高、順差 €154 億、對美 -14.2%、H1 明細",
+        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_278_51.html"
+      },
+      {
+        "name": "Dukascopy（8/7）：出口創紀錄與順差縮水解讀",
+        "url": "https://www.dukascopy.com/swiss/english/marketwatch/market-news/Fundamental-Analysis/155636"
+      },
+      {
+        "name": "IndexBox（8/7）：非 EU 出口明細與各國別月比",
+        "url": "https://www.indexbox.io/blog/german-foreign-trade-momentum-continues-in-june-2026"
+      },
+      {
+        "name": "IndexBox（8/7）：6 月工業生產 +0.2%、汽車 +3.6%、機械 -3.9%、能源密集 -1.8%",
+        "url": "https://www.indexbox.io/blog/german-industrial-production-rises-02-in-june-2026-led-by-automotive-sector"
+      },
+      {
+        "name": "Trading Economics：6 月工業生產實際 +0.2% vs 共識 +0.1%、5 月修正為 +0.7%",
+        "url": "https://tradingeconomics.com/germany/industrial-production-mom"
+      },
+      {
+        "name": "TradingView／Trading Economics（8/7）：分項與三個月比",
+        "url": "https://www.tradingview.com/news/te_news:573679:0-german-industrial-output-eases-in-june"
+      },
+      {
+        "name": "Destatis 第 276 號（8/6）：6 月新訂單 +3.1%、扣大單 -0.5%、營業額 -1.3%（對照用）",
+        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_276_421.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-10",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【8/24 倒數 14 天】Amazon BSA 改版：禁止轉讓 BSA 權利義務、明文禁止以未來銷售額質押，營收型融資與帳號買賣被關門",
+    "summary": "一句話的合約修改，關掉了賣家經濟裡兩條運行多年的通路：\n        ① 改了什麼（Velocity Sellers 8/3、Seller Sprite、Nova Data、DAM Law Firm）：Amazon 於 5/29 更新 Business Solutions Agreement，自 8/24 生效，明文禁止兩件事——轉讓 BSA 下的權利或義務、以及將該等權利設質為擔保。\n        ② 範圍變寬不只是措辭調整：舊版僅要求轉讓「協議本身」須經書面同意（關係企業有窄例外）。新版擴及協議下衍生的任何權利或義務——過去那種合約留在原處、但把經濟利益或控制權移到別處的架構，現在落入禁止範圍。\n        ③ 質押是全新條文：以未來 Amazon 銷售額作為貸款擔保的做法首次被明文禁止。收款權是 BSA 下的權利，對放款人設定擔保權益依字面解讀即屬違禁。營收型墊款、保理、商戶預支現金皆受影響。\n        ④ 帳號安靜過戶的灰色空間關閉：賣掉公司、交出後台帳密、逐步換銀行與 email 的操作，新條文直接終結模糊地帶；正在交易中的案子須改走正式股權變更流程。\n        ⑤ 重要限制：適用範圍未經官方確認。二手來源均未指明條號、未說明是否／如何適用 Amazon Services Europe BSA。EU 站點適用性尚待官方文件確認——這點必須誠實標示。另注：Amazon Services Europe BSA 8/1 已另有一項生效變更（Amazon Business 訂單佣金改按刊登價計算，見 8/6 日報）。",
+    "public_impact": "依多家獨立第三方分析報導，Amazon 於 2026 年 5 月 29 日更新 Business Solutions Agreement，自 8 月 24 日起明文禁止兩件事：轉讓該協議下的權利或義務，以及將該等權利設質作為擔保。就範圍而言，舊版僅要求轉讓「協議本身」須取得書面同意；新版擴及協議所衍生的任何權利或義務，因此過去那種合約名義上留在原處、但將經濟利益或控制權移轉至他處的安排，將落入禁止範圍。質押部分屬全新條文，以未來銷售額作為貸款擔保的做法首次被明文禁止；由於收取平台撥款的權利屬於協議下的權利，向放款方設定擔保權益依字面解讀即屬違禁，營收型墊款、保理與商戶預支現金均受影響。此外，售出業務後交出後台帳號、逐步更換銀行與電子郵件的安靜過戶操作，模糊空間亦被關閉。重要限制：可查得來源均為第三方分析、未指明條號，亦未說明是否適用歐洲版合約，歐洲站點適用性尚待官方文件確認。",
+    "public_action": "① 本則資訊全部來自第三方分析，尚無法確認是否適用歐洲版合約，建議自行前往歐洲站服務條款頁面核對 Amazon Services Europe Business Solutions Agreement 是否有對應修改與條號，並與自己的律師確認，不宜以第三方說法作為法律依據；② 使用營收型墊款、保理或商戶預支現金安排第四季備貨資金者風險最高，建議確認三件事：融資是否以平台撥款或未來銷售額設質、合約到期日是否跨過 8 月 24 日、第四季進貨資金是否依賴該通路，時間壓力來自歐盟 9 月 9 日與英國 9 月 16 日的入倉死線；③ 正在被收購或準備出售業務者應走平台正式所有權變更程序，並預留較長交割時程；④ 已透過安靜過戶完成的帳號可能帶有日後可被稽核發現的瑕疵，建議主動補正實體登記與銀行資料；⑤ 歐洲版合約 8 月 1 日已另有一項生效變更（Amazon Business 訂單佣金改按刊登價計算），與本則是兩件不同的事。",
+    "sources": [
+      {
+        "name": "Velocity Sellers（8/3）：5/29 更新、8/24 生效、範圍與質押兩項變更的逐條分析",
+        "url": "https://www.velocitysellers.com/2026/08/03/amazon-bsa-update-august-24-2026-transfer-pledge"
+      },
+      {
+        "name": "Seller Sprite：兩項禁止獨立運作、對 aggregator 市場影響",
+        "url": "https://www.sellersprite.com/en/blog/amazon-bsa-revenue-assignment-2026"
+      },
+      {
+        "name": "Nova Data 賣家新聞：BSA 禁帳號轉讓與營收質押（5/30 條目）",
+        "url": "https://novadata.io/resources/news"
+      },
+      {
+        "name": "DAM Law Firm：Section 18 兩項明文禁止與 8/24 前應處理事項",
+        "url": "https://www.linkedin.com/posts/dam-law-firm_amazon-bsa-account-transfer-ban-august-2026-activity-7483814446528651264-FdNk"
+      },
+      {
+        "name": "Valuezon：Amazon Services Europe BSA 8/1 生效變更（Amazon Business 佣金改按刊登價，對照用）",
+        "url": "https://valuezon.de/en/news/amazon-updates-fees-in-business-solutions-agreement"
+      },
+      {
+        "name": "Amazon Seller Central UK：Amazon Services Europe BSA 變更頁（查證入口）",
+        "url": "https://sellercentral.amazon.co.uk/help/hub/reference/external/G201476470"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-10",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【8/12 倒數 2 天】PPWR 最後 48 小時：EPR 登記無寬限期、平台須先驗證才准賣，多國登記排隊已達 4 個月",
+    "summary": "剩兩天，這則的價值已經不是提醒登記，而是講清楚沒登完會怎樣、以及還能做什麼：\n        ① 法源與無寬限期（Regulation (EU) 2025/40；Eldris、Coolset）：PPWR 2025/2/11 生效、8/12 適用、無寬限期。Art 44 設國家生產者登錄簿，Art 45 定生產者義務並要求線上平台於允許銷售前驗證生產者登記資訊。\n        ② 適用對象含境外遠距賣家：生產者定義明文包含自 EU 境外寄送的遠距賣家；須在每一個首次投放包裝商品的成員國持有包裝 EPR 登記，且在無設立地的每個銷售國指派授權代表。\n        ③ 現在才開始已來不及、但仍有動作可做：EPR 登記全 EU 需 2–8 週，法西義比荷瑞波等國排隊已延長至 4 個月以上（VATAi）。最後兩天唯一有效的動作是把已取得的號碼載入平台合規欄位。\n        ④ 8/12 同日生效的其他義務（Coolset）：食品接觸包裝 PFAS 禁令（單一物質 25 ppb）、Declaration of Conformity 與技術文件、包裝最小化（Art 24 空隙上限 50%，完整執法漸進至 2030）。\n        ⑤ 未合規的後果：8/12 後不合規包裝不得投放 EU 市場；已投放庫存一般可售完，但售完規則各國不同。平台端後果為下架與銷售暫停，並可能失去 Pan-EU 資格。國家登錄簿分階段至 2027，但不延後義務——透過現有登錄簿（德國 LUCID、波蘭 BDO）履行。",
+    "public_impact": "歐盟包裝與包裝廢棄物規則 Regulation (EU) 2025/40 於 2025 年 2 月 11 日生效、2026 年 8 月 12 日開始適用，且沒有寬限期。第 44 條建立國家生產者登錄簿，第 45 條訂明生產者義務，並要求線上市集在允許銷售前先行驗證生產者的登記資訊。生產者定義明文包含自歐盟境外寄送商品的遠距賣家，因此須在每一個首次投放包裝商品的成員國持有包裝 EPR 登記，並在自身無設立地的每個銷售國指派授權代表。時程上，登記約需二至八週，但法國、西班牙、義大利、比利時、荷蘭、瑞典與波蘭等國審核已延長至四個月以上。同日生效的還有食品接觸包裝 PFAS 禁令（單一物質 25 ppb）、符合性聲明與技術文件，以及包裝最小化義務（第 24 條電商與運輸包裝 50% 空隙上限，完整執法漸進至 2030 年）。未合規的後果是該日後不合規包裝不得投放歐盟市場；已投放庫存一般可售完，但售完規則因成員國而異，須逐國確認。",
+    "public_action": "① 距期限僅兩天，登記本身已無法在期限前完成，建議依現況分流而非一律送件：已取得號碼但未填入平台欄位者、已送件審核中者、完全尚未啟動者，處理方式完全不同；② 已取得號碼者今日即應將號碼載入平台合規欄位，這是最後兩天唯一能實際降低風險的動作；③ 已送件者應備妥送件證明並逐國確認庫存售完規則，不宜假設存在統一過渡期；④ 尚未啟動者宜將重點轉為營運斷點管理，評估哪些站點可能先受影響、第四季檔期如何調整；⑤ 執法機制是線上市集須於允許銷售前驗證登記資訊，屬平台端欄位驗證與自動下架而非事後稽查，這也是沒有寬限期可協商的原因；⑥ 同日另有 PFAS 25 ppb、符合性聲明與 50% 空隙上限三項非登記類義務，銷售食品接觸或生鮮包材者尤應檢查 PFAS。",
+    "sources": [
+      {
+        "name": "Eldris：Art 44／45 條文義務、2–8 週登記時程、平台驗證要求、實務起跑點",
+        "url": "https://epr.eldris.ai/data-centre/eu-regulation/ppwr-deadline-august-2026-checklist"
+      },
+      {
+        "name": "Coolset：無寬限期、售完規則各國不同、8/12 生效義務清單",
+        "url": "https://www.coolset.com/academy/ppwr-compliance-deadlines-explained-what-applies-from-august-2026-and-what-comes-later"
+      },
+      {
+        "name": "VATAi：法西義比荷瑞波登記排隊延至 4 個月以上、Pan-EU 資格風險",
+        "url": "https://www.vatai.com/blog/eu-ppwr-packaging-compliance-guide-2026"
+      },
+      {
+        "name": "AVASK：授權代表（AR-EPR）義務與逐國登記查核清單",
+        "url": "https://avask.com/blog/epr-compliance-guide"
+      },
+      {
+        "name": "Lovat Compliance：境外賣家逐國指派授權代表、登記號碼須載於銷售文件",
+        "url": "https://vatcompliance.co/blog/epr-compliance-in-europe-2026-for-marketplaces-and-online-sellers"
+      },
+      {
+        "name": "Marketplace Compliance：PFAS 25 ppb、Art 24 空隙上限 50%、平台零容忍驗證",
+        "url": "https://www.linkedin.com/posts/marketplace-compliance_epr-obligations-eu-weee-packaging-battery-activity-7460949612464324608-1NhN"
+      },
+      {
+        "name": "Forest Shipping：Amazon EU 賣家逐國 EPR 範圍與平台不再代墊合規成本",
+        "url": "https://www.forestshipping.com/eu-ppwr-rules-amazon-sellers"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-07",
     "type": "daily",
     "tags": [
