@@ -1,5 +1,203 @@
 [
   {
+    "date": "2026-08-12",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/1 倒數 20 天】德國 FBM OTDR 90% 未達可停用 listing：三個自動化功能是唯一豁免，法義西同步收緊",
+    "summary": "重點不是 90% 這個數字，而是「達不到的人有一條官方認可的豁免路徑，但幾乎沒人在講」：\n        ① 衡量期已經在跑（Amazon 德國 Seller Central，經 Ecommerce News Europe 引述）：Amazon.de 自 7/15 起要求 FBM 賣家 OTDR ≥ 90%，官方原文為「Starting September 1, 2026, affected listings may be deactivated」。9/1 是執行日，不是起算日。\n        ② 算法比賣家以為的嚴：以「件」不是訂單計，須有追蹤號與到貨掃描。執法用 OTDR without promise extensions——不含天候或承運商延誤的緩衝天數。\n        ③ 豁免條件是本則最有價值的資訊：同時啟用 Automated Handling Time＋Shipping Settings Automation＋Buy Shipping 者，Amazon 明文「will not be adversely assessed」。這是制度內正式免責，不是變通做法。\n        ④ 出貨準備時間同步縮短：帳號層級只剩 0／1 天，原設 2 天者自動改 1 天。SKU 層級仍可設較長時間，常被誤解成全面禁止。\n        ⑤ 範圍是 EU5，但執行日不同：德法義西同步收緊（Go2Market 就 Amazon.fr 獨立證實）；英國 90% 早已生效，9/1 只是自動啟用 AHT，把德國日期套到英國會判斷錯誤。",
+    "public_impact": "Amazon.de 自 2026 年 7 月 15 日起要求自寄（FBM）賣家維持 On-Time Delivery Rate 90% 以上，官方公告指出自 9 月 1 日起未達標的 listing 可能被停用，並可能失去上架新 FBM 商品的權限。法國、義大利、西班牙同步收緊；英國門檻早已生效，9 月 1 日主要是自動啟用 Automated Handling Time。OTDR 以「件」而非訂單計，且須有有效追蹤號與到貨掃描；執法採用不含承諾延展天數的版本，比消費者端的到貨承諾更嚴格。值得注意的是 Amazon 明文提供免責條件：同時啟用 Automated Handling Time、Shipping Settings Automation 與 Buy Shipping 三項者，OTDR 與營業時間到貨率不會被不利認定。此外帳號層級預設出貨準備時間僅剩 0 與 1 天，但 SKU 層級仍可設較長時間。後續還有 9 月 30 日營業時間到貨率 90% 要求，以及 10 月 30 日起相關 listing 可對商業客戶停售。",
+    "public_action": "① 距 9 月 1 日僅剩約三週，物流改善難以在滾動指標上及時反映，最務實的做法是立即啟用 Automated Handling Time、Shipping Settings Automation 與 Buy Shipping 三項功能以取得免責；② 至 Performance Dashboard 的 shipping 頁面確認目前數字，並留意執法版本不含承諾延展天數，數字在 90% 至 93% 之間者風險高於自身認知；③ 逐站確認適用範圍與日期，勿將德國的停用日期套用到英國；④ 將 9 月 1 日、9 月 30 日、10 月 30 日三個節點納入第四季風險評估，因為它們落在十月促銷與黑五備貨期之前，listing 被停用後恢復需經申訴流程；⑤ 帳號層級雖只剩 0 至 1 天選項，大件或預訂型商品仍可在 SKU 層級設定較長準備時間；⑥ 若因商品體積或配送地理而結構性難以達標，建議試算部分商品轉為平台物流的成本效益。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe：引述 Amazon 德國 Seller Central 原文「Starting September 1, 2026...」＋handling time 與 B2B 時程",
+        "url": "https://ecommercenews.eu/amazon-tightens-fulfilled-by-merchant-requirements"
+      },
+      {
+        "name": "Valuezon：7/15 OTDR 生效、帳號層級 0/1 天、三項自動化功能免責條款",
+        "url": "https://valuezon.de/en/news/amazon-updates-fbm-requirements-amazon-de"
+      },
+      {
+        "name": "SellerLegend：德國 vs 英國 9/1 意義不同、B2B 9/30 與 10/30 時程",
+        "url": "https://sellerlegend.com/amazon-sellerfbm-requirements-uk-germany-2026"
+      },
+      {
+        "name": "Go2Market：Amazon.fr 同步適用 90% OTDR 與 9/1 停用風險",
+        "url": "https://go2market.eu/en/news/amazon-fba-epr-fbm-zmiany-2026"
+      },
+      {
+        "name": "GeekSeller：OTDR 以「件」計算、without promise extensions 執法版本說明",
+        "url": "https://www.geekseller.com/blog/amazon-updates-on-time-delivery-rate-enforcement-for-seller-fulfilled-orders-feb-28-2026"
+      },
+      {
+        "name": "Linktrans：OTDR 分級後果（80–90%／60–80%／<60%）與三項豁免條件",
+        "url": "https://en.link-trans.com/amazon-uk-introduces-90-otdr-requirement-for-fbm-sellers"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-12",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/1 生效】法國 ultra-fast fashion 每件加徵 €0.25–12、上限售價半數：定義決還沒出，境外品牌須指派法國代表",
+    "summary": "法律已公布、生效只剩 20 天，但「誰算 ultra-fast fashion」還沒定義——這個落差本身就是規劃重點：\n        ① 法源與時點已確定（法國政府 service-public 與 Intertek 雙重證實）：LOI n° 2026-602 於 7/8 通過、7/9 公布，是全球首部專門針對 ultra-fast fashion 的立法，EPR bonus-malus 罰則自 9/1 適用。\n        ② 罰則逐年遞增，且不是新稅：每件 2026: €0.25–12 遞增至 2030: €2–20，上限為未稅售價 50%。性質是疊加在既有 Refashion 紡織 EPR 上的懲罰性調節。\n        ③ 判定標準有兩個，都還沒有數字：法條寫（a）上架款式數量或上新頻率（b）可維修性誘因，門檻須由實施法令（décret）定，官方頁面註明「Implementing decrees are expected」。9/1 到來時可能有規則但沒有適用名單。\n        ④ 境外賣家有一項獨立義務容易被漏掉：非法國企業在法國投放產品者須指派法國授權代表履行 EPR 義務。這與罰則是否適用無關，即使不被歸類仍須辦理。\n        ⑤ 兩個時點要分開看：廣告與網紅禁令自 2027/1/1、違者最高 €100,000，同時取消未售品捐贈 60% 稅減；但線上須在價格旁以同字級標示製造地是立即生效，不等決。",
+    "public_impact": "法國 LOI n° 2026-602 於 2026 年 7 月 8 日通過、7 月 9 日公布，是全球第一部專門針對 ultra-fast fashion 的立法，其 EPR bonus-malus 罰則自 9 月 1 日起適用。罰則為每件 2026 年 €0.25 至 €12，逐年遞增至 2030 年的 €2 至 €20，上限為商品未稅售價的 50%。這並非新稅，而是疊加在既有 Refashion 紡織 EPR 上的懲罰性調節。判定標準有兩項：上架款式數量或上新頻率，以及可維修性誘因，但具體門檻仍待實施法令公布。實務上三件事有三個時間表：線上須在價格旁以同字級標示製造地屬立即生效、每件罰則為 9 月 1 日但待決、廣告與網紅推廣禁令自 2027 年 1 月 1 日起、違者最高罰 €100,000。另有一項獨立義務容易被忽略：非法國企業在法國市場投放產品者須指派法國授權代表履行 EPR 義務，與是否被歸類為 ultra-fast fashion 無關。",
+    "public_action": "① 優先處理已生效的項目，法國站服飾商品須在價格旁以相同字級標示製造地，此義務不需等待實施法令，且適用範圍遠大於 ultra-fast fashion 的判定名單；② 一般品牌賣家不需過度反應，判定標準指向每日上架大量新款的平台級業者，多數品牌賣家不會落入適用範圍，不宜因此收縮法國市場布局；③ 境外服飾賣家應確認紡織 EPR（Refashion）與包裝 EPR（CITEO）為兩條獨立義務，並確認法國授權代表已完成指派，僅辦理其中一項並不足夠；④ 實施法令公布前，不建議將罰則金額納入業績或成本預測，僅適合作為情境參考；⑤ 針對法國市場的網紅與聯盟行銷合約建議提前檢視，2027 年起的禁令涵蓋贈品、商品借用與贊助邀請，跨年度合約需預留調整空間；⑥ 建立追蹤機制關注「高頻上新」的數值定義與可維修性比率門檻，一旦公布即重新評估自身是否受影響。",
+    "sources": [
+      {
+        "name": "法國政府 service-public：LOI n° 2026-602、9/1 eco-contribution 調節、決待發布、2027/1/1 廣告禁令",
+        "url": "https://entreprendre.service-public.gouv.fr/actualites/A18986?lang=en"
+      },
+      {
+        "name": "Intertek：逐年罰則級距（2026 €0.25–12 至 2030 €2–20）、50% 上限、法國授權代表義務",
+        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1548-france-adopts-landmark-law-targeting-ultra-fast-fashion"
+      },
+      {
+        "name": "Reuters：6/29 議會通過、每件 €0.25–6 起徵、廣告與網紅禁令",
+        "url": "https://www.reuters.com/business/retail-consumer/french-parliament-passes-fast-fashion-law-curb-shein-temu-2026-06-29"
+      },
+      {
+        "name": "France 24：50% 售價上限、執委會質疑廣告條款是否符合歐盟法",
+        "url": "https://www.france24.com/en/france/20260629-french-parliament-passes-fast-fashion-bill-targeting-shein-and-temu"
+      },
+      {
+        "name": "Digital Applied：malus 為 Refashion EPR 調節而非新稅、決依賴鏈與 slip 風險",
+        "url": "https://www.digitalapplied.com/blog/france-marketplace-environmental-fees-shein-temu-2026-seller-impact"
+      },
+      {
+        "name": "REFASH：判定兩標準（款式量／可維修性）、Zara H&M 不在適用範圍",
+        "url": "https://refash.in/blogs/quick-reads/france-passed-an-ultra-fast-fashion-law-for-shein-temu-and-aliexpress"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-12",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/1 存疑】EU €2 小包處理費卡在「性質」爭議：三方會談未達共識、官方稱延期可期，各國自行開徵 €2–5",
+    "summary": "市場都在準備 11/1 開徵，但真正該規劃的情境是「歐盟延期、各國各自收費」——這個組合對成本模型破壞更大：\n        ① 卡點不是金額，是收入歸誰（Bloomberg Tax，Baker McKenzie 執筆）：執委會提議歸入歐盟預算，但多個成員國與歐洲議會主張留在國內強化海關查驗；另有WTO 合規顧慮——若被認定為財政性進口稅即有問題。\n        ② 官方措辭已在預告延期：同份分析引述最新三方會談，「consensus on the nature of the fee hasn't yet been reached and delays are expected」，並形容 11/2026 為 「proposed—and optimistic」。多數賣家端資訊仍寫成既定事實。\n        ③ 延期的代價是碎片化，不是省錢：成員國已各自行動——羅馬尼亞約 €5、義大利 €2（均 1/1 起）、法國 3/1 起並曾表決調高至 €5、荷比研議 €2。EuroCommerce 警告各國費率不一會造成 border-shopping。\n        ④ 疊加結構要算清楚：€3 臨時關稅按申報行項（品類）計，處理費按件或按行項各方說法不一，兩者常被寫成 €5。關鍵是VAT 課在含關稅與處理費後的金額，實際成本高於單純相加。\n        ⑤ 同日有一項不會延的義務：產品識別碼（PID）11/1 由自願轉強制，須提供賣家 SKU 與製造商料號。這屬申報資料要求，不受處理費立法進度影響，兩件事綁一起看會誤判。",
+    "public_impact": "市場普遍將歐盟層級每件約 €2 的小包處理費視為 2026 年 11 月 1 日既定上路，但立法進度並未確定。爭議核心不在金額而在收入歸屬：執委會提議納入歐盟預算，多個成員國與歐洲議會主張留在國內用於強化海關查驗，另有是否構成財政性進口稅而涉及 WTO 合規性的疑慮。專業分析引述最新三方會談指出，各方對處理費性質尚未達成共識、預期會有延期，並將 2026 年 11 月形容為「提議中且偏樂觀」的日期。延期的代價是碎片化而非成本降低：羅馬尼亞已開徵約 €5、義大利 €2（皆自 1 月起），法國自 3 月起並曾表決調高至 €5，荷蘭與比利時亦在研議。歐洲零售業者組織已警告各國費率不一將造成清關地點套利。成本疊加亦常被低估：加值稅是在商品、運費、關稅與處理費合計後課徵，實際落地成本高於各項簡單相加。另須注意產品識別碼於 11 月 1 日由自願轉強制，屬申報資料要求，不受處理費立法進度影響。",
+    "public_action": "① 內部溝通與成本模型應改為「歐盟層級未定案、部分目的國已實際開徵」的表述，避免將 11 月 1 日視為確定節點而做出錯誤的一次性調整；② 若原本採全歐盟單一定價與運費結構，建議改為按目的國分層，因為同一商品賣往不同國家的落地成本已出現實質差異；③ 優先投入產品識別碼的資料準備，備齊自身 SKU 與製造商料號，此項不隨立法進度變動，資料缺漏會直接導致申報被拒，後果重於多負擔數歐元費用；④ 試算落地成本時務必注意加值稅是在含關稅與處理費之後計算，逐項相加會低估實際成本；⑤ 低單價品類建議加速以歐盟境內備貨取代小包直郵，此結論不因立法時程改變，且宜在第四季旺季前完成佈局；⑥ 追蹤兩個關鍵訊號：處理費最終歸屬歐盟預算或各國，以及荷蘭與比利時是否實際開徵。",
+    "sources": [
+      {
+        "name": "Bloomberg Tax（Baker McKenzie）：三方會談未達共識、「delays are expected」、11/2026 為 optimistic 日期（付費牆）",
+        "url": "https://news.bloombergtax.com/daily-tax-report-international/eu-takes-first-step-toward-new-era-in-e-commerce-compliance"
+      },
+      {
+        "name": "KPMG：羅馬尼亞 RON 25、義大利 €2 自 1/1、法國 3/1 開徵，處理費預期 11 月",
+        "url": "https://kpmg.com/hu/en/insights/2026/04/taxalert-2026-04-16.html"
+      },
+      {
+        "name": "CMS Trade Law：法國 €2→€5、荷蘭 €2 提案、Union handling fee 立法前提",
+        "url": "https://www.cmtradelaw.com/2025/12/changing-eu-e-commerce-rules-new-import-charges-ante-portas"
+      },
+      {
+        "name": "EuroCommerce：「我們需要一個歐盟費、不是碎片化」與 border-shopping 警告",
+        "url": "https://www.eurocommerce.eu/2025/10/eurocommerce-urges-customs-reform-and-unified-eu-handling-fee-to-safeguard-fair-competition"
+      },
+      {
+        "name": "Ecommerce Europe：11/2026 歐盟處理費、金額由 delegated acts 定、擬取代各國費",
+        "url": "https://ecommerce-europe.eu/news-item/agreement-on-the-eu-customs-reform"
+      },
+      {
+        "name": "nShift：€3 按品類行項計、PID 11/1 強制（7/1 起可自願申報）",
+        "url": "https://nshift.com/blog/eu-customs-changes-ecommerce-2026"
+      },
+      {
+        "name": "Archipel Tax：VAT 課在含關稅與處理費後的全額、疊加試算",
+        "url": "https://www.archipeltaxadvice.nl/insights/eu-customs-reform-e-commerce"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/11 收盤】Brent 收 $89.25（+1.36%）、盤中觸 $90：伊朗稱條件未滿足不重啟荷姆茲，德國 7 月能源通膨 +8.3%",
+    "summary": "油價的即時波動不是重點，重點是它已穿透到德國消費者物價，並改變 9/10 ECB 的算式：\n        ① 8/11 行情（Trading Economics、Investing.com、WSJ）：Brent 收 $89.25（+1.36%），日內 $86.77–90.03、盤中曾破 $90 後回落；WTI 收約 $83.4。Brent 月漲約 7.1%、年漲約 35%。\n        ② 導火線是條件而非談判本身（Barchart 引述 IRIB）：伊朗國營廣播稱荷姆茲在其條件全部滿足前不會重啟。盤中另有美伊接近協議與俄煉油廠遭襲兩則相反消息，形成 whipsaw。\n        ③ 已穿透到德國物價，這是新事實（Destatis）：7 月 CPI 初值 2.8% YoY（6 月 2.3%），能源年增從 3.4% 跳到 8.3%；但核心從 2.5% 降到 2.4%、服務業從 3.1% 降到 2.9%——漲的是能源與稅基效應，不是內需。今天公布終值。\n        ④ 股市反應說明市場讀為供給面：STOXX 600 在紀錄高點附近幾無變動（約 659.84），能源股領漲、科技股 +0.4%；EU50 收 6,556（+0.31%）、EUR/USD 約 1.15。油價漲而股市不跌，尚未被讀成衰退訊號。\n        ⑤ 期貨曲線逆價差，對備貨決策有用（ICE）：Oct26 $87.5 → Dec26 $83.7 → Dec27 $75.0。市場定價認為是短期緊張而非長期高原，用當前現貨價推 2027 成本會過度保守。",
+    "public_impact": "8 月 11 日 Brent 原油收約 $89.25、上漲 1.36%，日內區間 $86.77 至 $90.03，盤中曾突破 $90 後回落。上漲主因是伊朗國營媒體表示荷姆茲海峽在其條件全部滿足前不會重啟，另有美伊接近協議與俄煉油廠遭襲的消息造成盤中反覆。更值得注意的是油價已穿透至消費者物價：德國 7 月 CPI 初值 2.8% 年增（6 月 2.3%），能源年增由 3.4% 躍升至 8.3%，但核心通膨自 2.5% 降至 2.4%、服務業自 3.1% 降至 2.9%，顯示推升通膨的是能源與稅基效應而非內需，終值 8 月 12 日公布。股市方面泛歐 STOXX 600 在紀錄高點附近幾無變動、能源股領漲，EUR/USD 約 1.15，顯示市場讀為供給面問題而非需求萎縮訊號。期貨曲線呈逆價差：Oct26 約 $87.5、Dec26 約 $83.7、Dec27 約 $75.0，代表市場定價認為是短期緊張而非長期高油價，以當前現貨價推估 2027 年成本可能過度保守。",
+    "public_action": "① 成本與運費假設建議分兩段設定，第四季採較高油價情境、2027 年採回落情境，避免以當前價格線性外推導致明年報價失去競爭力；② 能源密集品類（家電、家具、消費電子）應重算第四季毛利，並注意這是雙向擠壓：投入成本因能源年增 8.3% 而上升，但核心通膨降至 2.4% 意味著轉嫁至消費者的空間同時縮小；③ 判斷利率走向時不宜僅看整體通膨數字，整體與核心方向相反，關鍵變數已從內需轉向能源；④ 不建議以油價上漲直接推論旺季需求疲弱，股市在紀錄高點附近且能源股領漲，現有資料不支持消費萎縮的結論，成本端調整即可，需求端假設可維持；⑤ 8 月 12 日德國 7 月終值公布時重點觀察核心與服務業是否被上修，若上修則上述判斷需修正；⑥ 設定荷姆茲海峽情勢與 8 月 19 日歐元區 7 月 HICP 終值兩個檢查點。",
+    "sources": [
+      {
+        "name": "Trading Economics：8/11 Brent $89.25（+1.36%）、月漲 7.14%、年漲 34.98%",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "Investing.com：日內區間 $86.77–90.03、前收 $87.72",
+        "url": "https://www.investing.com/commodities/brent-oil"
+      },
+      {
+        "name": "WSJ：Brent 盤中觸 $90 後回落、荷姆茲新條件與債券殖利率反應（付費牆）",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026"
+      },
+      {
+        "name": "Barchart：IRIB 稱條件未滿足前不重啟、俄煉油廠無人機襲擊、盤中 whipsaw",
+        "url": "https://www.barchart.com/futures/quotes/CBM26"
+      },
+      {
+        "name": "Reuters（經 WTVB 轉載）：STOXX 600 約 659.84 幾無變動、能源股領漲、本週待歐元區就業與 GDP",
+        "url": "https://wtvbam.com/2026/08/11/european-shares-edge-higher-as-energy-stocks-climb-on-elevated-oil-prices"
+      },
+      {
+        "name": "Destatis：德國 7 月 CPI 初值 2.8%、能源 +8.3%、核心 2.4%、終值 8/12 公布",
+        "url": "https://www.destatis.de/EN/Press/2026/07/PE26_270_611.html"
+      },
+      {
+        "name": "ICE：Brent 期貨曲線 Oct26 $87.5／Dec26 $83.7／Dec27 $75.0 逆價差",
+        "url": "https://www.ice.com/products/219/brent-crude-futures/data"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-12",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【8/10 上線】Zooplus 德國站開放 marketplace：月費 €39.90＋16% 佣金、須 EU 實體與 EU 庫存，寵物用品垂直新通路",
+    "summary": "本日唯一「開通路」而非「加成本」的一則，對寵物與周邊品類賣家值得評估：\n        ① 進度與規模（Zooplus 新聞稿，經 Ecommerce News Europe 與 RetailDetail 雙重報導）：8/10 宣布德國站 marketplace 上線，是法國站（2024 年底）後的第二個市場，一次新增 1 萬個商品、約 65% 為寵物配件。Zooplus 在 27 個歐洲國家經營網站，2023 年營收約 €26.8 億。\n        ② 入駐條件與費率（ChannelEngine、e-tailize 引述）：不限德法當地企業，但須（a）EU 註冊實體（b）EU VAT 號碼（c）庫存存放於 EU 境內。月費 €39.90＋佣金 16%、無設定費，平台為 Mirakl。\n        ③ 這是封閉式平台，不是自助註冊：採審核制，須申請核准才能上架，僅支援英／法／德三語，須有效 GTIN／EAN（8 或 13 碼）且歐元計價。不是「開了就能賣」，需要排期。\n        ④ 競爭定位：歐洲線上寵物用品市場Zooplus 規模僅次於 Amazon；同品類 Fressnapf 線上約 €4 億、第三方 GMV 僅約 6%。Zooplus 是這個垂直裡最有量的非 Amazon 選項。\n        ⑤ 屬於通路 marketplace 化的一部分：同期 Bauhaus（1 月上線、100 家賣家、近 10 萬商品）、Argos（8/4 英國）、Momox（8/7 荷蘭）都在做同一件事。單一平台量級不大，加總才是實質分流。",
+    "public_impact": "歐洲最大線上寵物用品零售商 Zooplus 於 8 月 10 日宣布德國站 marketplace 上線，是繼 2024 年底法國站後的第二個市場，一次新增約 1 萬個商品、約 65% 屬寵物配件。Zooplus 在 27 個歐洲國家經營網站，2023 年營收約 26.8 億歐元，規模僅次於 Amazon；同品類的 Fressnapf 線上約 4 億歐元且第三方佔比僅約 6%。入駐條件為：不限德法當地企業，但須具備歐盟註冊實體、歐盟 VAT 號碼，且庫存存放於歐盟境內；費率為月費 39.90 歐元加 16% 銷售佣金、無設定費，技術平台為 Mirakl。須注意這是封閉式審核制平台，須申請核准才能上架，僅支援英法德三語，並須有有效 GTIN 或 EAN（8 或 13 碼）且以歐元計價。另外 Zooplus 目前不提供平台履約服務，賣家需自行出貨。此舉屬歐洲垂直零售商系統性開放第三方的趨勢，同期還有 Bauhaus、Argos 與 Momox。",
+    "public_action": "① 寵物用品及周邊品類的賣家可評估此通路，Zooplus 是該垂直市場中規模僅次於 Amazon 的選項，具備品類意圖明確的流量；② 試算成本時應以「16% 佣金加自行出貨成本」與「其他平台佣金加平台履約費」對比，因為 Zooplus 目前不提供履約服務，僅比較佣金率會失真；③ 確認自身是否符合三項門檻：歐盟註冊實體、歐盟 VAT 號碼、庫存存放於歐盟境內，缺一項即無法入駐；④ 因採審核制且需申請核准，建議預留排期時間，不宜視為可立即開賣的通路；⑤ 商品資料需備妥有效 GTIN 或 EAN（8 或 13 碼）、歐元計價，並準備英法德三語內容；⑥ 營運人力有限的中小賣家宜謹慎評估新增通路的實際負擔，四個月內已有多個歐洲平台開放第三方，每新增一個通路都會增加庫存管理與客服成本，建議依品類契合度而非平台熱度決定優先序。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe：8/10 德國站上線、新增 1 萬商品、65% 寵物配件、€39.90＋16%、EU 實體與庫存要求",
+        "url": "https://ecommercenews.eu/zooplus-eyes-pan-european-marketplace"
+      },
+      {
+        "name": "RetailDetail EU：Zooplus 官方說法、27 國網站、擬逐步擴展至其他國家、以 AI 補完商品資訊",
+        "url": "https://www.retaildetail.eu/news/leisure/zooplus-plans-to-roll-out-its-marketplace-across-europe"
+      },
+      {
+        "name": "e-tailize：入駐條件、GTIN／EAN 8 或 13 碼、歐元計價、2023 年營收 €26.8 億",
+        "url": "https://e-tailize.com/integrations/selling-on-zooplus"
+      },
+      {
+        "name": "Lengow：Zooplus 2025/11 經 Mirakl 上線、德國垂直 marketplace 全景（Bauhaus 2026/1 等）",
+        "url": "https://blog.lengow.com/marketplaces-in-germany-the-complete-map"
+      },
+      {
+        "name": "Ecommerce News Europe：Bauhaus 100 家賣家近 10 萬商品、Argos 8/4、Momox 8/7 同期動作",
+        "url": "https://ecommercenews.eu/news"
+      },
+      {
+        "name": "Mirakl：Fressnapf 德國站第三方開放（同品類競爭定位對照）",
+        "url": "https://www.mirakl.com/news/fressnapf-group-launches-mirakl-powered-marketplace"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-11",
     "type": "daily",
     "tags": [
