@@ -1,5 +1,187 @@
 [
   {
+    "date": "2026-08-14",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【9/1 倒數 18 天】法國 B2B 電子發票：DGFiP 核准平台名單 8/6 拆成兩份，17 家尚未通過互通測試",
+    "summary": "風險點不在格式規格，而在服務商到不到得了 9/1：\n        ① 主義務（法國政府 service-public.gouv.fr）：9/1 起所有設立於法國的 VAT 納稅企業都必須有能力接收電子發票、無規模門檻，並須指定一個政府核准平台（PA）；開立與 e-reporting 義務先適用大型與中型企業（ETI），SME 與微型企業延到 2027/9/1。\n        ② 名單 8/6 拆成兩份（Global Indirect Tax Management 8/11）：DGFiP 原本的單一登錄名單改為兩份 —— 一份是已通過互通測試、條件全部滿足者（清點 144 家），另一份是申請完整合規、但正式登記仍待通過互通測試者（17 家）；截至 8/6 那 17 家尚未完成測試（家數為該文作者清點，DGFiP 未公布總數）。\n        ③ 技術規格 8/4 更新（FNFE-MPE 與德國 FeRD，經 sharedserviceslink 8/12 報導）：Factur-X 1.09.2 / ZUGFeRD 2.5.2 發布取代 6/10 版本，對齊 EN 16931 半年度更新、新增 sub-line 管理（套裝商品小計行），自 9/1 適用。Factur-X 是法國三個強制接收格式之一，與德國 ZUGFeRD 是同一份標準。\n        ④ 非法國設立者（ASD Group）：只有法國 VAT 號、無常設機構者不必收發電子發票，但 9/1 起仍須做 e-reporting。\n        結論：格式有人幫你解，平台沒有 —— 服務商 9/1 前沒過測試，客戶就發不出票。",
+    "public_impact": "法國 B2B 電子發票改革將於 2026 年 9 月 1 日上路，距今約兩週半。依法國政府 service-public 的說明，屆時所有設立於法國且為 VAT 納稅人的企業都必須有能力接收電子發票，且無規模門檻；開立電子發票與 e-reporting 的義務則先適用大型企業與中型企業，中小企業與微型企業延至 2027 年 9 月 1 日。企業必須指定一個政府核准平台來收發發票或申報資料。值得注意的是，DGFiP 已在 8 月 6 日把核准平台登錄名單拆成兩份：一份是已通過互通測試、條件全部滿足的服務商，另一份是申請合規但正式登記仍須先通過互通測試的服務商，後者截至 8 月 6 日尚未完成測試。技術規格面，FNFE-MPE 與德國 FeRD 已於 8 月 4 日發布 Factur-X 1.09.2 與 ZUGFeRD 2.5.2，取代 6 月 10 日版本，對齊 EN 16931 半年度更新並新增套裝與組合商品的小計行處理，自 9 月 1 日適用。對非法國設立、僅持有法國 VAT 號的賣家，收發電子發票並非義務，但 e-reporting 仍須辦理。",
+    "public_action": "① 若在法國設有實體，本週就向你的發票服務商確認它是否已列於 DGFiP 已完成互通測試的名單，若在待測試名單上，請索取書面的完成時程並準備備援方案；② 只有法國 VAT 號、無常設機構的賣家不必收發法國電子發票，但 9 月 1 日起仍須進行 e-reporting，不要誤判為完全不受影響；③ 向 ERP 或發票軟體供應商確認已把 Factur-X 1.09.2 與 ZUGFeRD 2.5.2 納入版本規劃，該規格自 9 月 1 日適用，且法德兩國共用同一份標準；④ 換平台涉及系統對接與主檔整理，時間已不足以重做一次導入，現階段應以確認現有服務商能否如期上線為主；⑤ 中小企業與微型企業的開立義務在 2027 年 9 月 1 日，但接收義務一律從 2026 年 9 月 1 日起算，兩者不要混淆。",
+    "sources": [
+      {
+        "name": "法國政府 service-public.gouv.fr（義務與時程）",
+        "url": "https://entreprendre.service-public.gouv.fr/actualites/A15683?lang=en"
+      },
+      {
+        "name": "Global Indirect Tax Management（8/11，DGFiP 名單拆分）",
+        "url": "https://globalindirecttaxmanagement.com/country-updates/france/france-factur-x-1-09-2-and-zugferd-2-5-2-issued-on-august-4-2026-and-the-dgfip-register-of-approved-platforms-is-updated-and-split-into-two-separate-lists"
+      },
+      {
+        "name": "sharedserviceslink（8/12）",
+        "url": "https://sharedserviceslink.com/news/factur-x-and-zugferd-updated-ahead-of-france-and-germany-e-invoicing-reforms"
+      },
+      {
+        "name": "FNFE-MPE Factur-X 官方頁",
+        "url": "https://fnfe-mpe.org/factur-x/factur-x_en"
+      },
+      {
+        "name": "ASD Group（外國企業 e-reporting）",
+        "url": "https://www.asd-int.com/en/france-how-does-the-2026-e-reporting-system-work-for-foreign-companies-subject-to-vat"
+      },
+      {
+        "name": "Global VAT Compliance（時程整理）",
+        "url": "https://www.globalvatcompliance.com/globalvatnews/france-mandatory-b2b-e-invoicing"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-14",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【昨天 8/13】Amazon 歐洲 DD+7 保留金遷移日：未遷移店鋪二選一，另一個選項是 2027/1/19",
+    "summary": "歐洲多數帳號 2025/9 就已遷移 DD+7，昨天是尾端名單的遷移日，而且是二選一不是區間：\n        ① 官方口徑（Seller Central Europe 賣家論壇，Amazon 代表 KJ_Amazon 回覆）：通知信原文為「您的遷移已排定於 2026 年 8 月 13 日。若您需要更多時間準備，可改選第二個可用日期 2027 年 1 月 19 日」。論壇上有賣家先前被電話告知是「8/13 到 2027/1/19 之間某天」，Amazon 代表明確更正為二選一，並承認其他溝通管道造成了混亂。\n        ② 適用範圍：延到 2027/1/19 的選項只給尚未遷移的賣家或個別店鋪；已完成遷移的店鋪不可回復。多店鋪帳號可能只有未遷移的那些店鋪拿到延期選項。\n        ③ 機制釐清：DD 指 Delivery Date（到貨日），不是撥款日。款項在到貨確認後再壓 7 個日曆天才進入可提領餘額，且與帳戶層級保留金疊加；無追蹤的低價件改以預估到貨日起算。\n        ④ 一次性衝擊有官方數字：Amazon 代表在同一串明講「前 7 至 20 天現金流會下降」，過渡期約 10 至 14 天，原因是在途訂單要換算到以到貨日為基準的保留金。\n        ⑤ 量級（Slope、Riverbend 等業界整理）：FBA 到貨快，約下單後 8 至 10 天可動用；FBM 標準配送 5 至 7 天者約 12 至 14 天。長期被鎖住的營運資金約等於年營收 ÷ 365 × 7。",
+    "public_impact": "Amazon 的 DD+7 保留金政策（Delivery Date + 7 天）在歐洲多數帳號已於 2025 年 9 月完成遷移，尚未遷移的賣家與店鋪則面臨新一波遷移安排。依 Seller Central 歐洲賣家論壇上 Amazon 方的回覆，通知信給出的是二選一而非區間：2026 年 8 月 13 日，或延後至 2027 年 1 月 19 日；延後選項僅適用尚未遷移的賣家或個別店鋪，已完成遷移者無法回復。機制上，DD 指到貨日而非撥款日，款項要在到貨確認後再保留 7 個日曆天才進入可提領餘額，並與帳戶層級保留金疊加；無追蹤的低價商品以預估到貨日起算。Amazon 方在同一討論串指出遷移會造成一次性影響，前 7 至 20 天現金流下降、過渡期約 10 至 14 天。實務量級上，自營履約（FBM）賣家因配送天數較長，被鎖住的天數明顯多於平台履約（FBA）賣家。",
+    "public_action": "① 先確認自己是否收到遷移通知，以及選的是 2026 年 8 月 13 日或 2027 年 1 月 19 日，並注意這是二選一、已遷移不可回復；② 用「年營收 ÷ 365 × 7」估算長期被鎖住的營運資金，再加上過渡期前 7 至 20 天的回款下降，據此檢查第四季進貨的付款排程是否撐得住；③ 自營履約賣家的被鎖天數通常比平台履約多幾天，因為起算點是到貨確認而非出貨，配送較慢的商品應把這段時間納入補貨模型；④ 若已遷移但發現放款超過 7 天，可先檢查兩個常見原因：B2B 發票訂單仍待買方付款，或承運商未回傳到貨確認（此時系統會改以最新預估到貨日起算）；⑤ 會計上建議以到貨日而非撥款日對應收入，以免營收落在錯誤的期間；⑥ 政策細節請以自己帳號收到的通知與 Seller Central 公告為準。",
+    "sources": [
+      {
+        "name": "Seller Central Europe 論壇（Amazon 代表 KJ_Amazon 確認 8/13 與 2027/1/19）",
+        "url": "https://sellercentral-europe.amazon.com/seller-forums/discussions/t/42e864b4-d822-47eb-9c52-4b95d98e47e8"
+      },
+      {
+        "name": "Slope（DD+7 機制與營運資金試算、歐洲 2025/9 遷移）",
+        "url": "https://slopepay.com/blog/amazon-dd7-payout-policy"
+      },
+      {
+        "name": "Riverbend Consulting",
+        "url": "https://riverbendconsulting.com/blog/dd7-amazon-payout-policy"
+      },
+      {
+        "name": "Nova Analytics",
+        "url": "https://novadata.io/resources/news/amazon-dd7-disbursement-reserve-march-2026"
+      },
+      {
+        "name": "Webgility（現金流試算）",
+        "url": "https://www.webgility.com/blog/amazon-payout-schedule"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/13 ONS】英國 Q2 GDP +0.4%、6 月單月 +0.3% 超預期：服務業撐全場，工業與貿易同步轉差",
+    "summary": "表面數字符合預期，拆開看是「服務業一柱擎天、商品端全面轉弱」，對零售賣家不是好組合：\n        ① 總量（ONS 8/13）：Q2 GDP 季增 +0.4%（Q1 為 +0.6%）、年增 +1.2%（優於市場估 1.1%）；每人 GDP 季增 +0.4%、年增 +1.0%。\n        ② 月度路徑：4 月 -0.1%、5 月 0.0%（自 +0.1% 下修）、6 月 +0.3%（市場估 -0.1%）。整季動能幾乎都集中在 6 月。\n        ③ 產業結構：服務業 +0.5%（資通訊 +2.7%、專業科技 +1.7% 領頭）；生產零成長（製造 +1.0%，被電力燃氣與供水抵銷）；建築 +0.3%、但仍低於去年同期 2.0%。20 個次產業中 15 個成長。\n        ④ 同日發布的商品面全部低於預期（ONS 一併公布、XTB 整理）：6 月工業生產 -0.2% MoM（估 +0.1%）、製造生產 -0.5% MoM（估 -0.3%）、6 月貿易逆差擴大到 -£230.1 億（估 -£204 億、前值 -£210.8 億）。\n        ⑤ 一個要留意的細節：ONS 在政府消費項下提到 6 月熱浪導致部分學校停課，壓低了教育產出 —— 也就是天氣同時是 6 月的助力與阻力，把 6 月的 +0.3% 當成趨勢反轉來讀是危險的。\n        結論：GDP 撐住了，但撐住它的是服務業，跟賣實體商品的關聯度低。",
+    "public_impact": "英國 ONS 於 8 月 13 日公布第二季 GDP 初估，季增 0.4%（第一季為 0.6%）、年增 1.2%，略優於市場預估的 1.1%。但結構值得注意：整季動能幾乎集中在 6 月（4 月 -0.1%、5 月 0.0%、6 月 +0.3%），且成長來源高度集中於服務業（+0.5%，資通訊 +2.7%、專業科技 +1.7% 領頭），生產部門為零成長（製造 +1.0% 被電力燃氣與供水抵銷），建築 +0.3% 但仍低於去年同期 2.0%。同日公布的商品面數據則全部低於預期：6 月工業生產 -0.2% MoM、製造生產 -0.5% MoM、貿易逆差擴大至 230.1 億英鎊（預估 204 億、前值 210.8 億）。ONS 另提到 6 月熱浪導致部分學校停課而壓低教育產出，顯示天氣對當月數據同時有正負向影響。對銷售實體商品的賣家而言，GDP 超預期並不等於需求轉強，商品鏈相關指標方向仍朝下。",
+    "public_action": "① 英國市場第三季展望建議維持保守，判斷依據放在生產零成長與 6 月製造 -0.5%，而非 GDP 年增 1.2%；② 以英鎊收款、外幣採購的賣家可做一次毛利敏感度檢查，貿易逆差擴大與 9 月 17 日英國央行會議都可能帶來匯率波動；③ 第四季促銷深度建議偏保守，可並列參考 7 月零售同店銷售 +1.5%、連兩月放緩，以及 6 月成長受熱浪雙向影響這兩項訊號；④ 值得追蹤的節點包括 8 月 19 日英國 7 月 CPI、8 月 21 日 7 月零售銷售、9 月 17 日英國央行會議與 9 月 30 日 GDP 第二次估計；⑤ ONS 說明本次未做修正，1997 至 2024 年的修正將於 8 月 20 日的 Blue Book 文章公布、2025 年之後的更新在 9 月 30 日，因此目前以英國數據做的同期比較日後可能需要重算。",
+    "sources": [
+      {
+        "name": "ONS 官方公報（8/13）",
+        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026"
+      },
+      {
+        "name": "FXStreet（實際值與市場預期對照）",
+        "url": "https://www.fxstreet.com/news/uk-gdp-expected-to-show-moderate-q2-growth-202608130200"
+      },
+      {
+        "name": "XTB 經濟行事曆（工業、製造、貿易差額實際值）",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/economic-calendar-us-ppi-jobless-claims-and-fed-speeches-to-bring-more-insight-after-uneventful-cpi-13-08-2026"
+      },
+      {
+        "name": "GB News（8/13）",
+        "url": "https://www.gbnews.com/money/economy-gdp-second-quarter-2026-ons"
+      },
+      {
+        "name": "investingLive（服務業分項）",
+        "url": "https://investinglive.com/news/uk-q2-preliminary-gdp-vs-0-4-q-q-expected"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/13 Eurostat】歐元區 6 月工業生產零成長、年增 +0.1% 優於預期：耐久消費財年減 2.5%",
+    "summary": "headline 比預期好，但拆到消費財分項就會看到跟賣家真正相關的那條線在往下：\n        ① 總量（Eurostat 8/13）：6 月季調工業生產歐元區持平（0.0% MoM）、EU +0.2%；年增歐元區 +0.1%、EU +0.6%。年增數字明顯優於市場預估的 -0.8%（Trading Economics 記為市場估 -0.8% 下跌、實際轉正）。\n        ② 分項才是重點（歐元區 MoM）：非耐久消費財 +3.0%、能源 +1.5%、耐久消費財 +0.3%（自 5 月 -1.3% 反彈）；但中間財 -0.8%、資本財 -1.4%。年增看得更清楚：耐久消費財 -2.5%、非耐久消費財 -0.5%，中間財 +0.4%、能源 +0.9%、資本財 +0.1%。\n        ③ 三大國分歧：德國 +0.2% MoM、法國持平、西班牙 -0.7%。年增則是德國與法國都 -0.5%、西班牙 +1.0%。\n        ④ 5 月被大幅上修：相較 7/15 公布值，5 月月增由 -0.2% 上修為 +0.3%（EU 由 -0.1% 上修為 +0.3%）、年增由 -1.2% 上修為 -0.1%（EU 由 -0.3% 上修為 +0.6%）。這代表Q2 的工業底部沒有原本想的那麼深。\n        ⑤ 中東歐領先：年增最高為立陶宛 +7.7%、丹麥 +6.1%、波蘭 +4.9%；最差為盧森堡 -7.9%、羅馬尼亞 -5.6%、愛沙尼亞 -4.6%。\n        結論：工業沒有繼續惡化，但耐久消費財年減 2.5% 說明家電、家具、3C 這類品類的需求端仍是弱的。",
+    "public_impact": "Eurostat 於 8 月 13 日公布 6 月工業生產，季調後歐元區月增持平、EU 增加 0.2%；年增歐元區 +0.1%、EU +0.6%，年增數字明顯優於市場原先預估的下滑。不過分項才是關鍵：歐元區月增方面，非耐久消費財 +3.0%、能源 +1.5%、耐久消費財 +0.3%，但中間財 -0.8%、資本財 -1.4%；年增方面，耐久消費財 -2.5%、非耐久消費財 -0.5%。三大經濟體分歧明顯，德國月增 +0.2%、法國持平、西班牙 -0.7%，年增則德法均為 -0.5%、西班牙 +1.0%。另一個重要變化是 5 月數據被大幅上修，歐元區月增由 -0.2% 修正為 +0.3%、年增由 -1.2% 修正為 -0.1%，意味第二季的工業底部沒有原先估計的那麼深。年增最強的是立陶宛 +7.7%、丹麥 +6.1%、波蘭 +4.9%。整體而言工業未繼續惡化，但耐久消費財年減 2.5% 顯示家電、家具、大型 3C 等品類的需求端仍偏弱。",
+    "public_action": "① 第四季備貨建議分兩檔處理，耐久消費財（家電、家具、大型 3C、DIY）因生產端年減 2.5% 宜偏保守，日用與非耐久品類可維持或略增；② 若在 7 月底至 8 月初做過歐洲工業或成本相關假設，建議重算，因為 5 月基期已由月增 -0.2% 上修為 +0.3%、年增由 -1.2% 上修為 -0.1%；③ 資本財月減 1.4%、年增僅 +0.1%，顯示企業設備投資在收縮，做 B2B 生意的賣家對第三、四季需求宜保守估計；④ 市場配置上，西班牙是三大經濟體中年增唯一為正者（+1.0%），波蘭 +4.9% 更強，德法年增均為 -0.5%，資源分配可適度反映此分歧；⑤ 可追蹤的節點包括 8 月 14 日歐元區 6 月貿易差額、8 月 18 日德國與歐元區 ZEW 景氣預期、8 月 19 日歐元區 7 月 HICP 終值、9 月 10 日歐洲央行議息與 9 月 16 日 7 月工業生產。",
+    "sources": [
+      {
+        "name": "Eurostat 官方新聞稿（8/13，含 5 月修正說明）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-13082026-ap"
+      },
+      {
+        "name": "Trading Economics（市場預期對照、分項）",
+        "url": "https://tradingeconomics.com/euro-area/industrial-production-mom"
+      },
+      {
+        "name": "GMK Center（8/13）",
+        "url": "https://gmk.center/en/news/industrial-production-in-the-eu-rose-by-0-2-m-m-in-june"
+      },
+      {
+        "name": "IndexBox（成員國排序）",
+        "url": "https://www.indexbox.io/blog/eu-industrial-production-and-ecb-forecasts-june-2026-overview"
+      },
+      {
+        "name": "Big News Network 引 WAM（8/13）",
+        "url": "https://www.bignewsnetwork.com/news/279239651/industrial-production-stable-in-euro-area-up-by-02-in-eu"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/13 GUS】波蘭 Q2 GDP 年增加速到 3.8%、工業年增 4.9% 為 EU 前三：成長極不在德法",
+    "summary": "同一天公布的三份數據裡，波蘭是唯一在加速的；這對波蘭市場的佈局優先度有直接含義：\n        ① GDP 快報（Statistics Poland／GUS 8/13，經 RTTNews 報導）：Q2 未調整年增 +3.8%（Q1 為 +3.5%）、季調年增 +3.7%（Q1 +3.5%）；季增 +0.9%（Q1 +0.6%），略低於市場估的 +1.0%。\n        ② 工業面同步驗證（Eurostat 8/13）：波蘭 6 月工業生產年增 +4.9%，是 EU 第三高（僅次於立陶宛 +7.7%、丹麥 +6.1%），同期德國與法國均為 -0.5%；波蘭 6 月月增為 -0.3%。\n        ③ 成長引擎在轉換（ING 8 月分析）：Q2 建築產出由 Q1 的 -8.0% 年減轉為約 +4.5% 年增，投資動能回升；勞動市場則轉軟 —— 6 月薪資年增 5.9%、連三個月低於 6%，企業部門就業年減 0.9%。\n        ④ 通膨回升但成分是能源與稅制：7 月 CPI 初估年增 3.0%（6 月 2.5%）、月增 +0.8%（GUS 7/31 快報，終值 8/13 公布）。燃料與潤滑油年增 15.8%、電力燃氣 +4.0%，食品與非酒精飲料則年減 0.4%；推力來自政府取消燃料價格管制、機動車燃料 VAT 由臨時的 8% 回到 23%。\n        ⑤ 貨幣政策：波蘭央行 7 月連四個月維持利率 3.75%，總裁 Glapinski 稱夏季後可能提議降息 25bp。3.0% 已貼近容忍區間（1.5–3.5%）上緣，但核心需求並未過熱。",
+    "public_impact": "波蘭中央統計局（GUS）於 8 月 13 日公布第二季 GDP 快報，未季調年增 3.8%（第一季 3.5%）、季調年增 3.7%，季增 0.9%（第一季 0.6%），略低於市場預估的 1.0%。同日 Eurostat 數據顯示波蘭 6 月工業生產年增 4.9%，是 EU 第三高，僅次於立陶宛 7.7% 與丹麥 6.1%，同期德國與法國均為 -0.5%。成長引擎正在轉換：第二季建築產出由第一季的年減 8.0% 轉為約年增 4.5%，顯示投資動能回升；但勞動市場轉軟，6 月薪資年增 5.9%、連三個月低於 6%，企業部門就業年減 0.9%。通膨方面，7 月 CPI 初估年增 3.0%（6 月 2.5%）、月增 0.8%，主因是燃料與潤滑油年增 15.8%、電力燃氣 +4.0%，而食品與非酒精飲料年減 0.4%；推力來自政府取消燃料價格管制與機動車燃料 VAT 由臨時的 8% 回到 23%。波蘭央行 7 月連四個月維持主要利率 3.75%，總裁表示夏季後可能提議降息 25 個基點。",
+    "public_action": "① 在歐洲已有一定規模、尚未進入波蘭市場的賣家，可把波蘭列入本季的市場評估名單，對照依據是波蘭第二季 GDP 年增 3.8%、工業年增 4.9%，而德法工業年增均為 -0.5%；② 品類選擇上，食品年減 0.4% 顯示消費者可支配所得未被必需品擠壓，對非必需品類是相對友善的環境；③ 在波蘭自行配送的賣家建議重算物流成本，燃料與潤滑油年增 15.8%，且機動車燃料 VAT 已由臨時的 8% 回到 23%，最後一哩成本會被直接推升；④ 融資成本方向偏向寬鬆但尚未定案，波蘭央行維持利率 3.75%，總裁僅表示夏季後可能提議降息，規劃時不宜當作已確定；⑤ 需留意企業部門就業年減 0.9%，若延續至第四季可能影響消費信心；⑥ 3.8% 為未季調年增快報值，季調年增為 3.7%，完整的 GDP 結構要等後續正式發布。",
+    "sources": [
+      {
+        "name": "RTTNews 引 GUS 快報（8/13）",
+        "url": "https://www.rttnews.com/3680023/poland-gdp-growth-improves-inflation-rises-as-estimated.aspx"
+      },
+      {
+        "name": "Eurostat（波蘭 6 月工業年增 +4.9%）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-13082026-ap"
+      },
+      {
+        "name": "ING Think（建築產出、薪資與就業）",
+        "url": "https://think.ing.com/articles/strong-june-data-lift-prospects-for-polish-2026-gdp-growth-despite-mounting-external-risks"
+      },
+      {
+        "name": "GUS 7 月 CPI 快報官方頁",
+        "url": "https://stat.gov.pl/en/topics/prices-trade/price-indices/flash-estimate-of-the-consumer-price-index-in-july-2026,21,43.html"
+      },
+      {
+        "name": "PAP（7/31 CPI 快報）",
+        "url": "https://www.pap.pl/en/news/polands-cpi-30-pct-yy-july-flash-reading"
+      },
+      {
+        "name": "FocusEconomics（燃料價格管制與 VAT 回調）",
+        "url": "https://www.focus-economics.com/countries/poland/news/inflation/poland-consumer-prices-p-31-07-2026-inflation-accelerates-in-july-from-june"
+      },
+      {
+        "name": "Global Banking & Finance 引 Reuters（NBP 利率）",
+        "url": "https://www.globalbankingandfinance.com/polish-cpi-accelerates-3-0-july-fuelling-rate-hold"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-13",
     "type": "daily",
     "tags": [
