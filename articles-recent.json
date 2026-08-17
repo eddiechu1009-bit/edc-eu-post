@@ -1,5 +1,191 @@
 [
   {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【今天 8/17 開放收貨】Amazon AWD 歐洲：8/20 才正式上線，全歐倉點只有英國南約克夏與德國北威州",
+    "summary": "兩個日期不是同一件事，而且入場門檻比多數整理文寫得更嚴：\n        ① 8/17 vs 8/20（Seller Central 官方公告＋Forest Shipping、aNavigator）：官方公告寫的是「自 2026 年 8 月 20 日起」把 AWD 帶到德法義西英五站；8/17 是開放收 inbound 貨件的日子。也就是今天可以開始送貨進去，但服務正式運轉在 8/20。\n        ② 全歐只有兩個倉點：英國南約克夏、德國北威州（NRW）。五個站點共用這兩個上游倉，且英國 AWD 與 EU AWD 庫存不可互轉，兩邊要各自報關、各自 VAT、各自預測。\n        ③ 費率：EU 每立方公尺每月 €12.33（折扣價 €11.09）；英國每立方英尺每月 £0.36（折扣價 £0.32）。另有 inbound／outbound 處理費與 AWD 轉 FBA 的運費，走 Amazon Global Logistics 或自動補貨佔比達 70% 以上可再折。\n        ④ 入場門檻（EU 端最容易卡住）：須已加入 Pan-EU FBA、庫存貼 FNSKU、持有效德國 VAT 號，並在法義西波之中再有一個 VAT 註冊；德國法人實體非必要。英國端只需有效英國 VAT 號。\n        ⑤ 品項與紙箱限制：超大超重、珠寶、危險品、溫控品排除；單邊不得超過 63.5 cm、毛重上限 23 kg，且一箱只能一個 SKU。\n        結論：這是「上游倉」不是「多一個 FBA 倉」，Q4 前想用它的賣家，卡點通常在第二個 VAT 號而不在費率。",
+    "public_impact": "Amazon Warehousing and Distribution（AWD）正式擴展至歐洲。依 Seller Central 公告，服務自 2026 年 8 月 20 日起在德國、法國、義大利、西班牙與英國提供，而入庫貨件的收貨則自 8 月 17 日開始，兩個日期並不相同。AWD 屬於 FBA 之上的上游倉，賣家以固定費率長期存放整批庫存，由 Amazon 依銷售情況自動補貨到各國 FBA 倉。初期全歐僅有兩個倉點，位於英國南約克夏與德國北威州，且英國 AWD 與歐盟 AWD 的庫存不可互相調撥，兩邊需各自處理報關、稅務登記與庫存預測。費率方面，歐盟為每立方公尺每月 12.33 歐元（折扣價 11.09 歐元），英國為每立方英尺每月 0.36 英鎊（折扣價 0.32 英鎊），另有入庫、出庫處理費與 AWD 轉 FBA 的運費。歐盟端的參加條件包括已加入 Pan-European FBA、庫存貼附 FNSKU、持有有效德國 VAT 登記，並在法國、義大利、西班牙或波蘭再有一個 VAT 登記。",
+    "public_action": "① 先確認自己是否符合歐盟端條件，尤其是「德國 VAT 加上法義西波之一」這項雙重登記要求，缺少第二個登記的賣家短期內無法使用；② 第一次使用建議只放安全庫存，不要把旺季首批主力貨壓在新服務上，AWD 在美國初期曾出現收貨時間偏長的情況；③ 成本比較時請把倉租、入出庫處理費與 AWD 轉 FBA 的運費合計後，再與現有第三方倉庫方案比較，只比倉租會失真；④ 注意三項實務限制：紙箱單邊不得超過 63.5 公分、毛重上限 23 公斤、一箱只能裝一種商品，且超大超重、珠寶、危險品與溫控商品不適用；⑤ 英國與歐盟兩套網路庫存不可互轉，同時經營兩邊的賣家需維持兩份安全庫存，備貨總量的估算方式要跟著調整；⑥ 德國倉點位於北威州、正逢萊茵河低水位造成陸運運能緊張，首批入倉的到倉天數建議比平常多預留時間；⑦ 具體條款、品項資格與費率請以 Seller Central 的 AWD Europe 頁面為準。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central 官方公告（8/20 起五站上線）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/0b50c2c2-7e6d-439e-b156-bd14db5e5f08"
+      },
+      {
+        "name": "Forest Shipping（8/17 收貨、倉點、費率、VAT 條件）",
+        "url": "https://www.forestshipping.com/amazon-awd-europe-launch-august-17"
+      },
+      {
+        "name": "aNavigator（8/17 收貨與倉點）",
+        "url": "https://anavigator.co/blog/amazon-awd-is-coming-to-europe-on-august-20-here-is-what-multi-country-sellers-need-to-know"
+      },
+      {
+        "name": "ChannelMAX（上線前應檢查項目）",
+        "url": "https://www.channelmax.net/article/amazon-awd-expands-to-five-european-markets-with-long-term-bulk-storage-channelmax"
+      },
+      {
+        "name": "Amazon AWD 官方產品頁",
+        "url": "https://sell.amazon.com/programs/warehousing"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【8/14 WSV】萊茵河 Kaub 讀數剩 10 cm、破 1880 年以來紀錄：德國祭出貨運應變包，估砍本季 GDP 0.35pp",
+    "summary": "8/7 日報記過 Kaub 跌到歷史低點，這次的新進展是「破 1880 年以來紀錄＋德國政府正式出手＋首個 GDP 量化估計」：\n        ① 水位（Reuters 8/14 引德國內陸航運局 WSV）：Kaub 讀數週五為 10 cm，低於 2018 年 25 cm 的舊紀錄；Bloomberg 稱是1880 年有紀錄以來最低。要注意這是參考讀數不是航道實際深度，實際航道約再深 1 公尺（讀數 14 cm 約對應航道 1.27 公尺）。\n        ② 實際運能：仍航行的船多半只能裝兩成或更少；經紀商 Riverlake 稱 Kaub 已實質不可通行 ——「上萊茵河的駁船回不了 ARA（安特衛普／鹿特丹／阿姆斯特丹），ARA 的駁船也上不去」。\n        ③ 官方應變（RailFreight 8/13，部分付費牆）：德國交通主管機關公布一整包措施 —— 加開鐵路路線、放寬轉運場規則、卡車運輸豁免。石勒蘇益格－荷爾斯泰因邦 8/11 也加入其他邦，暫時解除週日與假日卡車禁令。\n        ④ 替代成本非常差：Covestro 指出要 60 台卡車才能替代一艘 1,500 噸駁船；Contargo 已加開鐵路班次並調度額外卡車運能。\n        ⑤ 首個總經量化：Commerzbank 資深經濟學家 Ralph Solveen 估，若低水位撐到 9 月中，將削減德國本季 GDP 約 0.35 個百分點；並稱水位明顯回升不太可能早於 10 月。EnBW 估這波干擾使獲利減少「低雙位數百萬歐元」。\n        結論：這已經不是天氣新聞，是一條被寫進 Q3 GDP 的成本線。",
+    "public_impact": "德國萊茵河水位持續下探。依路透 8 月 14 日引德國內陸航運局（WSV）的資料，最淺瓶頸點 Kaub（科布倫茲附近）的讀數週五降至 10 公分，低於 2018 年 25 公分的前一個最低紀錄；彭博報導稱這是 1880 年有紀錄以來最低。需注意該數字是航運參考讀數而非航道實際深度，實際航道約再深 1 公尺。實務上仍航行的船隻多半只能裝載約兩成或更少，航運經紀商 Riverlake 表示 Kaub 已實質不可通行，上游駁船無法返回安特衛普、鹿特丹、阿姆斯特丹一帶，下游駁船也無法上行。德國交通主管機關已於 8 月 13 日公布應變措施，包括加開鐵路路線、放寬轉運場規則與卡車運輸豁免，並有多個邦暫時解除週日與假日卡車禁令。替代成本相當高，Covestro 指出需要約 60 台卡車才能替代一艘 1,500 公噸的駁船。德國商業銀行資深經濟學家 Ralph Solveen 估計，若低水位延續至 9 月中，將使德國本季 GDP 減少約 0.35 個百分點，並認為水位明顯回升不太可能早於 10 月。",
+    "public_action": "① 萊茵河運送的主要是化工原料、鋼材、燃油、煤與穀物，不是電商成品，對賣家的影響是間接且落在第四季，主要透過原料成本與交期傳導；② 立即需要處理的是陸運運能，水運轉公路與鐵路會推高整體德國陸運需求，往德國倉庫的入庫時效與拖車報價都可能受影響，建議旺季入庫比原計畫提前 7 至 10 天送出；③ 塑膠件、包材、金屬件占比高的品類（家具、家電、園藝、五金、收納）現在就應向供應商確認第四季原料報價與交期是否已調整，不要等到 9 月報價單才發現；④ 自行安排德國內陸運輸的賣家可請貨運代理重新規劃運具組合，多個邦已暫時解除週日與假日卡車禁令，鐵路也已加開路線；⑤ 德國市場第三季的需求展望宜偏保守，可並列德國第二季 GDP 僅季增 0.2% 與上述 0.35 個百分點的估計；⑥ 引用數字時請留意 10 公分是航運參考讀數而非河道深度，而 0.35 個百分點是單一機構在特定前提下的估計，並非官方預測。",
+    "sources": [
+      {
+        "name": "Reuters 8/14 引 WSV（Kaub 讀數 10 cm、破 2018 年 25 cm 紀錄）",
+        "url": "https://www.reuters.com/business/environment/rhine-water-hits-new-lows-freight-transferred-land-transport-2026-08-14"
+      },
+      {
+        "name": "Insurance Journal 轉 Bloomberg（1880 年以來最低、Commerzbank 0.35pp、Covestro 60 台卡車、Riverlake）",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/12/881099.htm"
+      },
+      {
+        "name": "RailFreight 8/13（德國貨運應變包，部分付費牆）",
+        "url": "https://www.railfreight.com/railfreight/2026/08/13/germany-unveils-freight-battle-plan-as-rhine-water-hits-historic-lows"
+      },
+      {
+        "name": "DW（Kaub 40 cm 為標準商船下限、內河佔德國貨運約 5%）",
+        "url": "https://www.dw.com/en/rhine-river-drought-germany-economy-recovery-shipping-climate-change/a-78300076"
+      },
+      {
+        "name": "EUROMETAL 引 Fastmarkets（鋼材與原料運輸實況）",
+        "url": "https://eurometal.net/eu-metal-shipping-crisis-worsens-after-rhine-river-water-levels-plummet"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/14 Eurostat】歐元區 Q2 GDP +0.4% 確認、6 月貿易轉順差 €86 億：但就業只 +0.1%、H1 順差從 €822 億塌到 €98 億",
+    "summary": "三份數據同一天出，方向卻不一致 —— 成長確認、就業沒跟上、貿易的年度圖像很差：\n        ① GDP（t+45 快報）（Eurostat 8/14）：Q2 季增歐元區 +0.4%、EU +0.5%，與 7/30 初估一致、未修正；Q1 為歐元區持平、EU +0.1%。年增歐元區 +1.0%、EU +1.2%。\n        ② EU5 分項（Anadolu 引 Eurostat 8/14）：西班牙 +0.7%；德、法、義各 +0.2%；比利時、奧地利、羅馬尼亞 0.0%。季增最高是愛爾蘭 +3.9%，但愛爾蘭年增為 -5.6%。對照美國 Q2 季增 +0.4%、年增 +2.1%。\n        ③ 就業（Eurostat 8/14）：歐元區與 EU 季增均僅 +0.1%、年增 +0.5%。也就是成長回來了、雇人沒回來。\n        ④ 貿易（Eurostat 8/14）：6 月歐元區商品順差 €86 億，市場原估逆差 €22 億，5 月為逆差 €90 億。但年度圖像很差：1–6 月順差僅 €98 億，去年同期是 €822 億；上半年出口 €14,872 億（-0.2%）、進口 €14,774 億（+4.9%）。6 月單月自域外進口 €2,640 億、年增 13.1%。\n        ⑤ 政策含義：EUR/USD 8/14 站回 1.1550 之上（FXStreet）。Brent 8/14 收 $88.52（+1.7%、單週漲逾 5%，CNBC）。DWS 預期 ECB 9/10 把存款利率升到 2.50%（現 2.25%）。\n        結論：Q2 成長替 9/10 升息鋪了路，但撐成長的不是就業與出口。",
+    "public_impact": "Eurostat 於 8 月 14 日同日發布三組數據。第一，歐元區第二季 GDP 季增 0.4%、EU 季增 0.5%，與 7 月 30 日的初估一致且未修正，第一季歐元區為持平、EU 為 +0.1%；年增則為歐元區 1.0%、EU 1.2%。分國看，西班牙季增 0.7%，德國、法國、義大利各為 0.2%，比利時、奧地利與羅馬尼亞為零成長；愛爾蘭季增 3.9% 但年增為 -5.6%。同期美國季增 0.4%、年增 2.1%。第二，歐元區與 EU 的就業人數季增均僅 0.1%、年增 0.5%，顯示成長回升並未帶動同等的雇用增加。第三，6 月歐元區商品貿易轉為 86 億歐元順差（市場原預估為 22 億歐元逆差、5 月為 90 億歐元逆差），但 1 至 6 月累計順差僅 98 億歐元，去年同期為 822 億歐元；上半年出口微減 0.2%，進口增加 4.9%，6 月單月自域外進口年增 13.1%。市場面，歐元兌美元 8 月 14 日回到 1.1550 之上，布蘭特原油收在每桶 88.52 美元、單週漲逾 5%。",
+    "public_action": "① 歐洲市場內部落差正在擴大，西班牙第二季季增 0.7% 明顯優於德法義各 0.2%，若資源配置仍按德法義的舊比重，可能壓在成長最慢的市場上，建議重新檢視各站的行銷與庫存權重；② 就業僅季增 0.1% 是需求面的警訊，客單價偏高與非必需的品類不宜因 GDP 數字好看而上修下半年預估；③ 融資成本方向仍向上，市場普遍預期歐洲央行 9 月 10 日的會議會升息，第四季備貨需要借款的賣家建議在該日之前把利率條件談定；④ 以歐元收款、外幣採購的賣家請重算第四季毛利，參考歐元兌美元回到 1.1550 上方與布蘭特原油單週上漲逾 5% 兩項變化；⑤ 上半年歐元區貿易順差由 822 億歐元縮至 98 億歐元、進口增加 4.9%，顯示歐洲對進口商品的需求並未轉弱，但這同時是歐盟推動小包關稅、11 月 1 日產品識別碼強制等貿易措施的政治背景，值得持續關注；⑥ 建議追蹤 8 月 19 日歐元區 7 月 HICP 終值與 9 月 7 日 Eurostat 的 GDP 正式估計，後者可能改變基期比較的基準。",
+    "sources": [
+      {
+        "name": "Eurostat 8/14（Q2 GDP t+45 快報＋就業）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-14082026-ap"
+      },
+      {
+        "name": "Eurostat 8/14（6 月商品貿易順差 €86 億、H1 累計）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-14082026-bp"
+      },
+      {
+        "name": "Anadolu 8/14（EU5 與各國分項、對照美國）",
+        "url": "https://www.aa.com.tr/en/economy/eurozone-economy-grows-04-in-2nd-quarter-matching-expectations/4027275"
+      },
+      {
+        "name": "FXStreet 8/14（市場預估 -€22 億、EUR/USD 1.1550）",
+        "url": "https://www.fxstreet.com/news/euro-holds-gains-above-11550-following-eurozone-gdp-and-bright-trade-balance-data-202608140959"
+      },
+      {
+        "name": "Eurostat 7/30（初估與各國季增排序）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30072026-ap"
+      },
+      {
+        "name": "Morningstar 8/10（DWS 預期 9/10 升至 2.50%、ECB 會期）",
+        "url": "https://global.morningstar.com/en-gb/economy/will-ecb-raise-interest-rates-again-2026-cut-them-2027"
+      },
+      {
+        "name": "CNBC 8/14（Brent 收 $88.52、單週 +5%）",
+        "url": "https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【明天 8/18 截止】HMRC 平台代繳 VAT 擬擴及英國本土賣家：門檻擬定「每平台 £90,000」，二手商品是最大爭點",
+    "summary": "8/6 日報記過這份諮詢，今天的重點是「明天就截止」以及官方文件裡三個容易被漏掉的設計細節：\n        ① 機制（GOV.UK 官方諮詢文件）：不是改稅率，是改誰申報。賣家對平台之間會產生一筆視為零稅率的供應，由平台在自己的申報書上收取並申報 VAT。範圍限B2C 商品、且貨在英國境內；海外賣家現行規則不變。\n        ② 兩個保護小賣家的選項：（a）最低平台門檻（MPT）—— 只在英國賣家在單一平台的銷售額超過一定金額時才適用，主提案是 £90,000；（b）對未達登記門檻者給稅率減免。官方自己寫明選項 (b) 可能擋不住海外業者冒充英國賣家。\n        ③ 官方承認 £90,000 有漏洞：文件明講這個門檻留下賣家在同一平台開多個帳號拆單的空間，所以也在徵詢更低門檻的意見。MPT 也不會取代總營業額達門檻後的登記義務。\n        ④ 二手商品是最麻痺的一塊：平台不能使用二手利潤率課稅法（Second-hand Margin Scheme），照搬會變成按全額售價課稅而非按利潤，官方形容對「競爭定價與利潤有相當挑戰性的影響」。因此在考慮兩條路：把企業賣二手排除在外，或禁止平台賣家使用利潤率課稅法（Q24-25）。\n        ⑤ 規模：2021 年海外賣家制度累計已徵得逾 £80 億、年約 £18 億。HMRC 估有「數萬家」英國本土賣家未履行 VAT 義務，年損數億英鎊；外送熱食被單獨點名。\n        結論：這還不是法律，但門檻要不要低於 £90,000、二手怎麼處理，就是明天之前還能表達意見的兩件事。",
+    "public_impact": "英國 HMRC 與財政部關於「擴大線上平台 VAT 責任」的諮詢將於 2026 年 8 月 18 日截止。提案的核心不是調整稅率，而是改變由誰申報：在賣家與平台之間會產生一筆視為零稅率的供應，由平台在自身申報書上收取並申報 VAT，適用範圍限於商品的 B2C 銷售且貨物於銷售時位於英國境內，海外賣家的現行規則不變。為保護小型業者，官方提出兩個方案：一是最低平台門檻，主提案為每一平台 90,000 英鎊（對齊 VAT 登記門檻）；二是對未達登記門檻者給予稅率減免，但官方文件自行指出後者可能無法阻止海外業者偽裝為英國賣家。官方也承認 90,000 英鎊的門檻留下在同一平台開設多個帳號拆分銷售的空間，因此同時徵詢更低門檻的意見。二手商品是最複雜的一塊：平台無法使用二手利潤率課稅法，若直接套用將導致按全額售價而非按利潤課稅，官方正在考慮把企業銷售二手商品排除在外，或禁止平台賣家使用利潤率課稅法。作為背景，2021 年針對海外賣家的制度累計已徵得逾 80 億英鎊、每年約 18 億英鎊，HMRC 估計有數萬家英國賣家未履行 VAT 義務，年損數億英鎊。",
+    "public_action": "① 若你是英國本土業者、或在英國設有實體並持有英國庫存，且單一平台的英國銷售額接近或超過 90,000 英鎊，8 月 18 日前仍可透過 GOV.UK 線上表單或 HMRC 指定信箱表達意見；② 請用正確的框架理解影響：稅率與商品的 VAT 性質都不變，改變的是誰申報與何時扣款，實務結果是標準稅率商品的撥款金額與現金流時點，而不是稅負增加；③ 經營二手或翻新品類（翻新 3C、二手書、古著等）的賣家影響最大，若最終禁止使用利潤率課稅法，稅基會從利潤變成全額售價，這是結構性而非時點性的變化，值得在諮詢中具體反映；④ 門檻按單一平台計算，多平台經營者可能只有部分通路被納管，但官方已承認此設計留有拆單空間，最終門檻有可能低於 90,000 英鎊，規劃時不宜把 90,000 英鎊當作定案；⑤ 諮詢結束後政府會發布回應摘要，若繼續推進還會有立法草案的技術性諮詢，因此本項不會在 2026 年生效，但建議先為 2027 年開一個現金流情境；⑥ 與立法進度無關、現在就該做的兩件事是：把平台報表與帳務完成對帳，並確認每筆銷售時貨物所在地，這是未來任何版本都會被檢視的重點。",
+    "sources": [
+      {
+        "name": "GOV.UK 官方諮詢文件（機制、MPT £90,000、二手商品 Q24-25、£80 億／£18 億）",
+        "url": "https://www.gov.uk/government/consultations/extending-online-marketplace-liability-to-combat-non-compliance/extending-vat-online-marketplace-liability-to-combat-non-compliance"
+      },
+      {
+        "name": "Fiscal Solutions（期間 6/23–8/18、兩個保護選項、回應方式）",
+        "url": "https://www.fiscal-requirements.com/news/5674"
+      },
+      {
+        "name": "KPMG（提案摘要與截止日）",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/06/tnf-uk-consultation-on-expansion-of-marketplace-rules-to-sales-of-goods-by-domestic-sellers.html"
+      },
+      {
+        "name": "1stopVAT（deemed supplier 擴大範圍）",
+        "url": "https://1stopvat.com/uk-vat-consultation-2026-deemed-supplier-online-marketplaces"
+      },
+      {
+        "name": "Zmartly（現行規則對照、提案非法律）",
+        "url": "https://zmartly.co.uk/news-insights/uk-ecommerce-vat-registration-guide"
+      },
+      {
+        "name": "Lanop（現行義務仍有效、對帳風險）",
+        "url": "https://lanop.co.uk/news/online-marketplace-vat-rules"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/30 倒數 44 天】Amazon B2B 營業時間到貨率須達 90%：10/30 未改善停售 B2B 版位，準時送到也可能算失敗",
+    "summary": "這是 9-10 月 FBM 賣家的第二道關卡，而它衡量的東西和一般到貨率不一樣：\n        ① 規則（Seller Central 官方公告）：9/30 起營業時間到貨率（BHDR）須達 90% 以上，以滾動 14 天計算自營履約（FBM）寄給 Amazon Business 客戶的貨件。9/30 低於 90% 會收到通知與改善建議；到 10/30 仍未改善，B2B 版位可能被停用。FBA 與一般零售版位不受影響。\n        ② 反直覺的地方：它算的是是否在買方的營業時間內送達，不是有沒有在承諾日送到。準時但晚上送達、而客戶下午關門，一樣算失敗 —— 而這件事賣家自己控制不了，取決於承運商的派送時段。\n        ③ 範圍：官方明列美國、英國、德國。Cross-Border Magazine 7/13 同日報導 Amazon 正在多個歐洲主要站點收緊 FBM 到貨績效要求，因此宜當全歐訊號而非只是美國政策。\n        ④ 和 9/1 的關係要講清楚（ecommercenews.eu 7/2）：9/1 是德國 FBM 一般到貨率（OTDR）90% 開始可停用 listing；BHDR 是B2B 端的第二道，門檻同為 90%、但時間點是 9/30 與 10/30。同一批 FBM 賣家在 9-10 月要連過兩關。\n        ⑤ 這個指標原本不痛：BHDR 長期只是 Seller Central 裡的資訊性 metric，7/13 起才轉為可執行。多數賣家從沒調過它，也不知道自己現在幾分。\n        結論：門檻是 90%，但真正的問題是「你連現在的分數都還沒看過」。",
+    "public_impact": "Amazon 將一項原本只供參考的指標轉為可執行的績效門檻。依 Seller Central 公告，自 2026 年 9 月 30 日起，專業賣家寄給 Amazon Business 客戶的自營履約貨件，其「營業時間到貨率」（Business Hour Delivery Rate）須維持在 90% 以上，以滾動 14 天期間計算。9 月 30 日低於門檻者會收到通知與改善建議，若到 10 月 30 日仍未改善，其自營履約的商品可能對 Amazon Business 買家停止銷售；平台履約（FBA）與一般零售版位不受影響。這項指標特別之處在於它衡量的是貨件是否在買方的營業時間內送達，而非是否在承諾日送達，因此即使準時、但送達時間落在客戶已打烊的時段，仍可能被計為失敗，而派送時段往往取決於承運商而非賣家。官方明列適用美國、英國與德國三個站點；另有業界媒體於 7 月 13 日報導 Amazon 正在多個歐洲主要站點收緊自營履約的到貨績效要求。需注意的是，德國自 9 月 1 日起已有另一項一般到貨率 90% 的要求可導致商品停用，兩者門檻相同但時間點與適用對象不同。",
+    "public_action": "① 今天就到 Seller Central 拉出自己的營業時間到貨率，多數賣家從未檢視過這項指標，因為它過去只是資訊性數據；② 若分數偏低，正確的處理方向不是提早出貨，而是改用派送時段較可控的物流服務、把有企業客戶需求的商品改由平台履約，或把一般消費者與企業客戶的出貨流程分開處理，因為失敗原因通常是承運商的派送時段而非出貨速度；③ 由於採滾動 14 天計算，9 月 16 日之後的表現才會計入 9 月 30 日的判定，實務上調整必須在 9 月中之前完成；④ 企業客戶訂單通常客單價較高、回購穩定、退貨率較低，一旦相關商品被停售，損失會集中在營收貢獻度較高的部分，不宜低估；⑤ 若決定改由平台履約，時程需同時對齊第四季的入庫死線，兩件事必須一起規劃；⑥ 官方公告明列的適用站點為美國、英國與德國，其他歐洲站點目前屬於同一政策方向的觀察範圍，實際適用請以自己帳號收到的通知與 Seller Central 公告為準。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central 官方公告（9/30 門檻、滾動 14 天、10/30 停用）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987"
+      },
+      {
+        "name": "Nova Analytics（US/UK/DE 適用、7/13 由資訊性轉可執行、Cross-Border Magazine 全歐訊號）",
+        "url": "https://novadata.io/resources/news/amazon-fbm-business-hour-delivery-rate-90-percent-september-2026"
+      },
+      {
+        "name": "Ecommerce News Europe（德國 9/1 OTDR 與 9/30、10/30 B2B 時程）",
+        "url": "https://ecommercenews.eu/amazon-tightens-fulfilled-by-merchant-requirements"
+      },
+      {
+        "name": "SellerLegend（英德兩站 9/1 意義不同的釐清）",
+        "url": "https://sellerlegend.com/amazon-fbm-requirements-uk-germany-2026"
+      },
+      {
+        "name": "Seller Central（BHDR 原為資訊性指標的官方說明）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/75cc90f4-4ea2-41f0-9005-e6b7a5bbbbea"
+      },
+      {
+        "name": "Sellers Umbrella 8/11（滾動 14 天、通知在超標後才到）",
+        "url": "https://www.prlog.org/13163837-sellers-umbrella-flags-amazons-90-business-hour-delivery-rate-deadline-of-september-30.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-14",
     "type": "daily",
     "tags": [
@@ -3255,440 +3441,6 @@
       {
         "name": "Trading Economics / Eurostat（6 月 HICP 終值 2.8%、核心 2.4%、能源 8.5%、7/31 7 月 flash）",
         "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-07-17",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【7/14 官宣】Amazon 2026 節慶旺季 FBA 附加費回歸：UK＋德國 FBA 訂單 10/15–1/14 加收、美站均 +$0.32/件，且疊加 4 月起 3.5% 燃油費，Q4 單位成本比費率表更高",
-    "summary": "Amazon 公布 2026 節慶旺季 FBA 附加費（festive peak fee），旺季出貨的單位履約成本明顯高過費率表——這是名下賣家做 Q4 促銷深度與定價前，必須先算進去的一筆固定成本：\n        ① 適用期與觸發點（The Conveyor / Retail Dive / Supply Chain Dive 7/14）：任何 10/15–1/14期間離開 Amazon 履約中心的 FBA 出貨都吃旺季費率，以出貨日、非下單日計；歐洲端 Seller Central 明載「festive peak fee 再度適用 UK 與德國選定 FBA 訂單、期間同為 10/15–1/14」。\n        ② 費額與去年持平、但今年多疊一層：美站平均 +$0.32/件（與 2025 相同），但今年要再疊上 4/17 起開徵、且「另行通知前持續」的 3.5% 燃油與物流費；Retail Dive 舉例小標準手機殼 $2.49→$2.68、大標準 T 恤 $6.14→$6.53、小拋貨嬰兒床 $10.21→$11.25。\n        ③ 和層層費用一起壓毛利：旺季費疊在 2026 基礎費率、低庫存費、倉儲使用附加費、入倉配置費之上，Q4 一張訂單的全包成本遠高於基礎費率暗示的水準。\n        結論：這不是新政策、是每年旺季的例行加費，但今年因為多了 3.5% 燃油費疊加，用去年費率算促銷折扣深度的賣家最容易做出賠本單。重點是「出貨日觸發」——10/15 前把貨鋪進倉、10/15 後才出的貨仍算旺季費，備貨節奏要提早。",
-    "public_impact": "Amazon 公布 2026 年節慶旺季的 FBA 履約附加費（festive peak fee），旺季出貨的單位履約成本會明顯高過平時費率表，這是賣家在規劃第四季促銷折扣與定價前必須先算進去的一筆固定成本。第一，據 The Conveyor、Retail Dive、Supply Chain Dive 7/14 報導，凡在 10/15 至隔年 1/14 期間離開 Amazon 履約中心的 FBA 出貨都適用旺季費率，且以出貨日、非下單日計算；歐洲端 Seller Central 說明旺季費再度適用英國與德國選定的 FBA 訂單，期間同為 10/15 至 1/14。第二，美國站平均加收約 0.32 美元一件（與 2025 相同），但今年要再疊上 4/17 起開徵、且在另行通知前持續的 3.5% 燃油與物流費；Retail Dive 舉例小標準手機殼由 2.49 美元升到 2.68、大標準 T 恤 6.14 升到 6.53。第三，旺季費疊在 2026 基礎費率、低庫存費、倉儲使用附加費、入倉配置費之上，第四季一張訂單的全包成本遠高於基礎費率暗示的水準。整體看，這是每年旺季的例行加費，但今年多了 3.5% 燃油費疊加，用去年費率算折扣深度的賣家最容易做出賠本單。",
-    "public_action": "① 用新費率重跑第四季每個 SKU 的到岸成本，把旺季費（美站平均約 +0.32 美元一件、英國與德國依當地費率）加上 3.5% 燃油費一起算，低單價與拋貨品類最需要重算；② 記住旺季費以出貨日觸發，10/15 至 1/14 之間出貨就計費、不是以下單日計，別誤判；③ 備貨節奏提前，讓高週轉商品在 10/15 前完成銷售、旺季只留必要補貨，可壓低吃到旺季費的單量；④ 把費率提醒綁定 10/7-8 Prime Big Deal Days 與黑五網一的折扣深度審核，避免促銷做成賠本單；⑤ 用 Revenue Calculator 與 Fee & Economics Preview 的 2026 費率模擬毛利，追蹤各站旺季費率表更新。",
-    "sources": [
-      {
-        "name": "Nova Analytics（7/14：2026 旺季 FBA 費均 +$0.32/件、10/15–1/14、以出貨日觸發、疊加 3.5% 燃油費，引 The Conveyor 報導）",
-        "url": "https://novadata.io/resources/news/amazon-2026-peak-fulfillment-fee-032-per-unit-october-15"
-      },
-      {
-        "name": "Retail Dive（旺季費均 +$0.32/件、與去年同、3.5% 燃油費另疊、範例費率、燃油費「另行通知前持續」）",
-        "url": "https://www.retaildive.com/news/amazon-announces-2026-holiday-fulfillment-fees-advises-early-shipping/825149"
-      },
-      {
-        "name": "Amazon Seller Central Europe（festive peak fee 再度適用 UK 與德國選定 FBA 訂單、10/15–1/14）",
-        "url": "https://sellercentral-europe.amazon.com/seller-forums/discussions/t/d8c34b0b-86ed-4aec-9b0a-8be6eabb8fb0"
-      },
-      {
-        "name": "ShipBob（3.5% 燃油與物流費 4/17 起適用於所有 FBA/MCF 履約費、依基礎費計算）",
-        "url": "https://www.shipbob.com/blog/amazon-fba-fees"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-07-17",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【8/18 諮詢截止】HMRC 擬把平台「視同供應商」VAT 責任擴及英國本土賣家（現只管境外）＋£135 免稅提前到 2028/10 終止：通過後平台代收所有英國賣家 VAT",
-    "summary": "昨天談的是 EU 的 VAT 結構主線，今天輪到英國：HMRC 與財政部 6/23 起展開諮詢，擬把 2021 年只針對「境外賣家」的平台視同供應商 VAT 責任，擴大到「英國本土賣家」——這會直接改變英國站賣家與平台的稅務分工：\n        ① 現行 vs 擬議（GOV.UK 官方諮詢 / Pinsent Masons 6/26）：目前只有境外賣家、或貨在英國境外的 £135 以下商品，平台才是 deemed supplier；擬議要把「英國本土賣家透過平台的國內銷售（含零售商品、外送餐點）」也納入，平台將代替賣家申報繳納 VAT。\n        ② 為何要做：HMRC 估線上銷售已佔零售 28%，但平台銷售只被部分規則覆蓋，數以萬計透過平台交易的英國企業未履行 VAT 義務，每年損失公帑數億英鎊。\n        ③ 保護小賣家的兩個設計（VAT Support 7/7）：門檻式（平台銷售額達標才觸發）或對登記門檻（£90,000）以下賣家給 VAT 稅率減免；私人賣二手不納入。\n        ④ 同批還加碼：6/23「Tax Update 2026」40 項措施中，另把 £135低價進口免稅的終止時點從原訂 2029/3 提前到 2028/10；諮詢 8/18截止。\n        結論：對做英國站的名下賣家，這是「平台幫你收 VAT，但也對賬你的申報」的訊號——短期不變，但方向明確；有意見的賣家可在 8/18 前回應，門檻設計會決定誰真正受影響。",
-    "public_impact": "近期關於 VAT 的討論多聚焦歐盟，這次輪到英國。英國稅務海關總署（HMRC）與財政部自 6/23 起展開諮詢，擬把 2021 年只針對境外賣家的平台視同供應商 VAT 責任，擴大到英國本土賣家，這會直接改變英國站賣家與平台的稅務分工。第一，據 GOV.UK 官方諮詢與 Pinsent Masons 報導，目前只有境外賣家、或貨在英國境外的 135 英鎊以下商品，平台才是視同供應商；擬議要把英國本土賣家透過平台的國內銷售（含零售商品與外送餐點）也納入，平台將代替賣家申報繳納 VAT。第二，HMRC 估線上銷售已佔零售 28%，但平台銷售只被部分規則覆蓋，數以萬計的英國企業未履行 VAT 義務，每年損失公帑數億英鎊。第三，為保護小賣家，設計了門檻式觸發或對登記門檻（9 萬英鎊）以下賣家給稅率減免，私人賣二手不納入。第四，同批 6/23「Tax Update 2026」40 項措施，另把 135 英鎊低價進口免稅的終止時點從原訂 2029 年 3 月提前到 2028 年 10 月；諮詢於 8/18 截止。整體看，這是平台幫你收 VAT、但也對賬你申報的訊號，短期不變但方向明確。",
-    "public_action": "① 做英國站的賣家關注這項諮詢，若擴大到本土賣家，平台將對你的英國國內銷售代收代繳 VAT，現金流與對賬流程都會變，有意見者可在 8/18 前回應；② 做跨境到英國、135 英鎊以下小包的賣家，把低價進口免稅將於 2028 年 10 月終止（原訂 2029 年 3 月、提前半年）納入中期成本假設；③ 英國這條線與歐盟的 OSS/IOSS/ViDA 是兩套制度但同方向，同時做英國與歐盟的賣家建議一次盤點兩邊 VAT 節點；④ 誠實檢視自己的 9 萬英鎊 VAT 登記門檻狀態，門檻設計會決定你是否受新規影響；⑤ 追蹤 8/18 諮詢截止與後續 HMRC 回應摘要。",
-    "sources": [
-      {
-        "name": "GOV.UK 官方諮詢（HMRC/HMT 聯合、擬把 OMP VAT 責任擴及英國本土賣家國內銷售、6/23–8/18、線上銷售佔零售 28%）",
-        "url": "https://www.gov.uk/government/consultations/extending-online-marketplace-liability-to-combat-non-compliance/extending-vat-online-marketplace-liability-to-combat-non-compliance"
-      },
-      {
-        "name": "Pinsent Masons（6/26：擴大 OMP VAT 責任、數萬企業未履行義務、年損公帑數億英鎊、外送餐點平台受影響）",
-        "url": "https://www.pinsentmasons.com/out-law/news/uk-consults-vat-rule-changes-online-marketplaces"
-      },
-      {
-        "name": "VAT Support（7/7：Tax Update 2026 共 40 措施、£135 免稅提前至 2028/10、保護小賣家兩選項、私人二手不納入）",
-        "url": "https://vat.support/2026/07/07/uk-marketplace-vat-liability-135-relief"
-      },
-      {
-        "name": "Fiscal Solutions（諮詢 8 週 6/23–8/18、涵蓋外送餐點、由 HMRC/HMT 主導）",
-        "url": "https://www.fiscal-requirements.com/news/5704"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-07-17",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/28 倒數】Temu €200M DSA 首張「違法商品」罰款進入改善計畫死線：罰則可達全球營收 6%，配合 GPSR 第 22 條＋12 月 2024 PLD，平台不再是賣家的合規擋箭牌",
-    "summary": "歐盟對 Temu 的 €200M DSA 罰款進入 8/28 改善計畫死線，這件事對名下賣家的意義不是「Temu 被罰」，而是監管把「平台＋在平台上賣的品牌」都推上合規舉證台——marketplace 不再是賣家的擋箭牌：\n        ① 罰款性質（European Commission，經 Cleo Labs / UNIO 官方部落格整理）：5/28歐盟依 DSA 對 Temu 開罰 €200M，理由是未能「識別、分析、評估」平台上違法商品的系統性風險，是 DSA 首張針對「違法商品」的罰款；罰則上限可達全球營收 6%。\n        ② 程序未結、8/28 是關鍵節點：依 DSA 第 75 條，Temu 須在 8/28前提交改善行動計畫，之後由歐洲數位服務委員會出具意見；案件仍可上訴。\n        ③ GPSR 把平台變成主動合規角色（Complir / Bird & Bird）：GPSR 第 22 條要求 marketplace 註冊 Safety Gate、指定單一聯絡點、下架危險品；Amazon 已在 Seller Central 要求賣家提供 Responsible Person、合規文件與 GPSR 屬性，且「下架常快過主管機關」。\n        ④ 12 月再加碼民事責任：新版產品責任指令（2024 PLD）2026/12適用，顯著擴大賣家與平台的民事賠償曝險。\n        結論：監管訊號很清楚——歐盟用的「識別、分析、評估」三個動詞，未來會要求每個在歐盟賣貨的品牌對自家型錄照做。對名下賣家，這是把「合規文件齊備、RP 到位、警語在地化」從加分變成生存門檻。",
-    "public_impact": "歐盟對 Temu 的 2 億歐元數位服務法（DSA）罰款進入 8/28 改善計畫死線，這件事對賣家的意義不是 Temu 被罰，而是監管把平台與在平台上銷售的品牌都推上合規舉證台，marketplace 不再是賣家的擋箭牌。第一，據歐盟執委會（經 Cleo Labs、UNIO 官方部落格整理），5/28 歐盟依 DSA 對 Temu 開罰 2 億歐元，理由是未能識別、分析、評估平台上違法商品的系統性風險，是 DSA 首張針對違法商品的罰款，罰則上限可達全球營收 6%。第二，依 DSA 第 75 條，Temu 須在 8/28 前提交改善行動計畫，之後由歐洲數位服務委員會出具意見，案件仍可上訴。第三，一般產品安全規則（GPSR）第 22 條要求 marketplace 註冊 Safety Gate、指定單一聯絡點、下架危險品；Amazon 已在賣家後台要求提供歐盟責任人、合規文件與 GPSR 屬性，且下架常快過主管機關。第四，新版產品責任指令（2024 PLD）將於 2026 年 12 月適用，顯著擴大賣家與平台的民事賠償曝險。整體看，監管要求每個在歐盟賣貨的品牌對自家型錄做到識別、分析、評估。",
-    "public_action": "① 打破靠平台兜底的心態，把歐盟責任人、合規文件、GPSR 產品屬性、在地化安全警語當成上架前提，因為平台對缺件的商品常無預警下架、且比主管機關更快；② 旺季前把 GPSR/DSA、8/12 包裝法規、7/19 數位產品護照、8/2 AI 法等合規節點一次盤點，避免逐項補件塞車；③ 自有品牌與製造商型賣家提前為 2026 年 12 月新版產品責任指令做準備，建立產品安全與文件治理，因為民事賠償曝險會擴大；④ 多國銷售時安全警語要翻成各銷售國語言，只有英文不符合規定；⑤ 追蹤 8/28 Temu 改善計畫死線與後續 DSA 執法案例。",
-    "sources": [
-      {
-        "name": "Cleo Labs（5/28 歐盟對 Temu 開罰 €200M、DSA 首張違法商品罰款、「識別/分析/評估」三動詞、罰則上限全球營收 6%）",
-        "url": "https://www.cleolabs.co/en/blog/temu-200m-dsa-fine-illegal-products-2026"
-      },
-      {
-        "name": "Official Blog of UNIO（DSA 第 75 條：Temu 須 8/28 前交改善計畫、歐洲數位服務委員會出意見、可上訴、程序未結）",
-        "url": "https://officialblogofunio.com/2026/06/19/when-a-fine-is-not-enough-temu-the-digital-services-act-and-the-problem-of-redress"
-      },
-      {
-        "name": "Bird & Bird（GPSR 令 marketplace 成主動合規角色、大型平台受更嚴監管、2024 PLD 2026/12 適用擴大民事曝險）",
-        "url": "https://www.twobirds.com/en/insights/2026/france/gpsr-in-light-of-the-new-2024-pld-rethinking-product-safety-and-liability-in-the-digital-marketplace"
-      },
-      {
-        "name": "Complir（GPSR 第 22 條：marketplace 須註冊 Safety Gate、指定聯絡點、下架危險品；Amazon 已要求 RP 與合規文件）",
-        "url": "https://www.complir.io/resources/guides/gpsr-compliance-guide-product-companies"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-07-17",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【7/16-17 數據】歐元區 5 月貿易意外轉 -€7.8B 逆差（昨市場估 +€6.5B）＋今日 5 月經常帳順差估縮至 €8.5B、6 月 HICP 終值確認 2.8%：出口動能弱、EUR 難大漲訊號再確認",
-    "summary": "昨天日報預告的歐元區 5 月貿易餘額出爐，結果不但沒回到市場估的 +€6.5B 順差，反而擴大成逆差——這個「估錯方向」的新數據，配合今天發布的 5 月經常帳與 6 月 HICP 終值，把「出口弱、EUR 難大漲」的判讀再確認一次：\n        ① 5 月貿易估錯方向（Trading Economics）：5 月商品貿易餘額實際約 -€7.8B逆差，遠差於市場估的 +€6.5B順差、也比 4 月的 -€1.0B 再惡化；出口 €243.6B較 4 月的 €255.4B 明顯回落。\n        ② 5 月經常帳今日發布（ECB，估 7/17）：市場估順差縮至約 €8.5B（前值 €14.9B）；1-4 月累計順差 €75.86B、低於去年同期 €81.64B，商品順差是主要拖累。\n        ③ 6 月 HICP 終值確認（Eurostat 7/17）：6 月調和通膨終值確認 2.8%（flash 2.8%、前值 3.2%）、核心 2.4%，能源由 10.8% 降至 8.7%；仍高於 2% 目標。\n        ④ 三者合起來的訊號：貿易與經常帳順差雙雙被關稅與能源侵蝕、出口動能弱，而通膨雖降仍黏——這正是 EUR 缺乏強升動能、ECB 下週（7/23）大概率按兵不動的背景。\n        結論：對做 EU5 的賣家，這批數據不改「歐洲內需/製造復甦偏慢、EUR 難大漲」的宏觀基調。Q3 需求維持中性偏保守、匯率假設別押 EUR 單邊，把焦點放到下週 7/23 ECB 措辭。",
-    "public_impact": "昨天日報預告的歐元區 5 月貿易餘額出爐，結果不但沒回到市場估的約 65 億歐元順差，反而擴大成逆差，這個估錯方向的新數據，配合今天發布的 5 月經常帳與 6 月調和通膨終值，把出口弱、歐元難大漲的判讀再確認一次。第一，據 Trading Economics，5 月商品貿易餘額實際約 78 億歐元逆差，遠差於市場估的順差、也比 4 月的 10 億歐元逆差再惡化，出口約 2,436 億歐元較 4 月明顯回落。第二，5 月經常帳今日由歐洲央行發布，市場估順差縮至約 85 億歐元（前值 149 億），1 至 4 月累計順差約 758 億、低於去年同期的 816 億，商品順差是主要拖累。第三，據歐盟統計局，6 月調和通膨終值確認 2.8%（前值 3.2%）、核心 2.4%，能源由 10.8% 降至 8.7%，仍高於 2% 目標。整體看，貿易與經常帳順差雙雙被關稅與能源侵蝕、出口動能弱，而通膨雖降仍黏，這正是歐元缺乏強升動能、歐洲央行下週大概率按兵不動的背景。",
-    "public_action": "① 歐元區貿易餘額 5 月意外轉逆差、經常帳順差再縮，支撐歐元缺乏強升動能，歐洲市場毛利與定價的匯率假設維持中性、別押注歐元大幅升值；② 出口導向的德國製造受關稅衝擊最深，工業、汽車周邊與 B2B 相關品類第三季需求宜偏保守，等 7/21 德國 ZEW 與 7/30 德國第二季 GDP 初值再校準；③ 通膨終值 2.8%、核心 2.4% 仍高於目標，消費力短期難明顯回升，第三季需求維持中性偏保守、價值優先；④ 單月逆差與順差縮小是趨勢性走弱的延續，別當轉勢；⑤ 追蹤 7/17 經常帳與通膨終值、7/21 德國 ZEW、7/23 歐洲央行決策與 7/30 第二季 GDP 初值。",
-    "sources": [
-      {
-        "name": "Trading Economics（歐元區 5 月商品貿易餘額約 -€7.8B 逆差、出口 €243.6B、市場原估 +€6.5B、4 月 -€1.0B）",
-        "url": "https://tradingeconomics.com/euro-area/balance-of-trade"
-      },
-      {
-        "name": "Trading Economics / ECB（5 月經常帳 7/17 發布、估 €8.5B、前值 €14.9B；1-4 月累計順差 €75.86B vs 去年 €81.64B）",
-        "url": "https://tradingeconomics.com/euro-area/current-account"
-      },
-      {
-        "name": "Eurostat（歐元區 6 月 HICP 2.8%、6 月完整數據 7/17 發布、核心 2.4%）",
-        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-01072026-ap"
-      },
-      {
-        "name": "Trading Economics（6 月 HICP 2.8% 優於估 3.0%、能源 8.7%、核心 2.4%、7/17 終值）",
-        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-07-17",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【10/7-8 備戰】Alexa for Shopping（Rufus＋Alexa+ 合體）成新導購層：Prime Day 2026 首度由 AI 助手排出賣家清單，Prime Big Deal Days 前 listing 要寫給 AI 讀懂",
-    "summary": "Prime Big Deal Days 官宣 10/7-8 回歸（首度納愛爾蘭、哥倫比亞、墨西哥），但對賣家更關鍵的結構變化是「AI 導購層」——Prime Day 2026 是第一次由 Alexa for Shopping 站在消費者與商品之間排清單，這改變的是「怎麼被找到」，值得在旺季前重寫 listing：\n        ① Prime Big Deal Days 檔期與範圍（aboutamazon.eu 官方）：10/7-8於法德義西荷等站回歸，AI 助手 Rufus、視覺搜尋 Lens Live、Lists/Buy Again 都被定位成節慶導購工具。\n        ② 導購層已經換人（Amazify / Amalytix 分析）：Amazon 於 5 月把 Rufus 與 Alexa+ 合併為 Alexa for Shopping，Prime Day 2026 首度由它當「會員的活動嚮導」——建個人化 deal guide、設價格提醒、看價格歷史；當 AI 先讀你的 listing 再摘要給消費者，商品是先被模型讀過、才被人看到。\n        ③ 優化重心從關鍵字轉向語意：Rufus/COSMO 用五類資料（listing、評論、Q&A、行為、外部內容）做語意理解；可見度不再只靠關鍵字堆疊，而看情境清晰度、使用場景、資訊完整度、評分與品類相關性。\n        ④ Custom Guide 多步研究流：Alexa chat 內可跑多次子搜尋、結合外部編輯內容，輸出「帶購買按鈕的個人化選購指南」。\n        結論：這不是費率或政策硬變動，但是「賣家怎麼被 AI 找到」的長期結構位移。趁 10/7-8 檔期前，把名下賣家 listing 從「塞關鍵字」升級成「講清楚使用場景、把常見問題答在頁面上」，讓 AI 更容易把你排進清單。",
-    "public_impact": "Prime Big Deal Days 官方宣布 10/7-8 回歸（首度納入愛爾蘭、哥倫比亞、墨西哥），但對賣家更關鍵的結構變化是 AI 導購層。Prime Day 2026 是第一次由 Alexa for Shopping 站在消費者與商品之間排清單，這改變的是你怎麼被找到，值得在旺季前重寫商品頁。第一，據 aboutamazon 官方，Prime Big Deal Days 10/7-8 於法德義西荷等站回歸，AI 助手 Rufus、視覺搜尋 Lens Live、清單與再次購買都被定位成節慶導購工具。第二，據 Amazify、Amalytix 分析，Amazon 於 5 月把 Rufus 與 Alexa+ 合併為 Alexa for Shopping，Prime Day 2026 首度由它當會員的活動嚮導，建個人化優惠指南、設價格提醒、看價格歷史，當 AI 先讀你的商品頁再摘要給消費者，商品是先被模型讀過、才被人看到。第三，優化重心從關鍵字轉向語意，Rufus/COSMO 用商品頁、評論、問答、行為、外部內容五類資料做語意理解，可見度看情境清晰度、使用場景、資訊完整度、評分與品類相關性。整體看，這是賣家怎麼被 AI 找到的長期結構位移。",
-    "public_action": "① 趁 10/7-8 Prime Big Deal Days 前，把商品頁從塞關鍵字升級成講清楚使用場景、把常見問題答在頁面上，讓 AI 更容易把你排進推薦清單；② 補齊 AI 讀得懂的資料，強化結構化規格、評論與問答、品類相關性，提升被 Rufus 或 Alexa for Shopping 選中的機率；③ 多國佈局的賣家把新納入 Prime Big Deal Days 的站點（如愛爾蘭）listing 與庫存一起備好，別漏接檔期；④ 把 AI 商品頁優化與旺季備貨節奏一起規劃；⑤ 追蹤 10/7-8 檔期與 Alexa for Shopping、Custom Guide 等功能的擴充。",
-    "sources": [
-      {
-        "name": "Amazon 官方（Prime Big Deal Days 10/7-8 回歸、法德義西荷等站、首納愛爾蘭/哥倫比亞/墨西哥、Rufus/Lens Live 導購工具）",
-        "url": "https://www.aboutamazon.eu/news/retail/prime-big-deal-days-is-back-october-7-8"
-      },
-      {
-        "name": "Amazify（Prime Day 2026 首度以 Alexa for Shopping 為導購層、5 月合併 Rufus＋Alexa+、AI 先讀 listing 再摘要）",
-        "url": "https://amazify.ai/blog/how-prime-day-2026-landed-26-4-billion-and-a-new-ai-layer-in-the-cart"
-      },
-      {
-        "name": "Amalytix（Alexa for Shopping 是搜尋之上的新層、優化轉向情境/使用場景/資訊完整度、Custom Guide 多步研究流）",
-        "url": "https://www.amalytix.com/en/knowledge/ai/amazon-rufus-guide-2026"
-      },
-      {
-        "name": "ZonGuru（Rufus 用 listing/評論/Q&A/行為/外部內容五類資料語意理解、已覆蓋 US/UK/DE/FR/IT/ES/CA/IN）",
-        "url": "https://www.zonguru.com/blog/understanding-amazon-rufus-ai"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-07-16",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/2 倒數】EU AI Act 第 50 條透明度義務生效：AI 客服、導購、AI 生成 listing 內容都要標「這是 AI」，罰則最高 €15M 或全球營收 3%",
-    "summary": "繼 7/19 DPP、8/12 PPWR 之後，EU 合規行事曆再多一個 8/2 節點——AI Act 第 50 條透明度義務正式生效，這是第一條「直接管到賣家怎麼用 AI 跟消費者互動」的規範，多數用 AI 寫文案、跑客服的跨境賣家還沒意識到自己已在射程內：\n        ① 生效日與法源（歐盟官方 / artificialintelligenceact.eu）：Regulation (EU) 2024/1689 第 50 條自 8/2起適用，涵蓋四類情境：AI 直接與人互動、AI 生成合成內容、情緒辨識/生物特徵分類、深偽與公共議題 AI 文字。\n        ② 對電商最直接的是「聊天機器人揭露」（Bratby Law / Greenberg Traurig 7/6）：任何面向消費者的 AI 客服、虛擬導購、AI live chat，必須在互動一開始就清楚告知使用者「正在與 AI 對話」；不限高風險系統，開源 AI 也不豁免。\n        ③ AI 生成內容要標記：AI 生成的圖像/音訊/影片/文字須以機器可讀方式標記（第 50(2) 條）；但 AI Omnibus 暫定協議把「生成內容標記」義務對既有系統的死線放寬到 12/2，聊天機器人揭露（50(1)）仍是 8/2。\n        ④ 罰則與執法節奏：違反最高罰 €15M 或全球年營收 3%（取高者）；首波執法預期落在 2026 Q4，AI Office 已表明優先鎖定通用 AI 供應商與高能見度內容生成服務，而非先抓小賣家。\n        結論：對賣家的實務衝擊有二——用 AI 客服 bot 的要加「AI 揭露」，大量用 AI 產 listing 文案/圖的要留意內容標記走向。短期不會抓小賣家，但這是把「AI 用在商業」正式納管的起點，早做早安心。",
-    "public_impact": "繼 7/19 數位產品護照、8/12 包裝法規之後，歐盟合規行事曆再加一個 8/2 節點——歐盟人工智慧法（AI Act）第 50 條的透明度義務正式生效，這是第一條直接規範賣家如何用 AI 與消費者互動的規則，許多用 AI 寫文案、跑客服的跨境賣家還沒意識到自己已在適用範圍內。第一，據歐盟官方，Regulation (EU) 2024/1689 第 50 條自 8/2 起適用，涵蓋 AI 直接與人互動、AI 生成合成內容、情緒辨識、深偽與公共議題文字四類情境。第二，對電商最直接的是聊天機器人揭露：任何面向消費者的 AI 客服、虛擬導購、AI 即時聊天，必須在互動一開始就清楚告知使用者正在與 AI 對話，不限高風險系統，開源 AI 也不豁免。第三，AI 生成的圖像、音訊、影片、文字須以機器可讀方式標記，但既有系統的內容標記義務死線放寬至 12/2，聊天機器人揭露仍為 8/2。第四，違反最高可罰 1,500 萬歐元或全球年營收 3%，首波執法預期落在 2026 年第四季，且優先鎖定通用 AI 供應商與高能見度內容生成服務，而非先抓小賣家。",
-    "public_action": "① 把 8/2 AI Act 第 50 條、8/12 包裝法規、7/19 數位產品護照三個節點一起納入旺季前合規檢查；② 若你使用 AI 客服機器人、AI 導購外掛，確認在互動開場就標示「你正在與 AI 對話」；③ 若大量使用 AI 生成商品文案或圖片，留意 12/2 生成內容機器可讀標記的死線與後續行為準則；④ 分清責任邊界，使用平台原生 AI 功能的揭露主要由平台負責，自建或第三方 AI 機器人的揭露責任在賣家自己；⑤ 不必恐慌，首波執法落在第四季、優先針對大型 AI 供應商，中小賣家早做準備、早安心即可。",
-    "sources": [
-      {
-        "name": "EU AI Act 官方條文（第 50 條透明度義務、生效日 2026/8/2、Regulation (EU) 2024/1689）",
-        "url": "https://artificialintelligenceact.eu/article/50"
-      },
-      {
-        "name": "Bratby Law（聊天機器人揭露、合成內容標記、深偽標示自 8/2 適用、罰則 €15M 或 3% 全球營收、英國供應商服務 EU 用戶亦在範圍）",
-        "url": "https://bratby.law/ai-act-transparency-obligations-2026"
-      },
-      {
-        "name": "European Commission（AI 生成內容行為準則 6/10 發布、對應第 50(2)(4)(5) 條標記與標示義務）",
-        "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content"
-      },
-      {
-        "name": "artificialintelligenceact.eu（AI Omnibus 暫定協議：既有生成 AI 系統機器可讀標記死線放寬至 12/2）",
-        "url": "https://artificialintelligenceact.eu/transparency-rules-article-50"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-07-16",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【7/2 起】Amazon Seller University 免登入全開放：125 個主題、15+ 語言，非會員也能學——官方把「賣家教育」直接推給潛在新賣家",
-    "summary": "Amazon 悄悄拆掉了新賣家教育的第一道門檻：7/2 起 Seller University 不再需要 Amazon 帳號或登入即可瀏覽，等於官方免費把「怎麼在 Amazon 上賣」的完整教材開放給任何還沒開店的人——這對開發新賣家是個被低估的正向工具：\n        ① 拿掉登入門檻（Seller Central 官方 / PPC Land 7/12 / Nova 7/13）：7/2起 Amazon 移除 Seller University 的帳號與登入要求，125 個主題（開店、listing 優化、FBA 操作、廣告、Brand Registry、合規）任何人開瀏覽器就能看；公告由 Seller University 團隊 Senior Content Manager Mickey Toogood 發布。\n        ② 官方定位（sell.amazon.com）：Seller University 是「免費教育資源」，含影片與可下載 PDF，橫跨全球站點 125+ 主題、15+ 語言，「即使你還沒開始在 Amazon 賣，也能享用數千個教育資源」。\n        ③ 對抗第三方付費課：官方論壇明講痛點——很多賣家花錢買第三方課程，卻拿到過時/錯誤資訊、導致帳號停權與違規；把官方免費教材開放是要把新手拉回正規來源。\n        結論：這不是費率或政策硬變動，但對「拉新賣家」是實用的免費資源。向還在觀望、擔心不會操作的傳統品牌方，可以直接把「免登入就能學官方教材」當作降低進入門檻的證據。",
-    "public_impact": "Amazon 拆掉了新賣家教育的第一道門檻。7 月 2 日起，Seller University 不再需要 Amazon 帳號或登入即可瀏覽，等於官方免費把「怎麼在 Amazon 上賣」的完整教材開放給任何還沒開店的人。第一，據 Seller Central 官方公告（PPC Land 7/12、Nova 7/13 轉述），7/2 起移除帳號與登入要求，125 個主題涵蓋開店、商品頁優化、FBA 操作、廣告、品牌註冊與合規，任何人用瀏覽器就能看，公告由 Seller University 團隊資深內容經理發布。第二，據官方站點，Seller University 是免費教育資源，含影片與可下載 PDF，橫跨全球站點超過 125 個主題、15 種以上語言，即使還沒開始在 Amazon 賣也能使用。第三，此舉意在對抗第三方付費課程，官方指出許多賣家花錢買到過時或錯誤資訊、導致帳號停權與違規。整體看，這不是費率或政策硬變動，但對想進入或剛進入 Amazon 的賣家是實用的免費資源。",
-    "public_action": "① 若你還在評估要不要進 Amazon，可先用免登入的 Seller University 官方教材了解開店、商品頁、FBA、廣告與合規，零承諾先摸清楚；② 新賣家優先用官方 125 個主題、15 種以上語言的教材，避免第三方過時課程導致帳號停權或違規；③ 把 Seller University 的合規主題與 8/12 包裝法規、7/19 數位產品護照、8/2 AI 法等節點一起閱讀，跟著官方走最安全；④ 依你的目標市場選對應語言版本的教材，確保操作細節與當地站點一致。",
-    "sources": [
-      {
-        "name": "Nova Analytics（7/13：7/2 起移除登入要求、125 主題全開放、PPC Land 7/12 報導、公告人 Mickey Toogood）",
-        "url": "https://novadata.io/resources/news/amazon-seller-university-public-no-login-july-2026"
-      },
-      {
-        "name": "Amazon 官方 Seller University（免 Amazon 帳號即可存取、125+ 主題、影片與 PDF、跨全球站點）",
-        "url": "https://sell.amazon.com/learn/seller-university"
-      },
-      {
-        "name": "Sell on Amazon 官方（6/25：免費、15+ 語言、on-demand 影片與可下載指南）",
-        "url": "https://www.facebook.com/SellonAmazon/posts/1493804412781451"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-07-16",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【7/16 Eurostat】歐元區 5 月貿易餘額今出爐（估轉正約 +€6.5B）：4 月曾轉 -€1.0B 逆差、能源與美國關稅雙咬，1-4 月順差年減近八成，出口動能仍弱",
-    "summary": "今天 Eurostat 公布歐元區 5 月貿易餘額，市場估由 4 月的逆差回到約 +€6.5B 順差；但把鏡頭拉遠，2026 年前 4 個月歐元區對外順差年減近八成，反映的是「美國關稅拖累出口 + 能源進口貴」的雙重結構性壓力，這是判讀 EU 製造業體質與 EUR 的背景訊號：\n        ① 4 月確定轉逆差（Eurostat 6/15）：歐元區 4 月商品貿易餘額 -€1.0B逆差（去年同期為 +€8.7B 順差），較 3 月的 +€4.9B 順差惡化；主因能源逆差擴大＋機械與車輛順差縮水。\n        ② 出口動能弱、進口反增：4 月出口 €255.4B（YoY +5.0%）、進口 €256.4B（YoY +9.3%），進口成長快過出口，把餘額壓成逆差。\n        ③ 累計順差腰斬再腰斬：1-4 月歐元區順差僅 €12.9B，遠低於去年同期的 €63.7B（年減約 80%）；Q1 EU 對美順差已從去年 €80B 縮到 €34B。\n        ④ 5 月今揭曉（Trading Economics 估）：市場估 5 月餘額回到約 +€6.5B，但這是預估、非官方確認值；即便回正，也難改前 4 月的趨勢性走弱。\n        結論：歐元區外貿順差正被關稅與能源結構性侵蝕，出口導向的德國製造受創最深。這解釋了為何 EUR 缺乏強勁升值動能、ECB 對成長偏鴿——對做歐洲站的賣家，這是「歐洲內需/製造復甦偏慢、EUR 難大漲」的宏觀背景，別對 EUR 過度樂觀。",
-    "public_impact": "歐盟統計局今天公布歐元區 5 月商品貿易餘額，市場估由 4 月的逆差回到約 65 億歐元順差；但把鏡頭拉遠，2026 年前 4 個月歐元區對外順差年減近八成，反映的是美國關稅拖累出口加上能源進口變貴的雙重結構性壓力。第一，據歐盟統計局，歐元區 4 月商品貿易餘額為 10 億歐元逆差（去年同期為 87 億歐元順差），較 3 月的順差惡化，主因能源逆差擴大與機械車輛順差縮水。第二，4 月出口 2,554 億歐元、年增 5.0%，進口 2,564 億歐元、年增 9.3%，進口成長快過出口，把餘額壓成逆差。第三，1 至 4 月歐元區累計順差僅 129 億歐元，遠低於去年同期的 637 億歐元；第一季歐盟對美順差已從去年的 800 億歐元縮到 340 億歐元。第四，市場估 5 月回到約 65 億歐元順差，但屬預估、非官方確認值。整體看，歐元區外貿順差正被關稅與能源結構性侵蝕，出口導向的德國製造受創最深，這也解釋了歐元缺乏強勁升值動能。",
-    "public_action": "① 歐元區外貿順差被關稅與能源侵蝕、出口動能偏弱，支撐歐元缺乏強升動能，歐洲市場毛利與定價的匯率假設維持中性、別押注歐元大幅升值；② 出口導向的德國製造受關稅衝擊最深，工業、汽車周邊與 B2B 相關品類的下半年需求宜偏保守，等 7/21 德國 ZEW 與 7/30 德國第二季 GDP 初值再校準；③ 對美出口的歐洲賣家要把關稅視為中期結構逆風而非短期雜訊，成本與通路假設留彈性；④ 5 月餘額若回正屬預估值，別當趨勢反轉；⑤ 追蹤 7/16 歐元區 5 月貿易餘額官方值、7/17 經常帳、7/23 歐洲央行決策與 7/30 第二季 GDP 初值。",
-    "sources": [
-      {
-        "name": "Eurostat（6/15：歐元區 4 月貿易 -€1.0B 逆差、出口 €255.4B YoY +5.0%、進口 €256.4B YoY +9.3%、1-4 月順差 €12.9B vs 去年 €63.7B）",
-        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-15062026-bp"
-      },
-      {
-        "name": "Trading Economics（5 月貿易餘額 7/16 發布、市場估約 +€6.5B、前值 -€1.0B）",
-        "url": "https://tradingeconomics.com/euro-area/balance-of-trade"
-      },
-      {
-        "name": "Eurostat（EU 對美順差 Q1 2025 €80B → Q1 2026 €34B、關稅拖累出口）",
-        "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=EU_trade_with_the_United_States_-_latest_developments"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-07-16",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【VAT 結構主線】€3 只是表象：OSS/IOSS + 平台「視同供應商」才是核心，ViDA 單一 VAT 註冊 2028 上路、11/1 起小包強制產品識別碼，賣家 VAT 責任沒被平台全包",
-    "summary": "近期日報談 €3 多聚焦「誰被課關稅」，但對名下賣家更長期、更容易踩雷的是 VAT 制度本身的三層結構——OSS/IOSS、平台「視同供應商」責任、以及 2028 上路的 ViDA 單一 VAT 註冊。很多賣家誤以為「平台會幫我代收 VAT，我就不用管」，這是最貴的誤會：\n        ① 平台代收 ≠ 全包（hellotax / amavat 分析）：Amazon 對部分 B2C 交易代收代繳 VAT，但 不是全部；只要庫存存放在多個 EU 國（如德國、波蘭 FBA 倉），不論銷量都須在各該國有效 VAT 註冊，跨境 B2C 全歐合計超過 €10,000門檻就要用 OSS 或逐國註冊。\n        ② €3 與 VAT 是兩條線（Desucla / Sovos）：7/1 起的 €3 是「關稅」、不透過 IOSS 申報，於邊境或運送流程收取；IOSS（VAT）仍在、€150 以下仍可在結帳收 VAT 並單一月報，兩者別混為一談。\n        ③ 11/1 再加碼（Jet Worldwide）：11/1起小包新增「歐盟處理費」與每品項強制產品識別碼；IOSS 持有人成為法定申報人，低值 B2C 併關流程逐步取消。\n        ④ 2028 結構性大改（ICAEW / Sovos）：ViDA「單一 VAT 註冊」自 2028/7主要要素上路，平台對所有進口 B2C 成為「視同供應商」並強制用 IOSS；非 EU 未註冊 IOSS 者須指定稅務代表。\n        結論：VAT 不是「平台全包、賣家躺平」的事。對賣家（尤其 Pan-EU、多倉、非 EU）要講清楚三件事——庫存在哪就要在哪註冊、€3 關稅與 IOSS VAT 分開、2028 ViDA 會把平台責任再擴大。這也是高價值的顧問切點。",
-    "public_impact": "近期關於 €3 的討論多聚焦誰被課關稅，但對賣家更長期、更容易踩雷的是 VAT 制度本身的三層結構：OSS/IOSS、平台視同供應商責任，以及 2028 年上路的 ViDA 單一 VAT 註冊。許多賣家誤以為平台會代收 VAT、自己就不用管，這是最貴的誤會。第一，據多家 VAT 服務商分析，Amazon 對部分 B2C 交易代收代繳 VAT，但不是全部；只要庫存存放在多個歐盟國（如德國、波蘭的 FBA 倉），不論銷量都須在各該國有效註冊，跨境 B2C 全歐合計超過 1 萬歐元門檻就要用 OSS 或逐國註冊。第二，7/1 起的 €3 是關稅、不透過 IOSS 申報，於邊境或運送流程收取；IOSS 的 VAT 機制仍在，150 歐元以下仍可在結帳收 VAT 並單一月報，兩者不可混為一談。第三，11/1 起低價小包新增歐盟處理費與每品項強制產品識別碼，IOSS 持有人成為法定申報人。第四，ViDA 單一 VAT 註冊自 2028 年 7 月主要要素上路，平台對所有進口 B2C 成為視同供應商並強制使用 IOSS，非歐盟未註冊 IOSS 者須指定稅務代表。",
-    "public_action": "① 不要以為平台代收 VAT 就等於自己不用管，Amazon 只對部分 B2C 交易代收，你的庫存存放在哪個歐盟國，就要在哪個國家有效 VAT 註冊；② 跨境 B2C 全歐合計超過 1 萬歐元門檻，就要用 OSS 或逐國註冊，多國佈局、多倉賣家漏註冊風險最高，建議盤點各國註冊狀態並與 8/12 包裝法規的 EPR 一起補齊；③ 分清 €3 關稅（邊境收、不進 IOSS）與 IOSS 的 VAT（150 歐元以下結帳代收、單一月報）是兩條線；④ 提前為 11/1 每品項產品識別碼與歐盟處理費、2028 年 7 月 ViDA 單一 VAT 註冊與平台視同供應商擴大做準備；⑤ 留意每月 IOSS 申報死線，8 月份 IOSS 申報最遲於 8/31 完成。",
-    "sources": [
-      {
-        "name": "Desucla（€3 是關稅、不進 IOSS 申報、於邊境/運送收；IOSS VAT 機制仍在；8/31 IOSS 月報死線）",
-        "url": "https://www.desucla.com/resources/upcoming-eu-changes-to-the-import-one-stop-shop"
-      },
-      {
-        "name": "Sovos（ViDA 強制平台用 IOSS、Customs Reform 移除 €150 門檻使平台對所有進口 B2C 成視同供應商、2028/3 起）",
-        "url": "https://sovos.com/blog/vat/import-one-stop-shop-expanded-under-vida-customs-reforms-packages"
-      },
-      {
-        "name": "Jet Worldwide（11/1 起歐盟處理費 + 每品項強制產品識別碼、IOSS 持有人成法定申報人）",
-        "url": "https://www.jetworldwide.com/blog/vat-collection-ioss-eu-green-channel"
-      },
-      {
-        "name": "amavat（庫存存放多國即須各國 VAT 註冊、OSS €10,000 門檻、平台代收非全包）",
-        "url": "https://amavat.eu/amazon-vat-compliance-what-every-seller-in-the-eu-needs-to-know"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-07-16",
-    "type": "daily",
-    "tags": [
-      "貨幣"
-    ],
-    "title": "【7/23 前瞻】ECB 按兵不動機率約 97%：6 月已升息一次、通膨降至 2.8% 仍高於 2% 目標，7 月銀行放貸調查估續緊，EUR 短線缺方向",
-    "summary": "下週四 7/23 ECB 議息在即，市場幾乎一面倒押「按兵不動」；配合本週的通膨與銀行放貸訊號，歐元區貨幣環境正處於「6 月升過一次、現在觀望」的停頓期，這是校準 EU5 站 Q3 需求與 EUR 假設的關鍵節點：\n        ① 7/23 幾乎確定 hold（centralbank.watch）：市場隱含「不變」機率約 97%，存款利率維持 2.25%；6 月 ECB 已因能源推升的通膨上修而升息一次。\n        ② 通膨降但仍在標的之上（Eurostat）：6 月歐元區 HICP 降至 2.8%（前 3.2%、優於估 3.0%）、核心 2.4%，能源通膨由 10.8% 降至 8.7%；ECB 6 月預測 2026 全年通膨 3.0%、成長僅 0.8%。\n        ③ 銀行放貸持續收緊（ECB BLS）：Q1 企業信貸標準淨收緊 10%（2023 Q3 以來最緊）、消費信貸 15%，銀行預期 Q2 對企業續緊至 19%；7 月新一輪 BLS 預計 7/22前後公布。\n        ④ EUR 缺方向：ECB 停頓 + 美 6 月 CPI 降溫壓低美端升息預期，EUR/USD 停在 1.14-1.17區間、無明確趨勢。\n        結論：歐元區處於「通膨仍黏、成長偏弱、信貸偏緊」的滯脹味停頓期。ECB 短期不動、EUR 難有大行情。對做 EU5 的賣家，Q3 需求維持中性偏保守、匯率假設別押單邊，關注 7/22 BLS 與 7/23 ECB 措辭是否透露後續方向。",
-    "public_impact": "下週四 7/23 歐洲央行議息在即，市場幾乎一面倒押按兵不動；配合本週的通膨與銀行放貸訊號，歐元區貨幣環境正處於 6 月升過一次、現在觀望的停頓期，這是校準歐洲市場第三季需求與歐元假設的關鍵背景。第一，據市場隱含機率，7/23 維持不變的機率約 97%，存款利率維持 2.25%，6 月歐洲央行已因能源推升的通膨上修而升息一次。第二，據歐盟統計局，6 月歐元區調和消費者物價指數降至 2.8%（前值 3.2%、優於估 3.0%）、核心 2.4%，但仍高於 2% 目標；歐洲央行 6 月預測 2026 全年通膨 3.0%、成長僅 0.8%。第三，據歐洲央行銀行放貸調查，第一季企業信貸標準淨收緊 10%、為 2023 年第三季以來最緊，消費信貸淨緊 15%，銀行預期第二季對企業續緊；7 月新一輪調查預計 7/22 前後公布。第四，歐洲央行停頓加上美國 6 月通膨降溫，歐元兌美元停在 1.14 至 1.17 區間、缺乏明確方向。整體看，歐元區處於通膨仍黏、成長偏弱、信貸偏緊的停頓期。",
-    "public_action": "① 通膨仍黏、成長僅 0.8%、信貸偏緊，消費力短期難明顯回升，歐洲市場第三季需求宜維持中性偏保守，呼應 Prime Day 小籃子、價值優先的訊號；② 企業信貸標準連續收緊、第二季估更緊，中小賣家旺季備貨的外部融資更難更貴，建議提前規劃現金流、善用平台側金流工具；③ 歐洲央行停頓加上美國通膨降溫使歐元兌美元停在 1.14 至 1.17 缺方向，毛利與定價的匯率假設維持中性、別押單邊；④ 追蹤 7/17 歐元區 6 月調和通膨終值、7/22 前後歐洲央行銀行放貸調查、7/23 議息與記者會措辭，判斷後續利率方向。",
-    "sources": [
-      {
-        "name": "Central Bank Watch（ECB 下次會議 7/23、市場隱含「不變」機率約 97%、當前存款利率 2.25%）",
-        "url": "https://centralbank.watch/european-central-bank"
-      },
-      {
-        "name": "Trading Economics / Eurostat（歐元區 6 月 HICP 2.8%、核心 2.4%、能源 8.7%、優於估 3.0%）",
-        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
-      },
-      {
-        "name": "ECB 銀行放貸調查（Q1：企業信貸標準淨緊 10%、消費信貸 15%、Q2 估對企業緊 19%）",
-        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html"
-      },
-      {
-        "name": "ECB（6/11 預測：2026 通膨 3.0%、成長 0.8%）",
-        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-07-15",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【Prime Day 復盤】歐洲逆勢成長最快：EMEA Amazon +16%、含 Zalando/Otto 全歐 +36%；但整體銷售近持平、流量 -3%、客單價縮水，價值優先＋AI 導購成新常態",
-    "summary": "本週多家電商數據商陸續公布 6/23-26 Prime Day（史上最早檔期）復盤，訊號一致：歐洲是全球成長最快的區域，但「大水漲不起所有船」——整體銷售近持平、流量下滑，賣家要從「衝檔期量」轉向「衝每次到訪的轉換」：\n        ① 歐洲成長最快（Rithum 7/9）：EMEA Amazon 賣家銷售較去年同檔 +16%；把 Zalando、Otto 等地區平台一起算，全歐成長達 +36%，兩者都超過美國。品類上，全球服飾超車家居園藝奪冠，但歐洲家居園藝仍是第一，健康美妝進各區前三。\n        ② 整體卻近持平（Podean 7/14）：其代管組合整體銷售僅 +1.5% YoY、零售流量 -3%；「平淡的數字藏了更大的故事」——今年比的是繁忙的 6 月基期（去年比的是 7 月初淡週），底部墊高使漲幅看似變小。\n        ③ 客單縮水、價值優先（Numerator，美國）：客單價 $47.66（去年 $53.34）、家庭支出 $143.45（去年 $156.37）、69% 商品單價 < $20、僅 3% > $100；驅動轉換的平均折扣 18%（服飾 24%、電子 23%）。\n        ④ AI 導購起飛（Adobe）：AI 導流量 YoY +89%、轉換率比其他管道高約 40%；行動裝置 Day 1 佔比創高 51.2%。\n        ⑤ 歐洲定價合規風險（Omnia Retail）：檔期前均價由 €142.78升到 €148.28再降回，只有 0.6% 商品折扣真的超過檔前實際價 20%，踩到 EU Omnibus 「30 天最低價」紅線；德荷 MediaMarkt/bol.com 在地競爭讓 Amazon 折扣更激進。\n        結論：歐洲 Prime Day 動能仍在、且優於美國，但這是一場「小籃子、多筆數、價值敏感、AI 導購」的檔期。對名下賣家，關鍵不是誰折扣最深，而是誰在每一次到訪都把轉換做好——PDP 內容、行動版體驗、真實折扣合規，缺一不可。",
-    "public_impact": "本週多家電商數據商陸續公布 6/23-26 Prime Day（史上最早檔期）的復盤，訊號一致：歐洲是全球成長最快的區域，但整體銷售近持平、流量下滑，賣家要從衝檔期量轉向衝每次到訪的轉換。第一，據 Rithum，歐洲（EMEA）Amazon 賣家銷售較去年同檔成長 16%，把 Zalando、Otto 等地區平台一起算全歐成長達 36%，兩者都超過美國；品類上全球服飾超車家居園藝奪冠，但歐洲家居園藝仍是第一，健康美妝進各區前三。第二，據 Podean，其代管組合整體銷售僅年增 1.5%、零售流量下滑 3%，主因是今年比的是繁忙的六月基期。第三，據 Numerator（美國），客單價由 53.34 降至 47.66 美元、69% 商品單價低於 20 美元、驅動轉換的平均折扣約 18%（服飾 24%、電子 23%）。第四，據 Adobe，AI 導流量年增約 89%、轉換率比其他管道高約 40%，行動裝置首日佔比創高 51.2%。第五，據 Omnia Retail，歐洲檔期前均價先由 142.78 升到 148.28 歐元再降回，只有 0.6% 商品折扣真的超過檔前實際價 20%，踩到歐盟 Omnibus 指令的 30 天最低價規範。整體看，歐洲 Prime Day 動能仍在且優於美國，但這是一場小籃子、多筆數、價值敏感、AI 導購的檔期。",
-    "public_action": "① 歐洲 Prime Day 動能仍在且成長最快，還沒把它排進行銷日曆的賣家可把它視為全歐必備檔期；② 整體流量下滑、客單縮水，重點從加深折扣轉向提升每次到訪的轉換，優先做好商品頁內容、行動版體驗、活動第二到第四天的再行銷與單品毛利控管；③ 檢查折扣定價流程是否符合歐盟 Omnibus 指令的 30 天最低價規範，避免先漲後降的假折扣造成罰則與消費者信任受損，並在 10/7-8 秋季大促前先演練；④ 善用 AI 導購崛起（AI 導流量年增約 89%、轉換率高約 40%），確保商品資訊完整、易被 AI 工具理解與推薦；⑤ 依品類調整選品，歐洲家居園藝與健康美妝在檔期表現突出。",
-    "sources": [
-      {
-        "name": "Rithum（7/9：EMEA Amazon +16%、含地區平台全歐 +36% 超越美國、歐洲家居園藝仍第一、健康美妝進前三）",
-        "url": "https://www.rithum.com/blog/prime-day-2026-results"
-      },
-      {
-        "name": "Podean（7/14：代管組合整體 +1.5% YoY、零售流量 -3%、繁忙六月基期墊高底部）",
-        "url": "https://podean.com/blog/prime-day-2026-results-why-flat-sales-hid-a-bigger"
-      },
-      {
-        "name": "Adobe（Prime Day $26.4B、AI 導流量 +89%、轉換高約 40%、行動 Day1 51.2%）",
-        "url": "https://business.adobe.com/blog/2026-prime-day-insights"
-      },
-      {
-        "name": "Omnia Retail（歐洲檔前均價 €142.78→€148.28 再降、僅 0.6% 折扣真超 20%、Omnibus 合規風險、MediaMarkt/bol.com 在地競爭）",
-        "url": "https://www.omniaretail.com/blog/prime-day-2026-what-retailers-need-to-know"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-07-15",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【7/14 BLS】美 6 月 CPI 意外降溫：總 CPI YoY 3.5%（前 4.2%、優於估 3.8%）、核心降至 2.6%、能源 -5.7% MoM；昨天的升息押注今天被打臉，美元轉軟利歐元",
-    "summary": "進展為何：昨日日報只有 CPI 前瞻（估 3.8%）、並因 Fed 理事 Waller 偏鷹而市場一度押注升息；今天實際數據揭曉，反而比預期更軟、核心明顯降溫，等於把昨天的升息敘事打了折——這是判讀美元與 EUR/USD 的重要翻轉：\n        ① 總 CPI 意外降溫（BLS 7/14）：6 月總 CPI MoM -0.4%（季調、2020/4 以來最大單月跌幅）、YoY 3.5%（前 4.2%），優於市場估的 3.8%。\n        ② 核心更軟：核心 CPI（扣食品能源）MoM 0.0%（持平）、YoY 降至 2.6%（前 2.9%），服飾、二手車、醫療、通訊價格月減。\n        ③ 能源退燒是主因：能源 MoM -5.7%（汽油 -9.7%），因 6 月中旬美伊停火、油價由 $90+ 回落至約 $73；食品 MoM +0.2%、YoY 3.0%。\n        ④ Fed 升息壓力鬆動（CNBC 7/14）：Wells Fargo Porcelli「看不到 Fed 升息的充分理由」、Zandi 稱只要中東不再失控通膨就會回落；市場對近期升息的押注明顯降溫。\n        結論：美通膨黏性沒有昨天想的那麼硬，Fed 升息急迫性下降、美元轉軟，EUR/USD 由弱歐元格局轉為中性偏穩（近 1.16-1.17）。但關稅二次通膨風險（8/1 新一輪關稅威脅）仍是尾部變數，賣家對美出口成本假設要留彈性、別把單月降溫當定局。",
-    "public_impact": "昨天市場只有六月消費者物價指數的前瞻（預估 3.8%），且因聯準會理事 Waller 偏鷹而一度押注升息；今天實際數據揭曉，反而比預期更軟、核心明顯降溫，等於把升息敘事打了折，這是判讀美元與歐元兌美元的重要翻轉。據美國勞工統計局，六月總消費者物價指數月減 0.4%（季調，2020 年 4 月以來最大單月跌幅）、年增 3.5%（前值 4.2%），優於市場估的 3.8%；核心指數月持平、年增降至 2.6%（前值 2.9%），服飾、二手車、醫療、通訊月減。能源退燒是主因，能源月減 5.7%、汽油月減 9.7%，因六月中旬美伊停火、油價由每桶 90 美元以上回落至約 73 美元。多位經濟學家因此認為聯準會缺乏升息的充分理由。整體看，美國通膨黏性沒有原先擔心的那麼硬，聯準會升息急迫性下降、美元轉軟，歐元兌美元由弱勢格局轉為中性偏穩（近 1.16 至 1.17）。但美國八月一日新一輪關稅威脅帶來的二次通膨風險仍是尾部變數。",
-    "public_action": "① 美元轉軟、歐元兌美元由弱勢轉中性偏穩，歐洲市場毛利與定價可把匯率錨點上調到 1.16 中值、1.15 至 1.18 區間，別再沿用過度悲觀的弱歐元假設；② 美元轉軟使歐元計價賣家對美出口的匯率順風收斂，加上八月一日美國新一輪關稅威脅仍在，對美成本假設要留彈性、別把單月通膨降溫當定局；③ 美國通膨降溫壓低升息預期、間接利全球資金成本，旺季備貨融資的短期壓力減輕，但利率不確定性仍高；④ 追蹤七月底聯準會會議、八月一日美國關稅威脅、後續美國生產者物價與核心個人消費支出物價，以及油價走勢。",
-    "sources": [
-      {
-        "name": "美國勞工統計局 BLS（6 月 CPI：總 MoM -0.4%、YoY 3.5%、核心 MoM 0.0%/YoY 2.6%、能源 MoM -5.7%、7/14 發布）",
-        "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-      },
-      {
-        "name": "CNBC（7/14：油價由 $90+ 回落至約 $73、Wells Fargo/Zandi 稱 Fed 缺升息理由、升息押注降溫）",
-        "url": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html"
-      },
-      {
-        "name": "Trading Economics（美 6 月 CPI 由 5 月 4.2% 降至 3.5%、優於估 3.8%）",
-        "url": "https://tradingeconomics.com/united-states/inflation-cpi"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-07-15",
-    "type": "daily",
-    "tags": [
-      "貿易"
-    ],
-    "title": "【€3 新解讀】小包關稅反成「小賣家的稅」：Temu/Shein 已把貨搬進歐洲在地倉（年底拚 80%）、德國亞洲平台 Q2 銷售創高，真正被咬住的是英美跨境小賣家",
-    "summary": "進展為何：7/9 日報講的是「€3 生效前 Temu/Shein 廣告先退場」；本週多份分析給出反直覺的新結論——€3 不但沒擋住低價巨頭，反而因為它們早已在地化，變成一種「懲罰小賣家」的關稅，這對名下英美跨境小賣家是被忽略的中期風險：\n        ① 低價巨頭已搬進牆內（Lengow / Marketplace Pulse）：Temu 自營倉網已重壓德法西荷義奧、Shein 在波蘭 Wrocław 擴倉並改走半托管在地備貨；Temu 目標年底 80% 歐洲訂單在地履約、英國 50%。\n        ② 需求不退反衝（GlobalData / Consumer Edge 引述）：即使 7/1 上路，德國亞洲購物平台 Q2 銷售佔比創高、突破 5%、成長逾 20%；Temu 5 月歐洲成長 >60%、法國近 100%，是「需求爬進關稅」而非退卻。\n        ③ 關稅『意外累退』（Vinny O'Brien 分析）：€3 是「跨境過關稅」，而貨已在牆內的巨頭幾乎不受影響；真正每件被課 €3-9 的，是還在牆外、把同樣商品寄給同樣客戶的英國、美國跨境小賣家——歐洲倉是它們負擔不起的資產負債表決定。\n        ④ Amazon 相對穩（Reuters 7/1）：Amazon 稱去年 97% 歐洲出貨自歐盟境內倉履約，€3 對 Amazon 在地履約賣家衝擊有限，非歐盟出貨會於結帳前顯示進口費。\n        結論：€3 的競爭地形已翻轉——低價巨頭靠在地倉繞過、Amazon 靠境內履約穩住，被夾在中間、單靠直郵的英美小賣家最痛。名下若有仍以中國/英國直郵進 EU 的小賣家，要正視「在地倉或半托管」已從選項變成生存門檻。",
-    "public_impact": "7 月初的討論多聚焦在 €3 生效前 Temu/Shein 廣告先退場，但本週多份分析給出反直覺的新結論：€3 不但沒擋住低價巨頭，反而因為它們早已在地化，變成一種懲罰小賣家的關稅。第一，據 Lengow 與 Marketplace Pulse，Temu 自營倉網已重壓德法西荷義奧、Shein 在波蘭擴倉並改走半托管在地備貨，Temu 目標年底 80% 歐洲訂單在地履約、英國 50%。第二，即使 7/1 上路，德國亞洲購物平台第二季銷售佔比創高、突破 5%、成長逾 20%，Temu 5 月歐洲成長超過 60%、法國近 100%，是需求爬進關稅而非退卻。第三，€3 是跨境過關稅，貨已在歐盟境內的巨頭幾乎不受影響，真正每件被課 3 到 9 歐元的，是還在境外、把同樣商品寄給同樣客戶的英國、美國跨境小賣家。第四，據路透，Amazon 稱去年 97% 歐洲出貨自歐盟境內倉履約，對在地履約賣家衝擊有限。整體看，€3 的競爭地形已翻轉：低價巨頭靠在地倉繞過、Amazon 靠境內履約穩住，被夾在中間、單靠直郵的英美小賣家最痛。",
-    "public_action": "① 若仍以中國或英國直郵方式把商品送進歐盟，你正是 €3 每件累加的最大受害者，把商品放進歐盟境內倉（自建、第三方或平台履約）已從選項變成生存門檻；② 用境內履約同時解決 €3、提升配送時效與曝光，評估在地倉或半托管模式；③ 低價競爭不會因關稅消失，Temu、Shein 需求不退反衝、德國亞洲平台第二季市佔創高，善用自身合規完整、境內履約、品牌信任的長期優勢；④ 追蹤 11 月 1 日歐盟海關的產品識別碼強制申報與小包歐盟處理費（約每件 2 歐元），提前把商品資料與清關流程準備好。",
-    "sources": [
-      {
-        "name": "Lengow（Temu 歐洲在地化：年底拚 80% 歐洲在地履約、英國 50%、與 DHL/FedEx/Royal Mail 合作、第三方 EU 倉）",
-        "url": "https://blog.lengow.com/temus-localization-strategy-in-europe"
-      },
-      {
-        "name": "Marketplace Pulse（供應鏈大逆轉：de minimis 取消加速在地履約、Temu 80% 歐洲在地倉目標）",
-        "url": "https://www.marketplacepulse.com/articles/the-great-supply-chain-reversal"
-      },
-      {
-        "name": "Vinny O'Brien 分析（€3「意外累退」：巨頭在牆內、Temu 5 月歐洲 +60%/法國近 100%、Shein 半托管、最痛是英美小賣家）",
-        "url": "https://www.linkedin.com/pulse/eu-de-minimis-changes-does-anything-else-vinny-o-brien-islhc"
-      },
-      {
-        "name": "Reuters（7/1：€3 生效、Shein 波蘭擴倉備貨、Amazon 稱 97% 歐洲出貨自歐盟境內履約）",
-        "url": "https://www.reuters.com/business/retail-consumer/eu-slaps-3-fee-cheap-ecommerce-parcels-blow-shein-temu-aliexpress-2026-07-01"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-07-15",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【UK】英 Q1 GDP +0.6% 確認、但勞動市場續鬆（職缺 5 年最低、私部門薪資由 6% 降至約 4%）：通膨仍黏（估 2026 3.7%），BoE 估再降 3 碼至 3%",
-    "summary": "本週多份英國經濟回顧同步顯示 Amazon.co.uk 所在市場「成長確認、就業轉鬆、通膨仍黏、降息在望」的四重訊號——這是校準 UK 站 Q3-Q4 需求 base 的關鍵背景：\n        ① Q1 GDP 確認強勁（ONS / Trading Economics）：英 Q1 2026 GDP QoQ +0.6%（確認初值、2025Q1 以來最強），服務業 +0.8%領頭（專業科技 +2.3%、批發零售 +1.8%）；YoY +0.9%。\n        ② 勞動市場續鬆（UK Finance 7/6 / Goldman）：4 月失業率降至約 4.9%、但職缺數為 5 年多最低、非活動人口上升；私部門常規薪資成長由約 6% 一路降至約 4%，Goldman 估年底進一步降至 3.1%。\n        ③ 通膨仍黏：5 月 CPI 2.8%，OECD 估 2026 全年升至 3.7%後 2027 回落至 2.4%；BoE 6/18 維持 Bank Rate 3.75%不變。\n        ④ 降息路徑（Goldman）：勞動市場走鬆＋通膨終將回落，估 BoE 年內再降 3 碼至 3%中性利率。\n        結論：UK 消費仍受高儲蓄率與實質所得擠壓、短期偏弱，但降息在望＋通膨見頂將在 H2 逐步鬆綁消費力。Amazon.co.uk Q3 需求維持中性偏保守、價值優先，Q4 隨降息落地有溫和 upside。",
-    "public_impact": "本週多份英國經濟回顧同步顯示 Amazon 英國站所在市場出現成長確認、就業轉鬆、通膨仍黏、降息在望的四重訊號，是校準英國站第三到第四季需求的關鍵背景。第一，據英國國家統計局與 Trading Economics，英國第一季 GDP 季增 0.6%、確認初值並為 2025 年第一季以來最強，服務業季增 0.8% 領頭、年增 0.9%。第二，據 UK Finance 與高盛，四月失業率降至約 4.9%，但職缺數為五年多最低、非活動人口上升，私部門常規薪資成長由約 6% 一路降至約 4%，高盛估年底降至 3.1%。第三，五月消費者物價指數 2.8%，經濟合作暨發展組織估 2026 年全年升至 3.7% 後於 2027 年回落，英格蘭銀行 6 月 18 日維持基準利率 3.75% 不變。第四，高盛估英格蘭銀行年內再降三碼至 3% 中性利率。整體看，英國消費仍受高儲蓄率與實質所得擠壓、短期偏弱，但降息在望與通膨見頂將在下半年逐步鬆綁消費力。",
-    "public_action": "① 英國第一季 GDP 確認強勁，但消費受實質所得與高儲蓄率擠壓，英國站第三季需求宜維持中性偏保守，第四季隨降息與通膨見頂再看溫和回升；② 薪資降溫、消費者價格敏感，商品組合可往必需品、低單價與高性價比傾斜，呼應 Prime Day 小籃子、價值優先的訊號；③ 英格蘭銀行預估年內再降三碼至 3%，中期有利賣家資金成本與消費信貸，但通膨估 2026 年升至 3.7%、降息節奏未定，融資與備貨假設留彈性；④ 追蹤 7/16 英國五月月度 GDP、7/17 六月消費者物價指數、7/21 勞動市場數據與後續英格蘭銀行 8 月會議。",
-    "sources": [
-      {
-        "name": "Trading Economics / ONS（英 Q1 2026 GDP QoQ +0.6% 確認、服務業 +0.8%、YoY +0.9%）",
-        "url": "https://tradingeconomics.com/united-kingdom/gdp-growth"
-      },
-      {
-        "name": "UK Finance（7 月經濟回顧：失業率約 4.9%、職缺 5 年多最低、薪資 4.4%、Bank Rate 3.75%）",
-        "url": "https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-july-2026"
-      },
-      {
-        "name": "Goldman Sachs（私部門薪資由約 6% 降至約 4%、估年底 3.1%、BoE 估再降 3 碼至 3%）",
-        "url": "https://www.goldmansachs.com/insights/articles/uk-gdp-is-expected-to-grow-1-point-4-percent-this-year-despite-weaker-employment"
-      },
-      {
-        "name": "OECD（英 2026 成長 0.9%、CPI 3.7%、失業率 5.5%）",
-        "url": "https://www.oecd.org/en/publications/2026/06/oecd-economic-outlook-volume-2026-issue-1_8be0dba6/full-report/united-kingdom_ee1bed4d.html"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-07-15",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/12 倒數】EU PPWR 全面適用：平台須查驗賣家包裝 EPR、逐國註冊＋授權代表；12 月 PLD 再擴賣家責任——合規沒做完的 listing 恐被停用",
-    "summary": "繼 7/19 DPP 登錄中心啟用後，EU 合規行事曆下一個對賣家有實質下架風險的節點是 8/12 的 PPWR 全面適用——這會把「平台查驗賣家包裝 EPR」變成全歐統一義務，對還沒補齊逐國註冊的名下賣家是旺季前的高風險節點：\n        ① PPWR 8/12 全面適用（AVASK / Operator One）：Regulation (EU) 2025/40 自 8/12起適用，線上平台須查驗賣家的包裝 EPR 合規；EU 走向統一註冊框架、生態調節費（eco-modulated）與統一標示。\n        ② Amazon 執法將更嚴：8/12 起 Amazon 面臨更大壓力，須在所有 EU 市場與品類全面查驗，未補齊者 listing 恐停用或被自動導入更貴的「Pay on Behalf」代繳服務。\n        ③ 逐國註冊＋授權代表：只要在 DE/FR/UK/ES/IT/NL/AT/BE/PL/SE任一站銷售就需對應包裝 EPR；德國需 LUCID、非 EU 賣家需 EU 授權代表（EC-REP）。\n        ④ 12 月 PLD 再擴責任（Bird & Bird）：新版產品責任指令（2024 PLD）2026/12適用，顯著擴大賣家與平台的民事責任曝險，與 GPSR 的合規義務疊加。\n        結論：EU 合規正從「文件備齊」升級為「平台主動查驗＋下架 + 民事責任」的組合拳。對名下賣家，8/12 前把各銷售站的包裝 EPR 註冊、授權代表、資料一致性補齊，是避免旺季 listing 被停用的必做功課。",
-    "public_impact": "繼 7/19 數位產品護照登錄中心啟用後，歐盟合規行事曆下一個對賣家有實質下架風險的節點是 8/12 的包裝與包裝廢棄物法規（PPWR）全面適用，這會把平台查驗賣家包裝生產者責任延伸（EPR）變成全歐統一義務。第一，據 AVASK 與 Operator One，Regulation (EU) 2025/40 自 8/12 起適用，線上平台須查驗賣家的包裝 EPR 合規，歐盟走向統一註冊框架、生態調節費與統一標示。第二，8/12 起 Amazon 面臨更大壓力，須在所有歐盟市場與品類全面查驗，未補齊者商品恐停用或被自動導入較貴的代繳服務。第三，只要在德法英西義荷奧比波瑞任一站銷售就需對應的包裝 EPR，德國需 LUCID 註冊、非歐盟賣家需歐盟授權代表。第四，據 Bird & Bird，新版產品責任指令將於 2026 年 12 月適用，顯著擴大賣家與平台的民事責任曝險，與一般產品安全規範疊加。整體看，歐盟合規正從文件備齊升級為平台主動查驗、下架與民事責任的組合拳。",
-    "public_action": "① 8/12 前把各銷售站的包裝 EPR 註冊、授權代表與資料一致性補齊，未補齊者商品可能被停用或被自動導入較貴的代繳服務，正卡在第四季旺季備貨前；② 只要在任一歐盟站銷售就需對應的包裝 EPR，多國佈局賣家漏註冊風險最高，別以為做了德國 LUCID 就全歐通關，德國需 LUCID、非歐盟賣家需歐盟授權代表；③ 檢查包裝標示、製造商與授權代表資訊、EPR 註冊號在各站與賣家後台是否一致，避免自動化查驗誤刪；④ 預先檢視技術文件與保險，因應 2026 年 12 月適用的新版產品責任指令擴大民事責任；⑤ 追蹤 7/19 數位產品護照登錄中心啟用、8/12 PPWR 全面適用與 12 月產品責任指令適用三個節點。",
-    "sources": [
-      {
-        "name": "AVASK（PPWR Reg (EU) 2025/40 自 8/12 適用、平台查驗賣家 EPR 擴大、逐國註冊、未補齊恐停用或導入 Pay on Behalf）",
-        "url": "https://avask.com/blog/epr-compliance-guide"
-      },
-      {
-        "name": "Operator One（PPWR 8/12 適用：統一 EU 註冊框架、eco-modulated 費用、統一標示與平台查驗義務）",
-        "url": "https://o1.eu/compliance-glossary"
-      },
-      {
-        "name": "Bird & Bird（新版 2024 PLD 2026/12 適用、擴大賣家與平台民事責任、與 GPSR 疊加）",
-        "url": "https://www.twobirds.com/en/insights/2026/france/gpsr-in-light-of-the-new-2024-pld-rethinking-product-safety-and-liability-in-the-digital-marketplace"
       }
     ],
     "color": "#0891b2"

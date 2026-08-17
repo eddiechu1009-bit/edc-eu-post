@@ -1,5 +1,191 @@
 [
   {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【今天 8/17 開放收貨】Amazon AWD 歐洲：8/20 才正式上線，全歐倉點只有英國南約克夏與德國北威州",
+    "summary": "兩個日期不是同一件事，而且入場門檻比多數整理文寫得更嚴：\n        ① 8/17 vs 8/20（Seller Central 官方公告＋Forest Shipping、aNavigator）：官方公告寫的是「自 2026 年 8 月 20 日起」把 AWD 帶到德法義西英五站；8/17 是開放收 inbound 貨件的日子。也就是今天可以開始送貨進去，但服務正式運轉在 8/20。\n        ② 全歐只有兩個倉點：英國南約克夏、德國北威州（NRW）。五個站點共用這兩個上游倉，且英國 AWD 與 EU AWD 庫存不可互轉，兩邊要各自報關、各自 VAT、各自預測。\n        ③ 費率：EU 每立方公尺每月 €12.33（折扣價 €11.09）；英國每立方英尺每月 £0.36（折扣價 £0.32）。另有 inbound／outbound 處理費與 AWD 轉 FBA 的運費，走 Amazon Global Logistics 或自動補貨佔比達 70% 以上可再折。\n        ④ 入場門檻（EU 端最容易卡住）：須已加入 Pan-EU FBA、庫存貼 FNSKU、持有效德國 VAT 號，並在法義西波之中再有一個 VAT 註冊；德國法人實體非必要。英國端只需有效英國 VAT 號。\n        ⑤ 品項與紙箱限制：超大超重、珠寶、危險品、溫控品排除；單邊不得超過 63.5 cm、毛重上限 23 kg，且一箱只能一個 SKU。\n        結論：這是「上游倉」不是「多一個 FBA 倉」，Q4 前想用它的賣家，卡點通常在第二個 VAT 號而不在費率。",
+    "public_impact": "Amazon Warehousing and Distribution（AWD）正式擴展至歐洲。依 Seller Central 公告，服務自 2026 年 8 月 20 日起在德國、法國、義大利、西班牙與英國提供，而入庫貨件的收貨則自 8 月 17 日開始，兩個日期並不相同。AWD 屬於 FBA 之上的上游倉，賣家以固定費率長期存放整批庫存，由 Amazon 依銷售情況自動補貨到各國 FBA 倉。初期全歐僅有兩個倉點，位於英國南約克夏與德國北威州，且英國 AWD 與歐盟 AWD 的庫存不可互相調撥，兩邊需各自處理報關、稅務登記與庫存預測。費率方面，歐盟為每立方公尺每月 12.33 歐元（折扣價 11.09 歐元），英國為每立方英尺每月 0.36 英鎊（折扣價 0.32 英鎊），另有入庫、出庫處理費與 AWD 轉 FBA 的運費。歐盟端的參加條件包括已加入 Pan-European FBA、庫存貼附 FNSKU、持有有效德國 VAT 登記，並在法國、義大利、西班牙或波蘭再有一個 VAT 登記。",
+    "public_action": "① 先確認自己是否符合歐盟端條件，尤其是「德國 VAT 加上法義西波之一」這項雙重登記要求，缺少第二個登記的賣家短期內無法使用；② 第一次使用建議只放安全庫存，不要把旺季首批主力貨壓在新服務上，AWD 在美國初期曾出現收貨時間偏長的情況；③ 成本比較時請把倉租、入出庫處理費與 AWD 轉 FBA 的運費合計後，再與現有第三方倉庫方案比較，只比倉租會失真；④ 注意三項實務限制：紙箱單邊不得超過 63.5 公分、毛重上限 23 公斤、一箱只能裝一種商品，且超大超重、珠寶、危險品與溫控商品不適用；⑤ 英國與歐盟兩套網路庫存不可互轉，同時經營兩邊的賣家需維持兩份安全庫存，備貨總量的估算方式要跟著調整；⑥ 德國倉點位於北威州、正逢萊茵河低水位造成陸運運能緊張，首批入倉的到倉天數建議比平常多預留時間；⑦ 具體條款、品項資格與費率請以 Seller Central 的 AWD Europe 頁面為準。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central 官方公告（8/20 起五站上線）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/0b50c2c2-7e6d-439e-b156-bd14db5e5f08"
+      },
+      {
+        "name": "Forest Shipping（8/17 收貨、倉點、費率、VAT 條件）",
+        "url": "https://www.forestshipping.com/amazon-awd-europe-launch-august-17"
+      },
+      {
+        "name": "aNavigator（8/17 收貨與倉點）",
+        "url": "https://anavigator.co/blog/amazon-awd-is-coming-to-europe-on-august-20-here-is-what-multi-country-sellers-need-to-know"
+      },
+      {
+        "name": "ChannelMAX（上線前應檢查項目）",
+        "url": "https://www.channelmax.net/article/amazon-awd-expands-to-five-european-markets-with-long-term-bulk-storage-channelmax"
+      },
+      {
+        "name": "Amazon AWD 官方產品頁",
+        "url": "https://sell.amazon.com/programs/warehousing"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【8/14 WSV】萊茵河 Kaub 讀數剩 10 cm、破 1880 年以來紀錄：德國祭出貨運應變包，估砍本季 GDP 0.35pp",
+    "summary": "8/7 日報記過 Kaub 跌到歷史低點，這次的新進展是「破 1880 年以來紀錄＋德國政府正式出手＋首個 GDP 量化估計」：\n        ① 水位（Reuters 8/14 引德國內陸航運局 WSV）：Kaub 讀數週五為 10 cm，低於 2018 年 25 cm 的舊紀錄；Bloomberg 稱是1880 年有紀錄以來最低。要注意這是參考讀數不是航道實際深度，實際航道約再深 1 公尺（讀數 14 cm 約對應航道 1.27 公尺）。\n        ② 實際運能：仍航行的船多半只能裝兩成或更少；經紀商 Riverlake 稱 Kaub 已實質不可通行 ——「上萊茵河的駁船回不了 ARA（安特衛普／鹿特丹／阿姆斯特丹），ARA 的駁船也上不去」。\n        ③ 官方應變（RailFreight 8/13，部分付費牆）：德國交通主管機關公布一整包措施 —— 加開鐵路路線、放寬轉運場規則、卡車運輸豁免。石勒蘇益格－荷爾斯泰因邦 8/11 也加入其他邦，暫時解除週日與假日卡車禁令。\n        ④ 替代成本非常差：Covestro 指出要 60 台卡車才能替代一艘 1,500 噸駁船；Contargo 已加開鐵路班次並調度額外卡車運能。\n        ⑤ 首個總經量化：Commerzbank 資深經濟學家 Ralph Solveen 估，若低水位撐到 9 月中，將削減德國本季 GDP 約 0.35 個百分點；並稱水位明顯回升不太可能早於 10 月。EnBW 估這波干擾使獲利減少「低雙位數百萬歐元」。\n        結論：這已經不是天氣新聞，是一條被寫進 Q3 GDP 的成本線。",
+    "public_impact": "德國萊茵河水位持續下探。依路透 8 月 14 日引德國內陸航運局（WSV）的資料，最淺瓶頸點 Kaub（科布倫茲附近）的讀數週五降至 10 公分，低於 2018 年 25 公分的前一個最低紀錄；彭博報導稱這是 1880 年有紀錄以來最低。需注意該數字是航運參考讀數而非航道實際深度，實際航道約再深 1 公尺。實務上仍航行的船隻多半只能裝載約兩成或更少，航運經紀商 Riverlake 表示 Kaub 已實質不可通行，上游駁船無法返回安特衛普、鹿特丹、阿姆斯特丹一帶，下游駁船也無法上行。德國交通主管機關已於 8 月 13 日公布應變措施，包括加開鐵路路線、放寬轉運場規則與卡車運輸豁免，並有多個邦暫時解除週日與假日卡車禁令。替代成本相當高，Covestro 指出需要約 60 台卡車才能替代一艘 1,500 公噸的駁船。德國商業銀行資深經濟學家 Ralph Solveen 估計，若低水位延續至 9 月中，將使德國本季 GDP 減少約 0.35 個百分點，並認為水位明顯回升不太可能早於 10 月。",
+    "public_action": "① 萊茵河運送的主要是化工原料、鋼材、燃油、煤與穀物，不是電商成品，對賣家的影響是間接且落在第四季，主要透過原料成本與交期傳導；② 立即需要處理的是陸運運能，水運轉公路與鐵路會推高整體德國陸運需求，往德國倉庫的入庫時效與拖車報價都可能受影響，建議旺季入庫比原計畫提前 7 至 10 天送出；③ 塑膠件、包材、金屬件占比高的品類（家具、家電、園藝、五金、收納）現在就應向供應商確認第四季原料報價與交期是否已調整，不要等到 9 月報價單才發現；④ 自行安排德國內陸運輸的賣家可請貨運代理重新規劃運具組合，多個邦已暫時解除週日與假日卡車禁令，鐵路也已加開路線；⑤ 德國市場第三季的需求展望宜偏保守，可並列德國第二季 GDP 僅季增 0.2% 與上述 0.35 個百分點的估計；⑥ 引用數字時請留意 10 公分是航運參考讀數而非河道深度，而 0.35 個百分點是單一機構在特定前提下的估計，並非官方預測。",
+    "sources": [
+      {
+        "name": "Reuters 8/14 引 WSV（Kaub 讀數 10 cm、破 2018 年 25 cm 紀錄）",
+        "url": "https://www.reuters.com/business/environment/rhine-water-hits-new-lows-freight-transferred-land-transport-2026-08-14"
+      },
+      {
+        "name": "Insurance Journal 轉 Bloomberg（1880 年以來最低、Commerzbank 0.35pp、Covestro 60 台卡車、Riverlake）",
+        "url": "https://www.insurancejournal.com/news/international/2026/08/12/881099.htm"
+      },
+      {
+        "name": "RailFreight 8/13（德國貨運應變包，部分付費牆）",
+        "url": "https://www.railfreight.com/railfreight/2026/08/13/germany-unveils-freight-battle-plan-as-rhine-water-hits-historic-lows"
+      },
+      {
+        "name": "DW（Kaub 40 cm 為標準商船下限、內河佔德國貨運約 5%）",
+        "url": "https://www.dw.com/en/rhine-river-drought-germany-economy-recovery-shipping-climate-change/a-78300076"
+      },
+      {
+        "name": "EUROMETAL 引 Fastmarkets（鋼材與原料運輸實況）",
+        "url": "https://eurometal.net/eu-metal-shipping-crisis-worsens-after-rhine-river-water-levels-plummet"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/14 Eurostat】歐元區 Q2 GDP +0.4% 確認、6 月貿易轉順差 €86 億：但就業只 +0.1%、H1 順差從 €822 億塌到 €98 億",
+    "summary": "三份數據同一天出，方向卻不一致 —— 成長確認、就業沒跟上、貿易的年度圖像很差：\n        ① GDP（t+45 快報）（Eurostat 8/14）：Q2 季增歐元區 +0.4%、EU +0.5%，與 7/30 初估一致、未修正；Q1 為歐元區持平、EU +0.1%。年增歐元區 +1.0%、EU +1.2%。\n        ② EU5 分項（Anadolu 引 Eurostat 8/14）：西班牙 +0.7%；德、法、義各 +0.2%；比利時、奧地利、羅馬尼亞 0.0%。季增最高是愛爾蘭 +3.9%，但愛爾蘭年增為 -5.6%。對照美國 Q2 季增 +0.4%、年增 +2.1%。\n        ③ 就業（Eurostat 8/14）：歐元區與 EU 季增均僅 +0.1%、年增 +0.5%。也就是成長回來了、雇人沒回來。\n        ④ 貿易（Eurostat 8/14）：6 月歐元區商品順差 €86 億，市場原估逆差 €22 億，5 月為逆差 €90 億。但年度圖像很差：1–6 月順差僅 €98 億，去年同期是 €822 億；上半年出口 €14,872 億（-0.2%）、進口 €14,774 億（+4.9%）。6 月單月自域外進口 €2,640 億、年增 13.1%。\n        ⑤ 政策含義：EUR/USD 8/14 站回 1.1550 之上（FXStreet）。Brent 8/14 收 $88.52（+1.7%、單週漲逾 5%，CNBC）。DWS 預期 ECB 9/10 把存款利率升到 2.50%（現 2.25%）。\n        結論：Q2 成長替 9/10 升息鋪了路，但撐成長的不是就業與出口。",
+    "public_impact": "Eurostat 於 8 月 14 日同日發布三組數據。第一，歐元區第二季 GDP 季增 0.4%、EU 季增 0.5%，與 7 月 30 日的初估一致且未修正，第一季歐元區為持平、EU 為 +0.1%；年增則為歐元區 1.0%、EU 1.2%。分國看，西班牙季增 0.7%，德國、法國、義大利各為 0.2%，比利時、奧地利與羅馬尼亞為零成長；愛爾蘭季增 3.9% 但年增為 -5.6%。同期美國季增 0.4%、年增 2.1%。第二，歐元區與 EU 的就業人數季增均僅 0.1%、年增 0.5%，顯示成長回升並未帶動同等的雇用增加。第三，6 月歐元區商品貿易轉為 86 億歐元順差（市場原預估為 22 億歐元逆差、5 月為 90 億歐元逆差），但 1 至 6 月累計順差僅 98 億歐元，去年同期為 822 億歐元；上半年出口微減 0.2%，進口增加 4.9%，6 月單月自域外進口年增 13.1%。市場面，歐元兌美元 8 月 14 日回到 1.1550 之上，布蘭特原油收在每桶 88.52 美元、單週漲逾 5%。",
+    "public_action": "① 歐洲市場內部落差正在擴大，西班牙第二季季增 0.7% 明顯優於德法義各 0.2%，若資源配置仍按德法義的舊比重，可能壓在成長最慢的市場上，建議重新檢視各站的行銷與庫存權重；② 就業僅季增 0.1% 是需求面的警訊，客單價偏高與非必需的品類不宜因 GDP 數字好看而上修下半年預估；③ 融資成本方向仍向上，市場普遍預期歐洲央行 9 月 10 日的會議會升息，第四季備貨需要借款的賣家建議在該日之前把利率條件談定；④ 以歐元收款、外幣採購的賣家請重算第四季毛利，參考歐元兌美元回到 1.1550 上方與布蘭特原油單週上漲逾 5% 兩項變化；⑤ 上半年歐元區貿易順差由 822 億歐元縮至 98 億歐元、進口增加 4.9%，顯示歐洲對進口商品的需求並未轉弱，但這同時是歐盟推動小包關稅、11 月 1 日產品識別碼強制等貿易措施的政治背景，值得持續關注；⑥ 建議追蹤 8 月 19 日歐元區 7 月 HICP 終值與 9 月 7 日 Eurostat 的 GDP 正式估計，後者可能改變基期比較的基準。",
+    "sources": [
+      {
+        "name": "Eurostat 8/14（Q2 GDP t+45 快報＋就業）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-14082026-ap"
+      },
+      {
+        "name": "Eurostat 8/14（6 月商品貿易順差 €86 億、H1 累計）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/6-14082026-bp"
+      },
+      {
+        "name": "Anadolu 8/14（EU5 與各國分項、對照美國）",
+        "url": "https://www.aa.com.tr/en/economy/eurozone-economy-grows-04-in-2nd-quarter-matching-expectations/4027275"
+      },
+      {
+        "name": "FXStreet 8/14（市場預估 -€22 億、EUR/USD 1.1550）",
+        "url": "https://www.fxstreet.com/news/euro-holds-gains-above-11550-following-eurozone-gdp-and-bright-trade-balance-data-202608140959"
+      },
+      {
+        "name": "Eurostat 7/30（初估與各國季增排序）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30072026-ap"
+      },
+      {
+        "name": "Morningstar 8/10（DWS 預期 9/10 升至 2.50%、ECB 會期）",
+        "url": "https://global.morningstar.com/en-gb/economy/will-ecb-raise-interest-rates-again-2026-cut-them-2027"
+      },
+      {
+        "name": "CNBC 8/14（Brent 收 $88.52、單週 +5%）",
+        "url": "https://www.cnbc.com/2026/08/14/oil-prices-today-brent-wti-hormuz.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【明天 8/18 截止】HMRC 平台代繳 VAT 擬擴及英國本土賣家：門檻擬定「每平台 £90,000」，二手商品是最大爭點",
+    "summary": "8/6 日報記過這份諮詢，今天的重點是「明天就截止」以及官方文件裡三個容易被漏掉的設計細節：\n        ① 機制（GOV.UK 官方諮詢文件）：不是改稅率，是改誰申報。賣家對平台之間會產生一筆視為零稅率的供應，由平台在自己的申報書上收取並申報 VAT。範圍限B2C 商品、且貨在英國境內；海外賣家現行規則不變。\n        ② 兩個保護小賣家的選項：（a）最低平台門檻（MPT）—— 只在英國賣家在單一平台的銷售額超過一定金額時才適用，主提案是 £90,000；（b）對未達登記門檻者給稅率減免。官方自己寫明選項 (b) 可能擋不住海外業者冒充英國賣家。\n        ③ 官方承認 £90,000 有漏洞：文件明講這個門檻留下賣家在同一平台開多個帳號拆單的空間，所以也在徵詢更低門檻的意見。MPT 也不會取代總營業額達門檻後的登記義務。\n        ④ 二手商品是最麻痺的一塊：平台不能使用二手利潤率課稅法（Second-hand Margin Scheme），照搬會變成按全額售價課稅而非按利潤，官方形容對「競爭定價與利潤有相當挑戰性的影響」。因此在考慮兩條路：把企業賣二手排除在外，或禁止平台賣家使用利潤率課稅法（Q24-25）。\n        ⑤ 規模：2021 年海外賣家制度累計已徵得逾 £80 億、年約 £18 億。HMRC 估有「數萬家」英國本土賣家未履行 VAT 義務，年損數億英鎊；外送熱食被單獨點名。\n        結論：這還不是法律，但門檻要不要低於 £90,000、二手怎麼處理，就是明天之前還能表達意見的兩件事。",
+    "public_impact": "英國 HMRC 與財政部關於「擴大線上平台 VAT 責任」的諮詢將於 2026 年 8 月 18 日截止。提案的核心不是調整稅率，而是改變由誰申報：在賣家與平台之間會產生一筆視為零稅率的供應，由平台在自身申報書上收取並申報 VAT，適用範圍限於商品的 B2C 銷售且貨物於銷售時位於英國境內，海外賣家的現行規則不變。為保護小型業者，官方提出兩個方案：一是最低平台門檻，主提案為每一平台 90,000 英鎊（對齊 VAT 登記門檻）；二是對未達登記門檻者給予稅率減免，但官方文件自行指出後者可能無法阻止海外業者偽裝為英國賣家。官方也承認 90,000 英鎊的門檻留下在同一平台開設多個帳號拆分銷售的空間，因此同時徵詢更低門檻的意見。二手商品是最複雜的一塊：平台無法使用二手利潤率課稅法，若直接套用將導致按全額售價而非按利潤課稅，官方正在考慮把企業銷售二手商品排除在外，或禁止平台賣家使用利潤率課稅法。作為背景，2021 年針對海外賣家的制度累計已徵得逾 80 億英鎊、每年約 18 億英鎊，HMRC 估計有數萬家英國賣家未履行 VAT 義務，年損數億英鎊。",
+    "public_action": "① 若你是英國本土業者、或在英國設有實體並持有英國庫存，且單一平台的英國銷售額接近或超過 90,000 英鎊，8 月 18 日前仍可透過 GOV.UK 線上表單或 HMRC 指定信箱表達意見；② 請用正確的框架理解影響：稅率與商品的 VAT 性質都不變，改變的是誰申報與何時扣款，實務結果是標準稅率商品的撥款金額與現金流時點，而不是稅負增加；③ 經營二手或翻新品類（翻新 3C、二手書、古著等）的賣家影響最大，若最終禁止使用利潤率課稅法，稅基會從利潤變成全額售價，這是結構性而非時點性的變化，值得在諮詢中具體反映；④ 門檻按單一平台計算，多平台經營者可能只有部分通路被納管，但官方已承認此設計留有拆單空間，最終門檻有可能低於 90,000 英鎊，規劃時不宜把 90,000 英鎊當作定案；⑤ 諮詢結束後政府會發布回應摘要，若繼續推進還會有立法草案的技術性諮詢，因此本項不會在 2026 年生效，但建議先為 2027 年開一個現金流情境；⑥ 與立法進度無關、現在就該做的兩件事是：把平台報表與帳務完成對帳，並確認每筆銷售時貨物所在地，這是未來任何版本都會被檢視的重點。",
+    "sources": [
+      {
+        "name": "GOV.UK 官方諮詢文件（機制、MPT £90,000、二手商品 Q24-25、£80 億／£18 億）",
+        "url": "https://www.gov.uk/government/consultations/extending-online-marketplace-liability-to-combat-non-compliance/extending-vat-online-marketplace-liability-to-combat-non-compliance"
+      },
+      {
+        "name": "Fiscal Solutions（期間 6/23–8/18、兩個保護選項、回應方式）",
+        "url": "https://www.fiscal-requirements.com/news/5674"
+      },
+      {
+        "name": "KPMG（提案摘要與截止日）",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/06/tnf-uk-consultation-on-expansion-of-marketplace-rules-to-sales-of-goods-by-domestic-sellers.html"
+      },
+      {
+        "name": "1stopVAT（deemed supplier 擴大範圍）",
+        "url": "https://1stopvat.com/uk-vat-consultation-2026-deemed-supplier-online-marketplaces"
+      },
+      {
+        "name": "Zmartly（現行規則對照、提案非法律）",
+        "url": "https://zmartly.co.uk/news-insights/uk-ecommerce-vat-registration-guide"
+      },
+      {
+        "name": "Lanop（現行義務仍有效、對帳風險）",
+        "url": "https://lanop.co.uk/news/online-marketplace-vat-rules"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-17",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/30 倒數 44 天】Amazon B2B 營業時間到貨率須達 90%：10/30 未改善停售 B2B 版位，準時送到也可能算失敗",
+    "summary": "這是 9-10 月 FBM 賣家的第二道關卡，而它衡量的東西和一般到貨率不一樣：\n        ① 規則（Seller Central 官方公告）：9/30 起營業時間到貨率（BHDR）須達 90% 以上，以滾動 14 天計算自營履約（FBM）寄給 Amazon Business 客戶的貨件。9/30 低於 90% 會收到通知與改善建議；到 10/30 仍未改善，B2B 版位可能被停用。FBA 與一般零售版位不受影響。\n        ② 反直覺的地方：它算的是是否在買方的營業時間內送達，不是有沒有在承諾日送到。準時但晚上送達、而客戶下午關門，一樣算失敗 —— 而這件事賣家自己控制不了，取決於承運商的派送時段。\n        ③ 範圍：官方明列美國、英國、德國。Cross-Border Magazine 7/13 同日報導 Amazon 正在多個歐洲主要站點收緊 FBM 到貨績效要求，因此宜當全歐訊號而非只是美國政策。\n        ④ 和 9/1 的關係要講清楚（ecommercenews.eu 7/2）：9/1 是德國 FBM 一般到貨率（OTDR）90% 開始可停用 listing；BHDR 是B2B 端的第二道，門檻同為 90%、但時間點是 9/30 與 10/30。同一批 FBM 賣家在 9-10 月要連過兩關。\n        ⑤ 這個指標原本不痛：BHDR 長期只是 Seller Central 裡的資訊性 metric，7/13 起才轉為可執行。多數賣家從沒調過它，也不知道自己現在幾分。\n        結論：門檻是 90%，但真正的問題是「你連現在的分數都還沒看過」。",
+    "public_impact": "Amazon 將一項原本只供參考的指標轉為可執行的績效門檻。依 Seller Central 公告，自 2026 年 9 月 30 日起，專業賣家寄給 Amazon Business 客戶的自營履約貨件，其「營業時間到貨率」（Business Hour Delivery Rate）須維持在 90% 以上，以滾動 14 天期間計算。9 月 30 日低於門檻者會收到通知與改善建議，若到 10 月 30 日仍未改善，其自營履約的商品可能對 Amazon Business 買家停止銷售；平台履約（FBA）與一般零售版位不受影響。這項指標特別之處在於它衡量的是貨件是否在買方的營業時間內送達，而非是否在承諾日送達，因此即使準時、但送達時間落在客戶已打烊的時段，仍可能被計為失敗，而派送時段往往取決於承運商而非賣家。官方明列適用美國、英國與德國三個站點；另有業界媒體於 7 月 13 日報導 Amazon 正在多個歐洲主要站點收緊自營履約的到貨績效要求。需注意的是，德國自 9 月 1 日起已有另一項一般到貨率 90% 的要求可導致商品停用，兩者門檻相同但時間點與適用對象不同。",
+    "public_action": "① 今天就到 Seller Central 拉出自己的營業時間到貨率，多數賣家從未檢視過這項指標，因為它過去只是資訊性數據；② 若分數偏低，正確的處理方向不是提早出貨，而是改用派送時段較可控的物流服務、把有企業客戶需求的商品改由平台履約，或把一般消費者與企業客戶的出貨流程分開處理，因為失敗原因通常是承運商的派送時段而非出貨速度；③ 由於採滾動 14 天計算，9 月 16 日之後的表現才會計入 9 月 30 日的判定，實務上調整必須在 9 月中之前完成；④ 企業客戶訂單通常客單價較高、回購穩定、退貨率較低，一旦相關商品被停售，損失會集中在營收貢獻度較高的部分，不宜低估；⑤ 若決定改由平台履約，時程需同時對齊第四季的入庫死線，兩件事必須一起規劃；⑥ 官方公告明列的適用站點為美國、英國與德國，其他歐洲站點目前屬於同一政策方向的觀察範圍，實際適用請以自己帳號收到的通知與 Seller Central 公告為準。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central 官方公告（9/30 門檻、滾動 14 天、10/30 停用）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/57222b70-40df-4574-aa0f-9f815c197987"
+      },
+      {
+        "name": "Nova Analytics（US/UK/DE 適用、7/13 由資訊性轉可執行、Cross-Border Magazine 全歐訊號）",
+        "url": "https://novadata.io/resources/news/amazon-fbm-business-hour-delivery-rate-90-percent-september-2026"
+      },
+      {
+        "name": "Ecommerce News Europe（德國 9/1 OTDR 與 9/30、10/30 B2B 時程）",
+        "url": "https://ecommercenews.eu/amazon-tightens-fulfilled-by-merchant-requirements"
+      },
+      {
+        "name": "SellerLegend（英德兩站 9/1 意義不同的釐清）",
+        "url": "https://sellerlegend.com/amazon-fbm-requirements-uk-germany-2026"
+      },
+      {
+        "name": "Seller Central（BHDR 原為資訊性指標的官方說明）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/75cc90f4-4ea2-41f0-9005-e6b7a5bbbbea"
+      },
+      {
+        "name": "Sellers Umbrella 8/11（滾動 14 天、通知在超標後才到）",
+        "url": "https://www.prlog.org/13163837-sellers-umbrella-flags-amazons-90-business-hour-delivery-rate-deadline-of-september-30.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-14",
     "type": "daily",
     "tags": [
