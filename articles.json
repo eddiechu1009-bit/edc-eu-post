@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-08-21",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【8/20 Destatis】德國 7 月 PPI +3.0% YoY 為 2023/4 以來最快、月增 1.1% 遠超預期 0.7%：礦油產品 +31.4%、銅 +28.7%",
+    "summary": "8/20 三份官方數據同時落地，方向一致：上游成本重新加速、下游需求沒跟上。\n        ① 生產者物價（Destatis PE 298）：7 月 PPI 年增 3.0%、月增 1.1%，共識為 2.7%／0.7%（Trading Economics）。這是2023 年 4 月以來最快、連四個月上升（6 月 +1.8%／-0.3%）。扣除能源後年增 2.7%、月增僅 0.1%。\n        ② 分項才看得出結構：能源年增 3.8%，礦油產品 +31.4%（Destatis 歸因中東衝突）、暖氣油 +52.0%。中間財 +5.4%，金屬 +12.6%、銅 +28.7%、貴金屬 +31.8%。反向是非耐久消費財 -2.3%、食品 -4.6%。\n        ③ 貿易與建築同步：德國 H1 出口 €8,178 億（+3.9%）、進口 €7,121 億（+4.7%），對美出口 -6.1%、自中國進口 +8.8%。Eurostat 歐元區 6 月建築產出月減 1.3%，5 月由 +0.4% 下修到 +0.2%。\n        結論：上游 +3.0%、下游消費財 -2.3%，被壓縮的就是中間那層毛利。",
+    "public_impact": "德國聯邦統計局 8 月 20 日發布，7 月工業生產者物價年增 3.0%、月增 1.1%，為 2023 年 4 月以來最快的年增速度，並連續第四個月上升（6 月為年增 1.8%、月減 0.3%）；市場原先預期年增 2.7%、月增 0.7%。扣除能源後年增 2.7%、月增僅 0.1%，代表這波上漲幾乎集中在能源與金屬。分項來看，能源年增 3.8%，其中礦油產品年增 31.4%（官方歸因於中東地區衝突）、暖氣用油 +52.0%、汽柴油 +29.4%；中間財年增 5.4%，金屬 +12.6%、銅與銅半成品 +28.7%、貴金屬 +31.8%、基礎化學品 +11.5%。反向的是非耐久消費財年減 2.3%、食品年減 4.6%。同日德國另發布上半年出口 8,178 億歐元（+3.9%）、進口 7,121 億歐元（+4.7%），對美國出口減少 6.1%、自中國進口增加 8.8%。歐盟統計局同日公布歐元區 6 月建築產出月減 1.3%，其中西班牙年減 8.5%、法國年減 4.5%。",
+    "public_action": "① 引用成本數字時建議同時說明「上游年增 3.0%、扣除能源後僅 2.7%」，因為多數原料的實際漲幅與總數落差不小；② 上游年增 3.0% 對照非耐久消費財年減 2.3%，顯示成本上升難以完全轉嫁到終端售價，毛利壓力集中在中間環節，定價評估宜以毛利率而非售價漲幅為指標；③ 品類差異很大：銅 +28.7%、貴金屬 +31.8% 主要影響 3C 配件、燈具、五金、小家電與飾品，礦油 +31.4% 主要影響塑膠件、包材與運費，而食品類成本今年反而在下降，不宜套用同一套假設；④ 生產者物價不等於消費者物價，兩者之間的傳導未必發生，建議不要據此推論通膨將重新加速；⑤ 建築產出月減 1.3%，且西班牙與法國年減幅度明顯，居家改造、DIY、園藝與建材相關品類的下半年需求假設宜保守，並按站點分別評估；⑥ 值得留意的後續時點為 8 月 21 日歐元區消費者信心快報與各國製造業採購經理人指數初值、9 月 8 日德國 7 月貿易數據，以及 9 月 10 日歐洲央行利率決策。",
+    "sources": [
+      {
+        "name": "Destatis 8/20 新聞稿 No. 298「Producer prices in July 2026: +3.0% on July 2025」（月增 1.1%、扣能源 +2.7%、能源 +3.8%、礦油 +31.4%、銅 +28.7%、非耐久消費財 -2.3%、食品 -4.6% 等完整分項）",
+        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_298_61241.html"
+      },
+      {
+        "name": "Destatis 8/20 新聞稿 No. 296「German exports in first half of 2026: +3.9%」（出口 €8,178 億、進口 €7,121 億、順差 €1,057 億、對美 -6.1%、自中國 +8.8%）",
+        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_296_51.html"
+      },
+      {
+        "name": "Eurostat 8/20「Production in construction down by 1.3% in the euro area」（6 月月減 1.3%、5 月下修至 +0.2%、西班牙年減 8.5%、法國 -4.5%）",
+        "url": "https://ec.europa.eu/eurostat/product?code=4-20082026-ap"
+      },
+      {
+        "name": "Trading Economics 德國 PPI（市場共識年增 2.7%／月增 0.7%、2023 年 4 月以來最快、連續第四個月上升）",
+        "url": "https://tradingeconomics.com/germany/producer-prices-change"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-08-21",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/27 倒數 37 天】EU 保固雙標示上路：實施條例 2025/1960 禁止「巢狀顯示」，但執委會自家指引卻允許用連結",
+    "summary": "9 月死線群裡最少被討論、但影響面最廣的一條：不看品類、不看規模，對歐盟消費者賣實體商品就適用。\n        ① 兩張標示、兩套規則（法源 Richtlinie (EU) 2024/825＋實施條例 (EU) 2025/1960）：自 9/27 起，Gewährleistungslabel（法定瑕疵擔保）幾乎全體 B2C 實體商品賣家適用；Garantielabel（製造商保固）僅在四條件同時成立才要——免費、明示涵蓋整件商品耐久性、期間超過 2 年、且賣家有拿來宣傳。\n        ② 法規與指引互相打架：實施條例要求 Gewährleistungslabel 直接以彩色圖形足夠尺寸嵌入、明文禁止巢狀顯示（連結／icon／縮圖點開才展開），Garantielabel 反而明文允許。但執委會自家實務指引卻把「明確標示的連結」列為可行選項——法規優先於不具拘束力的指引。\n        ③ 工作量在動態欄位（Onlinehändler News 8/20）：Garantielabel 須逐一填年數、法律上的保固人（不必然是商品品牌）、型號識別碼，字體指定 Inter，其餘不得改動；且須締約前顯示並出現在訂單確認的耐久媒介上。一家 2 萬件標示保固的店得逐件處理。\n        結論：漏標、標錯、標晚都算違反締約前資訊義務，在德國就是可被同業直接寄警告函。",
+    "public_impact": "依 IT-Recht-Kanzlei 與 Onlinehändler News 的整理，歐盟自 2026 年 9 月 27 日起要求兩項新的商品保固相關圖形標示，法律依據為指令 (EU) 2024/825 與實施條例 (EU) 2025/1960，德國透過修訂民法施行法第 246 條與第 246a 條落實。第一項是法定瑕疵擔保的「協調化告知」，原則上所有向消費者銷售商品的線上商店都適用；第二項是製造商保固的「協調化標示」，僅在製造商保固免費、明示涵蓋整件商品的耐久性、期間超過兩年，且製造商已提供資訊而賣家又以此宣傳時才適用。實施條例要求第一項標示以彩色圖形、足夠尺寸直接嵌入，並明文禁止以連結、圖示或小縮圖點擊後才展開的「巢狀顯示」；第二項標示則明文允許巢狀。值得注意的是，歐盟執委會自行發布的實務指引卻把「以明確標示的連結點擊開啟原尺寸」列為可行選項，與法規文字不一致。標示須在締約前顯示，並另行出現在訂單或契約確認的耐久媒介上，例如電子郵件、PDF、圖檔附件或紙本。",
+    "public_action": "① 由於法規文字與執委會指引在「是否可用連結」上不一致，而具拘束力的是法規本身，較保守的做法是直接以彩色圖形嵌入、不採連結方案；② 製造商保固標示是需要逐一編輯的模板，須填入保固年數、法律上保固人的名稱（不必然等於商品品牌）與型號識別碼，字體指定為 Inter，其餘元素不得變動，商品數量多的賣家宜及早估算工作量；③ 可行的減量做法是把法定瑕疵擔保標示集中顯示在購物車或結帳頁，而非每一個商品頁；④ 除頁面顯示外，訂單確認也須以耐久媒介提供標示，僅在網站上放參照或事後補連結不足以符合要求；⑤ 建議先做四項盤點：哪些商品頁面實際宣傳了製造商保固、該保固是否符合免費且超過兩年且涵蓋整件耐久性的條件、製造商是否已提供必要資料、訂單確認流程是否能夾帶圖檔；⑥ 在部分歐盟國家，此類締約前資訊義務的違反主要風險是競爭對手或消費者保護團體發出警告函，而非行政罰款，宜依所在市場評估實際風險型態；⑦ 若透過第三方平台銷售，顯示版位可能不在賣家控制範圍內，建議直接向各平台確認其顯示方案與需填欄位。",
+    "sources": [
+      {
+        "name": "IT-Recht-Kanzlei「Gewährleistungslabel ab 27.09.2026: Nun doch geschachtelte Anzeige zulässig?」（RA Phil Salewski，7/30；法源 Richtlinie (EU) 2024/825＋實施條例 (EU) 2025/1960、德國 Art. 246／246a EGBGB、禁巢狀 vs 執委會指引允許連結的矛盾、建議集中放購物車／結帳頁）",
+        "url": "https://www.it-recht-kanzlei.de/gewaehrleistung-label-leitlinien-geschachtelt.html"
+      },
+      {
+        "name": "IT-Recht-Kanzlei「FAQ zum Gewährleistungs- und Garantielabel ab 27.09.2026」",
+        "url": "https://www.it-recht-kanzlei.de/faq-gewaehrleistunglabel-garantielabel.html"
+      },
+      {
+        "name": "Onlinehändler News 8/20「Garantielabel ab September: Der unterschätzte Aufwand für Shops」（Yvonne Bachmann；9/27 日期、四個適用條件、XX／保固人／型號三個動態欄位、字體 Inter、耐久媒介義務、2 萬 SKU 工作量、Kaufland 自動生成、Händlerbund 編輯器預計 9 月初）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/garantielabel-ab-september-unterschaetzte-aufwand-shops"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-08-21",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【8/2 已生效・最被低估】AI 法 Art.50：AI 生成的產品圖可能算 deepfake 須標示，罰則最高 €1,500 萬或 3%、中小企取低者",
+    "summary": "已經生效 19 天，但幾乎沒有賣家知道它管到自己的商品圖——因為 AI Omnibus 延後了高風險義務，很多人以為整部法都延了。\n        ① 已在執行（執委會 7/31 新聞稿）：自 8/2 起執委會 AI Office 與各國主管機關開始執行，透明度規則同日適用——聊天機器人須告知正在跟 AI 對話、deepfake 須標示、生成內容須帶機器可讀標記。約 190 個組織已簽署透明度行為準則。\n        ② 為什麼產品圖會落進 deepfake：Art. 50(4) 的義務落在部署者身上，而 deepfake 定義包含與真實存在的人、物件、地點相似且會被誤認為真實的影像。真實商品就是「物件」——把實際沙發合成進客廳、換模特兒臉、生成從未被拍過的商品，都在射程內。反之裁切／亮度／去背不需標示，商品描述與分類文案不受文字標示義務約束，且不溯及既往。\n        ③ 只放 metadata 不夠：Art. 50(2) 的機器可讀標記主要是供應商義務，Art. 50(4) 要的是對人揭露。t3n 8/20 剛好打了對照：Anthropic 為配合標示義務加隱形浮水印，約四小時後就出現移除工具。\n        結論：Art. 99(4) 上限 €1,500 萬或營收 3% 取高者，但 99(6) 對中小企取低者——年營收 €200 萬約對應 €6 萬。",
+    "public_impact": "依歐盟執委會 7 月 31 日新聞稿，自 2026 年 8 月 2 日起，執委會 AI Office 與各國主管機關開始執行歐盟人工智慧法，透明度規則同日適用：聊天機器人須告知使用者正在與 AI 互動、deepfake 內容必須標示、生成或修改的內容須帶機器可讀標記；約 190 個組織已簽署《AI 生成內容透明度行為準則》。依 AI 法第 50 條第 4 項，義務落在使用該系統的部署者身上，而 deepfake 的定義包含與真實存在的人、物件、地點、實體或事件相似且足以被誤認為真實的 AI 生成或操作影像。真實商品屬於「物件」，因此把實際商品合成進場景、替換模特兒臉部，或生成從未拍攝過的商品影像，都可能落入標示義務。裁切、亮度調整、去背等一般後製不需標示，界線在於 AI 是否加入了原本不存在的內容。商品描述與分類頁文案不受該條的文字標示義務約束，且義務不溯及既往。罰則依第 99 條第 4 項為最高 1,500 萬歐元或全球年營收 3%（取高者），但第 99 條第 6 項對中小企業與初創企業取較低者。",
+    "public_action": "① 建議先盤點商品圖產製流程中 AI 的實際使用位置，再標出其中含有真實商品、人物或場景且逼真到可能被視為實拍的影像；② 對這些影像加上人眼可見的標註，例如「以 AI 製作」或「局部經 AI 修改」，僅在 metadata 或 EXIF 欄位標記並不足夠，因為法規要求的是對人揭露，且平台重新編碼圖片時這類資料可能遺失；③ 不需標示的情況同樣值得確認清楚，以免過度處理：裁切、亮度、去背等一般後製、純虛構插圖與明顯圖形化呈現、商品描述與分類文案，以及 8 月 2 日之前的既有素材；④ 若使用 AI 客服或聊天機器人，須在首次互動時即告知對方正在與 AI 對話，雖有「明顯可辨即免除」的例外，實務上不宜倚賴；⑤ 常被引用的 3,500 萬歐元或 7% 罰則僅適用於法規第 5 條的禁止行為，與商品圖標示無關，中小企業適用的是取較低者的計算方式；⑥ 各國市場監管機關負責執行，代表同一條規則在不同成員國的執法節奏可能不一致，建議依主要銷售市場分別確認；⑦ 後續時點為 12 月 2 日既有系統的機器可讀標記適用日，以及 2027 年 12 月 2 日高風險義務適用日。",
+    "sources": [
+      {
+        "name": "歐盟執委會 7/31 新聞稿「Commission starts enforcing AI Act rules and new transparency requirements on 2 August」（8/2 起執行、聊天機器人須告知、deepfake 須標示、機器可讀標記、逾 180 組織簽署）",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+      },
+      {
+        "name": "歐盟執委會「Strong backing for the Code of Practice on Transparency of AI-generated Content」（約 190 個組織、第一節 82／第二節 152、頁面最後更新 8/20、9 月啟動兩個工作小組）",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content"
+      },
+      {
+        "name": "歐盟執委會 7/20「Commission publishes guidelines on transparency obligations for providers and deployers of certain AI systems」",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems"
+      },
+      {
+        "name": "AI Act Art. 50 條文（第 4 項 deepfake 揭露義務、藝術創作例外、公共利益文字例外、第 5 項首次接觸即須揭露；頁面註明為機器翻譯版）",
+        "url": "https://artificialintelligenceact.eu/article/50/"
+      },
+      {
+        "name": "wortfilter.de 8/20「KI-Kennzeichnungspflicht: Dein Produktfoto ist ein Deepfake」（Mark Steier；零售場景舉例、不需標示的一般後製界線、Art. 99(4)／99(6) 罰則與中小企取低者、metadata 不足）",
+        "url": "https://wortfilter.de/ki-kennzeichnungspflicht-onlinehaendler/"
+      },
+      {
+        "name": "t3n 8/20「Claude-Wasserzeichen: Coder veröffentlicht Tool zum Entfernen nur vier Stunden nach Anthropics Ankündigung」（Marvin Fuhrmann，引 Wired；SynthID、GitHub 逾 1.5 萬星／1,700 fork、Anthropic 承認改寫後浮水印可能失效）",
+        "url": "https://t3n.de/news/claude-wasserzeichen-tool-entfernen-1758888/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-08-21",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【8/19–8/20】Amazon.de 商品頁上線「Preisverlauf」價格歷史：1 個月／3 個月／1 年三檔，由 Rufus 供圖並直接推替代商品",
+    "summary": "這不是第三方外掛，是 Amazon 自己把 Keepa 那件事做進商品頁——對促銷定價的影響比任何費率調整都直接。\n        ① 看到什麼（Caschys Blog 8/19、Onlinehändler News 8/20）：Amazon.de 商品頁在價格附近出現「Preisverlauf」文字連結，點開是走勢圖，時間軸可選 1 個月／3 個月／1 整年，30 天檢視另標期間最低與最高價。資料由 AI 助理 Rufus 供應，沒看到連結時也可直接問 Rufus。\n        ② 現在是灰度、不是全面上線：兩份來源都說並非所有商品與通路都已顯示，讀者留言直接問是否 A/B 測試；有人回報看到幾週後又從 iOS App 消失。看起來需要登入，有 Prime Business 帳號回報看不到，部分商品 Rufus 回覆查無歷史。Amazon 未發官方公告，兩份來源皆為實測觀察。\n        ③ 對賣家的兩個後果：一是若 Rufus 判定價格不合理就直接建議替代商品——「定價偏高」變成會導流出去的訊號；二是買家能自己看穿只建立在人為墊高前價之上的折扣。\n        結論：沒有官方公告就沒有賣家指引，但也代表現在還來得及在它全面鋪開前把價格軌跡整理乾淨。",
+    "public_impact": "依 Caschys Blog 8 月 19 日與 Onlinehändler News 8 月 20 日的實測報導，Amazon.de 商品詳情頁在價格附近開始出現名為「Preisverlauf」的價格歷史連結，點開後顯示價格走勢圖，時間軸可選 1 個月、3 個月或 1 整年，30 天檢視另標出期間最低與最高價，資料由 Amazon 的 AI 助理 Rufus 提供，未看到連結時也可直接向 Rufus 查詢。目前並非所有商品與所有通路都已顯示，有讀者推測仍在 A/B 測試階段，也有人回報功能出現後又從 iOS App 消失，看起來需要登入，且有 Prime Business 帳號回報看不到連結。Amazon 並未就此發布官方公告，兩份來源皆為實測觀察，目前觀察範圍僅限德國站。Onlinehändler News 另指出，若 Rufus 判定價格不合理，會直接向買家建議替代商品，且消費者將能自行識別僅建立在人為墊高的建議零售價或前價之上的折扣。",
+    "public_action": "① 由於價格歷史一旦內建於商品頁，買家可在購買當下驗證折扣深度，建議先拉出主力商品過去 12 個月的實際成交價曲線，找出震幅明顯的時段；② 特別檢查是否存在促銷前調高、促銷時打折的階梯式痕跡，以及建議零售價或前價是否有真實銷售支撐，這類做法在一年期檢視下會相當明顯；③ 影響較大的不是價格偏高的賣家，而是價格上下劇烈震盪的賣家，建議把折扣建立在穩定的日常價之上，而非靠拉高前價製造深度；④ 值得注意的是報導提到 AI 助理在判定價格不合理時會建議替代商品，代表定價紀律同時是流量議題，不只是毛利議題；⑤ 該功能目前為部分曝光、平台未發布官方公告，且觀察集中在德國站，建議不要假設其他市場會以相同形式或時間軸呈現；⑥ 建議在下半年主要促銷檔期的提交死線之前完成價格軌跡整理，檔期開始後調整空間有限。",
+    "sources": [
+      {
+        "name": "Onlinehändler News 8/20「Preisverlauf auf Amazon – das müssen Händler wissen」（Tina Plewinski；amazon 自有功能非外掛、1／3／12 個月三檔、Rufus 供圖、判定價格不合理即推替代商品、可看穿墊高前價的折扣、尚未全面顯示）",
+        "url": "https://ohn.haendlerbund.de/amazon/marktplatz/preisverlauf-amazon-haendler-wissen"
+      },
+      {
+        "name": "Caschys Blog 8/19「Amazon-Preisverlauf zieht direkt auf den Produktseiten ein」（Carsten Knobloch，via Frankfurter Rundschau；30 天／3 個月／1 年、30 天檢視另標最低與最高價、Amazon.de 與歐元計價、iOS App 截圖、需登入、Prime Business 帳號看不到、讀者質疑 A/B 測試、部分商品 Rufus 回覆查無歷史）",
+        "url": "https://stadt-bremerhaven.de/amazon-preisverlauf-zieht-direkt-auf-den-produktseiten-ein/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-08-21",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【8/20・單一來源待證】PPWR 授權代表義務的第一批後果：德奧中小賣家開始停止跨 EU 出貨，每多一國約 €300 行政成本",
+    "summary": "8/10–8/13 日報記的是 PPWR 生效與 EPR 排隊，這次的新進展是「賣家的實際選擇」出現了：不是想辦法合規，而是直接退出跨 EU 出貨。\n        ① 這是觀察彙整、不是統計（Onlinehändler News 8/20）：報導明確自承沒有任何調查、統計或樣本數，「越來越多賣家」來自個別商家在社群與部落格的公開宣告。只能當方向性訊號，不可引為市場規模。\n        ② 理由是不確定性、不是金額：受訪者說得為 27 國逐一委任授權代表，卻不知道各國實際訂單量；報導記每多一國行政負擔約 €300。另一項是符合性聲明——用了 16 種包裝的賣家得逐一向供應商取得，每種約半天工時。\n        ③ 案例規模差距很大：奧地利 Stofftiger 原年出貨最多 1.5 萬件，現只留德國與瑞士；Knopftruhe 因海外量攤不平年費，8/1 起先暫停。對照組 niceshops 出口佔比 88%、海外營收 €1.6 億，動用2 名專職人員建系統。\n        ④ 政治面有動靜、規則沒變：報導稱執委會正推動修改、並希望各國在達成共識前從寬裁罰——此句僅此一來源、無官方文件佐證，列為待證。報導本身也強調修改成立前義務依然存在。",
+    "public_impact": "依 Onlinehändler News 8 月 20 日的報導，自歐盟包裝與包裝廢棄物規則於 8 月 12 日開始適用後，已有德國與奧地利的中小型網路商店公開宣告停止或縮減對其他歐盟國家的出貨。需要特別說明的是，該報導明確表示並未依據任何調查或統計，「越來越多賣家」的判斷來自個別商家在社群平台、部落格與新聞稿上的公開宣告，因此僅能作為方向性訊號，不足以推估市場規模。賣家給出的理由主要是不確定性而非單一金額：必須為 27 個成員國逐一委任授權代表，卻無法預估各國實際訂單量，報導記每增加一國的行政負擔約 300 歐元；另一項負擔是包裝符合性聲明，一家使用 16 種不同包裝的賣家須逐一向供應商取得聲明，每種約需半天工時。被點名的案例規模差距很大，一家原本年出貨最多 1.5 萬件的奧地利商店現在只留德國與瑞士，而出口佔比 88%、海外營收 1.6 億歐元的另一家奧地利業者則投入 2 名專職人員建置新系統。報導另稱議題已上到政治層面，惟該部分僅有單一來源、未取得官方文件佐證，且報導本身強調在具拘束力的修改出現前義務仍然存在。",
+    "public_action": "① 這則資訊來自個案彙整而非統計調查，建議只當方向性訊號，不要據此推估有多少賣家退出或市場份額如何移轉；② 真正的關鍵是成本結構而非金額大小：授權代表費用是不隨銷量變動的年度固定成本，因此決定因素是各國的攤平量，這也解釋了為何海外營收規模大的業者選擇投入人力，而小量業者選擇退出；③ 建議在擴張新市場前先做攤平量估算，比較該國預估年訂單量乘以平均毛利，與授權代表年費、生產者責任登記費用及符合性聲明工時的總和，攤不平就不宜開站，過去「先開站再養量」的做法在新規則下成本前置了；④ 對已在多國經營且量能足夠的賣家，合規投入實質上構成進入門檻，競爭環境反而可能改善；⑤ 可行的減量做法是先盤點實際使用的包裝種類數並合併規格，因為聲明份數與包裝種類數直接相關，這也同時降低運輸包裝端的文件工作量；⑥ 關於政治層面的緩解可能，建議只追蹤而不預設結果：歐洲議會針對微型企業豁免版本的審議，以及歐盟理事會對生產者責任制度的整體檢討，在具拘束力的修改出現前，現行義務仍然有效。",
+    "sources": [
+      {
+        "name": "Onlinehändler News 8/20「Wegen der PPWR: Immer mehr Händler stoppen den Versand ins EU-Ausland」（Yvonne Bachmann；明確自承無調查／統計、每國約 €300、16 種包裝各約半天工時、Stofftiger 年 1.5 萬件現僅 DE+CH、Tumultstoffe、Honigmanufaktur Eggers、Knopftruhe 自 8/1 暫停、niceshops 出口佔比 88%／海外營收 €1.6 億／2 名專職人員；報導引 Chip.de、Krone.at、Bild.de、Welt.de 與商家自身貼文，該等原始連結未逐一驗證）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/ppwr-stoppen-versand-eu-ausland"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-08-20",
     "type": "daily",
     "tags": [
