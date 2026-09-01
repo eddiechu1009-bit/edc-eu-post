@@ -14,6 +14,7 @@ import sys
 import re
 import json
 import glob
+from html import unescape as html_unescape   # 注意：函式內有名為 html 的區域變數，不能 import html
 from datetime import datetime, timedelta
 from collections import Counter
 
@@ -179,12 +180,21 @@ def analyze_articles(articles):
     for a in recent:
         tag_counter.update(a.get('tags', []))
 
-    # 國家旗幟統計（從 summary 開頭抓 emoji）
-    country_pattern = re.compile(r'[\U0001F1E6-\U0001F1FF]{2}')
+    # 國家熱度統計：用關鍵字掃 title + summary + public_impact。
+    # （舊版是抓 summary 前 50 字的國旗 emoji，但 summary 格式改成純文字條列後
+    #   早就不放國旗了，計數器恆為空 → 這欄變成死欄位，故改關鍵字法。）
+    COUNTRY_KEYWORDS = (
+        '歐盟', '德國', '法國', '義大利', '西班牙', '英國', '荷蘭', '波蘭', '比利時',
+        '瑞典', '愛爾蘭', '奧地利', '捷克', '丹麥', '葡萄牙', '希臘', '匈牙利',
+        '羅馬尼亞', '瑞士', '挪威', '芬蘭', '土耳其', '美國', '中國', '日本',
+        '印度', '越南',
+    )
     country_counter = Counter()
     for a in recent:
-        flags = country_pattern.findall(a.get('summary', '')[:50])
-        country_counter.update(flags)
+        blob = ' '.join(str(a.get(f) or '') for f in ('title', 'summary', 'public_impact'))
+        for c in COUNTRY_KEYWORDS:
+            if c in blob:
+                country_counter[c] += 1
 
     # 公定假日白名單（不產日報的合理日期）。日報作者在台灣，故 EU + 台灣假日都算合理缺席。
     HOLIDAYS = {
@@ -286,48 +296,77 @@ def check_sidebar_dates():
         return {'error': 'Cannot find sidebar section'}
 
     section_html = sidebar_section.group(0)
-    # 格式：<strong>4/17</strong> Amazon FBA...
-    dates = re.findall(
-        r'<strong>(\d{1,4}/\d{1,2}(?:/\d{1,2})?)</strong>\s*([^<]+)',
+    # 先抓「整個 <strong>…</strong> + 後面的敘述」，日期解析交給下面的 _latest_date()。
+    # （舊版 regex 只吃單一日期 `<strong>(\d+/\d+)</strong>`，遇到 `9/9 / 9/16`、
+    #   `10/21 / 10/28`、`10/15-1/14` 這種雙日期／區間寫法會靜默丟棄整筆條目 ——
+    #   而這些偏偏都是旺季到倉死線／附加費，過期後永遠不會被報出來。）
+    raw_entries = re.findall(
+        r'<strong>([^<]+)</strong>\s*([^<]+)',
         section_html
     )
 
     now = datetime.now()
+
+    def _latest_date(label):
+        """從一個 sidebar 標籤裡取出「最後一個」日期。
+
+        支援 `9/1`、`2027/1/1`、`2027/2`、`9/9 / 9/16`（雙日期）、`10/15-1/14`（跨年區間）。
+        判斷過期要看區間結束日，所以取最晚的那個；區間內若後一個日期比前一個小
+        （10/15 → 1/14），視為跨年，年份 +1。
+        """
+        tokens = re.findall(r'\d{1,4}/\d{1,2}(?:/\d{1,2})?', label)
+        found = []
+        prev = None
+        for tok in tokens:
+            parts = tok.split('/')
+            try:
+                if len(parts) == 3:
+                    year, month, day = int(parts[0]), int(parts[1]), int(parts[2])
+                elif len(parts) == 2 and len(parts[0]) == 4:   # 2027/2
+                    year, month, day = int(parts[0]), int(parts[1]), 1
+                elif len(parts) == 2:                          # 9/16
+                    year, month, day = now.year, int(parts[0]), int(parts[1])
+                    if prev is not None and (month, day) < prev:  # 10/15-1/14 跨年
+                        year += 1
+                else:
+                    continue
+                found.append(datetime(year, month, day))
+                prev = (month, day)
+            except ValueError:
+                continue
+        return max(found) if found else None
+
     expired = []
+    recent_past = []
     upcoming_2w = []
     future = []
+    unparsed = []
 
-    for date_str, desc in dates:
-        try:
-            # 支援 4/17, 2027/2 等格式
-            parts = date_str.split('/')
-            if len(parts) == 2:
-                if len(parts[0]) == 4:  # 2027/2
-                    year, month = int(parts[0]), int(parts[1])
-                    day = 1
-                else:  # 4/17
-                    year, month, day = now.year, int(parts[0]), int(parts[1])
-            elif len(parts) == 3:
-                year, month, day = int(parts[0]), int(parts[1]), int(parts[2])
-            else:
-                continue
-
-            event_date = datetime(year, month, day)
-            days_diff = (event_date - now).days
-
-            entry = {'date': date_str, 'desc': desc.strip(), 'days': days_diff}
-            if days_diff < -14:
-                expired.append(entry)
-            elif 0 <= days_diff <= 14:
-                upcoming_2w.append(entry)
-            elif days_diff > 14:
-                future.append(entry)
-        except (ValueError, IndexError):
+    for date_str, desc in raw_entries:
+        event_date = _latest_date(date_str)
+        if event_date is None:
+            unparsed.append({'date': date_str.strip(), 'desc': desc.strip()})
             continue
 
+        days_diff = (event_date - now).days
+        # desc 直接取自 HTML，`&lt;` 這類實體要還原成 `<` 才好讀
+        entry = {'date': date_str.strip(), 'desc': html_unescape(desc.strip()), 'days': days_diff}
+        if days_diff < -14:
+            expired.append(entry)
+        elif days_diff < 0:
+            # 剛過期但還沒滿 2 週：先留著（下次月檢才該清），但要列出來避免無聲消失
+            recent_past.append(entry)
+        elif days_diff <= 14:
+            upcoming_2w.append(entry)
+        else:
+            future.append(entry)
+
     return {
-        'total_dates': len(dates),
+        'raw_total': len(raw_entries),
+        'unparsed': unparsed,
+        'total_dates': len(raw_entries) - len(unparsed),
         'expired_over_2w': expired,
+        'recent_past': recent_past,
         'upcoming_2w': upcoming_2w,
         'future': future,
     }
@@ -502,10 +541,18 @@ def main():
 
         sd = report['sidebar_dates']
         print("📅 關鍵日期 sidebar")
-        print(f"   總條目數: {sd['total_dates']}")
+        print(f"   總條目數: {sd['total_dates']} / {sd.get('raw_total', sd['total_dates'])}")
+        if sd.get('unparsed'):
+            print(f"   ⚠️ 有 {len(sd['unparsed'])} 筆條目解析不出日期（不會被納入過期偵測）:")
+            for u in sd['unparsed']:
+                print(f"      <strong>{u['date']}</strong> {u['desc']}")
         if sd['expired_over_2w']:
             print(f"   ⚠️ 過期超過 2 週（建議清理）:")
             for e in sd['expired_over_2w']:
+                print(f"      {e['date']} - {e['desc']} (過期 {-e['days']} 天)")
+        if sd.get('recent_past'):
+            print(f"   🕐 剛過期未滿 2 週（先留著，下次月檢再清）:")
+            for e in sd['recent_past']:
                 print(f"      {e['date']} - {e['desc']} (過期 {-e['days']} 天)")
         if sd['upcoming_2w']:
             print(f"   🔥 兩週內即將發生:")
