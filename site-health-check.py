@@ -281,6 +281,34 @@ def analyze_articles(articles):
     }
 
 
+def check_focus_card():
+    """檢查「🔥 X 月焦點專題」卡片的月份是否還是當月。
+
+    2026-09-01 月檢的教訓：這張卡停在「7 月焦點專題」掛了整整兩個月沒人發現，
+    因為 check_sidebar_dates() 只掃「📅 關鍵日期總覽」那一張 sidebar-card。
+    卡片標題自帶月份，直接比對即可，成本近乎零。
+    """
+    html_path = os.path.join(SITE_DIR, 'index.html')
+    with open(html_path, 'r', encoding='utf-8') as f:
+        page = f.read()
+
+    m = re.search(r'🔥\s*(\d{1,2})\s*月焦點專題', page)
+    if not m:
+        return {'found': False}
+
+    card_month = int(m.group(1))
+    now = datetime.now()
+    # 月份差（考慮跨年：卡片寫 12 月而現在是 1 月 → 落後 1 個月，不是領先 11 個月）
+    behind = (now.month - card_month) % 12
+    return {
+        'found': True,
+        'card_month': card_month,
+        'current_month': now.month,
+        'months_behind': behind,
+        'stale': behind != 0,
+    }
+
+
 def check_sidebar_dates():
     """檢查關鍵日期 sidebar 的狀態"""
     html_path = os.path.join(SITE_DIR, 'index.html')
@@ -460,6 +488,7 @@ def main():
     report['weekly_coverage'] = check_weekly_coverage()
     report['delivery_status'] = check_delivery_status()
     report['sidebar_dates'] = check_sidebar_dates()
+    report['focus_card'] = check_focus_card()
 
     if check_links:
         report['link_health'] = check_dead_links(articles)
@@ -537,6 +566,17 @@ def main():
             print(f"      注意 auto-send.py 會直接 Send()，不是開草稿，寄前先確認收件人")
         else:
             print(f"   ✅ 近 {ds['window_days']} 天所有 .eml 都有寄送成功紀錄")
+        print()
+
+        fc = report['focus_card']
+        print("🔥 焦點專題卡片")
+        if not fc.get('found'):
+            print("   ⚠️ 找不到「🔥 X 月焦點專題」卡片（標題被改過？請確認 index.html）")
+        elif fc['stale']:
+            print(f"   ⚠️ 卡片仍寫「{fc['card_month']} 月」，落後 {fc['months_behind']} 個月"
+                  f"（當月 {fc['current_month']} 月）→ 三個專題項目也要一併換掉")
+        else:
+            print(f"   ✅ 已是當月（{fc['current_month']} 月）")
         print()
 
         sd = report['sidebar_dates']
