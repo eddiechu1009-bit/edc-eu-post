@@ -1,5 +1,191 @@
 [
   {
+    "date": "2026-09-02",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/1 Eurostat】歐元區 8 月 HICP 3.3% 但核心全面降溫：能源年增 14.3% 獨撐、服務降到 3.0%，ECB 9/10 升息機率 98.9%",
+    "summary": "新進展是：昨天只有德國單國數字，今天歐元區整體初值出爐，而且表頭與核心第一次明確走反方向。\n        ① 表頭（Eurostat 9/1 flash）：歐元區 8 月 HICP 年增 3.3%（7 月 2.9%、市場預期 3.3%），月增 0.4%（前值 0.2%）。\n        ② 能源獨力推升：能源年增 14.3%，7 月才 10.3%——單一分項就解釋掉幾乎全部的加速。\n        ③ 核心同步降溫：服務由 3.3% 降到 3.0%；扣食品與能源的核心 2.1%（預期 2.3%、前值 2.2%）；Supercore 2.4%（預期 2.5%）。唯一上行的是非能源工業品 1.2%（前值 0.9%），食菸酒 1.2% 持平。\n        ④ 國別極度分化：立陶宛 5.8% 最高、賽普勒斯 5.2%（連 4 個月上行，去年同月為 0.0%）、義大利與荷蘭均 3.3%、德國 2.9%。\n        結論：這是一份「能源型通膨」而非需求型通膨的數據，但 ECB 仍會照升——LSEG 定價顯示 9/10 升息 25bp 到 2.50% 的機率已達 98.9%。",
+    "public_impact": "這份數據的關鍵不是表頭升到 3.3%，而是表頭與核心第一次明確走反方向。能源年增 14.3%（前月 10.3%）幾乎解釋掉全部的加速，而服務由 3.3% 降到 3.0%、扣除食品與能源的核心降到 2.1%（低於預期 2.3%）、Supercore 2.4%。這代表消費者對非能源商品的漲價容忍度其實在下降，賣家若拿 3.3% 當第四季漲價依據，等於把能源帳單轉嫁到自己商品價格上，價格競爭力會先受損。唯一上行的核心分項是非能源工業品 1.2%（前月 0.9%），這一項涵蓋消費電子、家電、家具、玩具等主要線上品類，幅度不大但方向轉向，意味上游成本已開始傳導到終端。利率方面，LSEG 定價顯示 9 月 10 日升息 25 個基點至 2.50% 的機率達 98.9%，對備貨型賣家而言旺季採購與資金成本上升正好重疊。國別差異極大：立陶宛 5.8%、賽普勒斯 5.2%（連四個月上行）、義大利與荷蘭 3.3%、德國 2.9%，小型高通膨市場的非必需品需求壓縮風險最高。",
+    "public_action": "① 第四季調價依據改用核心 2.1% 與非能源工業品 1.2%，不要用表頭 3.3%；能源驅動的通膨不代表消費者能接受商品漲價。② 售價調整上限建議控制在 1 至 2%，需要更多毛利就從商品組合、內容品質與配送體驗著手，而不是單純提價。③ 把 9 月 10 日升息 25 個基點視為既定事實納入現金流規劃，旺季入倉死線前的採購同時要評估短期營運資金成本。④ 能源密集品類（家電、照明、加熱、需冷鏈或重量大的商品）的第四季毛利預測建議重算，不要沿用上半年假設。⑤ 市場優先序分層：德國相對最穩（2.9%），義大利與荷蘭中性（3.3%），立陶宛（5.8%）與賽普勒斯（5.2%）等高通膨小市場的擴張可以延後。⑥ 後續關鍵時點：9 月 4 日歐元區 7 月零售銷售、9 月 7 日第二季 GDP 正式估計、9 月 10 日歐洲央行決議、9 月中旬歐元區 8 月調和物價終值（確認核心是否真的降到 2.1%）。",
+    "sources": [
+      {
+        "name": "Cyprus Mail 引述 Eurostat 9/1 flash 完整分項（一手數據轉載）",
+        "url": "https://cyprus-mail.com/2026/09/01/cyprus-inflation-rises-for-fourth-consecutive-month-to-hit-5-2-per-cent"
+      },
+      {
+        "name": "CNBC 9/1（LSEG 升息定價 98.9%）",
+        "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html"
+      },
+      {
+        "name": "Newsquawk 9/1（核心／Supercore 對比預期）",
+        "url": "https://newsquawk.com/blog/5742-us-market-open-surging-yields-weigh-on-equities-and-usd-firms-against-all-g10-peers"
+      },
+      {
+        "name": "Continuum Economics 9/1 ECB Preview",
+        "url": "https://continuumeconomics.com/a/6c8eb57c/ecb-preview-after-ez-cpi-a-25bps-hike"
+      },
+      {
+        "name": "Reuters 9/1（付費牆）",
+        "url": "https://www.reuters.com/business/euro-zone-inflation-rises-above-3-cementing-ecb-rate-hike-bets-2026-09-01/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-02",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/1 Destatis】德國 7 月零售實質 -3.4% 為五年最大跌幅：網購／郵購 -5.6%、非食品 -4.8%，燃油補貼退場放大跌幅",
+    "summary": "這是本期最該注意的一則：歐洲最大單一市場的線上通路單月實質衰退 5.6%。\n        ① 總體（Destatis 第 312 號新聞稿 9/1，日曆與季節調整後）：7 月零售營業額實質 -3.4% MoM、名目 -1.7%；市場原本預期 +0.4%，是五年來最大單月跌幅。年增實質 -2.5%、名目 +0.3%。\n        ② 網購／郵購 -5.6% 實質、-5.8% 名目（MoM）：年增實質 -0.8%。這是本則最該注意的一行，因為它不受加油站因素干擾。\n        ③ 非食品 -4.8% 實質、食品僅 -0.8% 實質——衰退明確集中在可選消費，不是全面性緊縮。\n        ④ 加油站 -9.1% 實質：Destatis 明白指出原因是 5、6 月適用的燃油折扣（Tankrabatt）到期，這是唯一被官方點名的成因。\n        ⑤ 基期被上修：6 月從初值 -0.7% 修正為實質 0.0%，也就是 7 月的落差不是低基期造成的。\n        結論：加油站解釋了跌幅的放大，但解釋不了網購 -5.6% 與非食品 -4.8%。",
+    "public_impact": "德國是歐洲最大單一線上市場，這份數據裡最值得注意的一行不是總體 -3.4%，而是網購與郵購單月實質 -5.6%、名目 -5.8%（年增實質 -0.8%）。這一項不受加油站因素干擾，代表線上通路本身在 7 月確實縮量。非食品實質 -4.8%、食品僅 -0.8%，衰退明確集中在可選消費，也就是消費電子、家居、服飾、玩具等主要線上品類。加油站實質 -9.1% 是官方唯一點名的成因（5、6 月燃油折扣到期），它放大了總體跌幅，但無法解釋網購與非食品的下滑。基期也不是藉口：6 月從初值 -0.7% 上修為 0.0%。把這份數據和 8 月核心通膨降溫合起來看，訊號是「消費者減量而非接受漲價」，任何靠提價保毛利的第四季計畫在德國風險最高。需要保留的一點是：這是初值，且德國零售短期統計自 2026 年 5 月起改制（新基期 2021、改用 Laspeyres 指數、報告單位改變），初值與 45 天後的修正值可能有落差，單月不宜過度外推。",
+    "public_action": "① 若 7 月德國站業績下滑，先確認是市場性因素再檢討操作：可引用的數字是網購／郵購實質 -5.6% MoM、非食品 -4.8%、食品 -0.8%。② 第四季德國市場假設從持平下調到保守，以年增實質 -2.5% 為參考錨點，成長主要來自檔期集中而非整體需求擴張。③ 備貨策略建議「時程不動、數量下修」：旺季入倉死線是硬期限不能延後，但首批數量可下修約 10 至 15% 並預留第二批補貨窗口，避免旺季後滯銷庫存撞上長期倉儲費。④ 德國市場避免走提價路線，實質縮量加上核心通膨降溫的組合下，提價會同時損失單量與價格競爭力；優先做組合銷售、多件折扣與商品內容轉換率。⑤ 引用總體 -3.4% 時務必一併說明加油站 -9.1% 的燃油折扣到期因素，否則數字容易被質疑誇大。⑥ 後續關注：9 月 4 日歐元區 7 月零售銷售可判斷德國是否為個案，10 月初德國 8 月零售確認是否回補。",
+    "sources": [
+      {
+        "name": "Destatis 第 312 號新聞稿 9/1（一手、含分項）",
+        "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_312_45212.html"
+      },
+      {
+        "name": "XTB 9/1（預期值 +0.4%、6 月修正）",
+        "url": "https://www.xtb.com/int/market-analysis/news-and-research/chart-of-the-day-de40-falls-for-a-second-straight-session-disastrous-german-retail-sales-data-01-09-2026"
+      },
+      {
+        "name": "FXStreet 9/1",
+        "url": "https://www.fxstreet.com/news/euro-edges-lower-against-british-pound-as-germanys-retail-sales-fall-more-than-expected-in-july-202609010654"
+      },
+      {
+        "name": "Business Standard 9/1",
+        "url": "https://www.business-standard.com/markets/capital-market-news/euro-edges-lower-after-downbeat-german-retail-sales-eur-inr-futures-linger-around-110-mark-126090100434_1.html"
+      },
+      {
+        "name": "Barchart（經 TradingView）9/1「五年最大跌幅」",
+        "url": "https://www.tradingview.com/news/barchart:5aa492cc5094b:0-global-bond-selloff-weighs-on-stocks"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-02",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/1 倒數 60 天】EU 海關 PID 強制申報：M-PID＋NS-PID 每一申報行都要填，通用品名不再過關、handling fee 同日待定",
+    "summary": "7/1 上路的 €3 小包稅只是第一階段，真正改變資料流的第二階段在 11/1，而且大部分賣家還沒接。\n        ① 三個 PID 代碼（執委會 Access2Markets 官方頁）：C127 M-PID（賣家／平台的商品識別碼，如 SKU）與 C128 NS-PID（製造商非標準化識別碼／料號）「所有情況一律必填」；C129 S-PID（EAN／ISBN 等標準化碼）「存在就要報」，沒有則用 Y081 例外聲明。\n        ② 時程：7/1 起自願、11/1 起強制，適用所有進口遠距銷售（distance sales of imported goods）。荷蘭報關業者明講：11/1 起海關可因 PID 缺漏或錯誤而拒收、查驗或進一步調查申報。\n        ③ 資料流責任在賣家端：申報是報關人提交，但官方要求資料「必須從賣家、平台完整且正確地流到報關人」。官方原文的判斷標準是：「通用商品描述不再足夠」。\n        ④ 分類深度決定 €3 的倍數：H7 用 6 位（HS）、H6 用 8 位（CN）、H1 用 10 位（TARIC）並依描述與原產地分行——同樣三項商品在 H6／H7 可能算一行（€3），在 H1 就是三行（€9）。\n        ⑤ handling fee 仍未定案：官方頁面寫「仍在討論中」，但列出的期限同樣是 11/1。\n        結論：11/1 撞在 Black Friday 前，這是今年剩下最容易被低估的營運斷點。",
+    "public_impact": "7 月 1 日上路的 €3 每項固定關稅只是第一階段，真正改變資料流的第二階段在 11 月 1 日。歐盟執委會官方說明列出三個代碼：C127 商家商品識別碼（M-PID，例如 SKU）與 C128 製造商非標準化識別碼（NS-PID，通常是工廠料號）在所有情況下一律必填；C129 標準化識別碼（EAN、ISBN 等）存在就要申報，沒有則用 Y081 聲明。7 月 1 日起可自願申報，11 月 1 日起強制。荷蘭報關業者指出，屆時海關可因 PID 缺漏或錯誤而拒收、查驗或進一步調查申報，官方判斷標準是「通用商品描述不再足夠」。申報由報關人提交，但資料必須從賣家或平台完整正確地流到報關人，缺口責任實際落在賣家端。處理費（handling fee）官方仍寫「討論中」，但列出的期限同樣是 11 月 1 日。最大的風險不是費用，而是這個日期正好撞在 Black Friday 前的貨流高峰。",
+    "public_action": "① 影響範圍先確認：這條規則適用進口遠距銷售，也就是從歐盟境外直接寄給消費者的訂單；已在歐盟境內備貨、由境內倉出貨的訂單不屬此範圍。② 60 天內唯一必須完成的事是補齊料號：拉一份「SKU 對製造商料號」對照表，找出沒有 NS-PID 的商品並向工廠索取；標準化識別碼（EAN／GTIN）有就填，沒有則用 Y081 例外聲明。③ 時程往前壓到 10 月中旬完成，並與報關代理或物流商跑一次測試申報，把緩衝留給旺季。④ 直發風險升高的情況下可重新評估歐盟境內備貨：這不只是配送速度，而是少一個邊境斷點。⑤ 成本估算只採用已定案的部分：€3 適用 2026/7/1 至 2028/7/1（Council Regulation (EU) 2026/382），處理費未定案不要納入。⑥ 使用 H1 申報類別者，請與報關代理確認分類與分行方式，同一批貨的固定關稅金額可能因此倍增。",
+    "sources": [
+      {
+        "name": "執委會 Access2Markets 官方說明（一手、含 C127/C128/C129/Y081 代碼）",
+        "url": "https://trade.ec.europa.eu/access-to-markets/en/news/eu-applies-eu3-customs-duty-item-low-value-e-commerce-consignments"
+      },
+      {
+        "name": "執委會 DG TAXUD 指引與法律文本（一手）",
+        "url": "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en"
+      },
+      {
+        "name": "KPMG TaxNewsFlash",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/06/eu-legislation-guidance-fixed-customs-duty-ecommerce.html"
+      },
+      {
+        "name": "Van der Helm Logistics（11/1 起可拒收申報）",
+        "url": "https://vanderhelmlogistics.com/en/laatste-nieuws/change-upon-import-of-product-identifiers-pids"
+      },
+      {
+        "name": "OCS Worldwide",
+        "url": "https://www.ocsworldwide.co.uk/eu-regulatory-changes-mandatory-product-identifiers-pids"
+      },
+      {
+        "name": "Retail Insight Network 9/1（handling fee 待定）",
+        "url": "https://www.retail-insight-network.com/news/uk-retailers-face-new-eu-customs-costs-under-post-brexit-trade-regime"
+      },
+      {
+        "name": "Zonos（三碼欄位說明）",
+        "url": "https://www.zonos.com/blog/eu-customs-reform-2026"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-02",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【8/31 執委會】DSA 超大平台名單納入 ChatGPT／Reddit／Roblox：ChatGPT 被歸類為「搜尋引擎」，2027 年 1 月前須合規",
+    "summary": "重點不在三家公司，而在 ChatGPT 被歐盟正式歸類為「超大型線上搜尋引擎」——AI 購物推薦第一次進入 DSA 管轄。\n        ① 三個新指定（執委會 8/31 公告）：ChatGPT 指定為 VLOSE（Very Large Online Search Engine）、Reddit 與 Roblox 指定為 VLOP。依據是三家自報在 EU 達到每月平均至少 4,500 萬使用者的門檻。\n        ② 合規期限：自收到指定通知起 4 個月，即 2027 年 1 月前。\n        ③ 新增義務的核心：官方原文要求「評估並緩解其服務與演算法系統造成的系統性風險」，明列違法內容擴散、對未成年人的傷害、使用者身心健康、基本權利、選舉程序與公共安全六個面向。\n        ④ 罰則量級：媒體報導指 DSA 違規最高可罰全球年營收 6%（此為 DSA 既有罰則上限，非本次指定新增；執委會公告本身未列罰則數字）。\n        ⑤ 監理分工：ChatGPT 與 Reddit 在愛爾蘭設有據點，合規評估將與愛爾蘭 Coimisiún na Meán 合作進行。\n        結論：當 AI 對話介面被法律認定為搜尋引擎，它對商品的推薦與排序就開始受演算法透明度與系統性風險義務約束。",
+    "public_impact": "重點不在三家公司，而在 ChatGPT 被歐盟正式歸類為「超大型線上搜尋引擎」（VLOSE），Reddit 與 Roblox 被指定為超大型線上平台（VLOP），依據是三家自報在歐盟達到每月平均至少 4,500 萬使用者。三者須在收到通知後四個月內、即 2027 年 1 月前完成合規，義務核心是評估並緩解其服務與演算法系統造成的系統性風險，涵蓋違法內容擴散、對未成年人的傷害、身心健康、基本權利與公共安全。對賣家的實質意義是方向性的：當 AI 對話介面被法律認定為搜尋引擎，它對商品的推薦與排序就開始受演算法透明度與風險評估義務約束，AI 對話式購物往有規則可依循的通路移動了一步。要留意的是這些義務約束的是平台，短期內不會產生賣家可直接操作的曝光機制。另外，DSA 違規最高可罰全球年營收 6%，這是既有條文上限，不是本次新增。玩具與 IP 授權類賣家可留意 Roblox 納管後未成年人保護義務加重，明年的聯名與遊戲內導流素材審查會變嚴，但不是本季議題。",
+    "public_action": "① 本季沒有需要立即執行的動作，合規期限在 2027 年 1 月，把它當成通路趨勢背景而非待辦事項。② 真正有長期價值的準備是商品資料完整度：不論流量來自平台站內搜尋、平台自家的 AI 助理，或站外的 AI 對話介面，吃的都是同一份結構化資料。優先補齊品牌、型號、材質、尺寸、相容性、包裝內容這幾個 AI 助理最常被詢問的欄位，這些工作不論規則如何演變都不會白做。③ 不要投入資源去猜測 AI 推薦演算法或購買所謂的 AI 搜尋優化服務，目前沒有任何官方依據支持特定做法。④ 玩具、遊戲周邊與 IP 授權類商品的賣家可將 Roblox 納管列入明年觀察，未成年人保護義務加重後，聯名與遊戲內導流的行銷素材審查可能變嚴。⑤ 引用資訊時區分兩件事：4,500 萬歐盟月活門檻與 2027 年 1 月期限來自執委會公告，全球營收 6% 的罰則上限是數位服務法既有條文，不是本次新增。",
+    "sources": [
+      {
+        "name": "執委會 Digital Strategy 官方公告 8/31（一手）",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act"
+      },
+      {
+        "name": "Global Banking & Finance（Reuters 稿）8/31",
+        "url": "https://www.globalbankingandfinance.com/chatgpt-reddit-roblox-adhere-eus-large-platform-rules/"
+      },
+      {
+        "name": "Gizmodo 8/31（6% 罰則上限）",
+        "url": "https://gizmodo.com/the-eu-has-officially-decided-chatgpt-is-a-search-engine-2000805030"
+      },
+      {
+        "name": "Telecoms.com 8/31",
+        "url": "https://www.telecoms.com/regulation/eu-extends-dsa-designation-to-chatgpt-reddit-and-roblox"
+      },
+      {
+        "name": "Reuters 8/31（付費牆）",
+        "url": "https://www.reuters.com/world/chatgpt-reddit-roblox-adhere-eus-very-large-platform-rules-2026-08-31/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-02",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/1 S&P Global】歐元區製造業 PMI 終值 52.7 為 51 個月新高、德國 54.3，但義大利 49.6 是七個月來首次萎縮",
+    "summary": "同一天的兩份數據互相打架：工業端最強、消費端最弱，而且分裂沿著國界走。\n        ① 歐元區終值 52.7（S&P Global 官方稿，調查期 8/10–8/21）：7 月 51.9、初值 52.8，是 2022 年 5 月以來最高。產出指數 53.3（4.5 年高）、新訂單為 2022 年初以來最強，出口業務首度重回成長。\n        ② 德國 54.3（前值 52.2）：同為 51 個月新高，新訂單增速為 2022 年 2 月以來最快，受訪企業點名國防支出與資料中心需求。\n        ③ 義大利 49.6（前值 51.3、預期 51.5）：七個月來首次跌破 50，新訂單連續第 2 個月下滑且降幅為近 18 個月最大，出口銷售同步下降。\n        ④ 法國 51.1（初值 51.5，確認重回擴張）、英國 51.7（初值 51.5）。\n        ⑤ 勞動市場持穩：Eurostat 同日公布歐元區 7 月失業率 6.4% 持平；芬蘭 10.5% 最高、希臘降至 7.9%。\n        結論：工業回溫的動能來自國防與資料中心投資，不是消費——這解釋了為什麼 PMI 創高的同月德國零售卻是五年最差。",
+    "public_impact": "歐元區 8 月製造業 PMI 終值 52.7（7 月 51.9、初值 52.8），是 2022 年 5 月以來最高；產出指數 53.3 為四年半新高、新訂單為 2022 年初以來最強、出口業務首度重回成長。德國 54.3（前值 52.2）同為 51 個月新高，受訪企業點名的驅動是國防支出與資料中心需求。關鍵在於動能來自資本支出而非消費，所以不能把製造業回溫解讀為消費復甦，同月德國零售實質下滑 3.4%、網購下滑 5.6% 就是反證。國別分化明顯：法國 51.1 確認重回擴張、英國 51.7，但義大利 49.6（前值 51.3、預期 51.5）是七個月來首次跌破 50，新訂單連續第二個月下滑且降幅為近 18 個月最大；義大利 8 月調和物價也升到 3.3%，量縮加價升在主要市場中最不利。正向訊號在供應鏈：出口需求回溫、成本與供應壓力緩解，對在歐盟境內生產或採購的賣家是進貨成本與交期的改善。歐元區 7 月失業率 6.4% 持平是緩衝墊，代表零售疲軟目前是消費者選擇減量而非失去所得，檔期促銷仍帶得動需求。",
+    "public_action": "① 判讀第四季需求時務必把兩份數據一起看：製造業 PMI 創 51 個月新高，但同月德國零售實質下滑 3.4%。單獨引用製造業數據會做出過度樂觀的備貨決策。② 義大利市場的第四季假設建議比德國、法國保守一級：製造業 PMI 49.6 為七個月來首次萎縮、新訂單降幅近 18 個月最大，同時 8 月通膨升到 3.3%。③ 在歐盟境內生產或採購的賣家可把握這個窗口：出口需求回溫、供應鏈與成本壓力緩解，是議價與鎖定交期的好時機。④ 第四季折扣預算建議比去年多預留三到五個百分點：失業率持平代表需求仍在，但消費者變得更看價格，用檔期集中換取銷量比全期降價有效。⑤ 不要把國防支出與資料中心需求的動能外推到消費品類，除工業耗材、線材、機櫃周邊等企業採購品類外，這股需求與一般消費品無關。⑥ 後續關注：9 月 3 日歐元區 8 月服務業與綜合 PMI 及 7 月生產者物價、9 月 4 日歐元區 7 月零售銷售、10 月初義大利 9 月 PMI 可確認 49.6 是單月波動還是趨勢轉折。",
+    "sources": [
+      {
+        "name": "S&P Global PMI 官方新聞稿（一手、52.7／51 個月高／調查期 8/10-8/21）",
+        "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/b0f45bd0a1fe40c484bd9e988e2aa430"
+      },
+      {
+        "name": "Trading Economics（經 TradingView）9/1",
+        "url": "https://www.tradingview.com/news/te_news:579954:0-euro-area-manufacturing-growth-at-4-year-high-in-august"
+      },
+      {
+        "name": "InvestingLive 9/1（義大利 49.6 與供應鏈評論）",
+        "url": "https://investinglive.com/news/italy-august-manufacturing-pmi-xx-vs-51-3-expected"
+      },
+      {
+        "name": "IndexBox 9/1（德國 54.3、國防與資料中心需求）",
+        "url": "https://www.indexbox.io/blog/german-manufacturing-pmi-rises-to-543-in-august"
+      },
+      {
+        "name": "FXStreet 9/1（義法英分項對比預期）",
+        "url": "https://www.fxstreet.com/analysis/bond-yields-continue-their-ascent-on-inflationary-concerns-202609011145"
+      },
+      {
+        "name": "Hellenic Shipping News 引述 Eurostat 失業率 6.4%",
+        "url": "https://www.hellenicshippingnews.com/euro-area-unemployment-at-6-4"
+      },
+      {
+        "name": "Breaking The News 9/1",
+        "url": "https://breakingthenews.net/Article/Eurozone-manufacturing-activity-at-51-month-high-in-August/67020131"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-01",
     "type": "daily",
     "tags": [
