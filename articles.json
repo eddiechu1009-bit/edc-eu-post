@@ -1,5 +1,175 @@
 [
   {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/1 生效・60 天倒數】Amazon 歐洲 FBA 入倉強制 MRN＋EORI：非 EU 公司未補齊即不能建新貨件，死線正好撞 BFCM",
+    "summary": "這是本期對名下賣家最有直接後果的一則：規則本身 8 月就公告，但 9/1 才正式進入「有罰則」階段，而罰則的計時器現在已經在跑。\n        ① 適用範圍從法國擴大到全 EU（Amazon Global Selling 8/11 合規通知）：非 EU 註冊公司直發法國 FC 的貨件，以及經 Pan-EU FBA 從境外進入 EU 倉的貨件，都必須提供第一入境點的 MRN（報關單識別碼）與 EORI。\n        ② 從「要求提交」升級為「不提交就限制」：賣家須在 Amazon FC 收到首批貨件起 60 天內補齊；逾期未補，不能再建立前往 EU FC 的新貨件。\n        ③ 影響邊界比想像小、但關鍵處很硬：既有庫存與在途貨件不受影響，補齊缺漏資料即可解除限制；使用 Amazon Global Logistics 或 Partnered Carrier 的賣家不需手動提供 MRN，但進口合規責任仍在賣家身上。\n        ④ 豁免條件兩種：公司註冊在 EU 境內；或公司註冊在境外但貨是在 EU 境內採購（後者須保留有效採購發票備查）。\n        ⑤ 技術細節：MRN 由申報國海關產生、逐批不同（有正當理由可重複使用）；EORI 對同一企業是固定號，可用報關代理的 EORI；平台只接受 EU 當局簽發的 MRN 與 EORI，且會驗證有效性。\n        結論：9/1 起算 60 天，最早一批的死線落在 10 月底至 11 月初——正好是 BFCM 前最不能被鎖住建貨件功能的時間點。",
+    "public_impact": "這條規則從 9 月 1 日起進入有罰則階段，適用範圍已從法國擴大到整個歐盟。非歐盟註冊公司只要把貨從歐盟境外直接送進法國物流中心，或經 Pan-EU FBA 送進歐盟任一物流中心，就必須提供第一入境點的 MRN（報關單識別碼）與 EORI。關鍵在於處罰方式：賣家須在物流中心收到首批貨件起 60 天內補齊，逾期就不能再建立前往歐盟物流中心的新貨件。既有庫存與在途貨件不受影響，補齊缺漏資料即可解除限制。豁免有兩種：公司註冊在歐盟境內，或公司註冊在境外但貨物是在歐盟境內採購（後者須保留有效採購發票備查）。使用 Amazon Global Logistics 或 Partnered Carrier 的賣家不需手動提供 MRN，但進口合規責任仍在賣家身上。技術上，MRN 由申報國海關產生且逐批不同，EORI 對同一企業固定並可使用報關代理的 EORI，平台只接受歐盟當局簽發的號碼。由於 9 月 1 日起算 60 天，最早一批死線落在 10 月底至 11 月初，正好是旺季補貨最不能被鎖住的時間。",
+    "public_action": "① 先確認自己是否在適用範圍內：公司註冊地非歐盟、使用 Pan-EU FBA、貨物從歐盟境外直接進入歐盟倉，三個條件同時成立就必須處理。② 把死線換算成自己的日期：首批貨件到倉日加 60 天，最早一批會落在 10 月底至 11 月初，也就是黑五網一建貨件的高峰期，不要留到最後。③ 還沒有歐盟 EORI 的賣家可直接使用報關代理的 EORI，不必等自己申請下來；注意平台只接受歐盟當局簽發的號碼，英國 EORI 不適用。④ 確認自己是否符合豁免：公司註冊在歐盟境內，或公司註冊在境外但貨物在歐盟境內採購（須保留採購發票），符合就不用花時間補資料。⑤ 既有庫存與在途貨件不受影響，不需要因為這條規則暫停出貨而錯過旺季入倉時程。⑥ 若改用平台官方物流方案以免手動提供 MRN，要理解進口合規責任並未轉移，仍應保留完整報關文件。",
+    "sources": [
+      {
+        "name": "Ebrun 億邦動力 8/11（Amazon Global Selling 通知全文要點、60 天與豁免條件）",
+        "url": "https://english.ebrun.com/20260811/693920.shtml"
+      },
+      {
+        "name": "Global Sources Sourcing Digest 9/2",
+        "url": "https://www.globalsources.com/sourcing-digest/amazons-new-customs-requirements-intensify-pressure-on-non-eu-sellers-for-future-shipments"
+      },
+      {
+        "name": "HeyCross 8/14（適用族群與關鍵日期整理）",
+        "url": "https://www.heycross.com/article/zGja35jgA7zlb"
+      },
+      {
+        "name": "China Shippings（DDP 通路影響）",
+        "url": "https://www.chinashippings.com/info/restrictions-on-ddp-channels-mrn-eori-manda-103637057.html"
+      },
+      {
+        "name": "Amazon Seller Central 歐洲論壇：MRN and EORI required for France（官方頁面）",
+        "url": "https://sellercentral-europe.amazon.com/seller-forums/discussions/t/16542f2d-04d9-407c-85fe-5daaba935d76"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/2 Liège 官方】€3 小包稅第二層後果：7 月電商包裹 -24% YoY／-41% MoM、報關單 -52%，中歐貨機運力比 6 月低 28%",
+    "summary": "新進展是：8/27 法國海關給的是「平台級量縮」，這次 Liège 機場與 Rotate 給的是「運力級退出」——而運力退出比量縮更難回頭。\n        ① 樞紐級數據（Liège 機場官方 9/2 公布 7 月數字）：Liège-Bierset 海關區電商貨件量 -24% YoY、-41% MoM，報關單筆數 -52% YoY。機場明說 €3 費用已「深刻改變了進口結構」。\n        ② 貨值結構明顯上移：<€150 的 B2C 貨件「急劇下滑」，但 >€150 的貨件反而 +10%（海關消息來源）——營運商正在把貨值往上推以攤平每項 €3 的固定成本。\n        ③ 但機場總量反而成長：7 月總貨量 +4% YoY 至 114,064 噸（航班架次 -4%），靠醫藥、資料中心設備、鮮花補上；不過 4% 遠低於上半年的 11.3%。\n        ④ 運力是撤走、不是轉場（Rotate 數據，STAT Times 9/1）：歐洲電商進口量 7 月比 6 月 -24%，中國／香港往歐洲的貨機運力最終停在比 6 月低 約 28%；分點看 Budapest -58%、Liège -35%、Madrid -78%、亞洲端烏魯木齊 -72%、香港 -28%。Rotate 顧問總監 Tim van Leeuwen 指出「撤下來的運力多數沒有轉去別的航線，全球貨機利用率因此下降，改裝 B747-400F 最慘（-13.8%）」。\n        結論：Air Cargo News 同時提醒，€3 之後預計 11 月還會加上另一筆 €2 處理費——第二隻靴子還沒落地。",
+    "public_impact": "7 月 1 日上路的每項 €3 進口關稅，第二層後果現在浮現。比利時 Liège 機場 9 月 2 日公布 7 月數字：Liège-Bierset 海關區電商貨件量年減 24%、月減 41%，報關單筆數年減 52%，機場直言 €3 已深刻改變進口結構。貨值結構同步上移，低於 €150 的 B2C 貨件急劇下滑，但高於 €150 的貨件反增 10%，顯示營運商正把貨值往上推以攤平每個品項固定 €3 的成本。機場總貨量反而成長 4% 至 114,064 噸，靠醫藥、資料中心設備與鮮花補上。更關鍵的是運力：顧問機構 Rotate 數據顯示歐洲電商進口量 7 月比 6 月下滑 24%，中國／香港往歐洲的貨機運力停在比 6 月低約 28%，其中 Madrid 減 78%、Budapest 減 58%、Liège 減 35%、烏魯木齊減 72%；撤下來的運力多數沒有轉往其他航線，改裝 B747-400F 利用率降幅最大達 13.8%。運力是退出而非轉場，第四季需求回升時回補會有時間差。此外預期 11 月還會加上另一筆 €2 處理費。",
+    "public_action": "① 不要等運價回落才補貨。運力是退出而非轉場，第四季需求一回升，艙位會先緊、運價會先跳，建議第四季首批空運在 9 月中前訂艙，並以艙位可得性而非運價為決策主軸。② 用「每品項計費」重算商品組合：€3 是按每個品項或稅則行收取，不是按包裹收，低單價多品項的包裹受傷最重。低單價多品項的直郵商品建議改走歐盟境內備貨，或以組合銷售拉高單筆貨值。③ 西班牙與中東歐市場短期出現機會：Madrid 運力減 78%、Budapest 減 58%，低價直郵供給收縮，可重新檢視原本被壓制的價格帶與廣告出價。④ 把預期於 11 月上路的 €2 處理費先納入第四季成本表，用每品項 €5 做壓力測試，撐不住的商品現在就要決定是否轉本地倉。⑤ 從歐盟境內發貨的賣家這一輪完全未受影響，本地備貨的相對優勢已可量化，值得重新評估庫存佈局。⑥ 後續關注：9 月底 Liège 的 8 月數據、Rotate 9 月運力更新、11 月 €2 處理費的官方金額。",
+    "sources": [
+      {
+        "name": "Air Cargo News（Liège 機場官方 7 月數據、11 月 €2 處理費）",
+        "url": "https://www.aircargonews.net/cargo-airport/2026/08/new-eu-e-commerce-rules-have-instant-impact-at-liege"
+      },
+      {
+        "name": "The STAT Trade Times 9/1（Rotate 運力分點數據與 van Leeuwen 評論）",
+        "url": "https://www.stattimes.com/ecommerce/china-europe-e-commerce-cargo-after-eu-de-minimis-reform-1360498"
+      },
+      {
+        "name": "Aviation Business News（總量 +4%／114,064 噸）",
+        "url": "https://www.aviationbusinessnews.com/cargo/cargo-news/liege-airport-cargo-grows-4-despite-e-commerce-parcel-slump"
+      },
+      {
+        "name": "IndexBox（Liège -24% 獨立整理）",
+        "url": "https://www.indexbox.io/blog/eu-low-value-shipment-rules-cut-e-commerce-volumes-at-liege-airport"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/1 Ingka 官宣】IKEA 砸 €12 億在歐洲降價 15-25%：德國 1,500＋商品均降 20%、英國 BILLY -28%、義大利均降 22%",
+    "summary": "這不是促銷檔期，是把降價當長期定價政策——IKEA 自己寫明「即使要接受較低毛利」。\n        ① 規模與時點（Ingka Group 官方新聞稿 9/1）：Ingka Group、其他 IKEA 加盟商與 Inter IKEA Group 合計投入 €12 億調降歐洲市場價格，9 月 1 日起生效，平均降幅 15% 至 25%，涵蓋 KALLAX 收納、HEMNES 日床、POÄNG 扶手椅等主力品。\n        ② 分國幅度：德國 逾 1,500 項商品均降 20%（BESTÅ 電視櫃 -27%、IKEA 365+ 廚具最多 -24%）；英國數百項，BILLY 書櫃 -28%、TROFAST 收納組合 -24%；義大利數百項均降 22%，KALLAX 最多 -29%、BESTÅ 框體均降 26%。\n        ③ 定調為長期政策而非活動：Ingka CEO Juvencio Maeztu 明講「這不是活動或短期促銷，而是在人們最需要的時候讓 IKEA 更負擔得起，即使意味著接受較低的毛利」，同時持續開設小型店強化全通路。\n        ④ 歐洲以外另有補貼：Ingka 另投 €7,000 萬抵銷亞洲與北美的通膨與匯率壓力。\n        ⑤ 前一輪的成效被官方引用為依據：IKEA 表示 FY24 那一輪跨市場降價帶來更多來客與訂單數成長；另據報導其年度銷售在降價期間下滑 5%，公司預期後續回升。\n        結論：歐洲家居品類的價格錨從 9/1 起被整體下拉一個級距，而且是結構性、不是檔期性。",
+    "public_impact": "這不是促銷檔期，而是把降價當長期定價政策。Ingka Group 9 月 1 日公告，Ingka Group、其他 IKEA 加盟商與 Inter IKEA Group 合計投入 €12 億調降歐洲市場價格，9 月 1 日起生效，平均降幅 15% 至 25%，涵蓋 KALLAX 收納、HEMNES 日床、POÄNG 扶手椅等主力商品。分國看，德國逾 1,500 項商品平均降 20%（BESTÅ 電視櫃 -27%）；英國 BILLY 書櫃 -28%、TROFAST -24%；義大利數百項平均降 22%，KALLAX 最多 -29%。Ingka 執行長 Juvencio Maeztu 明確表示這不是活動或短期促銷，而是長期承諾，即使意味著接受較低毛利；歐洲以外另投 €7,000 萬抵銷亞洲與北美的通膨與匯率壓力。對線上家居賣家而言，歐洲家居品類的消費者心理參考價從 9 月 1 日起被整體下拉一個級距，且是結構性而非檔期性變動。德國受衝擊最直接：當地 7 月零售實質下滑 3.4%、網購下滑 5.6%，量縮與主要競爭者降價同時發生。",
+    "public_action": "① 家居與收納品類的賣家本週就做價格帶對照：以 BILLY 降 28%、BESTÅ 降 27%、KALLAX 降 29%、TROFAST 降 24% 對應的新價，逐一比對自己同功能商品的現價，找出已被超越的商品。② 德國市場的第四季家居品類假設建議單獨下修：當地逾 1,500 項商品平均降價 20%，疊加 7 月零售實質下滑 3.4%、網購下滑 5.6%。③ 不要跟著全面降價。對手是用 €12 億補貼並明言接受較低毛利在打，跟價會直接打穿毛利；改以尺寸、材質、風格的長尾選擇、組裝便利性、配送與到貨速度做差異化。④ 折扣彈性建議集中在檔期而非全期：對手已把日常價下拉 15% 至 25%，全期降價無法建立差異，把預算壓縮到 10 月 7 至 8 日與黑五網一兩個節點更有效。⑤ 英國家居賣家可提前思考多通路定位，IKEA 已表示計劃在英國推出自家線上市集。⑥ 後續關注：9 月 8 日促銷提交死線前家居品類價格要定案、10 月是否擴大降價品項、IKEA 英國市集上線時程。",
+    "sources": [
+      {
+        "name": "Ingka Group 官方新聞稿 9/1（一手、€12 億／分國幅度／CEO 原話）",
+        "url": "https://www.ingka.com/newsroom/ikea-makes-a-major-investment-in-affordability-lowering-prices-on-hundreds-of-products"
+      },
+      {
+        "name": "PYMNTS 9/1（$14 億換算、€7,000 萬亞洲北美、英國 marketplace）",
+        "url": "https://www.pymnts.com/news/retail/2026/ikea-cuts-prices-in-europe-as-cost-of-living-pressures-persist"
+      },
+      {
+        "name": "WSJ（付費牆）",
+        "url": "https://www.wsj.com/business/retail/ikea-cuts-prices-across-europe-as-cost-of-living-pressures-persist-d7f44e1a"
+      },
+      {
+        "name": "The Seattle Times（家戶預算受壓的背景）",
+        "url": "https://www.seattletimes.com/business/ikea-cuts-prices-mostly-in-europe-as-household-budgets-remain-squeezed"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/2 DIW】德國 2026 GDP 預測 0.5%→1.2% 翻倍上修：出口超預期＋能源衝擊轉溫和，但成長 70% 靠公部門、Q3 預期停滯",
+    "summary": "和昨天的德國零售 -3.4% 放在一起看，這份上修證實的是「分裂式復甦」：出口與公部門在拉、家戶需求在拖。\n        ① 上修幅度（DIW Berlin 9/2 秋季預測，Reuters 報導）：德國 2026 年 GDP 成長從原本 0.5% 上修到 1.2%（超過兩倍），2027 年 1.0%、2028 年 0.7%。理由是出口強於預期，加上伊朗戰爭帶來的能源價格衝擊比原先假設溫和。\n        ② 上修但不樂觀：DIW 景氣預測主管 Dany-Knedlik 說「今年恢復得比預期好一些，但仍站在相當不穩的地基上」；高天然氣價格、家戶需求疲弱、工業結構問題會拖累下半年。Q3 預期停滯，水道水位偏低與能源成本壓到化工與金屬。Q2 實際 +0.3%。\n        ③ 成長品質是最大警訊：公共消費與投資將占今年成長的約 70%，靠基建、氣候與國防支出支撐；院長 Fratzscher 說「可能正處於轉向更強成長的轉折點，但目前動能主要來自公部門」。背後是 €5,000 億基建基金與國防支出的債務規則豁免。\n        ④ 勞動市場給出緩衝（Eurostat 9/1）：歐元區 7 月失業率 6.4%（與 6 月持平、去年同月 6.3%）、EU 6.1%；EU 失業人數 1,351.6 萬，較 6 月減 4.1 萬。青年失業率 EU 15.1%（前月 15.6%）、歐元區 14.9%。\n        結論：DIW 另宣布未來預測將納入「混合攻擊」的經濟衝擊評估，這是預測方法上的新變數。",
+    "public_impact": "德國經濟研究所 DIW Berlin 9 月 2 日大幅上修德國成長預測，2026 年 GDP 成長從 0.5% 上調到 1.2%（超過兩倍），2027 年 1.0%、2028 年 0.7%，理由是出口強於預期加上伊朗戰爭的能源價格衝擊比原先假設溫和；第二季實際成長 0.3%。但成長品質必須看清楚：DIW 指出公共消費與投資將占今年成長的約 70%，靠基建、氣候與國防支出支撐，背後是去年通過的 €5,000 億基建基金與國防支出的債務規則豁免。DIW 表示德國經濟今年恢復得比預期好一些，但仍站在相當不穩的地基上，高天然氣價格、家戶需求疲弱與工業結構問題會拖累下半年動能，第三季預期停滯。勞動市場則提供緩衝：Eurostat 9 月 1 日公布歐元區 7 月失業率 6.4%，與 6 月持平、去年同月 6.3%，歐盟 6.1%；青年失業率歐盟 15.1%（前月 15.6%）、歐元區 14.9%，皆下降。這代表零售疲軟目前是消費者選擇減量而非失去所得。",
+    "public_action": "① 不要把 GDP 上修到 1.2% 當成消費復甦。驅動來自出口與公共投資（占成長約 70%），DIW 自己點名家戶需求疲弱，這與德國 7 月網購實質下滑 5.6% 一致，宏觀成長與線上零售之間沒有直接傳導。② 第四季節奏建議定為「量保守、檔期集中」：DIW 預期第三季停滯、下半年動能受限，成長只能靠檔期而非需求基本盤，首批備貨量保守、折扣彈性押在 10 月與黑五網一。③ 失業率 6.4% 持平、青年失業率下降是重要下限，代表需求仍在、只是更看價格，不必因零售數據悲觀而過度砍量。④ 工業與企業採購品類（工具、耗材、線材、安全用品、機櫃周邊）可單獨評估：€5,000 億基建基金加上國防與氣候支出帶來實質需求，但這股動能不可外推到一般消費品。⑤ 能源密集品類的第四季毛利建議重算：高天然氣價格與水道水位偏低正壓到化工與金屬產業，會傳導到以塑膠件、金屬件、化工原料為主的商品成本。⑥ 後續關注：9 月 4 日歐元區 7 月零售銷售、9 月 7 日第二季 GDP 正式估計、9 月 8 日德國 7 月貿易數據、9 月 10 日歐洲央行決議。",
+    "sources": [
+      {
+        "name": "Reuters 9/2（付費牆）",
+        "url": "https://www.reuters.com/business/diw-raises-german-economic-growth-forecasts-exports-beat-expectations-2026-09-02"
+      },
+      {
+        "name": "Reuters 全文（經 Euronext 轉載，含 1.2%／1.0%／0.7%、70% 公部門、Q3 停滯、混合攻擊評估）",
+        "url": "https://live.euronext.com/en/financial-news/diw-raises-german-economic-growth-forecasts-exports-beat-expectations"
+      },
+      {
+        "name": "Rheinische Post（rp-online）9/2 德文報導",
+        "url": "https://rp-online.de/wirtschaft/deutsche-wirtschaft-diw-hebt-prognose-fuer-2026-an_aid-154126709"
+      },
+      {
+        "name": "marketSTEEL 9/2（出口驚喜與工業視角）",
+        "url": "https://www.marketsteel.de/news-details/diw-berlin-exportueberraschung-hebt-wachstumsaussichten.html"
+      },
+      {
+        "name": "retail-news.de 9/2（零售視角）",
+        "url": "https://retail-news.de/diw-konjunkturprognose-deutschland-wachstum-2026"
+      },
+      {
+        "name": "Eurostat 9/1 新聞稿：歐元區 7 月失業率 6.4%（一手）",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-01092026-bp"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/2 一般法院 T-357/24】DMA 判決確立 gatekeeper 量化門檻可被推翻：Edge 達標仍不被指定，Opera 全面敗訴",
+    "summary": "這則的重點不在瀏覽器，而在 DMA 的執行邏輯被司法確認：達到量化門檻不等於一定被指定為 gatekeeper。\n        ① 判決本身（歐盟一般法院 9/2 判決，Case T-357/24 Opera Norway v Commission，新聞稿第 113/26 號）：法院全數駁回 Opera Norway 的訴訟，維持執委會 2024/2/12 決定——不把 Microsoft 就 Edge 指定為 gatekeeper。\n        ② 關鍵法理：法院確認雖然 Microsoft 已達到 DMA 量化門檻，但它提出「充分具體的論據」證明 Edge 並非通往終端使用者的重要 gateway。法院採納的理由：Edge 使用規模偏低、基於 Blink 引擎因而降低 Microsoft 對關鍵環節的自主控制力、預裝於 Windows 等推廣機制並不足以使其成為重要 gateway。\n        ③ 程序上的另一半也重要：法院認定 Opera 具訴訟適格——競爭者可以就「不指定」的決定提告。判決可在 2 個月 10 天內就法律問題上訴至歐盟法院。\n        ④ 同日另一條線是廣告科技：美國法院裁定 Google 得以保留其 ad exchange、不必分拆；但執委會 2025 年就 adtech 自我優待對 Google 開出 €29.5 億罰款，並主張只有結構性救濟（出售）才能解決利益衝突，兩邊救濟方向落差擴大。\n        結論：DMA 的「指定」不是機械式套門檻，而是可攻可守的實質認定。",
+    "public_impact": "這則的重點不在瀏覽器，而在《數位市場法》（DMA）的執行邏輯被司法確認。歐盟一般法院 9 月 2 日在 Case T-357/24（Opera Norway 訴執委會）全數駁回 Opera 的訴訟，維持執委會 2024 年 2 月不把 Microsoft 就 Edge 指定為守門人的決定。關鍵法理是：即使已達到 DMA 量化門檻，只要能提出充分具體的論據證明該服務並非通往終端使用者的重要通道，執委會就可以不予指定。法院採納的理由包括 Edge 使用規模偏低、基於 Blink 引擎因而降低對關鍵環節的自主控制力、預裝於 Windows 等機制並不足以使其成為重要通道。程序上同樣重要：法院認定 Opera 具訴訟適格，競爭者可就「不指定」的決定提告，判決可在 2 個月 10 天內上訴。同日另一條線是廣告科技：美國法院裁定 Google 得保留其廣告交易平台不必分拆，但執委會 2025 年已就廣告科技自我優待對 Google 開出 €29.5 億罰款，並主張只有結構性救濟才能解決利益衝突。這意味著 DMA 帶來的介面與預設值變動會逐案演進，不會一次到位。",
+    "public_action": "① 不要把 DMA 當成一次性的合規事件來規劃。判決確立達到量化門檻仍可用實質論據推翻，加上競爭者可就「不指定」決定提告，代表相關規則會持續逐案演進，平台介面與預設值的變動也會分批出現。② 流量結構假設保留變動空間：建議不要把單一入口的流量占比假設鎖死超過 12 個月，尤其是依賴瀏覽器預設、比價入口或作業系統整合帶來的流量。③ 有站外廣告投放的賣家，2027 年成本假設建議保留約 10% 至 15% 的彈性區間。歐盟主張對 Google 廣告科技採結構性救濟、美國法院裁定不必分拆，兩邊救濟方向落差若最終導致歐洲程式化廣告供給端重組，成本與可觸及度都會變動。④ 把廣告透明度監管當成一個趨勢而非個案來追蹤，美國與歐盟兩邊同時在收緊，長期方向是競價與計費資訊揭露更多。⑤ 記下上訴窗口：判決後 2 個月 10 天內可就法律問題上訴，若上訴這條線約在 11 月會再有進展。⑥ 後續關注：執委會對 Google 廣告科技結構性救濟的下一步、2027 年 1 月新指定服務的合規期限。",
+    "sources": [
+      {
+        "name": "歐盟法院官方新聞稿 No 113/26（一手、T-357/24 判決全文要點）",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf"
+      },
+      {
+        "name": "EU Law Live 9/2",
+        "url": "https://eulawlive.com/dma-general-court-upholds-commissions-decision-not-to-designate-microsoft-as-gatekeeper-in-relation-to-edge"
+      },
+      {
+        "name": "Silicon Republic 9/2",
+        "url": "https://www.siliconrepublic.com/business/opera-loses-dma-gatekeeper-legal-challenge-over-microsoft-edge-browser-courts"
+      },
+      {
+        "name": "Reuters 全文（經 Euronext 轉載）",
+        "url": "https://live.euronext.com/en/financial-news/opera-loses-court-challenge-against-eu-exemption-microsofts-edge-dma-rules"
+      },
+      {
+        "name": "EU Today 9/2",
+        "url": "https://eutoday.net/eu-court-microsoft-edge-dma-gatekeeper"
+      },
+      {
+        "name": "執委會新聞稿 IP/25/1992：Google adtech €29.5 億罰款與結構性救濟立場（一手背景）",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-02",
     "type": "daily",
     "tags": [

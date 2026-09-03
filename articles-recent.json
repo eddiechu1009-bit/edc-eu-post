@@ -1,5 +1,175 @@
 [
   {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/1 生效・60 天倒數】Amazon 歐洲 FBA 入倉強制 MRN＋EORI：非 EU 公司未補齊即不能建新貨件，死線正好撞 BFCM",
+    "summary": "這是本期對名下賣家最有直接後果的一則：規則本身 8 月就公告，但 9/1 才正式進入「有罰則」階段，而罰則的計時器現在已經在跑。\n        ① 適用範圍從法國擴大到全 EU（Amazon Global Selling 8/11 合規通知）：非 EU 註冊公司直發法國 FC 的貨件，以及經 Pan-EU FBA 從境外進入 EU 倉的貨件，都必須提供第一入境點的 MRN（報關單識別碼）與 EORI。\n        ② 從「要求提交」升級為「不提交就限制」：賣家須在 Amazon FC 收到首批貨件起 60 天內補齊；逾期未補，不能再建立前往 EU FC 的新貨件。\n        ③ 影響邊界比想像小、但關鍵處很硬：既有庫存與在途貨件不受影響，補齊缺漏資料即可解除限制；使用 Amazon Global Logistics 或 Partnered Carrier 的賣家不需手動提供 MRN，但進口合規責任仍在賣家身上。\n        ④ 豁免條件兩種：公司註冊在 EU 境內；或公司註冊在境外但貨是在 EU 境內採購（後者須保留有效採購發票備查）。\n        ⑤ 技術細節：MRN 由申報國海關產生、逐批不同（有正當理由可重複使用）；EORI 對同一企業是固定號，可用報關代理的 EORI；平台只接受 EU 當局簽發的 MRN 與 EORI，且會驗證有效性。\n        結論：9/1 起算 60 天，最早一批的死線落在 10 月底至 11 月初——正好是 BFCM 前最不能被鎖住建貨件功能的時間點。",
+    "public_impact": "這條規則從 9 月 1 日起進入有罰則階段，適用範圍已從法國擴大到整個歐盟。非歐盟註冊公司只要把貨從歐盟境外直接送進法國物流中心，或經 Pan-EU FBA 送進歐盟任一物流中心，就必須提供第一入境點的 MRN（報關單識別碼）與 EORI。關鍵在於處罰方式：賣家須在物流中心收到首批貨件起 60 天內補齊，逾期就不能再建立前往歐盟物流中心的新貨件。既有庫存與在途貨件不受影響，補齊缺漏資料即可解除限制。豁免有兩種：公司註冊在歐盟境內，或公司註冊在境外但貨物是在歐盟境內採購（後者須保留有效採購發票備查）。使用 Amazon Global Logistics 或 Partnered Carrier 的賣家不需手動提供 MRN，但進口合規責任仍在賣家身上。技術上，MRN 由申報國海關產生且逐批不同，EORI 對同一企業固定並可使用報關代理的 EORI，平台只接受歐盟當局簽發的號碼。由於 9 月 1 日起算 60 天，最早一批死線落在 10 月底至 11 月初，正好是旺季補貨最不能被鎖住的時間。",
+    "public_action": "① 先確認自己是否在適用範圍內：公司註冊地非歐盟、使用 Pan-EU FBA、貨物從歐盟境外直接進入歐盟倉，三個條件同時成立就必須處理。② 把死線換算成自己的日期：首批貨件到倉日加 60 天，最早一批會落在 10 月底至 11 月初，也就是黑五網一建貨件的高峰期，不要留到最後。③ 還沒有歐盟 EORI 的賣家可直接使用報關代理的 EORI，不必等自己申請下來；注意平台只接受歐盟當局簽發的號碼，英國 EORI 不適用。④ 確認自己是否符合豁免：公司註冊在歐盟境內，或公司註冊在境外但貨物在歐盟境內採購（須保留採購發票），符合就不用花時間補資料。⑤ 既有庫存與在途貨件不受影響，不需要因為這條規則暫停出貨而錯過旺季入倉時程。⑥ 若改用平台官方物流方案以免手動提供 MRN，要理解進口合規責任並未轉移，仍應保留完整報關文件。",
+    "sources": [
+      {
+        "name": "Ebrun 億邦動力 8/11（Amazon Global Selling 通知全文要點、60 天與豁免條件）",
+        "url": "https://english.ebrun.com/20260811/693920.shtml"
+      },
+      {
+        "name": "Global Sources Sourcing Digest 9/2",
+        "url": "https://www.globalsources.com/sourcing-digest/amazons-new-customs-requirements-intensify-pressure-on-non-eu-sellers-for-future-shipments"
+      },
+      {
+        "name": "HeyCross 8/14（適用族群與關鍵日期整理）",
+        "url": "https://www.heycross.com/article/zGja35jgA7zlb"
+      },
+      {
+        "name": "China Shippings（DDP 通路影響）",
+        "url": "https://www.chinashippings.com/info/restrictions-on-ddp-channels-mrn-eori-manda-103637057.html"
+      },
+      {
+        "name": "Amazon Seller Central 歐洲論壇：MRN and EORI required for France（官方頁面）",
+        "url": "https://sellercentral-europe.amazon.com/seller-forums/discussions/t/16542f2d-04d9-407c-85fe-5daaba935d76"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/2 Liège 官方】€3 小包稅第二層後果：7 月電商包裹 -24% YoY／-41% MoM、報關單 -52%，中歐貨機運力比 6 月低 28%",
+    "summary": "新進展是：8/27 法國海關給的是「平台級量縮」，這次 Liège 機場與 Rotate 給的是「運力級退出」——而運力退出比量縮更難回頭。\n        ① 樞紐級數據（Liège 機場官方 9/2 公布 7 月數字）：Liège-Bierset 海關區電商貨件量 -24% YoY、-41% MoM，報關單筆數 -52% YoY。機場明說 €3 費用已「深刻改變了進口結構」。\n        ② 貨值結構明顯上移：<€150 的 B2C 貨件「急劇下滑」，但 >€150 的貨件反而 +10%（海關消息來源）——營運商正在把貨值往上推以攤平每項 €3 的固定成本。\n        ③ 但機場總量反而成長：7 月總貨量 +4% YoY 至 114,064 噸（航班架次 -4%），靠醫藥、資料中心設備、鮮花補上；不過 4% 遠低於上半年的 11.3%。\n        ④ 運力是撤走、不是轉場（Rotate 數據，STAT Times 9/1）：歐洲電商進口量 7 月比 6 月 -24%，中國／香港往歐洲的貨機運力最終停在比 6 月低 約 28%；分點看 Budapest -58%、Liège -35%、Madrid -78%、亞洲端烏魯木齊 -72%、香港 -28%。Rotate 顧問總監 Tim van Leeuwen 指出「撤下來的運力多數沒有轉去別的航線，全球貨機利用率因此下降，改裝 B747-400F 最慘（-13.8%）」。\n        結論：Air Cargo News 同時提醒，€3 之後預計 11 月還會加上另一筆 €2 處理費——第二隻靴子還沒落地。",
+    "public_impact": "7 月 1 日上路的每項 €3 進口關稅，第二層後果現在浮現。比利時 Liège 機場 9 月 2 日公布 7 月數字：Liège-Bierset 海關區電商貨件量年減 24%、月減 41%，報關單筆數年減 52%，機場直言 €3 已深刻改變進口結構。貨值結構同步上移，低於 €150 的 B2C 貨件急劇下滑，但高於 €150 的貨件反增 10%，顯示營運商正把貨值往上推以攤平每個品項固定 €3 的成本。機場總貨量反而成長 4% 至 114,064 噸，靠醫藥、資料中心設備與鮮花補上。更關鍵的是運力：顧問機構 Rotate 數據顯示歐洲電商進口量 7 月比 6 月下滑 24%，中國／香港往歐洲的貨機運力停在比 6 月低約 28%，其中 Madrid 減 78%、Budapest 減 58%、Liège 減 35%、烏魯木齊減 72%；撤下來的運力多數沒有轉往其他航線，改裝 B747-400F 利用率降幅最大達 13.8%。運力是退出而非轉場，第四季需求回升時回補會有時間差。此外預期 11 月還會加上另一筆 €2 處理費。",
+    "public_action": "① 不要等運價回落才補貨。運力是退出而非轉場，第四季需求一回升，艙位會先緊、運價會先跳，建議第四季首批空運在 9 月中前訂艙，並以艙位可得性而非運價為決策主軸。② 用「每品項計費」重算商品組合：€3 是按每個品項或稅則行收取，不是按包裹收，低單價多品項的包裹受傷最重。低單價多品項的直郵商品建議改走歐盟境內備貨，或以組合銷售拉高單筆貨值。③ 西班牙與中東歐市場短期出現機會：Madrid 運力減 78%、Budapest 減 58%，低價直郵供給收縮，可重新檢視原本被壓制的價格帶與廣告出價。④ 把預期於 11 月上路的 €2 處理費先納入第四季成本表，用每品項 €5 做壓力測試，撐不住的商品現在就要決定是否轉本地倉。⑤ 從歐盟境內發貨的賣家這一輪完全未受影響，本地備貨的相對優勢已可量化，值得重新評估庫存佈局。⑥ 後續關注：9 月底 Liège 的 8 月數據、Rotate 9 月運力更新、11 月 €2 處理費的官方金額。",
+    "sources": [
+      {
+        "name": "Air Cargo News（Liège 機場官方 7 月數據、11 月 €2 處理費）",
+        "url": "https://www.aircargonews.net/cargo-airport/2026/08/new-eu-e-commerce-rules-have-instant-impact-at-liege"
+      },
+      {
+        "name": "The STAT Trade Times 9/1（Rotate 運力分點數據與 van Leeuwen 評論）",
+        "url": "https://www.stattimes.com/ecommerce/china-europe-e-commerce-cargo-after-eu-de-minimis-reform-1360498"
+      },
+      {
+        "name": "Aviation Business News（總量 +4%／114,064 噸）",
+        "url": "https://www.aviationbusinessnews.com/cargo/cargo-news/liege-airport-cargo-grows-4-despite-e-commerce-parcel-slump"
+      },
+      {
+        "name": "IndexBox（Liège -24% 獨立整理）",
+        "url": "https://www.indexbox.io/blog/eu-low-value-shipment-rules-cut-e-commerce-volumes-at-liege-airport"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/1 Ingka 官宣】IKEA 砸 €12 億在歐洲降價 15-25%：德國 1,500＋商品均降 20%、英國 BILLY -28%、義大利均降 22%",
+    "summary": "這不是促銷檔期，是把降價當長期定價政策——IKEA 自己寫明「即使要接受較低毛利」。\n        ① 規模與時點（Ingka Group 官方新聞稿 9/1）：Ingka Group、其他 IKEA 加盟商與 Inter IKEA Group 合計投入 €12 億調降歐洲市場價格，9 月 1 日起生效，平均降幅 15% 至 25%，涵蓋 KALLAX 收納、HEMNES 日床、POÄNG 扶手椅等主力品。\n        ② 分國幅度：德國 逾 1,500 項商品均降 20%（BESTÅ 電視櫃 -27%、IKEA 365+ 廚具最多 -24%）；英國數百項，BILLY 書櫃 -28%、TROFAST 收納組合 -24%；義大利數百項均降 22%，KALLAX 最多 -29%、BESTÅ 框體均降 26%。\n        ③ 定調為長期政策而非活動：Ingka CEO Juvencio Maeztu 明講「這不是活動或短期促銷，而是在人們最需要的時候讓 IKEA 更負擔得起，即使意味著接受較低的毛利」，同時持續開設小型店強化全通路。\n        ④ 歐洲以外另有補貼：Ingka 另投 €7,000 萬抵銷亞洲與北美的通膨與匯率壓力。\n        ⑤ 前一輪的成效被官方引用為依據：IKEA 表示 FY24 那一輪跨市場降價帶來更多來客與訂單數成長；另據報導其年度銷售在降價期間下滑 5%，公司預期後續回升。\n        結論：歐洲家居品類的價格錨從 9/1 起被整體下拉一個級距，而且是結構性、不是檔期性。",
+    "public_impact": "這不是促銷檔期，而是把降價當長期定價政策。Ingka Group 9 月 1 日公告，Ingka Group、其他 IKEA 加盟商與 Inter IKEA Group 合計投入 €12 億調降歐洲市場價格，9 月 1 日起生效，平均降幅 15% 至 25%，涵蓋 KALLAX 收納、HEMNES 日床、POÄNG 扶手椅等主力商品。分國看，德國逾 1,500 項商品平均降 20%（BESTÅ 電視櫃 -27%）；英國 BILLY 書櫃 -28%、TROFAST -24%；義大利數百項平均降 22%，KALLAX 最多 -29%。Ingka 執行長 Juvencio Maeztu 明確表示這不是活動或短期促銷，而是長期承諾，即使意味著接受較低毛利；歐洲以外另投 €7,000 萬抵銷亞洲與北美的通膨與匯率壓力。對線上家居賣家而言，歐洲家居品類的消費者心理參考價從 9 月 1 日起被整體下拉一個級距，且是結構性而非檔期性變動。德國受衝擊最直接：當地 7 月零售實質下滑 3.4%、網購下滑 5.6%，量縮與主要競爭者降價同時發生。",
+    "public_action": "① 家居與收納品類的賣家本週就做價格帶對照：以 BILLY 降 28%、BESTÅ 降 27%、KALLAX 降 29%、TROFAST 降 24% 對應的新價，逐一比對自己同功能商品的現價，找出已被超越的商品。② 德國市場的第四季家居品類假設建議單獨下修：當地逾 1,500 項商品平均降價 20%，疊加 7 月零售實質下滑 3.4%、網購下滑 5.6%。③ 不要跟著全面降價。對手是用 €12 億補貼並明言接受較低毛利在打，跟價會直接打穿毛利；改以尺寸、材質、風格的長尾選擇、組裝便利性、配送與到貨速度做差異化。④ 折扣彈性建議集中在檔期而非全期：對手已把日常價下拉 15% 至 25%，全期降價無法建立差異，把預算壓縮到 10 月 7 至 8 日與黑五網一兩個節點更有效。⑤ 英國家居賣家可提前思考多通路定位，IKEA 已表示計劃在英國推出自家線上市集。⑥ 後續關注：9 月 8 日促銷提交死線前家居品類價格要定案、10 月是否擴大降價品項、IKEA 英國市集上線時程。",
+    "sources": [
+      {
+        "name": "Ingka Group 官方新聞稿 9/1（一手、€12 億／分國幅度／CEO 原話）",
+        "url": "https://www.ingka.com/newsroom/ikea-makes-a-major-investment-in-affordability-lowering-prices-on-hundreds-of-products"
+      },
+      {
+        "name": "PYMNTS 9/1（$14 億換算、€7,000 萬亞洲北美、英國 marketplace）",
+        "url": "https://www.pymnts.com/news/retail/2026/ikea-cuts-prices-in-europe-as-cost-of-living-pressures-persist"
+      },
+      {
+        "name": "WSJ（付費牆）",
+        "url": "https://www.wsj.com/business/retail/ikea-cuts-prices-across-europe-as-cost-of-living-pressures-persist-d7f44e1a"
+      },
+      {
+        "name": "The Seattle Times（家戶預算受壓的背景）",
+        "url": "https://www.seattletimes.com/business/ikea-cuts-prices-mostly-in-europe-as-household-budgets-remain-squeezed"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/2 DIW】德國 2026 GDP 預測 0.5%→1.2% 翻倍上修：出口超預期＋能源衝擊轉溫和，但成長 70% 靠公部門、Q3 預期停滯",
+    "summary": "和昨天的德國零售 -3.4% 放在一起看，這份上修證實的是「分裂式復甦」：出口與公部門在拉、家戶需求在拖。\n        ① 上修幅度（DIW Berlin 9/2 秋季預測，Reuters 報導）：德國 2026 年 GDP 成長從原本 0.5% 上修到 1.2%（超過兩倍），2027 年 1.0%、2028 年 0.7%。理由是出口強於預期，加上伊朗戰爭帶來的能源價格衝擊比原先假設溫和。\n        ② 上修但不樂觀：DIW 景氣預測主管 Dany-Knedlik 說「今年恢復得比預期好一些，但仍站在相當不穩的地基上」；高天然氣價格、家戶需求疲弱、工業結構問題會拖累下半年。Q3 預期停滯，水道水位偏低與能源成本壓到化工與金屬。Q2 實際 +0.3%。\n        ③ 成長品質是最大警訊：公共消費與投資將占今年成長的約 70%，靠基建、氣候與國防支出支撐；院長 Fratzscher 說「可能正處於轉向更強成長的轉折點，但目前動能主要來自公部門」。背後是 €5,000 億基建基金與國防支出的債務規則豁免。\n        ④ 勞動市場給出緩衝（Eurostat 9/1）：歐元區 7 月失業率 6.4%（與 6 月持平、去年同月 6.3%）、EU 6.1%；EU 失業人數 1,351.6 萬，較 6 月減 4.1 萬。青年失業率 EU 15.1%（前月 15.6%）、歐元區 14.9%。\n        結論：DIW 另宣布未來預測將納入「混合攻擊」的經濟衝擊評估，這是預測方法上的新變數。",
+    "public_impact": "德國經濟研究所 DIW Berlin 9 月 2 日大幅上修德國成長預測，2026 年 GDP 成長從 0.5% 上調到 1.2%（超過兩倍），2027 年 1.0%、2028 年 0.7%，理由是出口強於預期加上伊朗戰爭的能源價格衝擊比原先假設溫和；第二季實際成長 0.3%。但成長品質必須看清楚：DIW 指出公共消費與投資將占今年成長的約 70%，靠基建、氣候與國防支出支撐，背後是去年通過的 €5,000 億基建基金與國防支出的債務規則豁免。DIW 表示德國經濟今年恢復得比預期好一些，但仍站在相當不穩的地基上，高天然氣價格、家戶需求疲弱與工業結構問題會拖累下半年動能，第三季預期停滯。勞動市場則提供緩衝：Eurostat 9 月 1 日公布歐元區 7 月失業率 6.4%，與 6 月持平、去年同月 6.3%，歐盟 6.1%；青年失業率歐盟 15.1%（前月 15.6%）、歐元區 14.9%，皆下降。這代表零售疲軟目前是消費者選擇減量而非失去所得。",
+    "public_action": "① 不要把 GDP 上修到 1.2% 當成消費復甦。驅動來自出口與公共投資（占成長約 70%），DIW 自己點名家戶需求疲弱，這與德國 7 月網購實質下滑 5.6% 一致，宏觀成長與線上零售之間沒有直接傳導。② 第四季節奏建議定為「量保守、檔期集中」：DIW 預期第三季停滯、下半年動能受限，成長只能靠檔期而非需求基本盤，首批備貨量保守、折扣彈性押在 10 月與黑五網一。③ 失業率 6.4% 持平、青年失業率下降是重要下限，代表需求仍在、只是更看價格，不必因零售數據悲觀而過度砍量。④ 工業與企業採購品類（工具、耗材、線材、安全用品、機櫃周邊）可單獨評估：€5,000 億基建基金加上國防與氣候支出帶來實質需求，但這股動能不可外推到一般消費品。⑤ 能源密集品類的第四季毛利建議重算：高天然氣價格與水道水位偏低正壓到化工與金屬產業，會傳導到以塑膠件、金屬件、化工原料為主的商品成本。⑥ 後續關注：9 月 4 日歐元區 7 月零售銷售、9 月 7 日第二季 GDP 正式估計、9 月 8 日德國 7 月貿易數據、9 月 10 日歐洲央行決議。",
+    "sources": [
+      {
+        "name": "Reuters 9/2（付費牆）",
+        "url": "https://www.reuters.com/business/diw-raises-german-economic-growth-forecasts-exports-beat-expectations-2026-09-02"
+      },
+      {
+        "name": "Reuters 全文（經 Euronext 轉載，含 1.2%／1.0%／0.7%、70% 公部門、Q3 停滯、混合攻擊評估）",
+        "url": "https://live.euronext.com/en/financial-news/diw-raises-german-economic-growth-forecasts-exports-beat-expectations"
+      },
+      {
+        "name": "Rheinische Post（rp-online）9/2 德文報導",
+        "url": "https://rp-online.de/wirtschaft/deutsche-wirtschaft-diw-hebt-prognose-fuer-2026-an_aid-154126709"
+      },
+      {
+        "name": "marketSTEEL 9/2（出口驚喜與工業視角）",
+        "url": "https://www.marketsteel.de/news-details/diw-berlin-exportueberraschung-hebt-wachstumsaussichten.html"
+      },
+      {
+        "name": "retail-news.de 9/2（零售視角）",
+        "url": "https://retail-news.de/diw-konjunkturprognose-deutschland-wachstum-2026"
+      },
+      {
+        "name": "Eurostat 9/1 新聞稿：歐元區 7 月失業率 6.4%（一手）",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-01092026-bp"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/2 一般法院 T-357/24】DMA 判決確立 gatekeeper 量化門檻可被推翻：Edge 達標仍不被指定，Opera 全面敗訴",
+    "summary": "這則的重點不在瀏覽器，而在 DMA 的執行邏輯被司法確認：達到量化門檻不等於一定被指定為 gatekeeper。\n        ① 判決本身（歐盟一般法院 9/2 判決，Case T-357/24 Opera Norway v Commission，新聞稿第 113/26 號）：法院全數駁回 Opera Norway 的訴訟，維持執委會 2024/2/12 決定——不把 Microsoft 就 Edge 指定為 gatekeeper。\n        ② 關鍵法理：法院確認雖然 Microsoft 已達到 DMA 量化門檻，但它提出「充分具體的論據」證明 Edge 並非通往終端使用者的重要 gateway。法院採納的理由：Edge 使用規模偏低、基於 Blink 引擎因而降低 Microsoft 對關鍵環節的自主控制力、預裝於 Windows 等推廣機制並不足以使其成為重要 gateway。\n        ③ 程序上的另一半也重要：法院認定 Opera 具訴訟適格——競爭者可以就「不指定」的決定提告。判決可在 2 個月 10 天內就法律問題上訴至歐盟法院。\n        ④ 同日另一條線是廣告科技：美國法院裁定 Google 得以保留其 ad exchange、不必分拆；但執委會 2025 年就 adtech 自我優待對 Google 開出 €29.5 億罰款，並主張只有結構性救濟（出售）才能解決利益衝突，兩邊救濟方向落差擴大。\n        結論：DMA 的「指定」不是機械式套門檻，而是可攻可守的實質認定。",
+    "public_impact": "這則的重點不在瀏覽器，而在《數位市場法》（DMA）的執行邏輯被司法確認。歐盟一般法院 9 月 2 日在 Case T-357/24（Opera Norway 訴執委會）全數駁回 Opera 的訴訟，維持執委會 2024 年 2 月不把 Microsoft 就 Edge 指定為守門人的決定。關鍵法理是：即使已達到 DMA 量化門檻，只要能提出充分具體的論據證明該服務並非通往終端使用者的重要通道，執委會就可以不予指定。法院採納的理由包括 Edge 使用規模偏低、基於 Blink 引擎因而降低對關鍵環節的自主控制力、預裝於 Windows 等機制並不足以使其成為重要通道。程序上同樣重要：法院認定 Opera 具訴訟適格，競爭者可就「不指定」的決定提告，判決可在 2 個月 10 天內上訴。同日另一條線是廣告科技：美國法院裁定 Google 得保留其廣告交易平台不必分拆，但執委會 2025 年已就廣告科技自我優待對 Google 開出 €29.5 億罰款，並主張只有結構性救濟才能解決利益衝突。這意味著 DMA 帶來的介面與預設值變動會逐案演進，不會一次到位。",
+    "public_action": "① 不要把 DMA 當成一次性的合規事件來規劃。判決確立達到量化門檻仍可用實質論據推翻，加上競爭者可就「不指定」決定提告，代表相關規則會持續逐案演進，平台介面與預設值的變動也會分批出現。② 流量結構假設保留變動空間：建議不要把單一入口的流量占比假設鎖死超過 12 個月，尤其是依賴瀏覽器預設、比價入口或作業系統整合帶來的流量。③ 有站外廣告投放的賣家，2027 年成本假設建議保留約 10% 至 15% 的彈性區間。歐盟主張對 Google 廣告科技採結構性救濟、美國法院裁定不必分拆，兩邊救濟方向落差若最終導致歐洲程式化廣告供給端重組，成本與可觸及度都會變動。④ 把廣告透明度監管當成一個趨勢而非個案來追蹤，美國與歐盟兩邊同時在收緊，長期方向是競價與計費資訊揭露更多。⑤ 記下上訴窗口：判決後 2 個月 10 天內可就法律問題上訴，若上訴這條線約在 11 月會再有進展。⑥ 後續關注：執委會對 Google 廣告科技結構性救濟的下一步、2027 年 1 月新指定服務的合規期限。",
+    "sources": [
+      {
+        "name": "歐盟法院官方新聞稿 No 113/26（一手、T-357/24 判決全文要點）",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf"
+      },
+      {
+        "name": "EU Law Live 9/2",
+        "url": "https://eulawlive.com/dma-general-court-upholds-commissions-decision-not-to-designate-microsoft-as-gatekeeper-in-relation-to-edge"
+      },
+      {
+        "name": "Silicon Republic 9/2",
+        "url": "https://www.siliconrepublic.com/business/opera-loses-dma-gatekeeper-legal-challenge-over-microsoft-edge-browser-courts"
+      },
+      {
+        "name": "Reuters 全文（經 Euronext 轉載）",
+        "url": "https://live.euronext.com/en/financial-news/opera-loses-court-challenge-against-eu-exemption-microsofts-edge-dma-rules"
+      },
+      {
+        "name": "EU Today 9/2",
+        "url": "https://eutoday.net/eu-court-microsoft-edge-dma-gatekeeper"
+      },
+      {
+        "name": "執委會新聞稿 IP/25/1992：Google adtech €29.5 億罰款與結構性救濟立場（一手背景）",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-02",
     "type": "daily",
     "tags": [
@@ -3083,144 +3253,6 @@
       {
         "name": "Arianee（7/27 更新）：標準狀態與去中心化架構",
         "url": "https://www.arianee.com/en/blog/digital-product-passports-guide"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-03",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/2 已生效】AI Act 透明度義務正式上路：AI 客服須自報身分、AI 生成圖文須標示，約 190 家簽 Code of Practice",
-    "summary": "不是「即將上路」而是「昨天已經生效」，這是本日最需要立刻確認的一則：\n        ① 執委會 7/31 宣告 8/2 開始執法（DG CONNECT，7/31）：AI Office 與各國主管機關自 8/2 起執行 AI Act，同日透明度規則適用。\n        ② 三類義務很具體（同上）：聊天機器人等互動式系統須告知對方不是真人；deepfake（AI 生成或編輯的圖片、影片、音訊）須標示；AI 生成或修改內容須帶機器可讀標記。\n        ③ 部署方（deployer）也有義務（Euronews 8/2）：情緒識別與生物特徵分類、deepfake、未經人工審閱即發布的公共利益議題文字均須揭露。範圍限「專業用途」，藝術、諷刺、虛構類豁免。\n        ④ 既有系統有緩衝但非豁免（同上）：已運作系統可延至 12/2 調整，違規面臨「高額罰款」（未列金額）。\n        ⑤ Code of Practice 約 190 家簽署（DG CONNECT 7/31）：提供方 83 家、部署方 152 家，含 Google、Meta、Microsoft、OpenAI、Anthropic，約半數為中小型公司、橫跨 IT 至零售。\n        ⑥ 延期的是高風險、不是透明度（執委會政策頁）：AI Omnibus 已 7/27 生效，Annex III 高風險延到 2027/12/2、產品內嵌延到 2028/8/2；8/2 一般適用日與透明度未延後。\n        結論：賣家端會碰到的，正好是沒延的那一半。",
-    "public_impact": "歐盟執委會於 7 月 31 日宣告，AI Office 與各國主管機關自 8 月 2 日起執行人工智慧法，同日透明度規則正式適用。義務包含三類：聊天機器人等互動式 AI 系統必須告知使用者其正在與 AI 而非真人互動；deepfake，即 AI 生成或編輯的圖片、影片與音訊，必須加上標示；AI 生成或修改的內容須帶機器可讀標記以便偵測。部署方亦有揭露義務，涵蓋情緒識別與生物特徵分類工具，以及未經人工審閱即發布的公共利益議題文字。適用範圍限專業用途產出，藝術與虛構類作品豁免。已在運作中的系統可延至 12 月 2 日完成調整。AI Omnibus 已於 7 月 27 日生效，將 Annex III 高風險義務延後至 2027 年 12 月、受管制產品內嵌高風險 AI 延至 2028 年 8 月，但透明度義務並未延後，這是最容易被誤讀的一點。伴隨上路的 Code of Practice 約有 190 家組織簽署，約半數為中小型公司，橫跨資訊科技、電信、教育與零售業。",
-    "public_action": "① 先釐清生效範圍，避免誤以為義務整體延後——透明度義務自 8 月 2 日已適用，延後的僅為高風險類別；② 盤點三個實際觸點：是否使用 AI 客服機器人且有無告知使用者、是否使用 AI 生成或修改商品圖片與影片且有無標示、AI 生成的商品文案是否保留產出紀錄；③ 使用第三方 AI 工具的賣家須注意，即使不是模型開發者，作為部署方仍可能是義務主體，不宜假設責任全在工具供應商；④ 既有系統的 12 月 2 日死線與第四季旺季重疊，建議在 10 月中之前完成調整，避免旺季期間變動商品頁面；⑤ 多國佈局的賣家可評估簽署 Code of Practice，其提供跨成員國一致的合規示範路徑，且簽署名單持續開放與更新，9 月另將啟動兩個工作小組分享實作經驗；⑥ 罰則方面目前官方公開說明僅提及高額罰款，尚未見針對透明度條文的具體級距，規劃時以義務內容與時程為準。",
-    "sources": [
-      {
-        "name": "執委會 DG CONNECT 新聞稿（7/31）",
-        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
-      },
-      {
-        "name": "Code of Practice 簽署名單（7/31）",
-        "url": "https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content"
-      },
-      {
-        "name": "Euronews：標示義務生效（8/2）",
-        "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies"
-      },
-      {
-        "name": "Euronews：規則可執行（8/2）",
-        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
-      },
-      {
-        "name": "執委會 AI 監管框架政策頁",
-        "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-03",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【7/31 Eurostat】歐元區 7 月通膨升至 2.9%（前 2.8%）、能源年增衝 10%：核心也從 2.4% 升到 2.5%，9 月 ECB 升息劇本未退場",
-    "summary": "7/30 日報預告的「德西通膨彈升」已由歐元區整體數據確認，且核心同步走高：\n        ① 頭條與核心雙升（Eurostat flash，7/31）：7 月年增 2.9%（6 月 2.8%）、月增 0.2%（前 -0.1%）。核心（扣食品能源）2.5%、高於 6 月 2.4% 與市場估的 2.4%。\n        ② 能源是唯一主因，且幅度很大（同上）：能源年增 10.0%（6 月 8.5%）、月增 +2.4%。服務 3.3%（前 3.2%）；食品菸酒降到 1.2%（前 1.5%）、非能源工業品 0.9%（前 0.7%）。扣能源後僅 2.2%，與 6 月持平。\n        ③ 國別落差拉到 3.6 個百分點（同上）：最高立陶宛 5.6%、保加利亞 4.1%、賽普勒斯 4.0%、西班牙 3.8%、克羅埃西亞 3.6%；最低愛沙尼亞 2.0%、馬爾他 2.1%、法國 2.4%。德國 2.8%、義大利 2.9%、荷蘭 2.9%。\n        ④ 月增分布對定價節奏更有意義（Euronews 7/31）：月比漲最多是荷蘭 +1.5%、德國 +0.9%；反向下跌的是希臘 -1.4%、義大利 -1.0%。\n        ⑤ 賣方觀點：黏著而非失控（同上）：Pantheon 的 Vistesen 稱頭條將「黏在略高於 2.5%」，預期 ECB 再升 25bp 後暫停；Ebury 指天然氣漲到多年高點加深擔憂。歐元升到 1.1520。\n        結論：能源推頭條、核心跟著上 0.1pp，這是 ECB 最不能忽視的組合。",
-    "public_impact": "Eurostat 於 7 月 31 日發布的快速估計顯示，歐元區 7 月消費者物價年增 2.9%，高於 6 月的 2.8%，月增 0.2%。扣除食品與能源的核心通膨為 2.5%，高於 6 月與市場預期的 2.4%。分項中能源是主要推力，年增達 10.0%，高於 6 月的 8.5%；服務為 3.3%、食品菸酒降至 1.2%、非能源工業品 0.9%。扣除能源後的整體通膨為 2.2%，與 6 月持平，顯示壓力集中於能源與其傳導。國別落差顯著，最高為立陶宛 5.6%、西班牙 3.8%；最低為愛沙尼亞 2.0%、法國 2.4%；德國 2.8%、義大利與荷蘭均為 2.9%。就月增而言，荷蘭上漲 1.5%、德國 0.9% 為最劇，希臘下跌 1.4%、義大利下跌 1.0% 則為反向。市場評論方面，Pantheon Macroeconomics 預期頭條通膨將維持在略高於 2.5% 的黏著水準，並看再一次 25 個基點升息後暫停。數據公布後歐元升至約 1.1520 兌美元。",
-    "public_action": "① 核心通膨自 2.4% 升至 2.5%、服務類達 3.3%，顯示能源成本已開始向其他品類傳導，規劃上宜將 9 月歐洲央行再升息 25 個基點列為主要情境；② 國別通膨落差達 3.6 個百分點且方向不一，第四季促銷折扣深度不宜跨站採用同一套標準，西班牙通膨偏高、價格敏感度上升，折扣可較收斂並以毛利為優先，法國通膨為主要市場最低，較有空間以折扣換取銷量；③ 調價時點可參考月增分布，德國與荷蘭當月價格漲幅最劇、消費者已感受到物價變動，此時溝通調價接受度相對較高，義大利與希臘當月物價下跌，於此時調價較易流失轉換，建議遞延；④ 能源密集品類如家電、家具與消費電子的第三季毛利預估宜重算，並評估 SKU 組合往必需性與較低單價適度調整；⑤ 建議追蹤 8 月 5 日歐元區 6 月生產者物價、8 月 6 日 6 月零售銷售與 8 月 19 日 7 月消費者物價終值，若生產者物價持續偏高而零售走弱，代表成本轉嫁不易，毛利假設需再下調。",
-    "sources": [
-      {
-        "name": "Eurostat 7 月 HICP flash（第 2-31072026 號，7/31）",
-        "url": "https://ec.europa.eu/eurostat/product?code=2-31072026-ap"
-      },
-      {
-        "name": "Euronews Business（7/31）",
-        "url": "https://www.euronews.com/business/2026/07/31/eurozone-inflation-hits-29-which-countries-saw-the-biggest-increases"
-      },
-      {
-        "name": "Trading Economics 歐元區行事曆（實際值對照）",
-        "url": "https://tradingeconomics.com/euro-area/calendar"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-03",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/2 市場】油價單日崩逾 5%：Brent 收 $83.4、WTI $79.8，Trump 收回攻伊計畫＋OPEC+ 9 月加 18.8 萬桶，7 月漲幅大幅回吐",
-    "summary": "7 月靠地緣風險漲逾 20% 的油價，在週末兩天內被外交進展打回去：\n        ① 單日跌幅與價位（Oilprice 8/2、Trading Economics 8/3）：WTI $79.77／-5.88%、Brent $83.47／-5.07%。Trading Economics 顯示 Brent 前收 $87.93、跌 5.18%。賣壓在週一亞洲盤開盤湧現。\n        ② 主因是攻擊計畫喊停（Oilprice 8/2）：Trump 取消原定一輪攻擊，此前曾威脅發動「二戰以來最大規模攻擊」，後因區域領袖告知「協議接近」而收手，市場轉為期待以外交途徑重啟荷姆茲海峽。\n        ③ 但海峽並未實際恢復正常（同上）：伊朗官員稱與阿曼的航運談判接近完成，惟德黑蘭維持阿曼外海南向舊航道對船舶關閉；UKMTO 自週六以來仍記錄三起油輪攻擊。\n        ④ OPEC+ 的加量幅度其實不大（同上）：核准 9 月增產約 18.8 萬桶/日，完成一批自願減產的回補；該報導自評因區域中斷仍壓抑實際產出，此因素「立即相關性較低」。\n        ⑤ 月線的對照才看得出波動幅度（Trading Economics 8/3、Oilprice 7/31）：Brent 7/31 收約 $88、單月漲約 24%，為 3 月以來最強月漲幅；7/31 當週原本已朝 -8% 週線收黑。沙烏地同期籌組13 國護航聯盟應對紅海攻擊。\n        結論：跌的是風險溢價，不是供給恢復。海峽南向航道還關著、油輪還在被攻擊。",
-    "public_impact": "國際油價於 8 月 2 日大幅回落，WTI 報每桶 79.77 美元、下跌 5.88%，布蘭特報 83.47 美元、下跌 5.07%，賣壓於週一亞洲盤開盤時湧現。主要原因是美方取消原定的一輪對伊朗攻擊，後因區域領袖表示協議接近而收手，市場因此轉為期待以外交途徑重啟荷姆茲海峽通行。不過實體供給面並未同步改善：伊朗方面稱與阿曼的航運談判接近完成，但仍維持阿曼外海南向舊航道對船舶關閉，且英國海事貿易作業處自 8 月 1 日以來仍記錄三起油輪攻擊事件。OPEC+ 核准 9 月增產約每日 18.8 萬桶，惟因區域運輸中斷持續，實際產出增幅仍受限制。就月度對照，布蘭特於 7 月 31 日收在約 88 美元，單月漲幅約 24%，為 3 月以來最強。同期沙烏地阿拉伯籌組十三國護航聯盟以應對紅海航運攻擊。整體而言，此次下跌反映的是地緣風險溢價收斂，而非供給實質恢復。",
-    "public_action": "① 單日超過 5% 的跌幅主要來自攻擊計畫取消的預期，而荷姆茲南向航道仍關閉、油輪攻擊事件仍在發生，成本規劃不宜視為能源壓力已解除；② 第四季油價假設建議採情境區間而非單一數字，可設基準約每桶 85 至 95 美元、上行風險為航運情勢再惡化時的 100 美元以上、下行為外交進展成局時的 75 至 80 美元；③ 第三季的進貨與物流成本大致已鎖定，因 7 月能源通膨年增達 10% 反映的是 7 月的高油價，本次回落最快要到 8 月數據於 9 月 1 日公布時才會顯現，第三季毛利不宜預期因此改善；④ 運費占比較高的大件低單價品類如家具、園藝與大型家電配件，若油價回落延續將最先受益，但建議列為上行機會而非基準假設；⑤ 建議追蹤荷姆茲南向航道是否重啟、油輪攻擊頻率、9 月 OPEC+ 實際產出是否達成增產目標，以及 9 月 1 日歐元區 8 月消費者物價快速估計；⑥ 近期油價波動極大，對外引用價格時建議標明日期與收盤時點，避免資料迅速失效。",
-    "sources": [
-      {
-        "name": "Oilprice.com（8/2）",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html"
-      },
-      {
-        "name": "Trading Economics Brent（8/3）",
-        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-      },
-      {
-        "name": "Oilprice.com：沙烏地護航聯盟（7/31）",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Saudis-Push-Maritime-Coalition-as-Oil-Finds-Support.html"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-03",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【7/30 交割完成】eBay 以約 $14 億買下 Depop：Etsy 認列出售、四年前買價 $16.25 億，二手時尚戰場正式進主戰區",
-    "summary": "談了半年的案子在 7/30 正式交割，價格與四年前買價的落差是重點：\n        ① 交割與價格（Etsy IR 7/30、EcommerceBytes 8/2）：Etsy 7/30 發布「Etsy Completes Sale of Depop」。eBay 支付約 $14 億現金 —— $12 億買價加 $2 億淨買價調整與利息，交割後仍可能有調整。\n        ② 對照 Etsy 四年前的買價是虧損出場（同上）：Etsy 2022 年以 $16.25 億買下 Depop，此次約 $14 億賣出。案子最初於 2/18 宣布、原價 $12 億，UK 監管機關已放行。\n        ③ eBay 的整合邏輯講得很明確（EcommerceBytes 8/2）：Depop 成為 eBay 子公司、維持品牌、平台、顧客體驗與文化不變，但要接上 eBay 的「global scale and capabilities —— 含物流、個人化、合規與信任服務」。\n        ④ 規模數字（同上）：時尚是 eBay 年 GMV 逾 $100 億的品類；Depop 有「數百萬名買賣時尚商品的使用者」，主打 Gen Z 與千禧世代、平價庫存與循環時尚。\n        ⑤ 雙方說法（同上）：eBay CEO Iannone 稱保留 Depop 特質下追求綜效；Etsy CEO Goyal 稱此舉讓 Etsy「聚焦於打造最好的市集」，並重申加速股票回購的資金用途。\n        結論：Etsy 認賠退出轉售、eBay 押進二手時尚，兩邊都在收窄戰線。",
-    "public_impact": "Etsy 於 7 月 30 日宣布完成 Depop 出售案，eBay 支付約 14 億美元現金，其中 12 億美元為買價，另有約 2 億美元的淨買價調整與利息。對照 Etsy 於 2022 年以 16.25 億美元買下 Depop，此次為折價出場；該交易最初於 2 月 18 日宣布、原始價格為 12 億美元，並已取得英國監管機關放行。整合方向上，Depop 將成為 eBay 子公司並作為互補業務經營，維持既有品牌、平台、顧客體驗與企業文化，同時接上 eBay 的全球規模與能力，明確包含物流、個人化、合規與信任服務。規模方面，時尚為 eBay 年 GMV 超過 100 億美元的品類，Depop 擁有數百萬名買賣時尚商品的使用者，主要客群為 Z 世代與千禧世代，主打平價庫存與循環時尚。eBay 執行長表示將在保留 Depop 特質的前提下追求綜效，Etsy 執行長則表示此舉讓公司聚焦於經營核心市集，並重申加速股票回購的資金用途規劃。",
-    "public_action": "① Depop 併入 eBay 後將導入物流與合規等基礎能力，其性質可能由社群型轉售平台轉為具備履約基礎的正式通路，經營時尚品類的賣家宜將其納入通路評估與競爭觀察；② Z 世代時尚需求同時受直播電商與轉售平台分流，兩者共同鎖定低單價、高汰換、社群驅動的區間，時尚賣家的通路策略需相應調整；③ Etsy 以 16.25 億美元買進、約 14 億美元賣出，說明轉售賽道即使成長快速，變現與獲利仍具挑戰，評估是否投入多平台時宜以轉換率與履約成熟度為判準，而非平台數量；④ eBay 明確將合規列為導入項目，搭配法國反超快時尚法的逐件環境費與永續產品規範方向，循環與轉售時尚正逐步成為具申報義務的品類，建議在既有產品安全盤點外一併納入；⑤ 觀察重點為 Depop 是否實際接入 eBay 的物流與合規服務，本週兩家公司的財報電話會議為首個資訊點；⑥ Depop 自身 GMV 並未公開，規劃時不宜自行推估其規模。",
-    "sources": [
-      {
-        "name": "Etsy IR：Etsy Completes Sale of Depop（7/30）",
-        "url": "https://investors.etsy.com/press-releases/default.aspx"
-      },
-      {
-        "name": "EcommerceBytes（8/2）",
-        "url": "https://www.ecommercebytes.com/2026/08/02/ebay-to-operate-depop-as-it-seeks-synergies/"
-      },
-      {
-        "name": "Retail Gazette：Depop 平台背景",
-        "url": "https://www.retailgazette.co.uk/blog/2026/07/depop-1-2bn-platform/"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-03",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【7/31 TikTok】TikTok Shop UK 突破 30 萬家小型賣家、新賣家註冊年增 200%：直播銷售 +55%、每日 6,000 場直播",
-    "summary": "7/28 日報「UK 6 月線上零售 +14.4%」的第二個解釋出現了 —— 賣方供給端也在暴增：\n        ① 三個成長數字（TikTok 公司數據，引於 Retail Gazette 7/31）：UK 逾 30 萬家小型企業在 TikTok Shop 銷售；新賣家註冊年增 200%；TikTok Shop Live 直播銷售 +55%；UK 每日進行逾 6,000 場直播。\n        ② 消費端接受度有第三方調查支撐（Savvy 5 月 Shopper Panel，引於同上）：57% 的 Gen Z 與千禧世代表示喜歡觀看直播購物活動。\n        ③ 平台自稱有外溢效應（同上）：TikTok 稱平台成功會外溢到其他通路 —— 需求上升、批發合約、進入更大零售商上架、實體店擴張與新品類。UK 負責人 Jan Wilk 稱 30 萬賣家是「重大里程碑」。\n        ④ 個案數字顯示單場直播的量級（同上）：美妝品牌 Glow For It 創辦人稱單場直播達 £10 萬；倫敦珠寶 L'ERA 2025 年直播銷售達六位數、現每週四場；肉舖 Malik Butchers 稱三小時直播帶來 £8,000 肉品銷售，約等於實體店三到四天的量。\n        ⑤ 品類已擴散到生鮮（同上）：除美妝、珠寶外，Lancashire 的 The Veg Box Company 自稱是該平台首家蔬果業者；美妝品牌 Rose & Caramel 已從廚房品牌做到 Boots、Asos、Beauty Bay 上架。\n        結論：直播電商在 UK 已不是美妝專屬，連肉舖與蔬果箱都在跑，這是通路型態的擴散而非單一品類熱潮。",
-    "public_impact": "TikTok 於 7 月 31 日公布的公司數據顯示，英國已有超過 30 萬家小型企業透過 TikTok Shop 銷售，新賣家註冊數年增 200%，TikTok Shop Live 的直播銷售成長 55%，英國每日進行超過 6,000 場直播帶貨。消費端方面，Savvy 於 5 月進行的購物者調查顯示，57% 的 Z 世代與千禧世代受訪者表示喜歡觀看直播購物活動。平台表示在其上的銷售成功會外溢至其他通路，包含需求提升、取得批發合約與進入較大型零售商上架。就個案而言，美妝品牌 Glow For It 創辦人表示單場直播達 10 萬英鎊；肉舖 Malik Butchers 表示三小時直播帶來約 8,000 英鎊銷售，約相當於實體店三到四天的量；蘭開夏的 The Veg Box Company 自稱為該平台首家蔬果業者。此一數據與英國 6 月線上零售額年增 14.4%、線上占比達 29.4% 的統計方向一致，顯示成長除需求因素外亦有供給端與新通路的貢獻。",
-    "public_action": "① 英國線上零售的成長宜視為一次性因素與結構性通路變化並存，新賣家註冊年增 200% 與 30 萬家賣家規模，說明線上占比上升有部分來自新增供給與新通路，第四季的英國市場規劃可據此略為調整；② 直播帶貨的可行品類範圍比過往預期更廣，美妝、珠寶、生鮮蔬果與肉品均已出現實例，經營相關品類的賣家可評估將短影音與直播納入內容策略，其中美妝與珠寶的結構最接近既有線上主力品類；③ 已在直播通路建立需求驗證與內容能力的品牌，下一階段的瓶頸通常是穩定履約與跨國擴張，宜及早規劃倉儲、庫存與多國站點布局；④ 引用數據時建議標明來源性質，30 萬家賣家、成長 200%、直播成長 55% 與每日 6,000 場均為平台自行公布，57% 的世代偏好則來自第三方調查；⑤ 個案金額如單場 10 萬英鎊屬挑選案例，不宜作為品類平均值用於營收預估。",
-    "sources": [
-      {
-        "name": "Retail Gazette（7/31）",
-        "url": "https://www.retailgazette.co.uk/blog/2026/07/tiktok-shop-hits-300000-uk-small-business-sellers-as-live-sales-surge/"
-      },
-      {
-        "name": "Ecommerce News EU：UK 線上零售 +14.4%（7/27）",
-        "url": "https://ecommercenews.eu/online-retail-sales-surge-in-the-united-kingdom/"
-      },
-      {
-        "name": "ONS 即時經濟指標（7/30）",
-        "url": "https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators30july2026"
       }
     ],
     "color": "#0891b2"
