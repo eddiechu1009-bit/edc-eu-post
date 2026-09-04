@@ -305,7 +305,9 @@ def update_last_date(output_dir, all_articles):
     update_replacement = f'<span id="lastUpdate">{latest_date}</span>'
     new_html = re.sub(update_pattern, update_replacement, html, count=1)
 
-    with open(html_path, 'w', encoding='utf-8') as f:
+    # newline='\n'：CLAUDE.md 規定 HTML/JSON 用 LF。不指定的話 Windows 會寫成 CRLF，
+    # 每天跟 git 的 autocrlf 來回打架（2026-09-04 假警報的成因之一）。
+    with open(html_path, 'w', encoding='utf-8', newline='\n') as f:
         f.write(new_html)
 
 
@@ -363,7 +365,7 @@ def main():
 
     # 輸出全量 JSON（保留：搜尋 / 歷史瀏覽 / 分類切換時前端 lazy fetch 這份）
     output_path = os.path.join(output_dir, 'articles.json')
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='utf-8', newline='\n') as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
 
     print(f"\n✅ 已產出 {len(all_articles)} 則新聞 → {output_path}")
@@ -383,7 +385,7 @@ def main():
         except (ValueError, KeyError):
             recent_articles = all_articles  # 日期異常時退回全量，寧可大也不要漏
     recent_path = os.path.join(output_dir, 'articles-recent.json')
-    with open(recent_path, 'w', encoding='utf-8') as f:
+    with open(recent_path, 'w', encoding='utf-8', newline='\n') as f:
         json.dump(recent_articles, f, ensure_ascii=False, indent=2)
     _full_kb = os.path.getsize(output_path) / 1024
     _recent_kb = os.path.getsize(recent_path) / 1024

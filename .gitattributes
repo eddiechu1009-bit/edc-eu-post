@@ -1,0 +1,22 @@
+# 統一換行為 LF（CLAUDE.md 寫檔規則：HTML / CSV / JSON 用 LF）。
+#
+# 為什麼一定要有這個檔：本 repo 的 core.autocrlf=true，在沒有 .gitattributes 的情況下
+# git 會「期待」工作區是 CRLF。build.py 產出的是 LF，於是 index.html / articles.json /
+# articles-recent.json 會永久被 git status 標成 ' M'（git diff 其實是空的），
+# 並持續吐 "LF will be replaced by CRLF"。
+# 2026-09-04 的網站同步假警報就是這條路上長出來的。
+#
+# 有了 eol=lf 之後 git 不再要求 CRLF，工作區與 index 才會真正一致。
+
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.woff binary
+*.woff2 binary
