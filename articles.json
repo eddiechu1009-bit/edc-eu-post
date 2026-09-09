@@ -1,5 +1,179 @@
 [
   {
+    "date": "2026-09-09",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/8 上線・9/21 停止令到期】Google 歐洲搜尋改版：比價站置頂、即時價格拔除，決定書涵蓋「商品」單元",
+    "summary": "一句話 so what：這不是排名波動，是版位結構被法規改掉；而且執委會的決定書涵蓋「商品中介」，購物版位那一刀在 9/21 之前還可能落下。\n        ① 改了什麼（Reuters 9/8 獨家）：頁面頂端固定給 1 個垂直搜尋服務（VSS，即比價／垂直站，如 Expedia、Booking.com），下方再排 2 個資訊較少的；再往下才是商家 carousel，且該區塊的即時價格被移除。排序仍由 Google 自家演算法決定。\n        ② Google 自己的定調：SVP Nick Fox 對 Reuters 表示這是 29 年搜尋史上「最大幅的服務品質下降」，「拉抬線上中介、犧牲本地商家」；歐盟以外用戶不受影響。\n        ③ 決定書的真正範圍（C(2026) 5358 final、Case DMA.100193、153 頁、7/23 通過）：違反 DMA 第 6(5) 條，涵蓋九項服務，第一項就是「商品中介」（含付費商品廣告單元與免費商品單元），其餘為機票、火車、住宿、地點、Maps、翻譯、體育、遊戲。罰 €4.6 億（另 €4.3 億為 Google Play 導流），合計 €8.9 億，約當年度全球營收 0.13%。\n        ④ 時間軸與罰則：Article 3 要求通知後 60 個日曆日內停止，ppc.land 依通過日推算為 9/21（通知日未公開）；違規可按全球日均營收 5% 逐日罰。\n        結論：9/8 動的是旅遊三垂直，商品單元同在同一份決定書、同一個期限——這條線還沒走完。",
+    "public_impact": "9 月 8 日起，Google 在歐洲的搜尋結果頁改為版面頂端固定呈現一個垂直搜尋／比價服務、下方再排兩個資訊較少的，商家 carousel 移到更下方，且該區塊的即時價格資訊被移除。Google 資深副總 Nick Fox 稱這是搜尋引擎 29 年來最大幅的服務品質下降，抬升線上中介、壓縮本地商家；歐盟以外用戶不受影響。改版的法律依據是執委會 7 月 23 日的決定書（C(2026) 5358 final），認定九項服務違反數位市場法第 6(5) 條、罰款 4.6 億歐元，並要求 60 個日曆日內停止相關作法。值得注意的是，九項服務的第一項是「商品中介」，含付費商品廣告單元與免費商品單元，購物版位同在這份決定書範圍內、適用同一期限。對照今年已出現的兩項觀察——德國前 2,500 大電商 Google 自然能見度年減 16.7%、AI 介面僅約 23% 的查詢會回傳商品——站外自然流量的結構性衰減，這次的來源是法規而非 AI。",
+    "public_action": "① 依賴自有網站承接 Google 自然流量者，本季宜重估流量假設。改版屬法規強制而非演算法波動，回復可能性低。② 旅遊相關品類（行李箱、旅行配件、住宿與票券周邊）可直接視為已生效；一般實體商品品類目前結果頁未變，但商品單元已在決定書範圍內，宜列為前瞻風險而非既成事實。③ 建議觀察 9 月下旬停止令到期後商品單元是否同步改版；若執委會不認可現行版本，違規可按全球日均營收 5% 逐日罰，版面可能再次調整。④ 付費搜尋預算宜預留調整空間。Google 自述改版會墊高歐洲商家的時間與金錢成本，且前一輪法規調整已使歐洲商家的免費直接訂房流量下滑約 30%，自然版位壓縮通常伴隨付費競價成本上升。⑤ 使用比價站導流者可留意 Idealo、Geizhals、Kelkoo 等垂直比價服務曝光是否上升，這是改版的受益方。⑥ 引用時建議標注：60 天期限的起算日為決定書通知日，官方未公開該日期，外界所稱的 9 月 21 日是依通過日推算。",
+    "sources": [
+      {
+        "name": "Reuters 9/8 獨家（Foo Yun Chee，Brussels；Nick Fox 具名發言原文、VSS 版位結構、即時價格移除、60 天窗口、5% 全球營收循環罰、€4.6 億罰款事由；付費牆／機器人擋，內容經下列兩家全文轉載驗證）",
+        "url": "https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08"
+      },
+      {
+        "name": "Global Banking & Finance 9/8（Reuters 全文轉載，實測可讀：€460m＝$534m、另筆 €430m Google Play、累計歐盟反壟斷 €103.8 億、30% 直接訂房流量跌幅、數百萬用戶測試不滿）",
+        "url": "https://www.globalbankingandfinance.com/exclusive-google-warns-lower-quality-revamps-europe-search"
+      },
+      {
+        "name": "PPC Land（決定書逐條解讀：C(2026) 5358 final、Case DMA.100193、153 頁、7/23 通過、Virkkunen 簽署、recital 92 九項服務清單含「商品中介」、Article 6(5)、recital 702 約 0.13% 全球營收、Article 3 六十日、推算 9/21、CSS 競標機制、2024/3/7 起算 28 個月）",
+        "url": "https://ppc.land/google-faces-cease-and-desist-orders-on-nine-services-in-eu-search-decision"
+      },
+      {
+        "name": "The Straits Times 9/8（Reuters 轉載，實測可讀）",
+        "url": "https://www.straitstimes.com/world/europe/google-warns-of-lower-quality-as-it-revamps-europe-search-results-to-avoid-eu-fines?ref=latest"
+      },
+      {
+        "name": "Engadget 9/8（獨立整理：€890m 合計、2024/3 DMA 方案、2025/10 Google 和解提案時間軸、演算法仍決定排序的觀察）",
+        "url": "https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-09",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/10 前夜】ECB 升息至 2.50% 已 65／65 全數共識：分歧全在之後，經濟學家 91% 看到頂、市場續押 2-3 次",
+    "summary": "一句話 so what：明天的決議本身沒有資訊量，真正要看的是 Lagarde 會不會把 2.50% 說成終點——經濟學家與市場現在押相反方向，這個裂縫才是 Q4 定價與匯率假設的來源。\n        ① 決議本身零懸念（Reuters 民調 8/31–9/3）：受訪 65 位經濟學家全數 65 人預期 9/10 升息 25bp，存款利率由 2.25% 升至 2.50%（6 月升息、7 月按兵）。\n        ② 分歧在之後：約 91% 認為 2026 年底就停在 2.50%、78% 認為到 2027 年中都不動；但利率市場更鷹，各家整理為再 2 次到 3 次、時間點在 2027 年年中至 7 月（FXEmpire 引 Reuters 為「多達 2 次」、XTB／FXStreet 為「約 3 次」，本報並列不擇一）。\n        ③ 市場為何比經濟學家鷹：能源。ICE TTF 天然氣期貨 9/2 週高 €73.63/MWh，為 2023/1/10 以來最高；9/4 結算 €71.95，週漲 7.4%（AleaSoft）。原因是荷姆茲海峽緊張壓縮卡達與阿聯 LNG 進歐。8 月 HICP 已達 3.3%（7 月 2.9%、2023/9 以來最高），能源年增 14.3%，但核心降到 2.4%。\n        ④ 情緒面同向（Sentix 9/7）：9 月投資人信心 5.1（前 0.9、共識 2.0），連 5 個月改善、2022/2 以來最高。\n        結論：供給面通膨升息治不了，但 ECB 要保信譽——ING 稱之為「保險性升息」。回到 2% 的時點被推到 2027 年底。",
+    "public_impact": "歐洲央行 9 月 10 日的利率決議已被市場完全反映——Reuters 於 8 月 31 日至 9 月 3 日訪問的 65 位經濟學家全數預期升息 25 個基點，存款利率升至 2.50%。真正未定的是之後的路徑：約 91% 的受訪者認為 2026 年底就停在 2.50%、78% 認為到 2027 年中都不會再動，但利率市場定價更為鷹派，各家整理為再 2 次到 3 次、時間落在 2027 年中至 7 月。市場之所以偏鷹，主因是能源：ICE 的 TTF 天然氣期貨 9 月 2 日週高達每兆瓦時 73.63 歐元，為 2023 年 1 月 10 日以來最高，推力是荷姆茲海峽緊張壓縮卡達與阿聯的 LNG 供歐。8 月歐元區 HICP 已達 3.3%，能源年增 14.3%，但扣除能源與食品的核心通膨反而由 2.5% 降至 2.4%。投資人信心（Sentix 9 月 5.1，前值 0.9、共識 2.0）為 2022 年 2 月以來最高，但那是金融市場情緒指標，非消費者信心。",
+    "public_action": "① 決議本身無須預作反應，25 個基點已在價格裡；重點在會後措辭是否把 2.50% 定調為終點，以及新一輪幕僚通膨預測對 2027 年的路徑。② 歐元計價的售價與採購假設建議準備兩套情境：若央行保留後續升息空間，歐元傾向偏強，以非歐元成本進貨、在歐元區銷售的賣家相對有利；若明確定調終點，歐元回落，進貨成本壓力上升。③ 定價溝通不宜引用 3.3% 的頭條通膨。該數字幾乎全由能源年增 14.3% 貢獻，核心僅 2.4%，消費者感受到的漲價集中在電費與燃料，而那正是排擠可選消費的部分，以頭條數字作為漲價依據容易失準。④ 能源密集品類（家電、暖氣設備、3C、家具）第四季宜同時預留成本上升與需求偏弱兩項假設。TTF 已回到 2023 年 1 月水準，且推力為地緣政治而非天氣，不會因暖冬自動緩解。⑤ 投資人信心創四年新高不宜作為需求依據，該指標對象為 1,052 位投資人（含 209 位機構）。⑥ 通膨回到 2% 的共識時點已推遲至 2027 年底。",
+    "sources": [
+      {
+        "name": "FXEmpire 9/7（Carolane De Palmas；Reuters 民調 8/31–9/3、65 位全數、2.25%→2.50%、91%／78% 分布、8 月 HICP 3.3%／能源 14.3%／核心 2.4%、Reuters 民調 2026 通膨均值 2.9%、回到 2% 推至 2027 年底、ING「保險性升息」、Schnabel 鷹派、Natixis 二輪效應）",
+        "url": "https://www.fxempire.com/forecasts/article/ecb-rate-hikes-why-markets-see-more-tightening-than-many-economists-expect-1624869"
+      },
+      {
+        "name": "FXStreet 9/8（EUR/USD 交易焦點在 Lagarde 措辭與新幕僚預測、市場較經濟學家鷹派）",
+        "url": "https://www.fxstreet.com/analysis/a-key-week-for-eur-usd-ecb-decision-and-us-inflation-in-focus-202609080646"
+      },
+      {
+        "name": "RankiaPro 9/7（PIMCO Konstantin Veit「升 25bp 至 2.5% 後長期暫停」、Generali AM Florian Spaete「市場已完全定價、到 2027 夏天再近兩次」、Generali Investments Thomas Hempell 對市場定價的質疑，皆為具名直接引語）",
+        "url": "https://rankiapro.com/en/insights/ecb-poised-for-a-september-hike-but-the-path-beyond-divides-opinion"
+      },
+      {
+        "name": "XTB 9/7（ECB Implied Policy Path 圖：市場預期到 2027 年中共 3 次；明指 TTF 上漲是加碼緊縮押注的主因）",
+        "url": "https://www.xtb.com/cy/market-analysis/news-and-research/economic-calendar-ecb-decision-oracle-results-and-us-inflation-what-to-expect-07-09-2026"
+      },
+      {
+        "name": "pv magazine 9/8 引 AleaSoft（TTF 9/2 週高 €73.63/MWh、2023/1/10 以來最高、9/4 結算 €71.95／週漲 7.4%、荷姆茲海峽與卡達／阿聯 LNG 減量、義大利週均電價 €202.89/MWh）",
+        "url": "https://www.pv-magazine.com/2026/09/08/european-markets-set-daily-solar-records-for-september/"
+      },
+      {
+        "name": "Anadolu 9/7（Sentix 5.1／+4.2 點、連 5 月、2022/2 以來最高、9/3–9/5 訪 1,052 位含 209 機構、預期 13.8、現況 -3.3、德國 -2.8、Hubner 具名發言）",
+        "url": "https://www.aa.com.tr/en/economy/eurozone-investor-confidence-hits-highest-level-since-2022/4049737"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-09",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/8 Destatis】德國 7 月順差 €21.3bn 遠超共識 €16bn：出口 -0.8% MoM，對美單月 +19.1%、對 EU -1.6%、對中 -9.5%",
+    "summary": "一句話 so what：順差爆表是「進口崩得比出口快」造成的，不是出口變強；而且成長全靠對美單月 +19.1%，對歐盟自己的出口反而 -1.6%——這是本季最不該被當好消息讀的一份數據。\n        ① 表頭（Destatis 9/8、季節與日曆調整）：出口 €1,382 億／MoM -0.8%、進口 €1,169 億／MoM -5.7%，順差 €213 億（6 月 €154 億、去年 7 月 €168 億、YoY +26.5%）。共識僅看到 €160 億（MarketScreener）。年增則雙正：出口 +6.1%、進口 +3.0%。\n        ② 順差是進口造成的：出口只掉 0.8%，進口掉 5.7%。分區看進口全面收縮——EU -6.1%、歐元區 -6.5%、非 EU -5.3%、對美 -8.2%、對中 -7.5%。\n        ③ 出口的方向極度分化：對美 MoM +19.1% 至 €144 億／YoY +28.3%，仍是最大出口市場；對英國 -7.2%（€67 億）、對中 -9.5%（€56 億）、對 EU -1.6%（€780 億）、歐元區 -2.8%（€539 億）；只有非歐元區 EU +1.1% 與非 EU 整體 +0.2% 為正。\n        ④ 中國仍是最大進貨來源：自中國進口 €152 億（MoM -7.5%），高於自美進口 €79 億近一倍。\n        結論：本報 9/7 已記德國 7 月工業生產 -1.1%、汽車 -9.2%。今天的貿易數據與之相容：生產弱、出口弱、進口更弱，順差因此變大。",
+    "public_impact": "德國聯邦統計局 9 月 8 日公布 7 月外貿數據，經季節與日曆調整後出口 1,382 億歐元、月減 0.8%，進口 1,169 億歐元、月減 5.7%，貿易順差 213 億歐元，遠高於經濟學家平均預估的 160 億歐元（6 月為 154 億、去年 7 月 168 億，年增 26.5%）。關鍵在於順差擴大的成因是進口收縮快於出口，而非出口轉強。進口全面下滑：對歐盟月減 6.1%、對歐元區 6.5%、對美 8.2%、對中 7.5%。出口方向高度分化：對美單月增 19.1% 至 144 億歐元、年增 28.3%，仍是最大出口市場；對英國減 7.2%、對中國減 9.5%、對歐盟減 1.6%、對歐元區減 2.8%，僅非歐元區歐盟成員（+1.1%）與非歐盟整體（+0.2%）為正。中國仍是德國最大進貨來源，7 月自中國進口 152 億歐元，接近自美進口 79 億歐元的兩倍。此數據與 7 月工業生產月減 1.1%、汽車業月減 9.2% 相容。",
+    "public_action": "① 引用時建議把因果一併說明。順差創高源於進口下滑快於出口，若只引順差或年增出口 6.1%，容易得出景氣轉強的相反結論，而同一份數據的月增為 -0.8%。② 德國進口月減 5.7%、對歐盟進口減 6.1%，反映通路端補貨動能降溫。以德國為主要市場者第四季庫存假設宜維持保守，並與 7 月德國零售實質年減 3.4% 一併判讀。③ 對美出口單月增近兩成宜視為待觀察。關稅政策仍變動下，單月大幅跳升常見於提前出貨或個別大單，建議等 8 月數據（約 10 月上旬）確認是否回吐再調整假設。④ 供應鏈集中在中國、銷往歐洲者，建議留意 10 月歐盟對中貿易政策窗口，並評估備援供應與前置期。⑤ 以英國為主要市場者可注意：德國對英出口月減 7.2% 與英國 8 月零售僅增 0.7%、非食品減 0.8% 為兩組獨立資料指向同一方向，英國第四季假設不宜較德國樂觀。⑥ 觀察節點：10/6 歐元區 8 月零售與德國 8 月工廠訂單、10 月上旬德國 8 月貿易、9/10 德國 8 月 CPI 終值。",
+    "sources": [
+      {
+        "name": "IndexBox 9/8 引 Destatis（出口 €138.2bn／-0.8%、進口 €116.9bn／-5.7%、順差 €21.3bn、分區完整表：EU €78bn -1.6%／歐元區 €53.9bn -2.8%／非歐元 EU €24.1bn +1.1%／非 EU €60.2bn +0.2%、對美 €14.4bn +19.1%／+28.3%、自美 €7.9bn -8.2%、英 €6.7bn -7.2%、中 €5.6bn -9.5%／自中 €15.2bn -7.5%、未調整出口 €143.1bn／順差 €22.2bn）",
+        "url": "https://www.indexbox.io/blog/german-foreign-trade-declines-in-july-2026-trade-surplus-widens"
+      },
+      {
+        "name": "Anadolu 9/8（獨立覆核同組數字，另給順差 YoY +26.5%）",
+        "url": "https://www.aa.com.tr/en/economy/german-exports-rise-61-year-on-year-in-july/4050362"
+      },
+      {
+        "name": "MarketScreener 9/8（共識值來源：「economists on average had been looking for only an increase to €16bn」）",
+        "url": "https://www.marketscreener.com/news/germany-the-trade-surplus-jumps-in-july-ce785bd8db88f522"
+      },
+      {
+        "name": "EUToday 9/8（8 月信心改善與 7 月活動數據期間不同、不可互推的方法論提醒）",
+        "url": "https://eutoday.net/german-exports-july-eu-china-us-rebound"
+      },
+      {
+        "name": "Global Banking & Finance 9/8（Maria Martinez：出口自 2 月以來的漲勢反轉、貿易波動性框架）",
+        "url": "https://www.globalbankingandfinance.com/german-exports-fall-july"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-09",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/1 生效・倒數 53 天】EU 海關改革定案：非 EU 平台成法定進口人、小包 handling fee 傳約 €2、罰到年進口額 6%",
+    "summary": "一句話 so what：本報 9/2 報過 11/1 的 PID 申報，那只是「怎麼報」；這次定案的是「誰負責、罰多少」——非 EU 平台從此就是法定進口人，罰則上限是年進口額 6%。\n        ① 平台變成法定進口人（Council 9/3 終局通過、9/8 業界續報）：修訂後的 Union Customs Code 規定，非 EU 電商平台在賣進歐盟時被視為進口人，所有海關程序與關稅繳納由平台完成，責任不再落在末端消費者。\n        ② 罰則首度量化：未達海關義務（含未符 EU 標準、少繳關稅）的電商業者，最嚴重可罰前一年度該公司進口貨物總值的 6%，並可撤銷部分海關優惠、甚至限制其取用線上平台。\n        ③ 11/1 的 handling fee 仍未定額：EU 全域小包 handling fee 期限為 11/1，金額由執委會在成員國開徵前訂定；多家報導稱約 €2（Law Society Gazette 明列為「reports have suggested」，尚未官方定案）。此費與 7/1 起 €150 以下每件 €3 固定關稅是兩件不同的事，會疊加。\n        ④ 機構與系統時程：新設去中心化 EU 海關署，設於法國里爾、2027 年運作；EU Customs Data Hub 對電商業者 2028/7/1 強制、對所有貿易商 2034/3/1 強制。\n        ⑤ 下一步：歐洲議會預計9 月內通過最終文本，之後簽署並刊登官方公報。\n        結論：規模對照——關稅同盟涵蓋逾 €4.3 兆貿易（約全球 14%），2025 年處理約 60 億件電商包裹、逾 90% 來自中國。",
+    "public_impact": "歐盟理事會於 9 月 3 日終局通過海關改革，修訂後的聯盟海關法典規定非歐盟電商平台在銷售至歐盟時被視為進口人，所有海關程序與關稅繳納由平台完成，責任不再落在末端消費者。同時首度量化罰則：未履行海關義務（包括未符合歐盟標準或少繳關稅）的電商業者，最嚴重可罰前一年度該公司進口貨物總值的 6%，並可撤銷部分海關優惠，甚至限制其取用線上平台。歐盟全域的小包 handling fee 期限為 11 月 1 日，金額由執委會在成員國開徵前訂定，多家報導指出約 2 歐元，但官方尚未定案。此費與 7 月 1 日起針對 150 歐元以下商品每件 3 歐元的固定關稅是兩項不同措施，會相互疊加。制度面另設去中心化的歐盟海關署，位於法國里爾、2027 年運作；歐盟海關資料中樞（EU Customs Data Hub）對電商業者自 2028 年 7 月 1 日強制使用，對所有貿易商自 2034 年 3 月 1 日強制。歐洲議會預計 9 月內通過最終文本。",
+    "public_action": "① 11 月 1 日同日有三件性質不同的事，建議分開處理：一是商品識別碼強制申報，需完成料號補齊，建議 10 月中旬前完成測試申報；二是小包 handling fee 成本預留，金額待官方公布、與每件 3 歐元關稅疊加；三是平台進口人責任體制，需確認自身銷售架構。② 引用時建議標明確定程度：理事會 9 月 3 日通過、平台為法定進口人、6% 罰則上限、資料中樞兩個強制日，皆有官方文本可查；handling fee 約 2 歐元僅為媒體引述，宜寫成尚未定案。③ 6% 罰基為前一年度進口貨物總值而非利潤，對量大利薄的直郵模式量級明顯，仍以直郵為主者建議列入風險成本，並與境內備貨成本比較。④ 已在歐盟境內備貨發貨的賣家，本次責任移轉直接衝擊有限，確定性相對提高。⑤ 觀察兩節點：歐洲議會 9 月內最終表決、執委會在 11 月 1 日前公布 handling fee 金額；金額一出即重算小包成本模型。⑥ 不宜對客戶承諾 11 月 1 日後的清關時效，新制初期尚無參照數據。",
+    "sources": [
+      {
+        "name": "Council 官方新聞稿 9/3（一手文本：handling fee 由執委會定額、11/1 期限、與 €150 免稅取消為兩事、新設去中心化 EU 海關署；本次實測回 403 反爬蟲，內容經下列四家獨立覆核）",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/03/eu-customs-council-greenlights-landmark-reform"
+      },
+      {
+        "name": "Brussels Times 9/3–9/4（平台視為進口人原文、6% 年進口額罰則＋撤銷優惠＋限制取用線上平台、里爾／2027、Data Hub 電商 2028/7/1 與全體 2034/3/1、關稅同盟 €4.3 兆／全球 14%、2025 年約 60 億件包裹／逾 90% 來自中國）",
+        "url": "https://www.brusselstimes.com/2301320/eu-targets-non-eu-platforms-with-strict-customs-reforms-and-penalties-overhaul"
+      },
+      {
+        "name": "Eunews 9/3（獨立覆核同組條文、議會 9 月表決後刊登官方公報）",
+        "url": "https://www.eunews.it/en/2026/09/03/eu-council-gives-the-green-light-to-customs-reform-from-1-november-a-handling-fee-for-small-parcels"
+      },
+      {
+        "name": "Law Society Gazette 9/4（handling fee「reports have suggested the charge will be around €2」原文，明確標示為報導推測而非官方定案）",
+        "url": "https://www.lawsociety.ie/gazette/top-stories/2026/september/eu-member-states-back-customs-overhaul"
+      },
+      {
+        "name": "Fibre2Fashion 9/8（業界續報：平台承擔關稅與程序、11/1 handling fee、高合規貿易商簡化程序的獎勵機制）",
+        "url": "https://www.fibre2fashion.com/news/textile-news/eu-council-approves-customs-reform-with-tougher-e-commerce-rules-313273-newsdetails.htm"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-09",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【8/31 上線・9/8 拆解】Amazon Business Deals 開到 10 站台、觸及 1,100 萬 B2B 帳號：沒設 Business Price 的 SKU 直接進不了工具",
+    "summary": "一句話 so what：這是第一個「只有 B2B 買家看得到」的折扣型態，但門檻不在折扣率，在於 SKU 有沒有設 Business Price——沒設的商品在工具裡根本不會出現。\n        ① 是什麼（Amazon Seller Forums 官方公告 8/31）：Amazon Business Deals，僅已註冊商業買家可見的限時折扣，在 Seller Central 的 Price Discounts 工具內設定，Promotions 頁的受眾選 All Business Customers。\n        ② 站台與規模：美、加、英、德、法、義、西、日、墨、澳共 10 個站台（印度未納入，官方未說明原因）。觸及逾 1,100 萬個已註冊商業組織。\n        ③ 折扣基準是關鍵：最低折扣一般檔 10%、高流量活動檔（PBDD／Black Friday／Cyber Monday）15%，但兩個門檻都是對 Business Price 計算，不是對公開售價。工具只對已設 Business Price 的商品出現，未設即完全排除。\n        ④ 資格：評分 3.5 星以上、全新品，另有未明示的定價與績效要求；檔期 1 小時至 30 天。\n        ⑤ 有時限的甜頭：放進大型購物活動的 deal 可獲專屬 email 與推播曝光、不額外收費，但只到 2026/12/31；之後的價格與是否延續、以及促銷費是否適用，官方均未說明。\n        結論：PBDD 提報已於 9/8 關閉，接下來的窗口是 9/16 FBA 入倉與 10/20 BFCM 提報。",
+    "public_impact": "Amazon 自 2026 年 8 月 31 日起在 Seller Central 推出 Amazon Business Deals，這是僅已註冊商業買家可見的限時折扣型態，於 Price Discounts 工具內設定。適用十個站台：美國、加拿大、英國、德國、法國、義大利、西班牙、日本、墨西哥、澳洲，觸及逾 1,100 萬個已註冊商業組織。最關鍵的限制在於折扣基準：一般檔最低 10%、高流量活動檔（Prime Big Deal Days、Black Friday、Cyber Monday）最低 15%，兩者都以 Business Price 計算而非公開售價；而工具僅對已設定 Business Price 的商品出現，未設定的商品完全被排除。放進大型購物活動的 deal 可獲得專屬 email 與推播曝光且不額外收費，但此項僅至 2026 年 12 月 31 日；之後是否收費、以及促銷費是否適用，官方均未說明。",
+    "public_action": "① 先盤點 Business Price 覆蓋率。未設定的商品在工具中不會出現，賣家可能在不知情下被排除。② 建議重算底價。10% 與 15% 門檻以 Business Price 為基準，而該價通常已低於公開售價，折扣疊在已折後價格上，容易低估毛利侵蝕。③ 今年窗口有限：Prime Big Deal Days 提報已於 9 月 8 日關閉，Black Friday Week 與 Cyber Monday 提報至 10 月 20 日；免費 email 與推播至 12 月 31 日止，實際僅覆蓋 11 月一檔。使用 Amazon 物流者另注意 9 月 16 日入倉截止。④ 商品資格先確認：評分 3.5 星以上、全新品，另有未公開的定價與績效要求。⑤ 兩項未明朗事項宜保守處理：一是是否收促銷費，二是 B2B 折後價是否納入消費端活動資格的參考價回溯，後者若成立將影響參加消費端活動的資格。⑥ 功能屬分批放行，有賣家於 9 月 6 日前後回報受眾選項僅見一般與 Prime 客戶；看不到選項時先確認放行狀態。",
+    "sources": [
+      {
+        "name": "Amazon Seller Forums UK 官方公告（一手：3.5 星以上／全新品／定價與績效要求、最低 10% 一般檔與 15% 高流量活動檔、觸及逾 1,100 萬個已註冊商業組織）",
+        "url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/de3d4860-4395-4496-b5f0-8249e31a5a11"
+      },
+      {
+        "name": "Amazon Seller Forums US 官方公告（一手：8/31 起、工具位於 Price Discounts、受眾選 All Business Customers、僅對已設 Business Price 的商品出現）",
+        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/9a115e3e-3201-4c17-986e-a46a1845558f"
+      },
+      {
+        "name": "PPC Land 9/8（十站台清單與印度未納入、折扣基準為 Business Price 而非公開價、檔期 1 小時–30 天、免費 email／推播至 2026/12/31、促銷費未說明、9/8 PBDD 提報關閉／9/16 FBA 入倉／10/20 BFCM 提報、消費端假期費率 $100＋1.5%／上限 $5,000、Amazon Business 2025/12 年化 $350 億、9/6 分批放行回報、參考價回溯未明）",
+        "url": "https://ppc.land/amazon-opens-b2b-deals-to-11-million-business-accounts-in-10-markets"
+      },
+      {
+        "name": "ChannelMax（獨立覆核：最長 30 天、大型活動期間曝光加成）",
+        "url": "https://www.channelmax.net/article/amazon-business-deals-lets-sellers-create-exclusive-b2b-discounts-for-business-customers-channelmax"
+      },
+      {
+        "name": "Valuezon（德語區獨立覆核：一般檔 10%、活動檔 15%，均為對 Business-Preis 計算）",
+        "url": "https://valuezon.de/news/amazon-business-angebote-exklusive-b2b-deals"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-08",
     "type": "daily",
     "tags": [
