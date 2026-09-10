@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-09-10",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/11 生效・倒數 1 天】EU 網路韌性法通報義務上路：24 小時預警／72 小時通報／14 天結案，已在架商品同樣適用",
+    "summary": "一句話 so what：業界都把 CRA 當成 2027/12 的產品認證專案，但第 14 條通報義務明天生效，且回溯適用「已經在賣」的連網商品。\n        ① 生效什麼（執委會官方頁）：明文「主要義務自 2027/12/11 適用，通報義務自 2026/9/11 適用」。\n        ② 通報哪兩類（Taylor Wessing、NatLawReview）：遭積極利用（actively exploited）的漏洞、影響產品安全的重大事件。理論上存在但未被利用的漏洞不在內。\n        ③ 三階段時限：24 小時早期預警（自知悉起）→ 72 小時詳細通報（性質、嚴重度、影響、已採取措施）→ 漏洞類 14 天內結案報告、事件類 72 小時後一個月內。\n        ④ 通報去哪：ENISA 營運的 Single Reporting Platform，須自選 coordinating CSIRT（德國註冊者為 BSI 的 CERT-Bund）；操作需 EU Login＋MFA、登記 Assigned Representative。\n        ⑤ 誰在範圍：在 EU 上市的「含數位元素產品」——IoT、路由器、智慧家庭、智慧手錶、連網玩具、App、微處理器，以及商業活動中提供的開源軟體。另須不延遲通知受影響使用者。",
+    "public_impact": "歐盟網路韌性法（Cyber Resilience Act）的通報義務自 2026 年 9 月 11 日起適用，早於 2027 年 12 月 11 日的主要產品義務，且回溯適用已在歐盟市場上市的商品。範圍是「含數位元素產品」，包含物聯網裝置、路由器、智慧家庭商品、智慧手錶、連網玩具、應用程式、微處理器，以及在商業活動中提供的開源軟體。應通報兩類情況：遭積極利用的漏洞，以及影響產品安全的重大事件；理論上存在但未被利用的漏洞不在其中。時限為三階段：知悉後 24 小時內提出早期預警、72 小時內提出詳細通報、漏洞類於有緩解措施後 14 天內提交結案報告、事件類於 72 小時通報後一個月內提交。通報透過 ENISA 營運的單一通報平台送出，須自選協調的資安事件應變小組，原則上為主要營業地所在成員國。製造商另須不延遲通知受影響使用者，並說明可採取的緩解步驟。",
+    "public_action": "① 先做範圍盤點，判斷標準是「商品是否連網、是否搭配應用程式」，有其一即先列入名單。② 確認自身法律角色。自有品牌委外生產後以自家品牌在歐盟上市者，通常會被認定為製造商，責任不會因生產地在境外而移轉。③ 建議本週先完成 EU Login 帳號與多因素驗證設定，並登記為指定代表。官方允許與首次通報一併辦理，但事發當天才申請會壓縮 24 小時窗口。④ 內部流程要能支撐 24 小時與 72 小時兩個節點，包含誰負責判斷「積極利用」與「重大事件」、誰有權送出通報。⑤ 建議區分理論漏洞與實際被利用的漏洞，避免過度通報，也避免漏報。⑥ 後續節點為 2027 年 12 月 11 日主要義務適用，屆時包含軟體物料清單等要求，建議在 2026 年內建立漏洞處理流程。德國註冊的製造商可參考 BSI TR-03183-1 技術指引，屬非強制的入門文件。",
+    "sources": [
+      {
+        "name": "執委會官方 CRA 政策頁（一手：明文「主要義務自 2027/12/11 適用、通報義務自 2026/9/11 適用」、2024/12/10 生效、通報義務卡片重述 9/11 日期）",
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
+      },
+      {
+        "name": "National Law Review 9/8（第 14 條逐條：兩類通報事由、24h／72h／14 天／一個月四段時限、SRP 與 CSIRT 選擇邏輯、EU Login＋Assigned Representative、明確指出已在架商品適用、通知使用者義務、PDE 範圍清單、BSI TR-03183-1）",
+        "url": "https://natlawreview.com/article/cyber-resilience-act-11-september-2026-key-starting-point-reporting-obligations"
+      },
+      {
+        "name": "Taylor Wessing 9/7（獨立律師事務所覆核：ENISA 營運 SRP、德國註冊者選 BSI CERT-Bund、EU Login MFA 與技術註冊細節；反爬蟲 403，內容經 Tavily 全文取得）",
+        "url": "https://www.taylorwessing.com/en/insights-and-events/insights/2026/09/cra-reporting-requirements"
+      },
+      {
+        "name": "Linux Foundation 9/9（第三方獨立覆核 9/11 期限，開源軟體在商業活動中提供的範圍認定）",
+        "url": "https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act"
+      },
+      {
+        "name": "Oracle Security 9/8（廠商端獨立覆核：兩階段架構、9/11 起漏洞與事件通報義務適用；反爬蟲 403，內容經 Tavily 取得）",
+        "url": "https://blogs.oracle.com/security/oracle-and-the-eu-cyber-resilience-act"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-10",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/9 CBS 官方】荷蘭 8 月內河貨運 2,180 萬噸為 15 年最低、-18.8% YoY：對德出口 -39.7%，萊茵河流量創有紀錄新低",
+    "summary": "一句話 so what：這不是天氣新聞。鹿特丹到德國內陸這一段的實際運力少了將近四成，時間點正好壓在 PBDD 與 BFCM 的補貨窗口上。\n        ① 總量（CBS 9/9）：8 月 2,180 萬噸、-18.8% YoY，為近 15 年 8 月最低；7 月 2,510 萬噸、-9.3%（2017 年 8 月高點 2,900 萬噸、2025 年 2,680 萬噸）。\n        ② 這是運力問題不是需求問題：每船趟次反而 +3.4%，但單趟平均載重掉到 1,299 噸（常態約 1,500 噸，與 2018、2022 枯水年同級）。船照跑，吃水限制讓每趟少裝約兩成。\n        ③ 流向拆解（8 月）：國內 +0.4%、進口 -20.2%、出口 -22.2%、過境 -50.1%。對德出口少 200 萬噸、-39.7%，自德進來少 100 萬噸、-49.5%；對比利時反而是進口 +8.8%、出口 +1.6%。\n        ④ 水位：基礎設施部 7 月中已宣布缺水；萊茵河 8 月流量創有紀錄最低，降雨後回到 700 m³/s，仍低於 9 月初常態。德荷邊界 Lobith 測站為「今夏史上最低」。\n        ⑤ 保險業定調（TT Club 9/8）：把反覆乾旱列為結構性供應鏈風險而非季節事件，並點出貨量被擠到已吃緊的公路與鐵路。\n        結論：上半年還是 +6.3%，7、8 兩個月把全年翻轉，是下半年才有的新變數。",
+    "public_impact": "荷蘭統計局 9 月 9 日公布，8 月經內河水路運送的貨量為 2,180 萬噸、年減 18.8%，是近 15 年 8 月最低；7 月已先下滑 9.3%，上半年原本還是年增 6.3%。關鍵在於這是運力受限而非需求萎縮：每船趟次反而增加 3.4%，但單趟平均載重降至 1,299 噸，低於常態約 1,500 噸，與 2018、2022 枯水年相當。分流向看，國內持平、進口年減 20.2%、出口年減 22.2%、過境年減 50.1%。對德國最嚴重，出口減約 200 萬噸／年減 39.7%，自德國進來減約 100 萬噸／年減 49.5%；對比利時反而進口增 8.8%、出口增 1.6%。萊茵河 8 月流量創有紀錄新低，降雨後回升至每秒 700 立方公尺，仍低於 9 月初常態。保險業者 TT Club 於 9 月 8 日指出，反覆乾旱已成結構性供應鏈風險，貨量被擠向已吃緊的公路與鐵路。",
+    "public_action": "① 受影響的是貨物到港後的內陸段，不是海運主航段。建議向貨運代理確認自歐洲西北部港口進德國內陸的路段是走駁船或公路，並要求提供實際排程而非標準運轉天數。② 供德國市場的補貨排在最前面。對德流向的跌幅遠大於對比利時方向，同一批貨改由比荷軸線進入的可行性值得評估。③ 旺季入倉時程宜回推重排，內陸段每增加一段駁船運輸就多預留數日緩衝，此為估算而非官方數值。④ 運價與低水位附加費的具體幅度目前沒有公開數據，建議直接向承運商索取當期附加費條件，不要沿用去年基準。⑤ 公路與鐵路是主要替代路徑，但兩者運力本已吃緊，臨時轉單的議價空間有限，建議提前鎖定而非事發後尋找。⑥ 萊茵河流量目前仍低於季節常態，秋季降雨是否補回為後續觀察點；業界已將乾旱視為結構性而非一次性風險，明年同期宜納入常態規劃。",
+    "sources": [
+      {
+        "name": "CBS 荷蘭統計局 9/9 官方（一手：8 月 2,180 萬噸／-18.8%、7 月 2,510 萬噸／-9.3%、趟次 +3.4%、單趟 1,299 噸 vs 常態約 1,500 噸、國內／進口／出口／過境四項流向、對德 -39.7%／-49.5%、對比利時 +8.8%／+1.6%、歷年 8 月對照、H1 +6.3%、StatLine 83101ENG）",
+        "url": "https://www.cbs.nl/en-gb/news/2026/37/inland-waterway-transport-down-by-nearly-19-percent-due-to-drought"
+      },
+      {
+        "name": "DutchNews 9/9（獨立覆核＋補充：基礎設施部 7 月中宣布缺水、萊茵河 8 月流量創紀錄最低、降雨後 700 m³/s 仍低於 9 月初常態、沿海船閘關閉以防海水入侵飲用水源、河輪取消或縮短行程）",
+        "url": "https://www.dutchnews.nl/2026/09/freight-carried-by-waterways-drops-to-lowest-level-in-15-years"
+      },
+      {
+        "name": "Seatrade Maritime 9/8（TT Club 保險業定調：反覆乾旱為結構性供應鏈風險、航道限制削減船舶運力並把貨量擠向已吃緊的公路與鐵路；反爬蟲 403，內容經 Tavily 取得）",
+        "url": "https://www.seatrade-maritime.com/sustainability/tt-club-warns-drought-is-reshaping-inland-freight-risk"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-10",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/8 DGCCRF・9/9 見報】法國再罰 Boohoo €22.5 萬：1,863 件缺產地與環境資訊、773 件缺微塑膠警語，8 月才因假折扣被罰 €233 萬",
+    "summary": "一句話 so what：一個月內兩張罰單、合計約 €255 萬，罰的都不是商品本身有問題，而是「商品頁上少寫了什麼」——這正是跨境賣家最容易忽略的一類風險。\n        ① 這次罰什麼（DGCCRF 9/8 宣布、9/9 多家見報）：對 Boohoo UK 罰 €224,950（約 $26.2 萬）。依據法國環境法典中關於「產生廢棄物之產品的品質與環境特性資訊」義務，適用於在法國銷售的紡織品。\n        ② 三項具體缺失：1,863 件商品未標示織造、染色、印花、製衣的地理資訊；773 件合成纖維占比超過 50% 的商品未標「洗滌時會釋放塑膠微纖維」警語；1,863 件未提供環境品質與特性的產品說明。\n        ③ 調查對象與期間：DGCCRF 國家調查局針對 boohoo.com 與 boohooMan.com 兩站，調查於 2025 年進行。\n        ④ 上一張罰單（8 月中）：€233 萬，針對法語站的價格呈現——查核數百件商品的售價、劃線價與折扣百分比，認定該公司在「降價是否真實」上誤導消費者。\n        ⑤ 金額口徑：各家分列 €224,950、約 €22.5 萬、約 €20 萬，本報一律用官方數字 €224,950；品牌方均未回應。\n        結論：法國把「環境資訊揭露」與「折扣真實性」都做成可獨立開罰的行政案件，兩張罰單相隔不到一個月。",
+    "public_impact": "法國競爭、消費事務暨反詐欺總局於 9 月 8 日宣布，對 Boohoo UK 處以 224,950 歐元罰款。依據為法國環境法典關於「產生廢棄物之產品的品質與環境特性資訊」義務，適用於在法國銷售的紡織品，目的是讓消費者取得生產來源與環境影響的可靠資訊。查核認定三項缺失：1,863 件商品未標示織造、染色、印花與製衣的地理資訊；773 件合成纖維占比超過 50% 的商品未標示「洗滌時會釋放塑膠微纖維」的警語；1,863 件未提供環境品質與特性的產品說明。調查由國家調查局針對 boohoo.com 與 boohooMan.com 於 2025 年進行。此前一個月，同一機關已對該公司法語網站的價格呈現處以 233 萬歐元罰款，查核數百件商品的售價、劃線價與折扣百分比後，認定其在降價真實性上誤導消費者。兩張罰單合計約 255 萬歐元，處分對象皆為品牌自營網站。",
+    "public_action": "① 在法國銷售紡織品者，建議依此次認定的三項缺失逐條自查：織造、染色、印花、製衣的地理資訊是否完整；合成纖維占比超過 50% 的商品是否標示洗滌會釋放塑膠微纖維；是否提供環境品質與特性的產品說明。② 適用對象是「在法國銷售的紡織品」，不限於快時尚。運動服、泳裝、機能布料、家用紡織與寵物紡織用品同樣可能落入合成纖維占比門檻。③ 產地資訊要求的是分段揭露而非單一原產國，供應鏈跨多國者宜先向供應商取得各工序的所在地。④ 折扣呈現要留得住舉證。前一張罰單查的是售價、劃線價與折扣百分比是否誤導，經營獨立站者須自行保存參考價的形成依據與期間紀錄。⑤ 法國的環境資訊揭露義務與 9 月 1 日生效的超快時尚按件環境費用是兩條獨立規則，可能同時適用於同一賣家，宜分別檢視。⑥ 同一機關在一個月內對同一集團開出兩張罰單，顯示屬持續性執法週期，第四季宜預期還會有同類處分公布。",
+    "sources": [
+      {
+        "name": "Retail Insight Network 9/9（最完整：€224,950／約 $261,828、DGCCRF 國家調查局、1,863 件缺織造／染色／印花／製衣地理資訊、773 件合成纖維 >50% 缺微塑膠警語、1,863 件缺環境品質與特性產品說明、boohoo.com 與 boohooMan.com、2025 年調查、前月 €233 萬假折扣案細節；反爬蟲 403 但 WebFetch 實測可讀）",
+        "url": "https://www.retail-insight-network.com/news/france-fines-boohoo-uk-product-environmental-information"
+      },
+      {
+        "name": "Modaes Global 9/9（西語獨立覆核，實測 200：紡織品資訊為在法銷售之強制要求、8 月中 €2.3M 假折扣＋皮革標示不實）",
+        "url": "https://www.modaes.com/global/back-stage/the-french-government-fines-boohoo-200000-euros-for-failing-to-provide-environmental-information"
+      },
+      {
+        "name": "FashionNetwork 9/9（獨立覆核＋確認宣布日為「週二」即 9/8、金額約 €225,000；反爬蟲 403，內容經 Tavily 取得）",
+        "url": "https://ww.fashionnetwork.com/news/Boohoo-once-again-faces-criticism-in-france-for-its-environmental-claims,1864366.html"
+      },
+      {
+        "name": "Yahoo Finance／Just Style 9/9（第四方轉載，實測 200：確認國家調查局於 2025 年查核 boohoo.com 與 boohooMan.com）",
+        "url": "https://finance.yahoo.com/media-advertising/articles/france-fines-boohoo-uk-over-090744206.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-10",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/7 Goldman・9/8 Reuters】Brent Dec-26 目標上修 $5 至 $85、Dec-27 至 $90：$120 情境須波灣減產 400 萬桶／日",
+    "summary": "一句話 so what：Goldman 夏天才因美伊備忘錄下修油價，9/7 全部改回來——理由是「霍爾木茲的擾動會延續到 2027」。這把 Q4 到明年的能源與運費假設整個往上鎖。\n        ① 上修幅度（Goldman 9/7 報告）：Dec-2026 Brent +$5 至 $85、WTI 至 $80；2027 年均 Brent $75→$80、WTI $70→$75；Dec-2027 目標 $80→$90（幅度最大）。\n        ② 情境表：波灣產量較戰前 -400 萬桶／日 → Brent 突破 $120；-50 萬桶／日（基準）→ $80；+100 萬桶／日 → $60 區間。$120 的觸發條件是霍爾木茲與紅海航運遭攻擊升級。\n        ③ 為什麼只上修 $5：OECD 陸上商業庫存幾乎沒去化；市場已在繞道，到 2027 年底約 380 萬桶／日新管線繞開霍爾木茲（UAE 東西線 +180 萬、沙烏地 Yanbu +200 萬）；中國淨進口年減約 30% 也壓住上檔。\n        ④ 現貨與選擇權（Reuters 9/8）：Brent 9/8 盤中觸 $99，為 7/23 以來最高；選擇權隱含「2027/3 前 Brent 站上 $100」機率約 25%，一個月前僅約 6%。\n        結論：能源是歐元區 8 月 HICP 3.3% 裡唯一的加速項，而預測機構把高油價的持續時間往後推了一年。",
+    "public_impact": "高盛於 9 月 7 日發布報告，將 2026 年 12 月布蘭特原油目標價上調 5 美元至 85 美元、西德州中級原油至 80 美元；2027 年均價布蘭特由 75 上調至 80 美元；2027 年底目標由 80 上調至 90 美元，為幅度最大者。核心理由是把中東航運擾動假設從年內解決改為延續到 2027 年。情境上，波灣產量較戰前減 400 萬桶／日對應布蘭特突破 120 美元；基準為減 50 萬桶／日、對應 80 美元；增產 100 萬桶／日則落在 60 美元區間。上調幅度有限的原因包含陸上商業庫存幾乎未去化、2027 年底約 380 萬桶／日新管線可繞開霍爾木茲，以及中國淨進口年減約 30%。現貨面，布蘭特 9 月 8 日盤中觸及 99 美元為 7 月 23 日以來最高；選擇權隱含 2027 年 3 月前站上 100 美元機率約 25%，一個月前僅 6%。",
+    "public_action": "① 做成本情境時建議同時採用三個數字而非單一預測：基準 80 美元、上檔超過 120 美元、下檔 60 美元區間，並註明各自對應的波灣產量假設。② 這次調整改變的主要是高油價的持續時間而非高度。2027 年底目標上調至 90 美元，意味燃油相關成本的高原期宜按跨過 2027 年規劃，而非僅撐過第四季。③ 重量體積比較差的品類，例如家具、家電、園藝與大型玩具，受燃油附加費傳導最直接，建議在報價與定價週期中預留調整條款。④ 空運、海運內陸段與公路運輸的成本方向目前一致向上，替代路徑的議價空間有限，宜提前鎖定而非事發後轉單。⑤ 120 美元屬升級情境而非基準，對外溝通或內部預算若只採用該數字容易造成過度反應。⑥ 後續觀察節點包含歐洲央行本輪的幕僚通膨預測、歐元區 8 月調和消費者物價指數終值中的能源年增率，以及波灣產量缺口是否延續 7 月的收斂趨勢。",
+    "sources": [
+      {
+        "name": "Reuters 9/8（一手：Goldman 將 Brent／WTI 上修 $5 至 Dec-2026 的 $85／$80、2027 年的 $80／$75，理由為中東航運擾動延續至 2027；另引 Marex 9 月商品評論、「預期完全恢復戰前吞吐量不會早於 2027 年 Q1 末至 Q2 初」；反爬蟲擋下直接抓取，數據經下列兩家獨立覆核）",
+        "url": "https://www.reuters.com/business/energy/oil-rises-risks-prolonged-mideast-conflict-heighten-supply-worries-2026-09-08"
+      },
+      {
+        "name": "BigGo Finance 9/8（最完整覆核：三段情境表 -400 萬桶／日 >$120、-50 萬桶／日 $80、+100 萬桶／日 $60 區間；Dec-2027 目標 $80→$90；OECD 庫存 5.43 億桶中僅 2,600 萬來自陸上商業庫存；2027 年底 380 萬桶／日繞道管線含 UAE 東西線 +180 萬與 Yanbu +200 萬；中國淨進口 -30%、穩定採購可使合理價再高 $10-15；9/8 盤中 $99 為 7/23 以來最高；選擇權隱含 2027/3 前破 $100 機率 25% vs 一個月前 6%；波灣缺口 4 月 1,430 萬→7 月 800 萬桶／日）",
+        "url": "https://finance.biggo.com/news/87e55b98-6d15-4099-b167-a84fc0b7cfda"
+      },
+      {
+        "name": "Moomoo 9/8（獨立覆核，實測 200：報告發布日為 9/7、Dec-2026 與 Dec-2027 雙年度各上修 $5、核心理由為中東航運風險延續）",
+        "url": "https://www.moomoo.com/news/post/75912402/goldman-sachs-raises-international-oil-price-forecasts-as-persistent-middle"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-10",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/9 ECDB・單一媒體待證】Bol 對 Amazon.nl 領先擴到 75%：Amazon.nl 2025 年僅 +2.7%、AliExpress 首度進第三",
+    "summary": "一句話 so what：Pan-EU FBA 從 9/3 起強制要有荷蘭 active offer，賣家剛被推上 Amazon.nl；而 ECDB 這份榜單說，荷蘭市場的成長不在 Amazon.nl 這一側。\n        ① 榜單（ECDB，2025 年荷蘭消費者支出、含 VAT、自營＋三方）：Bol.com €58.14 億（+12.0%）、Amazon.nl €33.15 億（+2.7%）、AliExpress €18.12 億（+13.3%）、Coolblue €17.41 億（+0.7%）、AH.nl €17.25 億（+0.2%）。AliExpress 首度擠進第三。\n        ② 趨勢反轉：ECDB 前一版（2024 年）曾指 Amazon 在荷蘭成長快過 Bol；差距從「約 61%」擴大到「逾 75%」。\n        ③ 交叉驗證：Ahold Delhaize 財報列 Bol 全年 net consumer online sales €63 億、+8.4%（含 partner 與比利時、不含 VAT，口徑不同但方向一致）。\n        ④ 手續費（FiveX 8 月研究）：Amazon 平均 19.7% 最貴，市場均 14.5%、Bol 14.2%。\n        ⑤ 不確定性：僅一家媒體集團報導（ecommercenews.eu 與 .nl 同集團計 1 源），ECDB 原始榜單頁未取得，故標「單一媒體待證」列當日末位。",
+    "public_impact": "市場研究機構 ECDB 公布荷蘭電商排名，以 2025 年荷蘭消費者支出計、含加值稅、合併自營與第三方銷售，單位為億歐元：Bol.com 58.14（+12.0%）、Amazon.nl 33.15（+2.7%）、AliExpress 18.12（+13.3%）、Coolblue 17.41（+0.7%），AliExpress 首度進入第三名。ECDB 前一版曾指 Amazon 在荷蘭成長快於 Bol，此次趨勢反轉，差距由約 61% 擴大至逾 75%。交叉參照上，Ahold Delhaize 財報列 Bol 全年淨消費者線上銷售 63 億歐元、年增 8.4%（含合作夥伴與比利時、不含加值稅，口徑不同）。另據 FiveX 8 月研究，荷蘭市場平均佣金率 14.5%，Amazon 平均 19.7% 最高、Bol 14.2%。需注意 ECDB 屬估算，且僅一家媒體集團報導。",
+    "public_action": "① 評估荷蘭市場時建議區分「通路資格」與「銷售預期」兩件事。多國佈局方案常要求在特定站點具備有效商品刊登，該要求屬資格條件，不等於該站點的銷售成長預期。② 佣金率差異宜以總落地成本比較，而非單看百分比。第三方研究的佣金口徑可能未含物流、廣告與退貨處理，建議自行以實際訂單結構試算。③ 低單價商品在荷蘭的主要競爭者已轉變。AliExpress 年增 13.3% 並首度進入前三，25 歐元以下區間的對手結構與中高單價區間不同，定價與品類選擇宜分開規劃。④ Bol 的年度成長雖達雙位數，但其母公司自報數字較低且後續季度動能轉弱、消費者傾向選購較便宜商品，與德國網購衰退的訊號方向一致，荷蘭市場的成長假設宜保守。⑤ 引用此排名時建議標明屬第三方估算，並注意目前僅一家媒體集團報導、原始榜單頁未公開。⑥ 不同來源的數字不宜混用，加值稅與比利時是否納入會造成口徑差異。",
+    "sources": [
+      {
+        "name": "Ecommerce News EU 9/9（唯一媒體來源：ECDB 2025 年荷蘭前五名完整表格與 2024 年對照、方法論「交易數據＋公司報告＋站點流量」含 VAT 與自營＋第三方、61%→75% 差距擴大、AliExpress 首度進第三、Ahold Delhaize 自報 €63 億／+8.4%、FiveX 8 月佣金研究 Amazon 19.7%／市場均 14.5%／Bol 14.2%、Amazon 荷蘭月活約 640 萬、三年投資逾 €14 億、ACM 對 Bol 自我偏好草案決定）",
+        "url": "https://ecommercenews.eu/ecdb-bol-widens-lead-over-amazon"
+      },
+      {
+        "name": "Ecommerce News NL（同集團荷語版、依規則計為同 1 源不另計；用途為核對數字表格一致：5.813,7／3.314,7／1.811,8／1.741,4／1.724,7、Bron: ECDB）",
+        "url": "https://www.ecommercenews.nl/ecdb-bol-flink-uitgelopen-op-amazon"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-09",
     "type": "daily",
     "tags": [
@@ -2891,200 +3029,6 @@
       {
         "name": "smec 原始分析：€3 相當於 €30 訂單約 10% 關稅、按稅則行計費、AliExpress 反而加碼",
         "url": "https://smarter-ecommerce.com/blog/en/google-shopping/europes-new-tariffs-on-temu-shein-what-google-shopping-data-reveals"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-10",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【今天 8/10 生效】Sponsored Products 自動外溢到創作者內容：預設「增加觸及」已開、Top of Search 出價調整在站外失效",
-    "summary": "這是今天就開始花錢的變動，而且沒有人需要按下同意：\n        ① 改了什麼（Amazon Ads 官方支援頁 8/4 改版，經 PPC Land 8/4）：Sponsored Products 的站外版位清單新增「創作者」，原本只有 premium 網站與 App。Amazon Influencer Program 中具備已驗證互動與 Amazon 銷售紀錄的創作者，可在自己的評測、編輯內容、購物指南中放入被廣告的商品。\n        ② 自動加入、無需動作：官方通知寫明廣告主不需要採取任何行動，現有出價與預算原封不動延用。也就是說今天之前沒調整過的活動，今天就開始為站外點擊付費。\n        ③ 最容易被忽略的機制落差：Top of Search 與 Product Pages 的出價調整在站外不適用，但動態出價策略仍適用。多數帳戶正是靠這兩個版位調整在控制錢往哪去——沒有人改任何設定，有效出價結構就變了。\n        ④ 控制項與地區：活動層級有 Increase reach（預設）與 Limit off-Amazon spend 兩個選項，可中途改；可排除特定創作者。地區含巴西、加拿大、印度、墨西哥、美國、中東、北非、土耳其與部分 EU 國家，官方清單未列 UK，Amazon 未說明原因。\n        ⑤ 報表會出現沒人打過的搜尋詞：無查詢字串的版位由 Amazon 自行推斷搜尋詞，可做否定投放。Q2 2026 廣告營收 $198 億、年增 26%，Sponsored Products 是最大貢獻者。",
-    "public_impact": "Amazon Ads 於 8 月 4 日改版支援文件，在 Sponsored Products 的站外版位清單新增「創作者」，生效日為 8 月 10 日。Amazon Influencer Program 中具備已驗證互動與銷售紀錄的創作者，可在評測、編輯內容與購物指南中放入被廣告的商品，點擊後導向商品頁，按標準單次點擊計費。現有活動一律自動加入，出價與預算原封不動延用，官方明言廣告主不需採取任何行動。關鍵的機制落差是：Top of Search 與 Product Pages 的出價調整在站外不適用，動態出價策略則仍適用，因此在無人變更設定的情況下，活動的有效出價結構已經改變。活動層級提供「Increase reach」（預設值）與「Limit off-Amazon spend」兩個選項，可中途調整，亦可排除特定創作者。涵蓋地區含巴西、加拿大、印度、墨西哥、美國、中東、北非、土耳其與部分歐盟國家，官方清單未列入英國。",
-    "public_action": "① 有投放 Sponsored Products 者今日即應至活動設定確認站外投放選項，預設為「Increase reach」且已開啟，欲先觀察成效可改為「Limit off-Amazon spend」；② 依賴 Top of Search 或 Product Pages 出價加成控制預算流向的活動須特別注意，這兩項調整在站外不適用，等於未變更任何設定但有效出價結構已改變；③ 建議本週起每日檢視 Placement Report 建立新基準線，8 月 10 日後的報表已混入站外點擊，兩週內不宜依舊基準大幅刪減關鍵字或調降出價；④ 報表中出現購物者未輸入的搜尋詞屬平台推斷所致，並非資料錯誤，可用否定投放處理；⑤ 官方僅載明「部分歐盟國家」且未列入英國，建議自行至後台確認站點狀態；⑥ 第四季預算不建議此時加碼，可先蒐集兩週成效數據再決定。",
-    "sources": [
-      {
-        "name": "PPC Land（8/4）：Amazon 8/4 改版官方支援頁、8/10 生效、自動加入、地區清單與出價機制",
-        "url": "https://ppc.land/amazon-sponsored-products-campaigns-gain-creator-placements-on-august-10"
-      },
-      {
-        "name": "PPC Land 深入版：四項機制、兩個設定選項、bulksheets 欄位與 EU 定價透明度報表",
-        "url": "https://ppc.land/amazon-puts-sponsored-products-into-creator-hands-on-august-10"
-      },
-      {
-        "name": "Relevant Audience（8/5）：預設開啟、版位加成失效的實務影響",
-        "url": "https://www.relevantaudience.com/ecommerce-marketing/amazon-sponsored-products-creator-placements-10-august"
-      },
-      {
-        "name": "Velocity Sellers（8/5）：Placement Report 基準線與 Q4 建議",
-        "url": "https://www.velocitysellers.com/2026/08/05/amazon-sponsored-products-creator-placements-august-2026"
-      },
-      {
-        "name": "Mazescale（8/7）：生效前檢查清單",
-        "url": "https://mazescale.com/amazon-is-about-to-spend-your-sponsored-products-budget-on-creator-content-starting-august-10"
-      },
-      {
-        "name": "Affiverse：歸因與揭露爭議",
-        "url": "https://www.affiversemedia.com/amazon-sponsored-products-creator-content"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-10",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【8/7】75 字標題死線由 7/26 延到 8/3、已改 9.84 億筆：Amazon 自家 listing 同樣適用，今天起 Item highlights 移到標題下方",
-    "summary": "三個新事實，其中兩個推翻了此前業界普遍的說法：\n        ① 生效日不是 7/27（EcommerceBytes 8/7）：Amazon 原定 7/26 開始限制 75 字，後來延到 8/3。此前業界文章普遍寫 7/27。非合規標題的建議自 7/27 開始發送，實際改寫則貫穿 2026 全年。\n        ② Amazon 自家 listing 不豁免：有賣家直接質問是否排除自營商品，版主回覆「政策同樣適用於 Amazon 的 listing」。這是首次官方明確表態。\n        ③ 今天 8/10 起顯示位置改變：Amazon 確認自 8/10 起 Item highlights 顯示在 Item name 下方，桌機與行動裝置皆然，實際可見字數依螢幕大小而異。\n        ④ 規模：自 6 月公告以來賣家已更新逾 9.84 億筆商品標題。\n        ⑤ 官方 FAQ 兩點澄清：搜尋與曝光不受影響——Item name 與 Item highlights 都是搜尋輸入、沒有優先權重；已合規（75 字以下）的標題不會被改動。總可索引空間仍為 200 字＝標題 75 ＋ highlights 125。品牌所有者仍有 14 天審核 AI 建議的窗口；Category Listings report 已預填 Item highlights 欄位，可批次上傳，約 8 小時內更新。",
-    "public_impact": "Amazon 於 8 月 7 日更新了商品標題新政的多項事實。首先是生效日：75 字標題限制原定自 7 月 26 日開始，後來延後至 8 月 3 日，此前業界普遍引述的 7 月 27 日並非實際起始日；針對非合規標題的建議自 7 月 27 日開始發送，實際改寫將貫穿 2026 全年逐步進行。其次，有賣家詢問平台是否將自營商品排除在限制之外，官方版主回覆政策同樣適用於平台自己的 listing。第三，平台確認自 8 月 10 日起 Item highlights 將顯示在 Item name 下方，桌機與行動裝置皆然，可見字數依螢幕大小而異。自 6 月公告以來賣家已更新逾 9.84 億筆商品標題。官方另澄清兩點：搜尋與曝光不受影響，因兩個欄位都是搜尋輸入、彼此沒有優先權重；已符合 75 字以下的標題不會被改動。可索引總空間仍為 200 字，由標題 75 字與 Item highlights 125 字組成。品牌所有者在 AI 建議實施前仍有 14 天審核窗口。",
-    "public_action": "① 實際生效日為 8 月 3 日（原定 7 月 26 日），並非廣泛流傳的 7 月 27 日，且改寫將貫穿 2026 全年，尚未處理者現在動手仍有實質意義；② 8 月 10 日起 Item highlights 改顯示在標題下方，搜尋結果頁視覺結構因此改變，未來一至兩週若點擊率波動，可能來自版面而非標題長度；③ 官方已明確說明兩個欄位都是搜尋輸入、沒有優先權重，且已合規標題不會被改動，「字數變少會被降權」的說法並無官方依據；④ 建議用批次路徑自行掌控內容：下載已預填的 Category Listings report、同時修改標題與 Item highlights 後上傳，約 8 小時內生效，不宜交由系統自動填寫；⑤ 品牌所有者有 14 天審核窗口，未註冊品牌者沒有緩衝期，應優先處理；⑥ 建議先處理營收前 20% 商品與變體父子頁，父子頁標題都須符合 75 字。",
-    "sources": [
-      {
-        "name": "EcommerceBytes（8/7）：7/26 延至 8/3、9.84 億筆、自家 listing 適用、8/10 顯示變更與官方 FAQ",
-        "url": "https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-listings"
-      },
-      {
-        "name": "Amazon Seller Central 官方公告原文（6/10 發布、6/11 更新）：75 字＋Item highlights 125 字、14 天審核窗口",
-        "url": "https://sellercentral.amazon.com/seller-forums/discussions/t/145b6d0f-999c-4555-896c-c694bda2e470"
-      },
-      {
-        "name": "Canopy Management：品牌與非品牌賣家的審核窗口差異",
-        "url": "https://canopymanagement.com/amazon-75-character-title-limit-item-highlights"
-      },
-      {
-        "name": "PPC Land：政策時間軸與適用範圍",
-        "url": "https://ppc.land/amazon-cuts-product-title-limit-to-75-characters-on-july-27"
-      },
-      {
-        "name": "Clear Ads：確認適用 Amazon.co.uk 與 EU 站點、批次改寫流程",
-        "url": "https://clearadsagency.com/amazons-75-character-title-limit-the-complete-guide-for-e-commerce-sellers"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-10",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/7 Destatis】德國 6 月出口創單月新高 €1,393 億：但對美 -14.2%、順差由 €193 億縮至 €154 億，工業生產僅 +0.2%",
-    "summary": "創紀錄的出口與縮小的順差同時出現，拼圖的最後一塊補上了：\n        ① 出口破紀錄（Destatis 8/7 第 278 號）：6 月出口 €1,393 億、月比 +0.9%、年比 +6.6%，是有紀錄以來單月最高，超越 2022/9 的 €1,391 億。\n        ② 進口漲更多、順差縮水：進口 €1,239 億、月比 +4.4%、年比 +8.4%。順差由 5 月 €193 億降至 €154 億（去年同期 €164 億）。H1 出口 +3.7%、進口 +4.4%，順差 €1,050 億略低於去年 €1,059 億。\n        ③ 對美出口重挫：對美 €121 億、月比 -14.2%、年比 -1.2%，H1 累計 -5.8%；美國仍是最大出口目的地。對英 €73 億、月比 +7.7%（H1 +4.8%）；對中 €62 億、月比 -0.3%，H1 -12.3%。進口方面中國 €165 億居首、月比 +9.1%。\n        ④ 工業生產同日公布、勉強站住（IndexBox 8/7、Trading Economics）：6 月 +0.2% MoM，略優於估 +0.1%。汽車 +3.6%、其他運輸設備 +8.4% 撐盤，機械設備 -3.9%；扣能源與建築為零成長，中間財 -0.9%。能源密集產業 -1.8%。年比 -0.1%。\n        ⑤ 官方警告不要過度解讀：Destatis 說明這是臨時月度數據、此階段無法提供變動原因，詳細結果 8/20 公布。DIHK 對外貿易主管 Treier 稱 H1 出口成長「是一線希望，但言之過早，全球貿易前景仍然黯淡」。",
-    "public_impact": "德國統計局 8 月 7 日公布，6 月經調整後出口為 1,393 億歐元、月比上升 0.9%、年比上升 6.6%，為有紀錄以來單月最高，超越 2022 年 9 月的 1,391 億歐元。進口為 1,239 億歐元、月比上升 4.4%，因進口成長較快，貿易順差由 5 月的 193 億歐元縮小至 154 億歐元。上半年出口成長 3.7%、進口成長 4.4%。分國別，對美出口 121 億歐元、月比下降 14.2%、上半年累計下降 5.8%，美國仍為最大出口目的地；對英 73 億歐元、月比上升 7.7%；對中 62 億歐元、上半年下降 12.3%；自中進口 165 億歐元居首、月比上升 9.1%。同日公布的 6 月工業生產月比上升 0.2%，略高於預估的 0.1%；汽車上升 3.6%、其他運輸設備上升 8.4%，機械設備下降 3.9%；扣除能源與建築後為零成長，中間財下降 0.9%。統計局明言此為臨時數據、無法提供變動原因，詳細結果 8 月 20 日公布。",
-    "public_action": "① 出口創單月新高與工業生產僅微幅成長、扣除能源與建築後零成長並存，外需優於內需，不宜僅憑出口數字判斷經濟已進入復甦；② 對美出口單月下降 14.2%，但統計機關明言無法提供變動原因，且同期對英成長 7.7%，不宜將單月數字直接歸因於關稅，上半年累計下降 5.8% 才是較可靠的結構訊號；③ 中間財下降 0.9%、能源密集產業下降 1.8%，上游成本壓力尚未解除，與萊茵河低水位推升的運價屬同一條線，從德國或荷比採購包材與金屬件者可延續第四季提前鎖價；④ 德國對中出口上半年下降 12.3%、自中進口單月上升 9.1%，說明小包關稅與包裝法規在政治上具強勁支撐，對本地品牌而言合規投入具競爭屏障性質；⑤ 引用宜標註為臨時數據，統計局 8 月 20 日公布詳細結果，該機關近期曾將 5 月工廠訂單由 1.9% 下修至 0.3%。",
-    "sources": [
-      {
-        "name": "Destatis 官方新聞稿第 278 號（8/7）：6 月出口 €1,393 億創新高、順差 €154 億、對美 -14.2%、H1 明細",
-        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_278_51.html"
-      },
-      {
-        "name": "Dukascopy（8/7）：出口創紀錄與順差縮水解讀",
-        "url": "https://www.dukascopy.com/swiss/english/marketwatch/market-news/Fundamental-Analysis/155636"
-      },
-      {
-        "name": "IndexBox（8/7）：非 EU 出口明細與各國別月比",
-        "url": "https://www.indexbox.io/blog/german-foreign-trade-momentum-continues-in-june-2026"
-      },
-      {
-        "name": "IndexBox（8/7）：6 月工業生產 +0.2%、汽車 +3.6%、機械 -3.9%、能源密集 -1.8%",
-        "url": "https://www.indexbox.io/blog/german-industrial-production-rises-02-in-june-2026-led-by-automotive-sector"
-      },
-      {
-        "name": "Trading Economics：6 月工業生產實際 +0.2% vs 共識 +0.1%、5 月修正為 +0.7%",
-        "url": "https://tradingeconomics.com/germany/industrial-production-mom"
-      },
-      {
-        "name": "TradingView／Trading Economics（8/7）：分項與三個月比",
-        "url": "https://www.tradingview.com/news/te_news:573679:0-german-industrial-output-eases-in-june"
-      },
-      {
-        "name": "Destatis 第 276 號（8/6）：6 月新訂單 +3.1%、扣大單 -0.5%、營業額 -1.3%（對照用）",
-        "url": "https://www.destatis.de/EN/Press/2026/08/PE26_276_421.html"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-10",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【8/24 倒數 14 天】Amazon BSA 改版：禁止轉讓 BSA 權利義務、明文禁止以未來銷售額質押，營收型融資與帳號買賣被關門",
-    "summary": "一句話的合約修改，關掉了賣家經濟裡兩條運行多年的通路：\n        ① 改了什麼（Velocity Sellers 8/3、Seller Sprite、Nova Data、DAM Law Firm）：Amazon 於 5/29 更新 Business Solutions Agreement，自 8/24 生效，明文禁止兩件事——轉讓 BSA 下的權利或義務、以及將該等權利設質為擔保。\n        ② 範圍變寬不只是措辭調整：舊版僅要求轉讓「協議本身」須經書面同意（關係企業有窄例外）。新版擴及協議下衍生的任何權利或義務——過去那種合約留在原處、但把經濟利益或控制權移到別處的架構，現在落入禁止範圍。\n        ③ 質押是全新條文：以未來 Amazon 銷售額作為貸款擔保的做法首次被明文禁止。收款權是 BSA 下的權利，對放款人設定擔保權益依字面解讀即屬違禁。營收型墊款、保理、商戶預支現金皆受影響。\n        ④ 帳號安靜過戶的灰色空間關閉：賣掉公司、交出後台帳密、逐步換銀行與 email 的操作，新條文直接終結模糊地帶；正在交易中的案子須改走正式股權變更流程。\n        ⑤ 重要限制：適用範圍未經官方確認。二手來源均未指明條號、未說明是否／如何適用 Amazon Services Europe BSA。EU 站點適用性尚待官方文件確認——這點必須誠實標示。另注：Amazon Services Europe BSA 8/1 已另有一項生效變更（Amazon Business 訂單佣金改按刊登價計算，見 8/6 日報）。",
-    "public_impact": "依多家獨立第三方分析報導，Amazon 於 2026 年 5 月 29 日更新 Business Solutions Agreement，自 8 月 24 日起明文禁止兩件事：轉讓該協議下的權利或義務，以及將該等權利設質作為擔保。就範圍而言，舊版僅要求轉讓「協議本身」須取得書面同意；新版擴及協議所衍生的任何權利或義務，因此過去那種合約名義上留在原處、但將經濟利益或控制權移轉至他處的安排，將落入禁止範圍。質押部分屬全新條文，以未來銷售額作為貸款擔保的做法首次被明文禁止；由於收取平台撥款的權利屬於協議下的權利，向放款方設定擔保權益依字面解讀即屬違禁，營收型墊款、保理與商戶預支現金均受影響。此外，售出業務後交出後台帳號、逐步更換銀行與電子郵件的安靜過戶操作，模糊空間亦被關閉。重要限制：可查得來源均為第三方分析、未指明條號，亦未說明是否適用歐洲版合約，歐洲站點適用性尚待官方文件確認。",
-    "public_action": "① 本則資訊全部來自第三方分析，尚無法確認是否適用歐洲版合約，建議自行前往歐洲站服務條款頁面核對 Amazon Services Europe Business Solutions Agreement 是否有對應修改與條號，並與自己的律師確認，不宜以第三方說法作為法律依據；② 使用營收型墊款、保理或商戶預支現金安排第四季備貨資金者風險最高，建議確認三件事：融資是否以平台撥款或未來銷售額設質、合約到期日是否跨過 8 月 24 日、第四季進貨資金是否依賴該通路，時間壓力來自歐盟 9 月 9 日與英國 9 月 16 日的入倉死線；③ 正在被收購或準備出售業務者應走平台正式所有權變更程序，並預留較長交割時程；④ 已透過安靜過戶完成的帳號可能帶有日後可被稽核發現的瑕疵，建議主動補正實體登記與銀行資料；⑤ 歐洲版合約 8 月 1 日已另有一項生效變更（Amazon Business 訂單佣金改按刊登價計算），與本則是兩件不同的事。",
-    "sources": [
-      {
-        "name": "Velocity Sellers（8/3）：5/29 更新、8/24 生效、範圍與質押兩項變更的逐條分析",
-        "url": "https://www.velocitysellers.com/2026/08/03/amazon-bsa-update-august-24-2026-transfer-pledge"
-      },
-      {
-        "name": "Seller Sprite：兩項禁止獨立運作、對 aggregator 市場影響",
-        "url": "https://www.sellersprite.com/en/blog/amazon-bsa-revenue-assignment-2026"
-      },
-      {
-        "name": "Nova Data 賣家新聞：BSA 禁帳號轉讓與營收質押（5/30 條目）",
-        "url": "https://novadata.io/resources/news"
-      },
-      {
-        "name": "DAM Law Firm：Section 18 兩項明文禁止與 8/24 前應處理事項",
-        "url": "https://www.linkedin.com/posts/dam-law-firm_amazon-bsa-account-transfer-ban-august-2026-activity-7483814446528651264-FdNk"
-      },
-      {
-        "name": "Valuezon：Amazon Services Europe BSA 8/1 生效變更（Amazon Business 佣金改按刊登價，對照用）",
-        "url": "https://valuezon.de/en/news/amazon-updates-fees-in-business-solutions-agreement"
-      },
-      {
-        "name": "Amazon Seller Central UK：Amazon Services Europe BSA 變更頁（查證入口）",
-        "url": "https://sellercentral.amazon.co.uk/help/hub/reference/external/G201476470"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-10",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/12 倒數 2 天】PPWR 最後 48 小時：EPR 登記無寬限期、平台須先驗證才准賣，多國登記排隊已達 4 個月",
-    "summary": "剩兩天，這則的價值已經不是提醒登記，而是講清楚沒登完會怎樣、以及還能做什麼：\n        ① 法源與無寬限期（Regulation (EU) 2025/40；Eldris、Coolset）：PPWR 2025/2/11 生效、8/12 適用、無寬限期。Art 44 設國家生產者登錄簿，Art 45 定生產者義務並要求線上平台於允許銷售前驗證生產者登記資訊。\n        ② 適用對象含境外遠距賣家：生產者定義明文包含自 EU 境外寄送的遠距賣家；須在每一個首次投放包裝商品的成員國持有包裝 EPR 登記，且在無設立地的每個銷售國指派授權代表。\n        ③ 現在才開始已來不及、但仍有動作可做：EPR 登記全 EU 需 2–8 週，法西義比荷瑞波等國排隊已延長至 4 個月以上（VATAi）。最後兩天唯一有效的動作是把已取得的號碼載入平台合規欄位。\n        ④ 8/12 同日生效的其他義務（Coolset）：食品接觸包裝 PFAS 禁令（單一物質 25 ppb）、Declaration of Conformity 與技術文件、包裝最小化（Art 24 空隙上限 50%，完整執法漸進至 2030）。\n        ⑤ 未合規的後果：8/12 後不合規包裝不得投放 EU 市場；已投放庫存一般可售完，但售完規則各國不同。平台端後果為下架與銷售暫停，並可能失去 Pan-EU 資格。國家登錄簿分階段至 2027，但不延後義務——透過現有登錄簿（德國 LUCID、波蘭 BDO）履行。",
-    "public_impact": "歐盟包裝與包裝廢棄物規則 Regulation (EU) 2025/40 於 2025 年 2 月 11 日生效、2026 年 8 月 12 日開始適用，且沒有寬限期。第 44 條建立國家生產者登錄簿，第 45 條訂明生產者義務，並要求線上市集在允許銷售前先行驗證生產者的登記資訊。生產者定義明文包含自歐盟境外寄送商品的遠距賣家，因此須在每一個首次投放包裝商品的成員國持有包裝 EPR 登記，並在自身無設立地的每個銷售國指派授權代表。時程上，登記約需二至八週，但法國、西班牙、義大利、比利時、荷蘭、瑞典與波蘭等國審核已延長至四個月以上。同日生效的還有食品接觸包裝 PFAS 禁令（單一物質 25 ppb）、符合性聲明與技術文件，以及包裝最小化義務（第 24 條電商與運輸包裝 50% 空隙上限，完整執法漸進至 2030 年）。未合規的後果是該日後不合規包裝不得投放歐盟市場；已投放庫存一般可售完，但售完規則因成員國而異，須逐國確認。",
-    "public_action": "① 距期限僅兩天，登記本身已無法在期限前完成，建議依現況分流而非一律送件：已取得號碼但未填入平台欄位者、已送件審核中者、完全尚未啟動者，處理方式完全不同；② 已取得號碼者今日即應將號碼載入平台合規欄位，這是最後兩天唯一能實際降低風險的動作；③ 已送件者應備妥送件證明並逐國確認庫存售完規則，不宜假設存在統一過渡期；④ 尚未啟動者宜將重點轉為營運斷點管理，評估哪些站點可能先受影響、第四季檔期如何調整；⑤ 執法機制是線上市集須於允許銷售前驗證登記資訊，屬平台端欄位驗證與自動下架而非事後稽查，這也是沒有寬限期可協商的原因；⑥ 同日另有 PFAS 25 ppb、符合性聲明與 50% 空隙上限三項非登記類義務，銷售食品接觸或生鮮包材者尤應檢查 PFAS。",
-    "sources": [
-      {
-        "name": "Eldris：Art 44／45 條文義務、2–8 週登記時程、平台驗證要求、實務起跑點",
-        "url": "https://epr.eldris.ai/data-centre/eu-regulation/ppwr-deadline-august-2026-checklist"
-      },
-      {
-        "name": "Coolset：無寬限期、售完規則各國不同、8/12 生效義務清單",
-        "url": "https://www.coolset.com/academy/ppwr-compliance-deadlines-explained-what-applies-from-august-2026-and-what-comes-later"
-      },
-      {
-        "name": "VATAi：法西義比荷瑞波登記排隊延至 4 個月以上、Pan-EU 資格風險",
-        "url": "https://www.vatai.com/blog/eu-ppwr-packaging-compliance-guide-2026"
-      },
-      {
-        "name": "AVASK：授權代表（AR-EPR）義務與逐國登記查核清單",
-        "url": "https://avask.com/blog/epr-compliance-guide"
-      },
-      {
-        "name": "Lovat Compliance：境外賣家逐國指派授權代表、登記號碼須載於銷售文件",
-        "url": "https://vatcompliance.co/blog/epr-compliance-in-europe-2026-for-marketplaces-and-online-sellers"
-      },
-      {
-        "name": "Marketplace Compliance：PFAS 25 ppb、Art 24 空隙上限 50%、平台零容忍驗證",
-        "url": "https://www.linkedin.com/posts/marketplace-compliance_epr-obligations-eu-weee-packaging-battery-activity-7460949612464324608-1NhN"
-      },
-      {
-        "name": "Forest Shipping：Amazon EU 賣家逐國 EPR 範圍與平台不再代墊合規成本",
-        "url": "https://www.forestshipping.com/eu-ppwr-rules-amazon-sellers"
       }
     ],
     "color": "#0891b2"
