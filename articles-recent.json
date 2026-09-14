@@ -1,5 +1,163 @@
 [
   {
+    "date": "2026-09-14",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/9–9/11】PPWR 實施法案諮詢一結束就引爆反彈：Etsy 發請願、德國 ZDH 與馬爾他商會要求暫停，每國固定成本逾 €200",
+    "summary": "一句話 so what：PPWR 8/12 已上路，真正的變數是「會不會被鬆綁」——諮詢 9/10 截止，同一週三個方向的壓力同時湧出。\n        ① 德國工商反彈（packaging journal 9/11）：EPR 實施法案諮詢 9/10 結束，德國手工業聯合會（ZDH）指 PPWR 沒區分 producer 與 manufacturer，連用紙袋裝麵包的麵包店都可能背上 EPR 義務。四項訴求：設 de minimis 門檻、跨境交付只報本國系統、授權代表改選擇性、法律確定性未明前不得通過。\n        ② Etsy 把賣家組織起來（Value Added Resource 9/11）：副總 Ossman 9/9 發起請願，訴求 27 國 EPR 調和＋低量賣家簡化路徑；Etsy 目前只在法、德、西三國收 EPR 資料，且請願未定義「低量」是看營收、件數還是重量。\n        ③ 成本已在逼退小賣家（Malta Chamber of SMEs 9/11）：每國年度固定成本可超過 €200，常高於該國跨境貿易本身的商業價值；當地低量供應商已全面停止對其他 EU 國家線上銷售。另有商家 8/11 起直接關閉全部 EU 出貨（PPC Land）。\n        ④ 鬆綁三條路都沒定案：德國提年放置包裝低於 10 公噸免授權代表；馬爾他 MEP Agius 要求執委會暫停；Environmental Omnibus 的 EPR 修改 6 月已卡住。法源 Regulation (EU) 2025/40，2026/8/12 起取代 Directive 94/62/EC。",
+    "public_impact": "歐盟包裝與包裝廢棄物規則（PPWR，Regulation (EU) 2025/40）自 2026 年 8 月 12 日起適用，取代原本的 Directive 94/62/EC。目前實務上最重的負擔不是包裝設計要求，而是延伸生產者責任的行政成本：在其他成員國市場銷售包裝商品者，須向該國的延伸生產者責任制度登記、提交年度申報，多數情況還須指派授權代表。馬爾他中小企業商會指出，每個成員國的年度固定成本可超過 200 歐元，對低量跨境銷售者而言常高於該國貿易本身的商業價值，當地部分低量供應商已停止對其他歐盟國家的線上銷售。9 月 10 日相關實施法案的諮詢期結束，同一週出現三個方向的鬆綁壓力：德國手工業聯合會要求設立實質豁免門檻、將授權代表改為選擇性；Etsy 於 9 月 9 日發起請願，要求各成員國要求調和並為低量賣家設簡化路徑；歐洲商會聯盟則批評此規則與競爭力目標相衝突。德國另提案讓年放置包裝低於 10 公噸者免除授權代表義務。以上均屬提案階段，義務本身已經生效。",
+    "public_action": "① 現階段請以「義務已生效、豁免仍在討論」為前提規劃，不建議等待鬆綁再登記。② 成本試算建議逐國明列，包含每國年度固定費、授權代表費用與申報作業成本，再與該國實際訂單金額比較，而非以整個歐盟為單一市場估算。③ 若訂單高度集中於兩三個國家，收斂銷售國家通常比完全退出歐盟市場更合理，建議先取出各國近 12 個月訂單佔比再決定。④ 登記順序建議從制度較成熟的法國、德國、西班牙開始，這三國的登記與代表機制資訊最完整。⑤ 若透過平台銷售，請確認平台要求提供的登記編號與自我聲明格式，平台本身也有蒐集這些資料的義務，資料不齊可能影響刊登。⑥ 後續可觀察三個節點：實施法案的採用時程、德國提出的 10 公噸豁免門檻是否進入最終文本、以及環境法規簡化套案中延伸生產者責任修改是否重啟。⑦ 已有跨境退出打算的賣家，建議先確認是否為固定成本結構所致，若是，調整銷售國家數量即可，不必完全關閉歐盟通路。",
+    "sources": [
+      {
+        "name": "packaging journal 9/11（ZDH 訴求全文：producer 與 manufacturer 未區分、麵包店範例、四項訴求、諮詢期 9/10 結束、Schwannecke 具名發言）",
+        "url": "https://packaging-journal.de/en/handwerk-fordert-aenderungen-bei-ppwr-herstellerverantwortung"
+      },
+      {
+        "name": "Newsbook 9/11（Malta Chamber of SMEs：每國 >€200 年固定成本、本地低量供應商已停止對 EU 線上銷售、Paul Abela 與 Eurochambres Dlouhý 具名引述、德國 10 公噸提案、MEP Peter Agius 要求暫停、馬爾他 2024/12 理事會棄權；反爬蟲擋 curl，內容經 Tavily 全文取得）",
+        "url": "https://newsbook.com.mt/en/sme-chamber-warns-eu-packaging-rules-are-shutting-maltese-small-businesses-out-of-single-market"
+      },
+      {
+        "name": "Value Added Resource 9/11（Etsy 9/9 社群公告、Ossman 具名、訴求調和＋低量簡化路徑、Etsy 僅收 FR/DE/ES 三國 EPR 資料、9/3 改 Seller Handbook、Environmental Omnibus 6 月卡關、指出「低量」未定義）",
+        "url": "https://www.valueaddedresource.net/etsy-petition-eu-packaging-rules"
+      },
+      {
+        "name": "PPC Land（具體退出案例：商家 8/10 通知、8/11 17:00 關閉 EU 出貨選項與原文引述；屬專業媒體、計為第 4 源）",
+        "url": "https://ppc.land/eu-packaging-law-forces-sellers-to-register-in-up-to-27-countries"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/10 ECB】升息 25bp、存款利率到 2.50%：2027 通膨上修到 2.5%，但成長反向上修到 0.9%、Lagarde 完全不給前瞻指引",
+    "summary": "一句話 so what：升息本身 65／65 全數預期、沒有意外，真正的新資訊是幕僚預測——通膨往上、成長也往上，代表 ECB 拿掉了「升息會壓垮景氣」這個煞車理由。\n        ① 決議（ECB 聲明，經 Forex Factory、Anadolu 9/10 覆核）：三項關鍵利率同步升 25bp，存款利率到 2.50%，為今年第二次升息。聲明把原因寫成「中東衝突持續產生通膨壓力，通膨將在很長一段時間內明顯高於目標」。\n        ② 通膨預測全線上修：整體 HICP 2026 年 3.0%、2027 年 2.5%、2028 年 2.1%；與 6 月版比，2026 不變、2027 由 2.3% 上修、2028 由 2.0% 上修——幕僚自己承認「三年內回不到 2%」。核心（扣能源與食品）2.5% / 2.6% / 2.3%，2027 年核心居然高於整體。\n        ③ 成長反向上修：2026 年 0.9%（6 月版 0.8%）、2027 年 1.4%、2028 年 1.5%，官方理由是「歐元區經濟的韌性超乎預期」。風險評估是通膨偏上、成長偏下。\n        ④ 背景數據（Politico 9/10）：8 月 HICP 3.3%、能源年增衝到 14.3%，已連六個月高於 2% 目標。\n        ⑤ 前瞻指引真空：Lagarde 保留續升的門，但對路徑不給任何指引，同時否認即將宣布提前離任，Schnabel 也被點名可能提前離開。ZEW 經濟學家 Heinemann：若這兩位真要走，反而偏向更鷹。長天期公債殖利率已到金融海嘯前未見的水位，等於市場先幫 ECB 收緊了一輪。",
+    "public_impact": "歐洲央行 9 月 10 日將三項關鍵利率同步上調 25 個基點，存款利率升至 2.50%，為 2026 年第二次升息。決議聲明將原因歸於中東衝突帶來的持續通膨壓力，並指出通膨將在較長一段時間內明顯高於目標。新一輪幕僚預測顯示整體通膨 2026 年 3.0%、2027 年 2.5%、2028 年 2.1%，其中 2027 與 2028 均較 6 月版本上修；核心通膨為 2.5%、2.6%、2.3%，2027 年核心高於整體，代表能源以外的商品與服務同樣在漲。成長預測則反向上修，2026 年 0.9%、2027 年 1.4%、2028 年 1.5%，官方理由是歐元區經濟韌性超乎預期。背景是 8 月 HICP 達 3.3%、能源年增 14.3%，已連續六個月高於 2% 目標。對賣家而言，兩個實質影響：一是「明年歐洲需求就會復甦」的假設需要往後推，官方版本要到 2028 年通膨才接近 2%；二是長天期公債殖利率已達金融海嘯前未見的水位，庫存融資與週轉資金的實際成本高於政策利率所反映的水準。Lagarde 保留續升空間但未給出任何路徑指引。",
+    "public_action": "① 對外溝通與內部規劃請改用官方最新數字：存款利率 2.50%、通膨 2026 年 3.0% / 2027 年 2.5% / 2028 年 2.1%，避免沿用任何「2027 年回到 2%」的舊表述。② 規劃第四季旺季備貨時，建議把資金成本單獨列為一項成本，若備貨資金來自借貸，宜以保守情境設定備貨規模，因為長天期殖利率的上行已使實際融資成本高於政策利率。③ 調價溝通可引用核心通膨 2027 年預估 2.6% 作為依據，但同時應預期同品類競爭者也在調價，不宜假設調價即可完整保住毛利。④ 不建議預測下一次利率決議方向，本次記者會未提供任何路徑指引，官方立場為逐次依數據決定。⑤ 成長預測上修幅度僅 0.1 個百分點，方向為正但絕對水準仍屬低成長，做歐洲市場擴張評估時請以此為基準，不宜當作需求強勁的證據。⑥ 建議追蹤三個節點：9 月中歐盟統計局公布的 8 月 HICP 終值、下一次歐洲央行會議、以及歐元區長天期公債殖利率走勢。",
+    "sources": [
+      {
+        "name": "Politico 9/10（2027 通膨上修 2.3%→2.5%、2028 2.0%→2.1%、成長 0.9%／1.4%、8 月 HICP 3.3% 與能源 +14.3%、連六個月超標、Lagarde 離任問答、Schnabel 傳聞、ZEW Heinemann 具名引述、長天期殖利率海嘯前水位；反爬蟲擋 curl，全文經 Tavily 取得）",
+        "url": "https://www.politico.eu/article/christine-lagarde-brushes-off-exit-gossip-ecb-raises-rates"
+      },
+      {
+        "name": "Morningstar 9/10（通膨與核心三年預測完整數列、6 月版對照、Lagarde 稱中性利率區間不作為決策依據）",
+        "url": "https://global.morningstar.com/en-gb/economy/ecb-hikes-rates-raises-both-inflation-growth-forecasts"
+      },
+      {
+        "name": "Brussels Signal 9/10（今年第二次升息、核心 2.5／2.6／2.3、成長 0.9 由 0.8 上修、風險通膨偏上成長偏下、能源衝擊情境區間寬）",
+        "url": "https://brusselssignal.eu/2026/09/ecb-lifts-rates-for-second-time-this-year"
+      },
+      {
+        "name": "IEU Monitoring 9/11（ECB 決議聲明全文轉載：三項利率、2026 不變／2027 與 2028 上修的原文表述）",
+        "url": "https://ieu-monitoring.com/editorial/ecb-raises-rates-by-25-basis-points-amid-persistent-energy-driven-inflation/1249353"
+      },
+      {
+        "name": "Anadolu 9/10（獨立通訊社覆核：三項利率各 25bp、預測數列一致）",
+        "url": "https://www.aa.com.tr/en/europe/ecb-raises-key-interest-rates-by-25-basis-points/4053240"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-14",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/11 IEA 月報】2026 全球石油需求再砍 94 萬桶／日至 -250 萬：中東正常化推遲到 2027，柴油獨掉 100 萬桶成最緊環節",
+    "summary": "一句話 so what：這份月報的重點不是原油貴，是煉油產能成了瓶頸——原油找得到，柴油找不到，而歐洲跨境物流吃的是柴油不是原油。\n        ① 需求再下修（IEA 9 月 Oil Market Report，9/11 發布）：2026 年全球石油需求預估減少 250 萬桶／日，比 8 月版再砍 94 萬桶／日。但下滑速度在收斂：2Q26 -530 萬 → 3Q26 -340 萬 → 4Q26 -200 萬桶／日。2027 年預估回升 260 萬桶／日，勉強抵掉今年的失血。\n        ② 供給端更緊：2026 年全球供給預估平均 1.007 億桶／日、年減 570 萬桶／日；中東供給要到 2027 年才完全恢復（屆時反彈 800 萬桶／日），今年的非 OPEC+ 增產全靠美洲撐。8 月全球庫存單月掉 310 萬桶／日。\n        ③ 柴油是最痛的那一項：全球柴油與 gasoil 需求從 2025 年約 2,970 萬桶／日降到 2026 年 2,870 萬，單一項就掉 約 100 萬桶／日；汽油約掉 50 萬桶／日。IEA 明說消費損失集中在中間餾出油與石化原料，且「較高的燃料價格、尤其是柴油」會持續壓抑消費——也就是不是需求自然轉弱，是貴到用不起。\n        ④ IEA 自己下的判語：「庫存至今扮演平衡市場的關鍵角色。隨著緩衝縮小、全球煉油體系被拉到極限，解決中東衝突與已進入第五年的俄烏戰爭，比過去任何時候都更迫切。」\n        ⑤ 現貨端已經反映（Reuters 9/11）：布蘭特 9/10 重回 $100 以上、柴油價格處於歷史高位。",
+    "public_impact": "國際能源總署（IEA）於 2026 年 9 月 11 日發布 9 月度石油市場報告，將 2026 年全球石油需求預估下修為減少 250 萬桶／日，比 8 月版本再多砍 94 萬桶／日；下滑速度則逐季收斂，第二季為減少 530 萬桶／日、第三季 340 萬、第四季 200 萬，2027 年預估回升 260 萬桶／日。供給側，2026 年全球供給預估平均 1.007 億桶／日、年減 570 萬桶／日，中東供給要到 2027 年才完全恢復。對跨境賣家而言，最關鍵的不是原油而是柴油：全球柴油與 gasoil 需求從 2025 年約 2,970 萬桶／日降至 2026 年約 2,870 萬桶／日，IEA 指出消費損失集中於中間餾出油與石化原料，且較高的燃料價格（尤其柴油）將持續抑制消費，屬價格抑制而非需求自然轉弱。IEA 並警告庫存緩衝正在縮小、全球煉油體系已被拉到極限。市場端布蘭特原油 9 月 10 日重回每桶 100 美元以上，柴油價格處於歷史高位。由於歐洲跨國卡車運輸與最後一哩配送成本連動柴油而非原油，這個時間軸正好覆蓋整個第四季旺季配送期。",
+    "public_action": "① 第四季物流成本假設建議改為「全季柴油偏緊」，並以中東供給最早 2027 年才正常化為前提，不宜套用「原油回落、運費就會跟著降」的推論，因為本次瓶頸在煉油產能而非原油供給。② 建議拉出前 20 個主力商品的「運費佔售價比例」，先標出超過 15% 至 20% 的品項，這些在柴油偏緊環境下最先侵蝕毛利，可優先評估改包裝、改材積或調整售價。③ 若第四季才啟動歐洲市場，首波選品建議以體積重量比較佳的商品為主，大件低單價商品可延後至 2027 年首波再上架。④ 追蹤指標建議看柴油裂解價差而非布蘭特原油報價，並留意物流商公布的第四季燃油附加費調整，後者通常比油價指標更早反映到實際帳單。⑤ 本報告未提供任何油價預測，所有數字均為供需數量，規劃時不宜引用未具來源的價格目標。⑥ 需求下修的成因是燃料價格過高抑制用量，不等同於歐洲終端消費轉弱，兩者對選品與備貨的含意不同，請勿混用。",
+    "sources": [
+      {
+        "name": "IEA 官方 Oil Market Report September 2026（一手：需求 -250 萬桶／日、比上月多砍 940 kb/d、季度路徑 5.3→3.4→2.0 mb/d、石化原料與精煉產品損失、柴油價格壓抑消費的原文表述）",
+        "url": "https://www.iea.org/reports/oil-market-report-september-2026"
+      },
+      {
+        "name": "Reuters 9/11（IEA 引言全文「庫存扮演關鍵平衡角色／緩衝縮小／煉油體系被拉到極限」、中東流量正常化推遲到 2027、Alex Lawler 具名報導；反爬蟲回 401，全文經 Tavily 取得）",
+        "url": "https://www.reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11/"
+      },
+      {
+        "name": "Oil & Gas Journal 9/11（2027 回升 260 萬桶／日、消費損失集中中間餾出油與石化原料且集中亞洲；反爬蟲回 403，內容經 Tavily 取得）",
+        "url": "https://www.ogj.com/general-interest/economics-markets/news/55404447/iea-sees-oil-demand-decline-deepening-as-middle-east-disruptions-persist"
+      },
+      {
+        "name": "Business Upturn 9/11（供給 1.007 億桶／日、年減 570 萬、2027 反彈 800 萬、非 OPEC+ 增產由美洲主導；反爬蟲回 403，內容經 Tavily 取得）",
+        "url": "https://businessupturn.com/sectors/energy/iea-flags-a-global-diesel-squeeze-and-crude-near-113-as-middle-east-conflict-chokes-gulf-oil-exports"
+      },
+      {
+        "name": "EnviroNews 9/11（第 5 源覆核：940 kb/d 下修幅度與 2027 年 800 萬桶反彈一致）",
+        "url": "https://www.environewsnigeria.com/iea-cuts-2026-oil-demand-forecast-as-middle-east-war-deepens-diesel-squeeze"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/11 美國 8 月 CPI】+0.4% MoM／3.4% YoY 符合預期：Fed 9/16 升息機率由 70% 衝到 90%，美元對歐元轉強",
+    "summary": "一句話 so what：ECB 剛升息，Fed 下週大概也要升——兩邊同時緊，但美國那邊的市場定價動得更快，所以壓力落在匯率而不是利率本身。\n        ① 數據（BLS 9/11，經 Reuters 報導）：8 月 CPI +0.4% MoM（7 月僅 +0.1%），年增 3.4%（與 7 月同）。核心 +0.3% MoM、年增 2.4%（7 月 2.5%）。Reuters 訪調預期 +0.4% / 3.4%，完全符合。主因是汽油在連兩月下跌後反彈。\n        ② 升息機率跳升：CPI 公布前市場對 9/15-16 會議升息 25bp 的定價約 70%（CME FedWatch）；IndexBox 9/12 整理顯示 CPI 後攀到 90%。Fed 基準利率現區間 3.50%-3.75%。\n        ③ 三個資料點疊起來才是關鍵：9/10 的 8 月 PPI 多個餵進 PCE 的分項強升、上週就業報告偏強、加上這份 CPI——三連擊把升息預期推上去。Fed 理事 Waller 上週才說若通膨降溫他傾向按兵不動，這聲音被壓掉了。\n        ④ 通膨會續高的兩個結構原因：一是關稅（最近一輪針對加拿大），二是能源——原油 9/10 重回 $100 以上、柴油處歷史高位，Reuters 寫「暗示通膨將維持高位並擴散」。\n        ⑤ 匯率與債市反應：CPI 後美元對主要貨幣（含歐元）走高；長天期美債殖利率飆升，Reuters 稱「bond carnage」蔓延，部分經濟學家歸因於政治施壓，也有人因此預期 Fed 下週反而會升息以彰顯獨立性。本報不引具體匯價，因來源未列收盤值。",
+    "public_impact": "美國勞工統計局 9 月 11 日公布 8 月消費者物價指數月增 0.4%（7 月為 0.1%）、年增 3.4%（與 7 月相同），核心 CPI 月增 0.3%、年增 2.4%（7 月為 2.5%），與路透訪調預期一致，主因為汽油價格在連續兩個月下跌後反彈。CPI 公布前，市場對 9 月 15 至 16 日會議升息 25 個基點的定價約為 70%（CME FedWatch），公布後升至約 90%，目前基準利率區間為 3.50% 至 3.75%。推升預期的是三個資料點疊加：9 月 10 日公布的 8 月 PPI 多項分項強升、8 月就業報告偏強、以及本次 CPI。路透同時指出兩個使通膨續高的結構因素：關稅（最近一輪針對加拿大）與能源（原油 9 月 10 日重回每桶 100 美元以上、柴油處於歷史高位）。市場反應上，美元對主要貨幣包含歐元走高，長天期美國公債殖利率大幅上行。對跨境賣家的實際含意在於幣別結構：在歐洲以歐元收款、但採購與海運以美元計價者，成本端會被美元走強放大，而歐洲售價的調升空間又受當地消費者已連續六個月面對超標通膨的限制。",
+    "public_action": "① 建議先確認自身的幣別結構：若採購與海運以美元計價、銷售收入為歐元，且未做任何匯率對沖，應將其列為第四季毛利風險項目並優先處理。② 具體可做的動作是把第四季採購合約的計價幣別逐筆列出，評估是否能改為部分歐元計價或提前議價鎖定成本，事前處理的效果遠優於事後認列匯損。③ 對外與內部溝通請以機率表述，不宜寫成結論：市場對 9 月 15 至 16 日會議升息的定價約 90%，屬會前市場定價而非官方決定，且本次 CPI 完全符合預期、核心年增反而由 2.5% 降至 2.4%。④ 同時經營美國與歐洲市場者，建議將兩地的關稅與進口成本假設分開建檔，美國的最新一輪關稅與歐盟的每件 3 歐元固定關稅、11 月 1 日起的處理費與平台進口人責任屬不同制度，合併估算容易誤判。⑤ 建議追蹤三個節點：9 月 16 日聯準會決議與聲明、8 月核心 PCE（本期將調整統計方法，數字下降可能來自方法變更而非通膨真正降溫）、以及長天期美債殖利率。⑥ 目前公開來源僅載美元對歐元走高，未提供收盤價或預測值，規劃時不宜自行設定歐元兌美元目標價。",
+    "sources": [
+      {
+        "name": "Reuters 9/11（一手數據全文：CPI +0.4%／3.4%、核心 +0.3%／2.4%、Reuters 訪調預期、CME FedWatch 會前約 70%、現行區間 3.50-3.75%、PPI 與就業疊加、Waller 具名發言、關稅與加拿大、油價與柴油、核心 PCE 估區間 0.15-0.28% 與方法論調整、Lucia Mutikani 具名；反爬蟲回 401，全文經 Tavily 取得）",
+        "url": "https://www.reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11/"
+      },
+      {
+        "name": "IndexBox 9/12（CPI 後升息機率攀至 90%、標題明載「符合預期」）",
+        "url": "https://www.indexbox.io/blog/fed-rate-hike-odds-jump-to-90-after-august-cpi-matches-expectations"
+      },
+      {
+        "name": "Reuters Morning Bid 9/11（長天期殖利率飆升與「bond carnage」蔓延的市場敘事；反爬蟲回 401，內容經 Tavily 取得）",
+        "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-09-11/"
+      },
+      {
+        "name": "CNBC Daily Open 9/11（第 4 源覆核：通膨與升息預期兩股力量拉扯的當日市場定調）",
+        "url": "https://www.cnbc.com/2026/09/11/cnbc-daily-open-two-market-forces-battle-for-dominance.html"
+      },
+      {
+        "name": "The Economist 9/11（長端殖利率上行的溢出效應分析；付費牆，僅引標題與公開摘要）",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-14",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/10 草稿外流・單一來源待證】European Product Act：平台須逐件驗數位產品護照、EU 境內要有責任人，10/6 才正式提案",
+    "summary": "一句話 so what：這是草稿不是法案，唯一原始來源是 Euronews 取得的外流文本；但方向值得現在就知道，因為它把「誰對不合規商品負責」直接改寫到平台身上。\n        ① 來源狀態要先講清楚：Euronews 9/10 報導取得一份草稿，Monaco Life 9/11 跟進但註明文本來自 Euronews。沒有第二個獨立取得草稿的媒體，也無執委會確認。預計 10/6 才正式提出，內容可能與草稿不同。\n        ② 草稿的四項核心設計：(a) 進口商品不合規時，必須有一個設立於 EU 的經濟營運者負法律責任；製造商在境外時，責任落到進口商或授權代表；(b) 線上平台須逐件確認商品帶有數位產品護照（DPP）、或另一份可識別製造商的責任紀錄；(c) 平台被通知有違法或不合規商品後，須下架並防止再上架；(d) 未達成上述義務者，平台在特定情況下本身可能對該商品負法律責任。\n        ③ 還有一筆新費用：草稿要對進口商品新增EU 市場監督費，用來支應查驗成本；大宗進口的費率會低於直送消費者的單件包裹——設計上就是針對直郵小包。\n        ④ 執委會的舉證基礎：2025 年約 60 億件低價商品從第三國直送進 EU，電商包裹逾 90% 來自中國；同年跨 EU 聯合查驗中，受檢化妝品 65% 不合規（其中 63% 為中國商品）、個人防護裝備 60% 不合規（其中 91% 為中國商品）。\n        ⑤ 已在跑的執法：執委會 5 月就嬰兒玩具與充電器問題對 Temu 開罰 €2 億；Shein 仍在調查中。草稿未點名中國，但立法動機清楚。",
+    "public_impact": "Euronews 於 2026 年 9 月 10 日報導取得一份歐盟執委會草稿，該法案暫名 European Product Act，預計 10 月 6 日正式提出。請注意本則僅有單一原始來源、尚未經執委會確認，正式版本可能與草稿不同。草稿的四項核心設計為：一、進口商品不合規時，必須有一個設立於歐盟境內的經濟營運者負法律責任，製造商位於境外時責任落於進口商或授權代表；二、線上平台須逐件確認商品具備數位產品護照（DPP）或另一份可識別製造商的責任紀錄；三、平台接獲違法或不合規商品通知後須下架並防止其再度上架；四、未履行上述義務的平台在特定情況下可能對該商品本身負法律責任。草稿另擬對進口商品新增歐盟市場監督費以支應查驗成本，且大宗進口的費率將低於直送消費者的單件包裹。立法背景為 2025 年約有 60 億件低價商品自第三國直送進入歐盟、電商包裹逾九成來自中國，同年聯合查驗中受檢化妝品 65% 不合規、個人防護裝備 60% 不合規。",
+    "public_action": "① 目前階段請以「草稿、單一來源、10 月 6 日才提案」理解本案，不宜當作已定案的義務規劃預算，也不宜引用任何市場監督費的具體金額，草稿只載分級原則而未列費率。② 現在值得做的是盤點而非因應：請確認在歐盟境內是否已有責任人或授權代表。一般產品安全規則（GPSR）已有此要求，包裝與包裝廢棄物規則（PPWR）也需要授權代表，這個角色會被後續多項法規反覆使用，先確認到位可省去日後重複作業。③ 建議把歐盟境內責任人、授權代表、以及 11 月 1 日起海關改革下平台作為法定進口人這三件事整理為同一份文件管理，本案屬同一條政策路線的延伸，分開管理容易漏項。④ 若銷售品類未來可能落入數位產品護照範圍，可先盤點手上是否具備商品識別、合規與製造商資訊等基本欄位，這是草稿要求平台驗證的內容。⑤ 建議追蹤三個節點：10 月 6 日執委會是否如期提出、正式版是否保留平台逐件驗證的設計、以及市場監督費是否採大宗與單件分級。若第三項成立，先進倉再出貨與直送消費者的成本比較需要重新計算。",
+    "sources": [
+      {
+        "name": "Euronews 9/10（唯一原始來源：取得草稿文本、平台須驗 DPP 或責任紀錄、接獲通知後下架並防止再上架、Temu 5 月 €2 億罰款、Shein 調查中）",
+        "url": "https://www.euronews.com/my-europe/2026/09/10/eu-commission-eyes-major-import-overhaul-to-crack-down-on-illegal-chinese-products"
+      },
+      {
+        "name": "Monaco Life 9/11（跟進報導，明載草稿由 Euronews 取得，屬非獨立來源：補充 10/6 提案日、EU 境內經濟營運者責任、市場監督費與大宗低於單件包裹的分級、2025 年約 60 億件低價直送與逾 90% 來自中國、化妝品 65%／PPE 60% 不合規與其中中國佔比）",
+        "url": "https://monacolife.net/online-shopping-shake-up-eu-plans-tougher-rules-and-new-fees-on-low-cost-chinese-imports"
+      },
+      {
+        "name": "Europe Says 9/10（Euronews 原文轉載，僅供連結可用性備援，不計為獨立來源）",
+        "url": "https://www.europesays.com/europe/135244"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-10",
     "type": "daily",
     "tags": [
@@ -2265,770 +2423,6 @@
       {
         "name": "Sellers Umbrella 8/11（滾動 14 天、通知在超標後才到）",
         "url": "https://www.prlog.org/13163837-sellers-umbrella-flags-amazons-90-business-hour-delivery-rate-deadline-of-september-30.html"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-14",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【9/1 倒數 18 天】法國 B2B 電子發票：DGFiP 核准平台名單 8/6 拆成兩份，17 家尚未通過互通測試",
-    "summary": "風險點不在格式規格，而在服務商到不到得了 9/1：\n        ① 主義務（法國政府 service-public.gouv.fr）：9/1 起所有設立於法國的 VAT 納稅企業都必須有能力接收電子發票、無規模門檻，並須指定一個政府核准平台（PA）；開立與 e-reporting 義務先適用大型與中型企業（ETI），SME 與微型企業延到 2027/9/1。\n        ② 名單 8/6 拆成兩份（Global Indirect Tax Management 8/11）：DGFiP 原本的單一登錄名單改為兩份 —— 一份是已通過互通測試、條件全部滿足者（清點 144 家），另一份是申請完整合規、但正式登記仍待通過互通測試者（17 家）；截至 8/6 那 17 家尚未完成測試（家數為該文作者清點，DGFiP 未公布總數）。\n        ③ 技術規格 8/4 更新（FNFE-MPE 與德國 FeRD，經 sharedserviceslink 8/12 報導）：Factur-X 1.09.2 / ZUGFeRD 2.5.2 發布取代 6/10 版本，對齊 EN 16931 半年度更新、新增 sub-line 管理（套裝商品小計行），自 9/1 適用。Factur-X 是法國三個強制接收格式之一，與德國 ZUGFeRD 是同一份標準。\n        ④ 非法國設立者（ASD Group）：只有法國 VAT 號、無常設機構者不必收發電子發票，但 9/1 起仍須做 e-reporting。\n        結論：格式有人幫你解，平台沒有 —— 服務商 9/1 前沒過測試，客戶就發不出票。",
-    "public_impact": "法國 B2B 電子發票改革將於 2026 年 9 月 1 日上路，距今約兩週半。依法國政府 service-public 的說明，屆時所有設立於法國且為 VAT 納稅人的企業都必須有能力接收電子發票，且無規模門檻；開立電子發票與 e-reporting 的義務則先適用大型企業與中型企業，中小企業與微型企業延至 2027 年 9 月 1 日。企業必須指定一個政府核准平台來收發發票或申報資料。值得注意的是，DGFiP 已在 8 月 6 日把核准平台登錄名單拆成兩份：一份是已通過互通測試、條件全部滿足的服務商，另一份是申請合規但正式登記仍須先通過互通測試的服務商，後者截至 8 月 6 日尚未完成測試。技術規格面，FNFE-MPE 與德國 FeRD 已於 8 月 4 日發布 Factur-X 1.09.2 與 ZUGFeRD 2.5.2，取代 6 月 10 日版本，對齊 EN 16931 半年度更新並新增套裝與組合商品的小計行處理，自 9 月 1 日適用。對非法國設立、僅持有法國 VAT 號的賣家，收發電子發票並非義務，但 e-reporting 仍須辦理。",
-    "public_action": "① 若在法國設有實體，本週就向你的發票服務商確認它是否已列於 DGFiP 已完成互通測試的名單，若在待測試名單上，請索取書面的完成時程並準備備援方案；② 只有法國 VAT 號、無常設機構的賣家不必收發法國電子發票，但 9 月 1 日起仍須進行 e-reporting，不要誤判為完全不受影響；③ 向 ERP 或發票軟體供應商確認已把 Factur-X 1.09.2 與 ZUGFeRD 2.5.2 納入版本規劃，該規格自 9 月 1 日適用，且法德兩國共用同一份標準；④ 換平台涉及系統對接與主檔整理，時間已不足以重做一次導入，現階段應以確認現有服務商能否如期上線為主；⑤ 中小企業與微型企業的開立義務在 2027 年 9 月 1 日，但接收義務一律從 2026 年 9 月 1 日起算，兩者不要混淆。",
-    "sources": [
-      {
-        "name": "法國政府 service-public.gouv.fr（義務與時程）",
-        "url": "https://entreprendre.service-public.gouv.fr/actualites/A15683?lang=en"
-      },
-      {
-        "name": "Global Indirect Tax Management（8/11，DGFiP 名單拆分）",
-        "url": "https://globalindirecttaxmanagement.com/country-updates/france/france-factur-x-1-09-2-and-zugferd-2-5-2-issued-on-august-4-2026-and-the-dgfip-register-of-approved-platforms-is-updated-and-split-into-two-separate-lists"
-      },
-      {
-        "name": "sharedserviceslink（8/12）",
-        "url": "https://sharedserviceslink.com/news/factur-x-and-zugferd-updated-ahead-of-france-and-germany-e-invoicing-reforms"
-      },
-      {
-        "name": "FNFE-MPE Factur-X 官方頁",
-        "url": "https://fnfe-mpe.org/factur-x/factur-x_en"
-      },
-      {
-        "name": "ASD Group（外國企業 e-reporting）",
-        "url": "https://www.asd-int.com/en/france-how-does-the-2026-e-reporting-system-work-for-foreign-companies-subject-to-vat"
-      },
-      {
-        "name": "Global VAT Compliance（時程整理）",
-        "url": "https://www.globalvatcompliance.com/globalvatnews/france-mandatory-b2b-e-invoicing"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-14",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【昨天 8/13】Amazon 歐洲 DD+7 保留金遷移日：未遷移店鋪二選一，另一個選項是 2027/1/19",
-    "summary": "歐洲多數帳號 2025/9 就已遷移 DD+7，昨天是尾端名單的遷移日，而且是二選一不是區間：\n        ① 官方口徑（Seller Central Europe 賣家論壇，Amazon 代表 KJ_Amazon 回覆）：通知信原文為「您的遷移已排定於 2026 年 8 月 13 日。若您需要更多時間準備，可改選第二個可用日期 2027 年 1 月 19 日」。論壇上有賣家先前被電話告知是「8/13 到 2027/1/19 之間某天」，Amazon 代表明確更正為二選一，並承認其他溝通管道造成了混亂。\n        ② 適用範圍：延到 2027/1/19 的選項只給尚未遷移的賣家或個別店鋪；已完成遷移的店鋪不可回復。多店鋪帳號可能只有未遷移的那些店鋪拿到延期選項。\n        ③ 機制釐清：DD 指 Delivery Date（到貨日），不是撥款日。款項在到貨確認後再壓 7 個日曆天才進入可提領餘額，且與帳戶層級保留金疊加；無追蹤的低價件改以預估到貨日起算。\n        ④ 一次性衝擊有官方數字：Amazon 代表在同一串明講「前 7 至 20 天現金流會下降」，過渡期約 10 至 14 天，原因是在途訂單要換算到以到貨日為基準的保留金。\n        ⑤ 量級（Slope、Riverbend 等業界整理）：FBA 到貨快，約下單後 8 至 10 天可動用；FBM 標準配送 5 至 7 天者約 12 至 14 天。長期被鎖住的營運資金約等於年營收 ÷ 365 × 7。",
-    "public_impact": "Amazon 的 DD+7 保留金政策（Delivery Date + 7 天）在歐洲多數帳號已於 2025 年 9 月完成遷移，尚未遷移的賣家與店鋪則面臨新一波遷移安排。依 Seller Central 歐洲賣家論壇上 Amazon 方的回覆，通知信給出的是二選一而非區間：2026 年 8 月 13 日，或延後至 2027 年 1 月 19 日；延後選項僅適用尚未遷移的賣家或個別店鋪，已完成遷移者無法回復。機制上，DD 指到貨日而非撥款日，款項要在到貨確認後再保留 7 個日曆天才進入可提領餘額，並與帳戶層級保留金疊加；無追蹤的低價商品以預估到貨日起算。Amazon 方在同一討論串指出遷移會造成一次性影響，前 7 至 20 天現金流下降、過渡期約 10 至 14 天。實務量級上，自營履約（FBM）賣家因配送天數較長，被鎖住的天數明顯多於平台履約（FBA）賣家。",
-    "public_action": "① 先確認自己是否收到遷移通知，以及選的是 2026 年 8 月 13 日或 2027 年 1 月 19 日，並注意這是二選一、已遷移不可回復；② 用「年營收 ÷ 365 × 7」估算長期被鎖住的營運資金，再加上過渡期前 7 至 20 天的回款下降，據此檢查第四季進貨的付款排程是否撐得住；③ 自營履約賣家的被鎖天數通常比平台履約多幾天，因為起算點是到貨確認而非出貨，配送較慢的商品應把這段時間納入補貨模型；④ 若已遷移但發現放款超過 7 天，可先檢查兩個常見原因：B2B 發票訂單仍待買方付款，或承運商未回傳到貨確認（此時系統會改以最新預估到貨日起算）；⑤ 會計上建議以到貨日而非撥款日對應收入，以免營收落在錯誤的期間；⑥ 政策細節請以自己帳號收到的通知與 Seller Central 公告為準。",
-    "sources": [
-      {
-        "name": "Seller Central Europe 論壇（Amazon 代表 KJ_Amazon 確認 8/13 與 2027/1/19）",
-        "url": "https://sellercentral-europe.amazon.com/seller-forums/discussions/t/42e864b4-d822-47eb-9c52-4b95d98e47e8"
-      },
-      {
-        "name": "Slope（DD+7 機制與營運資金試算、歐洲 2025/9 遷移）",
-        "url": "https://slopepay.com/blog/amazon-dd7-payout-policy"
-      },
-      {
-        "name": "Riverbend Consulting",
-        "url": "https://riverbendconsulting.com/blog/dd7-amazon-payout-policy"
-      },
-      {
-        "name": "Nova Analytics",
-        "url": "https://novadata.io/resources/news/amazon-dd7-disbursement-reserve-march-2026"
-      },
-      {
-        "name": "Webgility（現金流試算）",
-        "url": "https://www.webgility.com/blog/amazon-payout-schedule"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-14",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/13 ONS】英國 Q2 GDP +0.4%、6 月單月 +0.3% 超預期：服務業撐全場，工業與貿易同步轉差",
-    "summary": "表面數字符合預期，拆開看是「服務業一柱擎天、商品端全面轉弱」，對零售賣家不是好組合：\n        ① 總量（ONS 8/13）：Q2 GDP 季增 +0.4%（Q1 為 +0.6%）、年增 +1.2%（優於市場估 1.1%）；每人 GDP 季增 +0.4%、年增 +1.0%。\n        ② 月度路徑：4 月 -0.1%、5 月 0.0%（自 +0.1% 下修）、6 月 +0.3%（市場估 -0.1%）。整季動能幾乎都集中在 6 月。\n        ③ 產業結構：服務業 +0.5%（資通訊 +2.7%、專業科技 +1.7% 領頭）；生產零成長（製造 +1.0%，被電力燃氣與供水抵銷）；建築 +0.3%、但仍低於去年同期 2.0%。20 個次產業中 15 個成長。\n        ④ 同日發布的商品面全部低於預期（ONS 一併公布、XTB 整理）：6 月工業生產 -0.2% MoM（估 +0.1%）、製造生產 -0.5% MoM（估 -0.3%）、6 月貿易逆差擴大到 -£230.1 億（估 -£204 億、前值 -£210.8 億）。\n        ⑤ 一個要留意的細節：ONS 在政府消費項下提到 6 月熱浪導致部分學校停課，壓低了教育產出 —— 也就是天氣同時是 6 月的助力與阻力，把 6 月的 +0.3% 當成趨勢反轉來讀是危險的。\n        結論：GDP 撐住了，但撐住它的是服務業，跟賣實體商品的關聯度低。",
-    "public_impact": "英國 ONS 於 8 月 13 日公布第二季 GDP 初估，季增 0.4%（第一季為 0.6%）、年增 1.2%，略優於市場預估的 1.1%。但結構值得注意：整季動能幾乎集中在 6 月（4 月 -0.1%、5 月 0.0%、6 月 +0.3%），且成長來源高度集中於服務業（+0.5%，資通訊 +2.7%、專業科技 +1.7% 領頭），生產部門為零成長（製造 +1.0% 被電力燃氣與供水抵銷），建築 +0.3% 但仍低於去年同期 2.0%。同日公布的商品面數據則全部低於預期：6 月工業生產 -0.2% MoM、製造生產 -0.5% MoM、貿易逆差擴大至 230.1 億英鎊（預估 204 億、前值 210.8 億）。ONS 另提到 6 月熱浪導致部分學校停課而壓低教育產出，顯示天氣對當月數據同時有正負向影響。對銷售實體商品的賣家而言，GDP 超預期並不等於需求轉強，商品鏈相關指標方向仍朝下。",
-    "public_action": "① 英國市場第三季展望建議維持保守，判斷依據放在生產零成長與 6 月製造 -0.5%，而非 GDP 年增 1.2%；② 以英鎊收款、外幣採購的賣家可做一次毛利敏感度檢查，貿易逆差擴大與 9 月 17 日英國央行會議都可能帶來匯率波動；③ 第四季促銷深度建議偏保守，可並列參考 7 月零售同店銷售 +1.5%、連兩月放緩，以及 6 月成長受熱浪雙向影響這兩項訊號；④ 值得追蹤的節點包括 8 月 19 日英國 7 月 CPI、8 月 21 日 7 月零售銷售、9 月 17 日英國央行會議與 9 月 30 日 GDP 第二次估計；⑤ ONS 說明本次未做修正，1997 至 2024 年的修正將於 8 月 20 日的 Blue Book 文章公布、2025 年之後的更新在 9 月 30 日，因此目前以英國數據做的同期比較日後可能需要重算。",
-    "sources": [
-      {
-        "name": "ONS 官方公報（8/13）",
-        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026"
-      },
-      {
-        "name": "FXStreet（實際值與市場預期對照）",
-        "url": "https://www.fxstreet.com/news/uk-gdp-expected-to-show-moderate-q2-growth-202608130200"
-      },
-      {
-        "name": "XTB 經濟行事曆（工業、製造、貿易差額實際值）",
-        "url": "https://www.xtb.com/int/market-analysis/news-and-research/economic-calendar-us-ppi-jobless-claims-and-fed-speeches-to-bring-more-insight-after-uneventful-cpi-13-08-2026"
-      },
-      {
-        "name": "GB News（8/13）",
-        "url": "https://www.gbnews.com/money/economy-gdp-second-quarter-2026-ons"
-      },
-      {
-        "name": "investingLive（服務業分項）",
-        "url": "https://investinglive.com/news/uk-q2-preliminary-gdp-vs-0-4-q-q-expected"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-14",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/13 Eurostat】歐元區 6 月工業生產零成長、年增 +0.1% 優於預期：耐久消費財年減 2.5%",
-    "summary": "headline 比預期好，但拆到消費財分項就會看到跟賣家真正相關的那條線在往下：\n        ① 總量（Eurostat 8/13）：6 月季調工業生產歐元區持平（0.0% MoM）、EU +0.2%；年增歐元區 +0.1%、EU +0.6%。年增數字明顯優於市場預估的 -0.8%（Trading Economics 記為市場估 -0.8% 下跌、實際轉正）。\n        ② 分項才是重點（歐元區 MoM）：非耐久消費財 +3.0%、能源 +1.5%、耐久消費財 +0.3%（自 5 月 -1.3% 反彈）；但中間財 -0.8%、資本財 -1.4%。年增看得更清楚：耐久消費財 -2.5%、非耐久消費財 -0.5%，中間財 +0.4%、能源 +0.9%、資本財 +0.1%。\n        ③ 三大國分歧：德國 +0.2% MoM、法國持平、西班牙 -0.7%。年增則是德國與法國都 -0.5%、西班牙 +1.0%。\n        ④ 5 月被大幅上修：相較 7/15 公布值，5 月月增由 -0.2% 上修為 +0.3%（EU 由 -0.1% 上修為 +0.3%）、年增由 -1.2% 上修為 -0.1%（EU 由 -0.3% 上修為 +0.6%）。這代表Q2 的工業底部沒有原本想的那麼深。\n        ⑤ 中東歐領先：年增最高為立陶宛 +7.7%、丹麥 +6.1%、波蘭 +4.9%；最差為盧森堡 -7.9%、羅馬尼亞 -5.6%、愛沙尼亞 -4.6%。\n        結論：工業沒有繼續惡化，但耐久消費財年減 2.5% 說明家電、家具、3C 這類品類的需求端仍是弱的。",
-    "public_impact": "Eurostat 於 8 月 13 日公布 6 月工業生產，季調後歐元區月增持平、EU 增加 0.2%；年增歐元區 +0.1%、EU +0.6%，年增數字明顯優於市場原先預估的下滑。不過分項才是關鍵：歐元區月增方面，非耐久消費財 +3.0%、能源 +1.5%、耐久消費財 +0.3%，但中間財 -0.8%、資本財 -1.4%；年增方面，耐久消費財 -2.5%、非耐久消費財 -0.5%。三大經濟體分歧明顯，德國月增 +0.2%、法國持平、西班牙 -0.7%，年增則德法均為 -0.5%、西班牙 +1.0%。另一個重要變化是 5 月數據被大幅上修，歐元區月增由 -0.2% 修正為 +0.3%、年增由 -1.2% 修正為 -0.1%，意味第二季的工業底部沒有原先估計的那麼深。年增最強的是立陶宛 +7.7%、丹麥 +6.1%、波蘭 +4.9%。整體而言工業未繼續惡化，但耐久消費財年減 2.5% 顯示家電、家具、大型 3C 等品類的需求端仍偏弱。",
-    "public_action": "① 第四季備貨建議分兩檔處理，耐久消費財（家電、家具、大型 3C、DIY）因生產端年減 2.5% 宜偏保守，日用與非耐久品類可維持或略增；② 若在 7 月底至 8 月初做過歐洲工業或成本相關假設，建議重算，因為 5 月基期已由月增 -0.2% 上修為 +0.3%、年增由 -1.2% 上修為 -0.1%；③ 資本財月減 1.4%、年增僅 +0.1%，顯示企業設備投資在收縮，做 B2B 生意的賣家對第三、四季需求宜保守估計；④ 市場配置上，西班牙是三大經濟體中年增唯一為正者（+1.0%），波蘭 +4.9% 更強，德法年增均為 -0.5%，資源分配可適度反映此分歧；⑤ 可追蹤的節點包括 8 月 14 日歐元區 6 月貿易差額、8 月 18 日德國與歐元區 ZEW 景氣預期、8 月 19 日歐元區 7 月 HICP 終值、9 月 10 日歐洲央行議息與 9 月 16 日 7 月工業生產。",
-    "sources": [
-      {
-        "name": "Eurostat 官方新聞稿（8/13，含 5 月修正說明）",
-        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-13082026-ap"
-      },
-      {
-        "name": "Trading Economics（市場預期對照、分項）",
-        "url": "https://tradingeconomics.com/euro-area/industrial-production-mom"
-      },
-      {
-        "name": "GMK Center（8/13）",
-        "url": "https://gmk.center/en/news/industrial-production-in-the-eu-rose-by-0-2-m-m-in-june"
-      },
-      {
-        "name": "IndexBox（成員國排序）",
-        "url": "https://www.indexbox.io/blog/eu-industrial-production-and-ecb-forecasts-june-2026-overview"
-      },
-      {
-        "name": "Big News Network 引 WAM（8/13）",
-        "url": "https://www.bignewsnetwork.com/news/279239651/industrial-production-stable-in-euro-area-up-by-02-in-eu"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-14",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/13 GUS】波蘭 Q2 GDP 年增加速到 3.8%、工業年增 4.9% 為 EU 前三：成長極不在德法",
-    "summary": "同一天公布的三份數據裡，波蘭是唯一在加速的；這對波蘭市場的佈局優先度有直接含義：\n        ① GDP 快報（Statistics Poland／GUS 8/13，經 RTTNews 報導）：Q2 未調整年增 +3.8%（Q1 為 +3.5%）、季調年增 +3.7%（Q1 +3.5%）；季增 +0.9%（Q1 +0.6%），略低於市場估的 +1.0%。\n        ② 工業面同步驗證（Eurostat 8/13）：波蘭 6 月工業生產年增 +4.9%，是 EU 第三高（僅次於立陶宛 +7.7%、丹麥 +6.1%），同期德國與法國均為 -0.5%；波蘭 6 月月增為 -0.3%。\n        ③ 成長引擎在轉換（ING 8 月分析）：Q2 建築產出由 Q1 的 -8.0% 年減轉為約 +4.5% 年增，投資動能回升；勞動市場則轉軟 —— 6 月薪資年增 5.9%、連三個月低於 6%，企業部門就業年減 0.9%。\n        ④ 通膨回升但成分是能源與稅制：7 月 CPI 初估年增 3.0%（6 月 2.5%）、月增 +0.8%（GUS 7/31 快報，終值 8/13 公布）。燃料與潤滑油年增 15.8%、電力燃氣 +4.0%，食品與非酒精飲料則年減 0.4%；推力來自政府取消燃料價格管制、機動車燃料 VAT 由臨時的 8% 回到 23%。\n        ⑤ 貨幣政策：波蘭央行 7 月連四個月維持利率 3.75%，總裁 Glapinski 稱夏季後可能提議降息 25bp。3.0% 已貼近容忍區間（1.5–3.5%）上緣，但核心需求並未過熱。",
-    "public_impact": "波蘭中央統計局（GUS）於 8 月 13 日公布第二季 GDP 快報，未季調年增 3.8%（第一季 3.5%）、季調年增 3.7%，季增 0.9%（第一季 0.6%），略低於市場預估的 1.0%。同日 Eurostat 數據顯示波蘭 6 月工業生產年增 4.9%，是 EU 第三高，僅次於立陶宛 7.7% 與丹麥 6.1%，同期德國與法國均為 -0.5%。成長引擎正在轉換：第二季建築產出由第一季的年減 8.0% 轉為約年增 4.5%，顯示投資動能回升；但勞動市場轉軟，6 月薪資年增 5.9%、連三個月低於 6%，企業部門就業年減 0.9%。通膨方面，7 月 CPI 初估年增 3.0%（6 月 2.5%）、月增 0.8%，主因是燃料與潤滑油年增 15.8%、電力燃氣 +4.0%，而食品與非酒精飲料年減 0.4%；推力來自政府取消燃料價格管制與機動車燃料 VAT 由臨時的 8% 回到 23%。波蘭央行 7 月連四個月維持主要利率 3.75%，總裁表示夏季後可能提議降息 25 個基點。",
-    "public_action": "① 在歐洲已有一定規模、尚未進入波蘭市場的賣家，可把波蘭列入本季的市場評估名單，對照依據是波蘭第二季 GDP 年增 3.8%、工業年增 4.9%，而德法工業年增均為 -0.5%；② 品類選擇上，食品年減 0.4% 顯示消費者可支配所得未被必需品擠壓，對非必需品類是相對友善的環境；③ 在波蘭自行配送的賣家建議重算物流成本，燃料與潤滑油年增 15.8%，且機動車燃料 VAT 已由臨時的 8% 回到 23%，最後一哩成本會被直接推升；④ 融資成本方向偏向寬鬆但尚未定案，波蘭央行維持利率 3.75%，總裁僅表示夏季後可能提議降息，規劃時不宜當作已確定；⑤ 需留意企業部門就業年減 0.9%，若延續至第四季可能影響消費信心；⑥ 3.8% 為未季調年增快報值，季調年增為 3.7%，完整的 GDP 結構要等後續正式發布。",
-    "sources": [
-      {
-        "name": "RTTNews 引 GUS 快報（8/13）",
-        "url": "https://www.rttnews.com/3680023/poland-gdp-growth-improves-inflation-rises-as-estimated.aspx"
-      },
-      {
-        "name": "Eurostat（波蘭 6 月工業年增 +4.9%）",
-        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-13082026-ap"
-      },
-      {
-        "name": "ING Think（建築產出、薪資與就業）",
-        "url": "https://think.ing.com/articles/strong-june-data-lift-prospects-for-polish-2026-gdp-growth-despite-mounting-external-risks"
-      },
-      {
-        "name": "GUS 7 月 CPI 快報官方頁",
-        "url": "https://stat.gov.pl/en/topics/prices-trade/price-indices/flash-estimate-of-the-consumer-price-index-in-july-2026,21,43.html"
-      },
-      {
-        "name": "PAP（7/31 CPI 快報）",
-        "url": "https://www.pap.pl/en/news/polands-cpi-30-pct-yy-july-flash-reading"
-      },
-      {
-        "name": "FocusEconomics（燃料價格管制與 VAT 回調）",
-        "url": "https://www.focus-economics.com/countries/poland/news/inflation/poland-consumer-prices-p-31-07-2026-inflation-accelerates-in-july-from-june"
-      },
-      {
-        "name": "Global Banking & Finance 引 Reuters（NBP 利率）",
-        "url": "https://www.globalbankingandfinance.com/polish-cpi-accelerates-3-0-july-fuelling-rate-hold"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-13",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/12 IEA】2026 全球原油供給下修到 102.02 mb/d（-4.3 mb/d）：需求再砍 51 萬桶／日，Trump 稱「我們擁有荷姆茲」",
-    "summary": "油價高檔不再是「事件驅動」，IEA 昨天把它寫成了 2026 全年的供需結構：\n        ① 供給（IEA 月報 8/12）：2026 全球供給預估下修至 102.02 mb/d、年減 4.3 mb/d（約 4%），比 7 月報告的 -3.7 mb/d 又深一階，是 IEA 今年最低的一次預估；美洲增產 1.4 mb/d 只能部分抵銷。\n        ② 需求破壞：2026 需求預估由「近 100 萬桶」擴大到 年減 1.6 mb/d（單月再砍 51 萬桶／日），H2 需求較上月報告下修約 55 萬桶；分季為 Q2 -4.9、Q3 -2.8、Q4 轉正 +58 萬桶，2027 才回到 +2.4 mb/d。\n        ③ 波灣供給實況：7 月波灣產量回升 2.5 mb/d 到 23.9 mb/d，但仍比戰前低 8.3 mb/d；出口反而再掉 2.1 mb/d 到 15 mb/d，裝載量從月初 20 mb/d 掉到月底約 12 mb/d。\n        ④ 政治面僵局（Al Jazeera 8/11、ttnews 引 Bloomberg 8/12）：Trump 稱「只有美國海軍控制荷姆茲……我們擁有它」，並新增「伊朗須賠償」為談判條件；伊朗最高國安會秘書 Rezaee 開出停戰、解除制裁、解凍資產、戰損賠償四項條件。美軍中央司令部稱 7 月復封鎖以來已改道 55 艘商船、至少癱瘓 2 艘。\n        結論：Brent 8/12 期貨結算約 $88.98（盤中高 $90.07、低 $88.10），連六個交易日走升；這波不是消息面反彈，而是供給缺口被官方數據確認。",
-    "public_impact": "IEA 8/12 月報把 2026 全球原油供給下修到 102.02 mb/d（年減 4.3 mb/d、約 4%），需求同步下修到年減 1.6 mb/d，波灣產量雖回升到 23.9 mb/d 但仍比戰前低 8.3 mb/d。這代表油價的高檔不是短期消息面反彈，而是被官方數據確認的供給缺口，會延續到 Q4 旺季。對跨境賣家最直接的三個影響：一、海運與空運附加費、平台燃油相關費率在 Q4 沒有回落空間，用年初油價假設算旺季毛利會低估 2-4 個百分點；二、消費者可支配所得被燃油與電費壓縮，低單價帶（€30 以下）需求相對穩定，200 歐元以上耐久財容易遞延；三、波灣出口裝載量在 7 月內從每日 2,000 萬桶掉到約 1,200 萬桶，波動度而非平均值才是船期真風險。",
-    "public_action": "① Q4 成本模型改用情境法，建議 Brent base 85-95 美元、upside 100-110、downside 78-85，不要用單點假設；② 能源密集品類（家電、家具、金屬件、塑膠射出）重算 Q4 毛利，必要時把調價時點提前到 9 月而非 11 月，避開旺季調價的轉換率損失；③ 品項結構往低單價與必需品適度傾斜，30 歐元以下 SKU 的備貨深度可提高；④ 亞洲到歐盟的海運前置期改用區間規劃（6-9 週）而非單一天數，重要檔期的入倉死線往前壓兩週；⑤ 值得追蹤的節點：9 月 11 日 IEA 下期月報、9 月 10 日 ECB 議息、10 月 15 日起歐洲多數平台的旺季物流費開徵。",
-    "sources": [
-      {
-        "name": "IEA Oil Market Report – August 2026",
-        "url": "https://www.iea.org/reports/oil-market-report-august-2026"
-      },
-      {
-        "name": "Reuters（8/12）",
-        "url": "https://www.reuters.com/business/energy/iea-slashes-2026-supply-forecast-hormuz-reopening-remains-elusive-2026-08-12"
-      },
-      {
-        "name": "CNBC（8/12）",
-        "url": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html"
-      },
-      {
-        "name": "Yahoo Finance UK／ADVFN",
-        "url": "https://uk.finance.yahoo.com/news/iea-cuts-2026-oil-supply-090310738.html"
-      },
-      {
-        "name": "Al Jazeera（8/11）",
-        "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue"
-      },
-      {
-        "name": "Transport Topics 引 Bloomberg（8/12）",
-        "url": "https://www.ttnews.com/articles/trump-claims-us-control-hormuz"
-      },
-      {
-        "name": "MarketWatch Brent 結算價",
-        "url": "https://www.marketwatch.com/investing/future/brn00?countrycode=uk"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-13",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/12 BLS】美國 7 月 CPI 降至 3.4%、月增僅 0.1%：9 月升息機率由 46% 壓到 42%，但 8 月會被油價推回去",
-    "summary": "Fed 拿到了喘息空間，但這口氣只夠撐到 8 月數據出來：\n        ① 數字（BLS 8/12、CNBC）：7 月 CPI 月增 +0.1%、年增 3.4%（6 月為 3.5%），與市場預期完全一致。分項：新車 +0.1%、中古車與卡車 +0.4%、醫療照護 +0.4%、機票 +2.2%。\n        ② 市場反應（Reuters 8/12）：美股期指走升、各期限美債殖利率下行；CME FedWatch 的 9 月升息機率由報告前約 46% 降到 42%，美元僅小幅偏弱。\n        ③ 為什麼是「升息」機率：7 月 28-29 日 FOMC 維持利率在 3.50%-3.75%，但有三位地區 Fed 總裁投票主張升息——這是 2016 年 9 月以來首次三票同向。市場原本高度押注 9 月 15-16 日會升息。\n        ④ 反向力量：8 月 7 日公布的 7 月非農為 減少 2.3 萬人（市場預估增加約 8.3 萬），5 月與 6 月合計下修 10.3 萬人。就業轉弱與通膨溫和兩件事同時發生，把升息的急迫性抽掉了。\n        結論：Reuters 訪問的經濟學家一致預期 8 月 CPI 會因油價回升而走高，Fed 在 9/15-16 前還會看到一次 CPI 與一次就業。對歐洲來說，這場「美國到底升不升」的拉鋸直接決定 EUR/USD 的區間中心。",
-    "public_impact": "美國 7 月 CPI 年增 3.4%（前值 3.5%）、月增 0.1%，與市場預期一致；CME FedWatch 顯示 9 月升息機率由約 46% 降到 42%，美債殖利率全面下行。之所以是「升息」機率而非降息，是因為 7 月 FOMC 維持 3.50%-3.75% 時有三位地區 Fed 總裁投票主張升息，為 2016 年 9 月以來首見。但 8 月 7 日公布的 7 月非農減少 2.3 萬人、5 至 6 月合計下修 10.3 萬人，就業轉弱抽掉了升息的急迫性。對跨境賣家的意義集中在匯率：若 9 月 Fed 按兵不動而 ECB 升息，美歐利差收斂會把 EUR/USD 往 1.17 至 1.19 推。以歐元收款、美元進貨的賣家毛利改善；反過來以美國為主要市場、歐洲為次要市場的賣家，美元營收換回歐元時會縮水。",
-    "public_action": "① Q4 匯率規劃用區間而非單點，可參考 EUR/USD base 1.16-1.18、upside 1.19-1.21、downside 1.14-1.15；② 美元收入佔比超過四成的歐洲賣家，評估以遠期或選擇權鎖定部分 Q4 收款，避免旺季結算日集中承擔匯率風險；③ 以美元支付供應商、以歐元收款的賣家可趁 EUR 相對強勢期間重新計算歐洲市場的目標毛利，必要時調整定價區間；④ 不要因單月數據改長期假設，經濟學家普遍預期 8 月 CPI 會因油價回升而走高，方向要等 9 月中公布的 8 月數據確認；⑤ 值得追蹤的節點：8 月 13 日美國 7 月 PPI、8 月 18 日 FOMC 會議紀要、8 月 19 日英國 7 月 CPI、9 月 10 日 ECB 議息、9 月 15 至 16 日 FOMC。",
-    "sources": [
-      {
-        "name": "BLS Consumer Price Index Summary",
-        "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
-      },
-      {
-        "name": "CNBC（8/12）",
-        "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
-      },
-      {
-        "name": "Reuters（8/12）",
-        "url": "https://www.reuters.com/business/us-consumer-prices-increase-expected-july-2026-08-12"
-      },
-      {
-        "name": "Reuters VIEW（8/12）",
-        "url": "https://www.reuters.com/business/view-market-shrugs-off-in-line-july-cpi-report-2026-08-12"
-      },
-      {
-        "name": "Kraken Economic Brief（8/12）",
-        "url": "https://blog.kraken.com/economic-brief/august-12-2026"
-      },
-      {
-        "name": "MUFG Research（8/11）",
-        "url": "https://www.mufgresearch.com/macro/us-inflation-update-august-11-2026"
-      },
-      {
-        "name": "ECB Data Portal（USD/EUR 8/10 = 1.1555）",
-        "url": "https://data.ecb.europa.eu"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-13",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/12 生效】PPWR 正式適用第一天：DoC＋PFAS＋可回收性自評成法律義務，但約 30 份細則據追蹤只出 1 份",
-    "summary": "新進展是「生效了，但規則書沒到」——今天起是法律義務，判定標準卻仍在路上：\n        ① 昨天起真正生效的三件事（Regulation (EU) 2025/40，經 Bureau Veritas、Trace One、Coolset 解讀）：每一種包裝都要有 EU 符合性聲明（DoC）＋技術文件；食品接觸包裝的 PFAS 限值（單一物質 25 ppb、加總 250 ppb、含聚合物總量 50 ppm，見 MAAK Law 整理）與重金屬限值；以及 Art. 6(1) 的 可回收性要求——今年是依現行 EN 13430:2004 做自評，不是 2030 年那套 A/B/C 分級。\n        ② 昨天「沒有」生效的事：Design for Recycling 技術標準與 Grade C（≥70%）市場准入門檻要到 2030/1/1；統一標示強制適用是 2028/8/12。把 8/12 當成「不合規就下架」的死線是誤解。\n        ③ 真正的缺口：PPWR 預計需要約 30 份委任與實施法案，業界追蹤顯示到 2026 年中僅 1 份通過（Getready Compliance）。而依 Art. 12/13，執委會本應在 8/12 前通過統一標示、材質組成標示與廢棄物容器標示的實施法案（Compliance Gate 條文對照）；法律事務所並指出執委會在 EPR 登記與申報的第一份實施法案上已落後進度。3 月 30 日的指引與 FAQ（Notice C(2026) 2151）明示只是「解釋性」文件，不改變法規。\n        ④ 豁免確定不來：6 月執委會提的授權代表義務暫緩案未獲理事會推進，歐洲議會版本只給員工 49 人以下、營收 1,000 萬歐元以下的微型企業，一讀要等 10 月。\n        結論：義務已經開始，判定尺規還沒發下來——這代表未來 12 個月的爭議會集中在「文件齊不齊」，不是「設計對不對」。",
-    "public_impact": "歐盟包裝與包裝廢棄物規則（Regulation (EU) 2025/40，PPWR）自 8 月 12 日起正式適用。真正在昨天生效的是三件事：每一種包裝都須具備 EU 符合性聲明與技術文件；食品接觸包裝的 PFAS 限值（單一物質 25 ppb、加總 250 ppb、含聚合物總量 50 ppm）與重金屬限值；以及依現行 EN 13430:2004 標準完成可回收性自我評估。要特別釐清的是，8 月 12 日並不是「不合規就禁售」的日期——Design for Recycling 技術標準與 Grade C（可回收率 70% 以上）的市場准入門檻要到 2030 年 1 月 1 日，統一標示強制適用則在 2028 年 8 月 12 日。目前最大的不確定性在細則：PPWR 預計需要約 30 份委任與實施法案，業界追蹤顯示到 2026 年中僅通過 1 份，而依第 12 與 13 條，執委會本應在 8 月 12 日前通過統一標示與材質組成標示的實施法案。這代表未來一年的稽查爭議會集中在文件齊備度，而非包材設計本身。",
-    "public_action": "① 把品項分兩類處理，食品接觸包裝優先（PFAS 限值昨天已適用），一般包裝聚焦符合性聲明與技術文件；② 溝通與內部規劃要區分兩個日期，2026 年 8 月 12 日是文件與物質限值義務起算，2030 年 1 月 1 日才是可回收率門檻決定能否繼續銷售；③ 備文件的順序建議先內後外，先整理自家技術文件與測試數據，再向上游供應商索取材質資料，順序顛倒通常會卡在供應商不回應；④ 不要以「細則還沒公布」為理由延後動作，法規本文的日期不會因實施法案延誤而順延，務實做法是依現行條文準備、待細則公布再微調；⑤ 值得追蹤的節點：第 12 與 13 條標示實施法案的公布時點、歐洲議會微型企業豁免版本的一讀（2026 年 10 月）、以及 2027 年 8 月 12 日各國建立國家包裝生產者登錄簿。",
-    "sources": [
-      {
-        "name": "Hogan Lovells（執委會指引與 FAQ 分析）",
-        "url": "https://www.hlc.com/en/publications/no-time-to-waste-iv-european-commission-publishes-practical-guidance"
-      },
-      {
-        "name": "Compliance Gate（PPWR 條文與日期對照）",
-        "url": "https://www.compliancegate.com/ppwr-timeline-and-dates"
-      },
-      {
-        "name": "Getready Compliance（細則進度追蹤）",
-        "url": "https://getreadycompliance.eu/ppwr-timeline-key-deadlines"
-      },
-      {
-        "name": "Trace One（8/12 觸發與未觸發項目）",
-        "url": "https://www.traceone.com/resources/plm-compliance-blog/what-august-12-2026-actually-means-for-ppwr-and-what-it-doesnt"
-      },
-      {
-        "name": "Coolset（義務分期整理）",
-        "url": "https://www.coolset.com/academy/ppwr-compliance-deadlines-explained-what-applies-from-august-2026-and-what-comes-later"
-      },
-      {
-        "name": "MAAK Law（PFAS 限值）",
-        "url": "https://www.maak-law.com/product-compliance-netherlands/ppwr"
-      },
-      {
-        "name": "Bureau Veritas CPS",
-        "url": "https://www.cps.bureauveritas.com/magazine/europes-new-packaging-rules-deadline-august-12-most-companies-arent-ready"
-      },
-      {
-        "name": "Pinsent Masons（英國出口商觀點）",
-        "url": "https://www.pinsentmasons.com/out-law/analysis/uk-exporters-face-final-countdown-before-strict-eu-packaging-rules-apply"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-13",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【8/10 RTL 調查】€3 開徵滿 6 週，46% 荷蘭人說下單變少：需求側首份量化證據，€2 處理費仍等委任法案",
-    "summary": "前兩天談的都是政策端的立法進度，這則是第一次看到消費端的實際反應：\n        ① 調查結果（RTL Nieuws Nieuwspanel，經 NL Times 8/10 報導）：€3 關稅 7/1 上路後，46% 的荷蘭受訪者表示向 Temu、Shein、AliExpress 下單的頻率變少。基期不小——47% 的荷蘭人近期曾在這些平台下單，20% 至少每月一次。\n        ② 政策現況複習（Reuters 7/1）：€3 是按「包裹內每一個關稅分類（HS 碼）」計，五件同款 T-shirt 算一次、T-shirt＋手錶算兩次共 €6；適用 €150 以下進口小包，依 Council Regulation (EU) 2026/382 施行至 2028/7/1，之後改按品類正常稅率（0-17%）。IOSS 涵蓋約 93% 的歐盟電商進口件，等於上路第一天就打到整個市場。\n        ③ 量級變化：歐盟低價值小包從 2022 年約 13-14 億件增到 2025 年 58-59 億件，約九成來自中國。\n        ④ 尚未落地的第二層（Axelwin 條文整理）：EU 層級的每件處理費最晚 2026/11/1 適用，金額須由執委會委任法案訂定、目前尚未定案（先前提案約 €2）；法國另行加徵每件 €5，形成更高的成本地板。\n        結論：政策端還在吵金額，需求端已經動了。這是「直郵低價模式失效、EU 境內庫存為王」的第一份消費者側證據——Shein 早在去年 12 月就把波蘭 Wrocław 倉擴大並改走大宗進口。",
-    "public_impact": "歐盟 €3 小包關稅自 7 月 1 日上路滿六週，出現了第一份消費端量化證據。RTL Nieuws 民調（經 NL Times 8 月 10 日報導）顯示 46% 的荷蘭受訪者表示向 Temu、Shein、AliExpress 下單的頻率變少；基期不小，47% 的荷蘭人近期曾在這些平台下單、20% 至少每月一次。政策設計上，€3 是按包裹內每一個關稅分類（HS 碼）計，五件同款商品算一次、兩種不同商品算兩次，適用 150 歐元以下的境外進口小包，依 Council Regulation (EU) 2026/382 施行至 2028 年 7 月 1 日，之後改按品類正常稅率 0 至 17%。IOSS 涵蓋約 93% 的歐盟電商進口件。關鍵分水嶺是：庫存已在歐盟境內出貨的賣家完全不受此關稅影響。另一層成本最晚在 2026 年 11 月 1 日到來，EU 層級每件處理費須由執委會委任法案訂定金額（先前提案約 €2），同日小包產品識別碼由自願轉為強制。",
-    "public_action": "① 若目前仍以境外直郵為主，用「每張混裝訂單 €3 乘以 HS 碼數」重算單筆訂單的真實落地成本，混裝品類越多成本越高，可考慮拆單或改為單一品類出貨；② 評估將主力 SKU 移入歐盟境內倉儲，境內出貨不受此關稅影響，是目前最直接的結構性解法；③ 11 月 1 日前預留兩項變動的準備時間，一是 EU 層級每件處理費，二是小包產品識別碼轉為強制申報，後者不受處理費立法進度影響；④ 與超低價直郵平台高度重疊的品類（飾品、手機配件、家飾小物、季節性服飾）在旺季有相對順風，備貨深度可適度提高；⑤ 引用這份調查時請注意樣本僅為荷蘭消費者，不宜直接外推為全歐盟數字。",
-    "sources": [
-      {
-        "name": "NL Times 引 RTL Nieuws Nieuwspanel（8/10）",
-        "url": "https://nltimes.nl/2026/08/10/half-dutch-ordering-shein-temu-less-frequently-since-eus-import-tariff"
-      },
-      {
-        "name": "Reuters（7/1）",
-        "url": "https://www.reuters.com/business/retail-consumer/eu-slaps-3-fee-cheap-ecommerce-parcels-blow-shein-temu-aliexpress-2026-07-01"
-      },
-      {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports"
-      },
-      {
-        "name": "Axelwin（處理費與委任法案條文整理）",
-        "url": "https://www.axelwin.com/blog/eu-ecommerce-compliance-2026-shopify-and-amazon-guide-axelwin"
-      },
-      {
-        "name": "nShift（Council Reg (EU) 2026/382 計費規則）",
-        "url": "https://nshift.com/blog/eu-customs-changes-ecommerce-2026"
-      },
-      {
-        "name": "DW（7/1）",
-        "url": "https://www.dw.com/en/eu-europe-3-duty-imports-shein-temu-parcels/a-77778850"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-13",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【本週資料彙整】英德線上零售雙雙回溫但體質不同：英國 Q2 +11.7% 靠促銷與熱浪，德國 H1 +4.3% 成長被平台吃掉",
-    "summary": "更新：兩大市場的線上成長率都轉正，但驅動力一個是天氣、一個是通路轉移，Q4 forecast 不能用同一套邏輯：\n        ① 英國（ONS 6 月零售銷售，7/24 發布）：線上銷售佔總零售比重從 5 月的 28.9% 升到 6 月 29.4%，為 2021 年 4 月以來最高；6 月線上銷售月增 2.8%、整體零售量月增 1.0%（市場原預期下滑 0.3%），年增 4.2%。ONS 明確把原因歸於高溫與世界盃帶動的季節性商品與促銷。Q2 整體零售量季增 0.6%。\n        ② 英國的體質問題（Mindsite 7 月回顧）：Q2 英國線上零售金額年增 11.7%、6 月單月 +14.4%，但受益品類集中在服飾、戶外、運動用品、電風扇與冷氣——高度天氣與促銷依賴，不是結構性需求升級。\n        ③ 德國（Ecommerce News Europe／HDE 資料）：德國線上營業額 H1 年增 4.3%、Q2 加速到 5.1%，消費信心似有改善。但成長分布不均——marketplace 年增 6.4%，明顯優於自營網店與多通路零售商。\n        結論：英國是「同一批需求換到線上通路 ＋ 天氣紅利」，德國是「線上總量微增、平台吃掉大部分增量」。兩相比較，德國的訊號比英國乾淨——平台是德國線上成長的主要載體，這是可以直接寫進 Q4 規劃的結構性事實。",
-    "public_impact": "英國與德國的線上零售成長率都已轉正，但驅動力完全不同。英國方面，ONS 資料顯示線上銷售佔總零售比重由 5 月的 28.9% 升至 6 月的 29.4%，為 2021 年 4 月以來最高；6 月整體零售量月增 1.0%（市場原預期下滑 0.3%）、年增 4.2%，ONS 明確歸因於高溫與世界盃帶動的季節性商品與促銷。Q2 英國線上零售金額年增 11.7%、6 月單月 14.4%，但受益品類集中在服飾、戶外、運動用品、電風扇與冷氣，屬天氣與折扣依賴。德國方面，線上營業額上半年年增 4.3%、第二季加速到 5.1%，但增量分布不均，marketplace 年增 6.4%，明顯優於自營網店與多通路零售商。簡言之，英國是需求換通路加上天氣紅利，德國是線上總量微增、平台吃掉大部分增量。",
-    "public_action": "① 英國 Q4 目標不要直接沿用 6 月的 29.4% 線上佔比，建議先扣除天氣與賽事相關品類再看趨勢線，避免基期設太高、旺季中途被迫下修；② 英國 Q2 的營收成長主要由折扣驅動，規劃 Q4 促銷時建議先設毛利率的下限（例如折讓幅度不超過毛利率 3 個百分點），把營收目標與毛利目標分開管理；③ 品類策略分國處理，英國 Q2 的贏家多為夏季品類，Q4 不會延續，德國成長來自通路轉移、品類分布較平均，可貼近全年常態規劃；④ 若正在評估德國市場，平台通路成長高於整體線上成長是重要訊號，代表自建站在德國的邊際獲客成本相對偏高；⑤ 值得追蹤的節點：8 月 21 日 ONS 英國 7 月零售銷售、9 月 4 日 Eurostat 歐元區 7 月零售銷售（6 月為月減 0.3%）。",
-    "sources": [
-      {
-        "name": "ONS Retail Sales, Great Britain（6 月，7/24 發布）",
-        "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/june2026"
-      },
-      {
-        "name": "Mindsite July 2026 E-commerce Notes",
-        "url": "https://themindsite.com/blog-posts/july-2026-e-commerce-notes"
-      },
-      {
-        "name": "Ecommerce News Europe（德國 H1 線上營業額）",
-        "url": "https://ecommercenews.eu/news"
-      },
-      {
-        "name": "Trading Economics（英國零售銷售）",
-        "url": "https://tradingeconomics.com/united-kingdom/retail-sales"
-      },
-      {
-        "name": "Statista（英國線上佔比月資料）",
-        "url": "https://www.statista.com/statistics/286384/internet-share-of-retail-sales-monthly-in-the-united-kingdom-uk"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-12",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【9/1 倒數 20 天】德國 FBM OTDR 90% 未達可停用 listing：三個自動化功能是唯一豁免，法義西同步收緊",
-    "summary": "重點不是 90% 這個數字，而是「達不到的人有一條官方認可的豁免路徑，但幾乎沒人在講」：\n        ① 衡量期已經在跑（Amazon 德國 Seller Central，經 Ecommerce News Europe 引述）：Amazon.de 自 7/15 起要求 FBM 賣家 OTDR ≥ 90%，官方原文為「Starting September 1, 2026, affected listings may be deactivated」。9/1 是執行日，不是起算日。\n        ② 算法比賣家以為的嚴：以「件」不是訂單計，須有追蹤號與到貨掃描。執法用 OTDR without promise extensions——不含天候或承運商延誤的緩衝天數。\n        ③ 豁免條件是本則最有價值的資訊：同時啟用 Automated Handling Time＋Shipping Settings Automation＋Buy Shipping 者，Amazon 明文「will not be adversely assessed」。這是制度內正式免責，不是變通做法。\n        ④ 出貨準備時間同步縮短：帳號層級只剩 0／1 天，原設 2 天者自動改 1 天。SKU 層級仍可設較長時間，常被誤解成全面禁止。\n        ⑤ 範圍是 EU5，但執行日不同：德法義西同步收緊（Go2Market 就 Amazon.fr 獨立證實）；英國 90% 早已生效，9/1 只是自動啟用 AHT，把德國日期套到英國會判斷錯誤。",
-    "public_impact": "Amazon.de 自 2026 年 7 月 15 日起要求自寄（FBM）賣家維持 On-Time Delivery Rate 90% 以上，官方公告指出自 9 月 1 日起未達標的 listing 可能被停用，並可能失去上架新 FBM 商品的權限。法國、義大利、西班牙同步收緊；英國門檻早已生效，9 月 1 日主要是自動啟用 Automated Handling Time。OTDR 以「件」而非訂單計，且須有有效追蹤號與到貨掃描；執法採用不含承諾延展天數的版本，比消費者端的到貨承諾更嚴格。值得注意的是 Amazon 明文提供免責條件：同時啟用 Automated Handling Time、Shipping Settings Automation 與 Buy Shipping 三項者，OTDR 與營業時間到貨率不會被不利認定。此外帳號層級預設出貨準備時間僅剩 0 與 1 天，但 SKU 層級仍可設較長時間。後續還有 9 月 30 日營業時間到貨率 90% 要求，以及 10 月 30 日起相關 listing 可對商業客戶停售。",
-    "public_action": "① 距 9 月 1 日僅剩約三週，物流改善難以在滾動指標上及時反映，最務實的做法是立即啟用 Automated Handling Time、Shipping Settings Automation 與 Buy Shipping 三項功能以取得免責；② 至 Performance Dashboard 的 shipping 頁面確認目前數字，並留意執法版本不含承諾延展天數，數字在 90% 至 93% 之間者風險高於自身認知；③ 逐站確認適用範圍與日期，勿將德國的停用日期套用到英國；④ 將 9 月 1 日、9 月 30 日、10 月 30 日三個節點納入第四季風險評估，因為它們落在十月促銷與黑五備貨期之前，listing 被停用後恢復需經申訴流程；⑤ 帳號層級雖只剩 0 至 1 天選項，大件或預訂型商品仍可在 SKU 層級設定較長準備時間；⑥ 若因商品體積或配送地理而結構性難以達標，建議試算部分商品轉為平台物流的成本效益。",
-    "sources": [
-      {
-        "name": "Ecommerce News Europe：引述 Amazon 德國 Seller Central 原文「Starting September 1, 2026...」＋handling time 與 B2B 時程",
-        "url": "https://ecommercenews.eu/amazon-tightens-fulfilled-by-merchant-requirements"
-      },
-      {
-        "name": "Valuezon：7/15 OTDR 生效、帳號層級 0/1 天、三項自動化功能免責條款",
-        "url": "https://valuezon.de/en/news/amazon-updates-fbm-requirements-amazon-de"
-      },
-      {
-        "name": "SellerLegend：德國 vs 英國 9/1 意義不同、B2B 9/30 與 10/30 時程",
-        "url": "https://sellerlegend.com/amazon-fbm-requirements-uk-germany-2026"
-      },
-      {
-        "name": "Go2Market：Amazon.fr 同步適用 90% OTDR 與 9/1 停用風險",
-        "url": "https://go2market.eu/en/news/amazon-fba-epr-fbm-zmiany-2026"
-      },
-      {
-        "name": "GeekSeller：OTDR 以「件」計算、without promise extensions 執法版本說明",
-        "url": "https://www.geekseller.com/blog/amazon-updates-on-time-delivery-rate-enforcement-for-seller-fulfilled-orders-feb-28-2026"
-      },
-      {
-        "name": "Linktrans：OTDR 分級後果（80–90%／60–80%／<60%）與三項豁免條件",
-        "url": "https://en.link-trans.com/amazon-uk-introduces-90-otdr-requirement-for-fbm-sellers"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-12",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【9/1 生效】法國 ultra-fast fashion 每件加徵 €0.25–12、上限售價半數：定義決還沒出，境外品牌須指派法國代表",
-    "summary": "法律已公布、生效只剩 20 天，但「誰算 ultra-fast fashion」還沒定義——這個落差本身就是規劃重點：\n        ① 法源與時點已確定（法國政府 service-public 與 Intertek 雙重證實）：LOI n° 2026-602 於 7/8 通過、7/9 公布，是全球首部專門針對 ultra-fast fashion 的立法，EPR bonus-malus 罰則自 9/1 適用。\n        ② 罰則逐年遞增，且不是新稅：每件 2026: €0.25–12 遞增至 2030: €2–20，上限為未稅售價 50%。性質是疊加在既有 Refashion 紡織 EPR 上的懲罰性調節。\n        ③ 判定標準有兩個，都還沒有數字：法條寫（a）上架款式數量或上新頻率（b）可維修性誘因，門檻須由實施法令（décret）定，官方頁面註明「Implementing decrees are expected」。9/1 到來時可能有規則但沒有適用名單。\n        ④ 境外賣家有一項獨立義務容易被漏掉：非法國企業在法國投放產品者須指派法國授權代表履行 EPR 義務。這與罰則是否適用無關，即使不被歸類仍須辦理。\n        ⑤ 兩個時點要分開看：廣告與網紅禁令自 2027/1/1、違者最高 €100,000，同時取消未售品捐贈 60% 稅減；但線上須在價格旁以同字級標示製造地是立即生效，不等決。",
-    "public_impact": "法國 LOI n° 2026-602 於 2026 年 7 月 8 日通過、7 月 9 日公布，是全球第一部專門針對 ultra-fast fashion 的立法，其 EPR bonus-malus 罰則自 9 月 1 日起適用。罰則為每件 2026 年 €0.25 至 €12，逐年遞增至 2030 年的 €2 至 €20，上限為商品未稅售價的 50%。這並非新稅，而是疊加在既有 Refashion 紡織 EPR 上的懲罰性調節。判定標準有兩項：上架款式數量或上新頻率，以及可維修性誘因，但具體門檻仍待實施法令公布。實務上三件事有三個時間表：線上須在價格旁以同字級標示製造地屬立即生效、每件罰則為 9 月 1 日但待決、廣告與網紅推廣禁令自 2027 年 1 月 1 日起、違者最高罰 €100,000。另有一項獨立義務容易被忽略：非法國企業在法國市場投放產品者須指派法國授權代表履行 EPR 義務，與是否被歸類為 ultra-fast fashion 無關。",
-    "public_action": "① 優先處理已生效的項目，法國站服飾商品須在價格旁以相同字級標示製造地，此義務不需等待實施法令，且適用範圍遠大於 ultra-fast fashion 的判定名單；② 一般品牌賣家不需過度反應，判定標準指向每日上架大量新款的平台級業者，多數品牌賣家不會落入適用範圍，不宜因此收縮法國市場布局；③ 境外服飾賣家應確認紡織 EPR（Refashion）與包裝 EPR（CITEO）為兩條獨立義務，並確認法國授權代表已完成指派，僅辦理其中一項並不足夠；④ 實施法令公布前，不建議將罰則金額納入業績或成本預測，僅適合作為情境參考；⑤ 針對法國市場的網紅與聯盟行銷合約建議提前檢視，2027 年起的禁令涵蓋贈品、商品借用與贊助邀請，跨年度合約需預留調整空間；⑥ 建立追蹤機制關注「高頻上新」的數值定義與可維修性比率門檻，一旦公布即重新評估自身是否受影響。",
-    "sources": [
-      {
-        "name": "法國政府 service-public：LOI n° 2026-602、9/1 eco-contribution 調節、決待發布、2027/1/1 廣告禁令",
-        "url": "https://entreprendre.service-public.gouv.fr/actualites/A18986?lang=en"
-      },
-      {
-        "name": "Intertek：逐年罰則級距（2026 €0.25–12 至 2030 €2–20）、50% 上限、法國授權代表義務",
-        "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1548-france-adopts-landmark-law-targeting-ultra-fast-fashion"
-      },
-      {
-        "name": "Reuters：6/29 議會通過、每件 €0.25–6 起徵、廣告與網紅禁令",
-        "url": "https://www.reuters.com/business/retail-consumer/french-parliament-passes-fast-fashion-law-curb-shein-temu-2026-06-29"
-      },
-      {
-        "name": "France 24：50% 售價上限、執委會質疑廣告條款是否符合歐盟法",
-        "url": "https://www.france24.com/en/france/20260629-french-parliament-passes-fast-fashion-bill-targeting-shein-and-temu"
-      },
-      {
-        "name": "Digital Applied：malus 為 Refashion EPR 調節而非新稅、決依賴鏈與 slip 風險",
-        "url": "https://www.digitalapplied.com/blog/france-marketplace-environmental-fees-shein-temu-2026-seller-impact"
-      },
-      {
-        "name": "REFASH：判定兩標準（款式量／可維修性）、Zara H&M 不在適用範圍",
-        "url": "https://refash.in/blogs/quick-reads/france-passed-an-ultra-fast-fashion-law-for-shein-temu-and-aliexpress"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-12",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【11/1 存疑】EU €2 小包處理費卡在「性質」爭議：三方會談未達共識、官方稱延期可期，各國自行開徵 €2–5",
-    "summary": "市場都在準備 11/1 開徵，但真正該規劃的情境是「歐盟延期、各國各自收費」——這個組合對成本模型破壞更大：\n        ① 卡點不是金額，是收入歸誰（Bloomberg Tax，Baker McKenzie 執筆）：執委會提議歸入歐盟預算，但多個成員國與歐洲議會主張留在國內強化海關查驗；另有WTO 合規顧慮——若被認定為財政性進口稅即有問題。\n        ② 官方措辭已在預告延期：同份分析引述最新三方會談，「consensus on the nature of the fee hasn't yet been reached and delays are expected」，並形容 11/2026 為 「proposed—and optimistic」。多數賣家端資訊仍寫成既定事實。\n        ③ 延期的代價是碎片化，不是省錢：成員國已各自行動——羅馬尼亞約 €5、義大利 €2（均 1/1 起）、法國 3/1 起並曾表決調高至 €5、荷比研議 €2。EuroCommerce 警告各國費率不一會造成 border-shopping。\n        ④ 疊加結構要算清楚：€3 臨時關稅按申報行項（品類）計，處理費按件或按行項各方說法不一，兩者常被寫成 €5。關鍵是VAT 課在含關稅與處理費後的金額，實際成本高於單純相加。\n        ⑤ 同日有一項不會延的義務：產品識別碼（PID）11/1 由自願轉強制，須提供賣家 SKU 與製造商料號。這屬申報資料要求，不受處理費立法進度影響，兩件事綁一起看會誤判。",
-    "public_impact": "市場普遍將歐盟層級每件約 €2 的小包處理費視為 2026 年 11 月 1 日既定上路，但立法進度並未確定。爭議核心不在金額而在收入歸屬：執委會提議納入歐盟預算，多個成員國與歐洲議會主張留在國內用於強化海關查驗，另有是否構成財政性進口稅而涉及 WTO 合規性的疑慮。專業分析引述最新三方會談指出，各方對處理費性質尚未達成共識、預期會有延期，並將 2026 年 11 月形容為「提議中且偏樂觀」的日期。延期的代價是碎片化而非成本降低：羅馬尼亞已開徵約 €5、義大利 €2（皆自 1 月起），法國自 3 月起並曾表決調高至 €5，荷蘭與比利時亦在研議。歐洲零售業者組織已警告各國費率不一將造成清關地點套利。成本疊加亦常被低估：加值稅是在商品、運費、關稅與處理費合計後課徵，實際落地成本高於各項簡單相加。另須注意產品識別碼於 11 月 1 日由自願轉強制，屬申報資料要求，不受處理費立法進度影響。",
-    "public_action": "① 內部溝通與成本模型應改為「歐盟層級未定案、部分目的國已實際開徵」的表述，避免將 11 月 1 日視為確定節點而做出錯誤的一次性調整；② 若原本採全歐盟單一定價與運費結構，建議改為按目的國分層，因為同一商品賣往不同國家的落地成本已出現實質差異；③ 優先投入產品識別碼的資料準備，備齊自身 SKU 與製造商料號，此項不隨立法進度變動，資料缺漏會直接導致申報被拒，後果重於多負擔數歐元費用；④ 試算落地成本時務必注意加值稅是在含關稅與處理費之後計算，逐項相加會低估實際成本；⑤ 低單價品類建議加速以歐盟境內備貨取代小包直郵，此結論不因立法時程改變，且宜在第四季旺季前完成佈局；⑥ 追蹤兩個關鍵訊號：處理費最終歸屬歐盟預算或各國，以及荷蘭與比利時是否實際開徵。",
-    "sources": [
-      {
-        "name": "Bloomberg Tax（Baker McKenzie）：三方會談未達共識、「delays are expected」、11/2026 為 optimistic 日期（付費牆）",
-        "url": "https://news.bloombergtax.com/daily-tax-report-international/eu-takes-first-step-toward-new-era-in-e-commerce-compliance"
-      },
-      {
-        "name": "KPMG：羅馬尼亞 RON 25、義大利 €2 自 1/1、法國 3/1 開徵，處理費預期 11 月",
-        "url": "https://kpmg.com/hu/en/insights/2026/04/taxalert-2026-04-16.html"
-      },
-      {
-        "name": "CMS Trade Law：法國 €2→€5、荷蘭 €2 提案、Union handling fee 立法前提",
-        "url": "https://www.cmtradelaw.com/2025/12/changing-eu-e-commerce-rules-new-import-charges-ante-portas"
-      },
-      {
-        "name": "EuroCommerce：「我們需要一個歐盟費、不是碎片化」與 border-shopping 警告",
-        "url": "https://www.eurocommerce.eu/2025/10/eurocommerce-urges-customs-reform-and-unified-eu-handling-fee-to-safeguard-fair-competition"
-      },
-      {
-        "name": "Ecommerce Europe：11/2026 歐盟處理費、金額由 delegated acts 定、擬取代各國費",
-        "url": "https://ecommerce-europe.eu/news-item/agreement-on-the-eu-customs-reform"
-      },
-      {
-        "name": "nShift：€3 按品類行項計、PID 11/1 強制（7/1 起可自願申報）",
-        "url": "https://nshift.com/blog/eu-customs-changes-ecommerce-2026"
-      },
-      {
-        "name": "Archipel Tax：VAT 課在含關稅與處理費後的全額、疊加試算",
-        "url": "https://www.archipeltaxadvice.nl/insights/eu-customs-reform-e-commerce"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-12",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/11 收盤】Brent 收 $89.25（+1.36%）、盤中觸 $90：伊朗稱條件未滿足不重啟荷姆茲，德國 7 月能源通膨 +8.3%",
-    "summary": "油價的即時波動不是重點，重點是它已穿透到德國消費者物價，並改變 9/10 ECB 的算式：\n        ① 8/11 行情（Trading Economics、Investing.com、WSJ）：Brent 收 $89.25（+1.36%），日內 $86.77–90.03、盤中曾破 $90 後回落；WTI 收約 $83.4。Brent 月漲約 7.1%、年漲約 35%。\n        ② 導火線是條件而非談判本身（Barchart 引述 IRIB）：伊朗國營廣播稱荷姆茲在其條件全部滿足前不會重啟。盤中另有美伊接近協議與俄煉油廠遭襲兩則相反消息，形成 whipsaw。\n        ③ 已穿透到德國物價，這是新事實（Destatis）：7 月 CPI 初值 2.8% YoY（6 月 2.3%），能源年增從 3.4% 跳到 8.3%；但核心從 2.5% 降到 2.4%、服務業從 3.1% 降到 2.9%——漲的是能源與稅基效應，不是內需。今天公布終值。\n        ④ 股市反應說明市場讀為供給面：STOXX 600 在紀錄高點附近幾無變動（約 659.84），能源股領漲、科技股 +0.4%；EU50 收 6,556（+0.31%）、EUR/USD 約 1.15。油價漲而股市不跌，尚未被讀成衰退訊號。\n        ⑤ 期貨曲線逆價差，對備貨決策有用（ICE）：Oct26 $87.5 → Dec26 $83.7 → Dec27 $75.0。市場定價認為是短期緊張而非長期高原，用當前現貨價推 2027 成本會過度保守。",
-    "public_impact": "8 月 11 日 Brent 原油收約 $89.25、上漲 1.36%，日內區間 $86.77 至 $90.03，盤中曾突破 $90 後回落。上漲主因是伊朗國營媒體表示荷姆茲海峽在其條件全部滿足前不會重啟，另有美伊接近協議與俄煉油廠遭襲的消息造成盤中反覆。更值得注意的是油價已穿透至消費者物價：德國 7 月 CPI 初值 2.8% 年增（6 月 2.3%），能源年增由 3.4% 躍升至 8.3%，但核心通膨自 2.5% 降至 2.4%、服務業自 3.1% 降至 2.9%，顯示推升通膨的是能源與稅基效應而非內需，終值 8 月 12 日公布。股市方面泛歐 STOXX 600 在紀錄高點附近幾無變動、能源股領漲，EUR/USD 約 1.15，顯示市場讀為供給面問題而非需求萎縮訊號。期貨曲線呈逆價差：Oct26 約 $87.5、Dec26 約 $83.7、Dec27 約 $75.0，代表市場定價認為是短期緊張而非長期高油價，以當前現貨價推估 2027 年成本可能過度保守。",
-    "public_action": "① 成本與運費假設建議分兩段設定，第四季採較高油價情境、2027 年採回落情境，避免以當前價格線性外推導致明年報價失去競爭力；② 能源密集品類（家電、家具、消費電子）應重算第四季毛利，並注意這是雙向擠壓：投入成本因能源年增 8.3% 而上升，但核心通膨降至 2.4% 意味著轉嫁至消費者的空間同時縮小；③ 判斷利率走向時不宜僅看整體通膨數字，整體與核心方向相反，關鍵變數已從內需轉向能源；④ 不建議以油價上漲直接推論旺季需求疲弱，股市在紀錄高點附近且能源股領漲，現有資料不支持消費萎縮的結論，成本端調整即可，需求端假設可維持；⑤ 8 月 12 日德國 7 月終值公布時重點觀察核心與服務業是否被上修，若上修則上述判斷需修正；⑥ 設定荷姆茲海峽情勢與 8 月 19 日歐元區 7 月 HICP 終值兩個檢查點。",
-    "sources": [
-      {
-        "name": "Trading Economics：8/11 Brent $89.25（+1.36%）、月漲 7.14%、年漲 34.98%",
-        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-      },
-      {
-        "name": "Investing.com：日內區間 $86.77–90.03、前收 $87.72",
-        "url": "https://www.investing.com/commodities/brent-oil"
-      },
-      {
-        "name": "WSJ：Brent 盤中觸 $90 後回落、荷姆茲新條件與債券殖利率反應（付費牆）",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026"
-      },
-      {
-        "name": "Barchart：IRIB 稱條件未滿足前不重啟、俄煉油廠無人機襲擊、盤中 whipsaw",
-        "url": "https://www.barchart.com/futures/quotes/CBM26"
-      },
-      {
-        "name": "Reuters（經 WTVB 轉載）：STOXX 600 約 659.84 幾無變動、能源股領漲、本週待歐元區就業與 GDP",
-        "url": "https://wtvbam.com/2026/08/11/european-shares-edge-higher-as-energy-stocks-climb-on-elevated-oil-prices"
-      },
-      {
-        "name": "Destatis：德國 7 月 CPI 初值 2.8%、能源 +8.3%、核心 2.4%、終值 8/12 公布",
-        "url": "https://www.destatis.de/EN/Press/2026/07/PE26_270_611.html"
-      },
-      {
-        "name": "ICE：Brent 期貨曲線 Oct26 $87.5／Dec26 $83.7／Dec27 $75.0 逆價差",
-        "url": "https://www.ice.com/products/219/brent-crude-futures/data"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-12",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【8/10 上線】Zooplus 德國站開放 marketplace：月費 €39.90＋16% 佣金、須 EU 實體與 EU 庫存，寵物用品垂直新通路",
-    "summary": "本日唯一「開通路」而非「加成本」的一則，對寵物與周邊品類賣家值得評估：\n        ① 進度與規模（Zooplus 新聞稿，經 Ecommerce News Europe 與 RetailDetail 雙重報導）：8/10 宣布德國站 marketplace 上線，是法國站（2024 年底）後的第二個市場，一次新增 1 萬個商品、約 65% 為寵物配件。Zooplus 在 27 個歐洲國家經營網站，2023 年營收約 €26.8 億。\n        ② 入駐條件與費率（ChannelEngine、e-tailize 引述）：不限德法當地企業，但須（a）EU 註冊實體（b）EU VAT 號碼（c）庫存存放於 EU 境內。月費 €39.90＋佣金 16%、無設定費，平台為 Mirakl。\n        ③ 這是封閉式平台，不是自助註冊：採審核制，須申請核准才能上架，僅支援英／法／德三語，須有效 GTIN／EAN（8 或 13 碼）且歐元計價。不是「開了就能賣」，需要排期。\n        ④ 競爭定位：歐洲線上寵物用品市場Zooplus 規模僅次於 Amazon；同品類 Fressnapf 線上約 €4 億、第三方 GMV 僅約 6%。Zooplus 是這個垂直裡最有量的非 Amazon 選項。\n        ⑤ 屬於通路 marketplace 化的一部分：同期 Bauhaus（1 月上線、100 家賣家、近 10 萬商品）、Argos（8/4 英國）、Momox（8/7 荷蘭）都在做同一件事。單一平台量級不大，加總才是實質分流。",
-    "public_impact": "歐洲最大線上寵物用品零售商 Zooplus 於 8 月 10 日宣布德國站 marketplace 上線，是繼 2024 年底法國站後的第二個市場，一次新增約 1 萬個商品、約 65% 屬寵物配件。Zooplus 在 27 個歐洲國家經營網站，2023 年營收約 26.8 億歐元，規模僅次於 Amazon；同品類的 Fressnapf 線上約 4 億歐元且第三方佔比僅約 6%。入駐條件為：不限德法當地企業，但須具備歐盟註冊實體、歐盟 VAT 號碼，且庫存存放於歐盟境內；費率為月費 39.90 歐元加 16% 銷售佣金、無設定費，技術平台為 Mirakl。須注意這是封閉式審核制平台，須申請核准才能上架，僅支援英法德三語，並須有有效 GTIN 或 EAN（8 或 13 碼）且以歐元計價。另外 Zooplus 目前不提供平台履約服務，賣家需自行出貨。此舉屬歐洲垂直零售商系統性開放第三方的趨勢，同期還有 Bauhaus、Argos 與 Momox。",
-    "public_action": "① 寵物用品及周邊品類的賣家可評估此通路，Zooplus 是該垂直市場中規模僅次於 Amazon 的選項，具備品類意圖明確的流量；② 試算成本時應以「16% 佣金加自行出貨成本」與「其他平台佣金加平台履約費」對比，因為 Zooplus 目前不提供履約服務，僅比較佣金率會失真；③ 確認自身是否符合三項門檻：歐盟註冊實體、歐盟 VAT 號碼、庫存存放於歐盟境內，缺一項即無法入駐；④ 因採審核制且需申請核准，建議預留排期時間，不宜視為可立即開賣的通路；⑤ 商品資料需備妥有效 GTIN 或 EAN（8 或 13 碼）、歐元計價，並準備英法德三語內容；⑥ 營運人力有限的中小賣家宜謹慎評估新增通路的實際負擔，四個月內已有多個歐洲平台開放第三方，每新增一個通路都會增加庫存管理與客服成本，建議依品類契合度而非平台熱度決定優先序。",
-    "sources": [
-      {
-        "name": "Ecommerce News Europe：8/10 德國站上線、新增 1 萬商品、65% 寵物配件、€39.90＋16%、EU 實體與庫存要求",
-        "url": "https://ecommercenews.eu/zooplus-eyes-pan-european-marketplace"
-      },
-      {
-        "name": "RetailDetail EU：Zooplus 官方說法、27 國網站、擬逐步擴展至其他國家、以 AI 補完商品資訊",
-        "url": "https://www.retaildetail.eu/news/leisure/zooplus-plans-to-roll-out-its-marketplace-across-europe"
-      },
-      {
-        "name": "e-tailize：入駐條件、GTIN／EAN 8 或 13 碼、歐元計價、2023 年營收 €26.8 億",
-        "url": "https://e-tailize.com/integrations/selling-on-zooplus"
-      },
-      {
-        "name": "Lengow：Zooplus 2025/11 經 Mirakl 上線、德國垂直 marketplace 全景（Bauhaus 2026/1 等）",
-        "url": "https://blog.lengow.com/marketplaces-in-germany-the-complete-map"
-      },
-      {
-        "name": "Ecommerce News Europe：Bauhaus 100 家賣家近 10 萬商品、Argos 8/4、Momox 8/7 同期動作",
-        "url": "https://ecommercenews.eu/news"
-      },
-      {
-        "name": "Mirakl：Fressnapf 德國站第三方開放（同品類競爭定位對照）",
-        "url": "https://www.mirakl.com/news/fressnapf-group-launches-mirakl-powered-marketplace"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-11",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【明天 8/12 生效・倒數 1 天】PPWR 全面適用：EPR 逐國登記無寬限期，缺號碼可能被下架並強制轉入平台代繳",
-    "summary": "今天是登記完成的最後一個工作日，但真正該講的是「來不及的人怎麼辦」：\n        ① 法源與時點（歐盟執委會官方 / AVASK）：包裝與包裝廢棄物規則 Regulation (EU) 2025/40 自 2026/8/12 適用，同時廢止原包裝指令。這是 regulation 而非 directive，27 國同日生效、標準一致。\n        ② 為什麼「德國有登記」不等於合規：EPR 是逐國制度、逐國登記——德國 LUCID、法國 CITEO、西班牙 Ecoembes、義大利 CONAI、波蘭 BDO、奧地利 ARA 各自獨立。只有德國號碼的賣家，在法西義波等站的 listing 仍屬未合規狀態。\n        ③ 三種罰則路徑，順序值得注意：業界一致指出風險為（a）listing 停用（b）自動轉入 Pay-on-Behalf 代繳並加收費用（c）帳號層級警告可能升級。第二項最常被低估——它不會讓你斷貨，但會直接吃毛利且事後難追回。\n        ④ 登記排隊時間是本則最硬的約束：多家服務商指出部分國家登記排隊已達數週至數月；德國自 2022/7 起即封鎖無 LUCID 號碼的 listing，法國、西班牙也已建立資料庫即時勾稽。也就是說今天才開始登記的賣家，8/12 不可能合規。\n        ⑤ 同日一併適用的還有兩項：PFAS 食品接觸包裝限值、以及 Art 24 的包裝空隙上限 50%。這兩項在賣家溝通中幾乎完全被 EPR 蓋過，但它們影響的是實際包材與裝箱方式，不是文件。",
-    "public_impact": "歐盟包裝與包裝廢棄物規則（Regulation (EU) 2025/40）自 2026 年 8 月 12 日起適用，取代原包裝指令。由於這是 regulation 而非 directive，27 個成員國同日生效、標準一致，且無寬限期。關鍵點在於 EPR 是逐國制度：德國 LUCID、法國 CITEO、西班牙 Ecoembes、義大利 CONAI、波蘭 BDO、奧地利 ARA 各自獨立，僅持有德國登記號碼者，在其他國家站點仍屬未合規。未合規的後果有三種路徑：listing 停用、自動轉入平台代繳制度並加收費用、以及帳號層級的合規警告。其中代繳路徑最容易被低估，因為它通常不會造成斷貨，而是直接侵蝕毛利，且往往要到對帳時才會發現。目前多國登記排隊時間已達數週至數月，今日才開始申請者實務上無法在期限內完成。同日一併適用的還有食品接觸包裝的 PFAS 限值，以及包裝空隙上限 50% 的規定，後兩項涉及實際包材與裝箱方式的調整，無法僅以補件解決。",
-    "public_action": "① 已完成登記者今日應至後台確認各國 EPR 號碼皆已上傳且狀態有效，不要假設提交即生效；② 申請中者請保留受理證明並主動聯繫登記機構確認進度；③ 尚未開始者建議今日即進行站點取捨決策，評估哪些市場暫停銷售、哪些接受代繳成本先行維持；④ 務必先重算第四季毛利再決定促銷折扣深度，若被自動轉入代繳制度，旺季銷量越大損失越大；⑤ 使用跨境庫存調撥的賣家應完整盤點庫存所在國與銷售目的國，兩者都可能產生登記義務，並檢查是否開啟自動跨境上架功能；⑥ 同日生效的 PFAS 包裝限值與包裝空隙上限 50% 需調整包材與裝箱方式，建議一併檢視；⑦ 授權代表簡化方案已於 6 月 24 日停止推進，不宜以「規則可能放寬」為由延後登記。",
-    "sources": [
-      {
-        "name": "AVASK：Regulation (EU) 2025/40 自 8/12 適用、逐國登記邏輯、下架與扣款風險",
-        "url": "https://avask.com/blog/epr-compliance-guide"
-      },
-      {
-        "name": "Forest Shipping：Amazon EU 賣家 PPWR 範圍、庫存所在國與銷售國雙重義務",
-        "url": "https://www.forestshipping.com/eu-ppwr-rules-amazon-sellers"
-      },
-      {
-        "name": "VATAi：Amazon Europe 合規指南、8/12 適用日與逐國 EPR 清單",
-        "url": "https://www.vatai.com/blog/amazon-europe-compliance-guide"
-      },
-      {
-        "name": "Ekoniq：逐國登記機構對照（LUCID／CITEO／Ecoembes／CONAI／BDO／ARA）與 Pay-on-Behalf 風險",
-        "url": "https://ekoniq.eu/blog-epr-all-eu-2026.html"
-      },
-      {
-        "name": "Lovat Compliance：德法查核速度、資料庫即時勾稽、通知期僅 2–4 週",
-        "url": "https://vatcompliance.co/blog/complete-epr-guide-for-amazon-sellers"
-      },
-      {
-        "name": "EU/UK Compliance：德國自動化停用機制與帳號層級升級風險",
-        "url": "https://www.euukcompliance.com/amazon-suspended-listing-germany-fix"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-11",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/10 Reuters】Brent 收 $87.72 單日 +4.99%：伊朗與美國互相索賠、荷姆茲重啟談判轉淡，上週才剛跌逾 7%",
-    "summary": "一週之內從「快要復航」翻回「條件談不下來」，波動本身就是需要處理的訊息：\n        ① 收盤數字（Reuters 8/10）：Brent 收 $87.72（+$4.17、+4.99%），WTI 收 $82.13（+$3.95、+5.05%），兩者單日漲幅均為 7/29 以來最大。\n        ② 為什麼翻轉：伊朗與美國互相要求賠償——伊朗要求解除制裁與停止軍事威脅，Trump 要求伊朗為傷亡賠償。伊朗稱與阿曼即將就新航道達成協議，但重啟前提條件未解。\n        ③ 上週剛好是反方向：兩個基準上週跌逾 7%，因市場預期阿曼調停將促成復航。也就是說兩週內走完一次完整的預期反轉，這對用單日價格做決策的人特別危險。\n        ④ 供給面同時惡化：胡塞武裝稱 8/9 攻擊 Saudi Aramco 的 Jazan 煉油廠，Aramco 已將該廠 40 萬桶/日的復產推遲至 8/30；ADNOC 稱衝突以來有 15 艘船在通過荷姆茲時遭攻擊。\n        ⑤ 基準線在哪：荷姆茲在 2 月底衝突前承載全球約五分之一原油與 LNG；Reuters 7 月調查（31 位分析師）預估 Brent 2026 年均 $85.22、WTI $80.14，而 YTD 實際均價已達 $87.03 與 $82.41。",
-    "public_impact": "Brent 原油 8 月 10 日收於 87.72 美元，單日上漲 4.99%，WTI 收 82.13 美元、上漲 5.05%，兩者單日漲幅均為 7 月 29 日以來最大。上漲主因是伊朗與美國互相要求賠償，使荷姆茲海峽重啟通航的談判前景轉淡。值得注意的是，兩個基準上週才剛下跌逾 7%，因當時市場預期阿曼調停將促成復航，也就是說兩週內走完一次完整的預期反轉。供給面同時惡化：胡塞武裝稱於 8 月 9 日攻擊沙烏地 Aramco 的 Jazan 煉油廠，該廠日產 40 萬桶的復產時程已推遲至 8 月 30 日。荷姆茲海峽在 2 月底衝突前承載全球約五分之一的原油與液化天然氣。對賣家而言，真正的傳導路徑是燃油附加費與空運費率，而非油價本身，且兩者存在時間差——DHL eCommerce 比利時 8 月燃油附加費為 20.50%，較 7 月的 21.25% 與 6 月的 22.75% 逐月下降，方向與原油日線相反。",
-    "public_action": "① 成本規劃請採區間與情境設定，避免以單日收盤價推算第四季落地成本，上週下跌逾 7% 與昨日上漲 4.99% 屬同一段行情的兩面；② 溝通與試算建議錨定在承運商燃油附加費而非原油價格，兩者存在時間差、方向有時甚至相反；③ 建議追蹤三個具體節點取代情緒判斷：8 月 30 日 Aramco Jazan 煉油廠復產、荷姆茲海峽通行量週變化、各承運商 9 月附加費公告，在此之前不宜頻繁調整成本假設；④ 能源密集品類（家電、家具、消費電子）與低單價品類應分開處理，前者走成本轉嫁與規格調整，後者因運費占售價比重高，建議優先考慮組合銷售或包裝減量而非直接漲價；⑤ 第四季成本重估建議與包裝法規新增成本一併計算，兩者同時作用於低單價、體積重量比高的商品；⑥ 引用分析師預估值時請標注為預估，路透 7 月調查的 Brent 年均 85.22 美元係 31 位分析師預測，非官方數據。",
-    "sources": [
-      {
-        "name": "Reuters（8/10）：Brent 收 $87.72 +4.99%、WTI $82.13 +5.05%、Jazan 復產推遲至 8/30、ADNOC 15 艘船遭攻擊",
-        "url": "https://www.reuters.com/business/energy/oil-rises-uncertainty-continues-over-reopening-strait-2026-08-09"
-      },
-      {
-        "name": "Reuters（7/31）：31 位分析師調查 Brent 2026 年均 $85.22、YTD 實際 $87.03",
-        "url": "https://www.reuters.com/business/energy/oil-prices-seen-gaining-middle-east-supply-disruptions-persist-2026-07-31"
-      },
-      {
-        "name": "CNBC（8/7）：上週跌逾 7%、Kpler 通行量、伊朗草案限制通行",
-        "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html"
-      },
-      {
-        "name": "Trading Economics：8/10 Brent 日線與月／年變動",
-        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-      },
-      {
-        "name": "DHL eCommerce BE 官方燃油附加費：8 月 20.50%、7 月 21.25%、6 月 22.75%",
-        "url": "https://www.dhlecommerce.be/en/fuel"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-11",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【8/6 Reuters】EU 儲氣僅 57%、為 2011 年來同期最低：落後去年 12 個百分點，極端情境冬季均價可達 €110/MWh",
-    "summary": "這則不是今天的新聞，但它是決定 Q4–Q1 營運成本的單一最大變數，且本週油價反轉讓它重新變得緊迫：\n        ① 官方數據（Gas Infrastructure Europe，經 Reuters 8/6）：EU 儲氣設施截至 8/5 僅 57–58% 滿，為有紀錄以來（回溯至 2011）同期最低，落後去年同期 12 個百分點（去年近 70%）。\n        ② 為什麼補不進去：伊朗戰事使全球 LNG 市場大幅收緊，卡達供給受阻，亞洲買家在現貨市場出價高於歐洲。歐盟因此可能無法達成 12 月初儲氣 80% 的指示性目標（原為 11 月 90%，已放寬）。\n        ③ 情境區間（分析師預估，非官方）：Reuters 引述的極端情境為——若卡達 LNG 完全中斷且冬季偏冷，11 月至次年 3 月日前均價可達 €110/MWh，3 月底庫存剩 10%；若要維持 16% 的期末緩衝，均價可能推升至 €210/MWh。Energy Aspects 基準情境為 €60–80/MWh。\n        ④ 結構性脆弱點：與 2022 年相比，歐洲用氣量下降、再生能源占比提高，LNG 接收設施也大幅擴建——但正因為改用 LNG 取代管線氣，失去了固定價格合約的保護，Wood Mackenzie 稱這是「非常危險的處境」。\n        ⑤ 賣家實際感受到的是電價：EU 儲氣容量約 1,020 億立方公尺，正常冬季提取量可覆蓋約 30% 消費。倉儲、冷鏈與製造用電成本會在 Q4–Q1 傳導。",
-    "public_impact": "根據 Gas Infrastructure Europe 官方數據，歐盟儲氣設施截至 8 月 5 日僅 57% 至 58% 滿，為有紀錄以來（回溯至 2011 年）同期最低水準，落後去年同期約 12 個百分點。補氣進度落後的原因是中東衝突使全球液化天然氣市場收緊、卡達供給受阻，亞洲買家在現貨市場出價高於歐洲。歐盟因此可能無法達成 12 月初儲氣 80% 的指示性目標。分析師情境推估顯示，若卡達液化天然氣完全中斷且冬季偏冷，11 月至次年 3 月日前均價可能達每兆瓦時 110 歐元，Energy Aspects 的基準情境則為 60 至 80 歐元；須注意這些數字均為情境推估而非基準預期。結構上，歐洲雖已大幅擴建液化天然氣接收設施、用氣量亦低於 2022 年，但改以液化天然氣替代管線氣的同時，也失去了固定價格合約的保護，對現貨價格波動更為敏感。歐盟儲氣容量約 1,020 億立方公尺，正常冬季提取量可覆蓋約 30% 的消費量。",
-    "public_action": "① 自營倉庫的賣家建議於 9 月底前確認電力合約形式與到期日，採浮動費率且合約在第四季到期者風險最高，宜提前評估；② 冷鏈、包裝生產線、需控溫倉儲等用電密集的中型賣家應列為優先檢視對象，這類業者通常議價能力與成本轉嫁空間都較有限；③ 引用數據時請區分性質，儲氣率 57% 至 58% 為官方統計，每兆瓦時 60 至 80 歐元、110 歐元、210 歐元等價格均為分析師情境推估，不宜視為基準預期而做出過度反應的採購決策；④ 建議將包裝法規新增成本、運費附加費與能源成本合併為一份第四季至次年第一季的成本影響評估，三者集中作用於低單價、體積重量比高的商品；⑤ 可追蹤 11 月 1 日歐盟儲氣目標日與 12 月初 80% 指示性目標兩個節點，在此之前不宜對冬季價格下定論；⑥ 需控溫或體積較大的商品，建議提前評估在第四季前將庫存移入平台倉儲，以降低自營倉能源成本的暴露。",
-    "sources": [
-      {
-        "name": "Reuters（8/6）：GIE 官方儲氣 58%、2011 年來同期最低、落後 12pp、€110／€210 情境、Wood Mackenzie 評論",
-        "url": "https://www.reuters.com/business/energy/record-low-gas-stocks-expose-europe-risk-price-spikes-2026-08-06"
-      },
-      {
-        "name": "OilPrice（8/6）：8/5 儲氣 57%、去年近 70%、80% 目標達成風險",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Hits-Lowest-Level-Since-2011-as-Winter-Looms.html"
-      },
-      {
-        "name": "Anadolu Agency（8/6）：8/5 儲氣 57%、補氣落後與亞洲競價",
-        "url": "https://www.aa.com.tr/en/energy/natural-gas/europes-gas-storage-falls-to-lowest-august-level-since-2011/58839"
-      },
-      {
-        "name": "BigGo Finance：Energy Aspects €60–80 基準、Goldman Sachs TTF €65 預估、backwardation 抑制儲氣誘因",
-        "url": "https://finance.biggo.com/news/18f841be-f767-4058-9e61-1f43c81c22a1"
-      },
-      {
-        "name": "NYT（7/31，付費牆）：7 月儲氣 54%、卡達設施受損的長期影響",
-        "url": "https://www.nytimes.com/2026/07/31/business/europe-natural-gas-prices.html"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-11",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/10 BRC-KPMG】UK 7 月零售 like-for-like +1.5%、連兩月放緩：食品靠世界盃最後一週，非食品被高溫與客流拖累",
-    "summary": "連續兩個月放緩，但真正該看的不是總量而是通路結構：\n        ① 昨晚公布的數字（BRC-KPMG Retail Sales Monitor，8/10 23:01 發布）：7 月 like-for-like 銷售 +1.5% YoY，低於 6 月的 +1.7%、5 月的 +3.4%，為連續第二個月放緩。\n        ② 分項動能相反（BRC 執行長 Helen Dickinson）：食品受世界盃最後一週帶動；非食品則因客流下滑受衝擊，購物者避開高溫不進實體店。\n        ③ 客流數據佐證（BRC-Sensormatic，8/7 發布，涵蓋 7/5–8/1）：7 月總客流 -2.1% YoY（6 月 -3.4%），其中大街 -3.8%、購物中心 -1.4%，但零售園區 +1.2% 逆勢成長。BRC 指出 2026 年前七個月有六個月表現遜於去年同期。\n        ④ 6 月的線上基準值可作對照：6 月非食品線上滲透率達 39.0%（去年同期 37.7%），為 2026 年最高；6 月線上非食品 +5.1%、店內非食品 -1.1%。\n        ⑤ 食品通膨仍是壓力來源（IGD 執行長 Sarah Bradbury）：7 月購物者信心降至零、為 4 月以來首見，食品通膨升至 4.5%，自有品牌持續優於品牌商品，量的成長有限、金額成長主要來自漲價。",
-    "public_impact": "BRC-KPMG 零售銷售監測於 8 月 10 日晚間公布，英國 7 月同店銷售年增 1.5%，低於 6 月的 1.7% 與 5 月的 3.4%，為連續第二個月放緩。分項動能相反：食品受世界盃最後一週帶動，非食品則因客流下滑而受衝擊，購物者為避開高溫而減少實體店消費。客流數據佐證此一趨勢，BRC-Sensormatic 資料顯示 7 月總客流年減 2.1%，其中大街減 3.8%、購物中心減 1.4%，但零售園區逆勢成長 1.2%，且 2026 年前七個月有六個月表現遜於去年同期。可作對照的是 6 月數據：非食品線上滲透率達 39.0%（去年同期 37.7%）為全年最高，線上非食品成長 5.1%、店內非食品衰退 1.1%，通路移轉相當明顯；7 月的官方線上分項數據尚未公布。另一項壓力來自食品通膨升至 4.5%，IGD 指出 7 月購物者信心降至零、為 4 月以來首見，自有品牌持續優於品牌商品，金額成長主要來自漲價而非銷量增加。",
-    "public_action": "① 解讀此數據宜用「通路移轉」而非「零售衰退」的框架，6 月線上非食品成長 5.1%、店內衰退 1.1%、線上滲透率 39.0% 是明確證據，但 7 月線上分項尚未公布，不宜逕行推論；② 經營多通路的品牌可留意零售園區為唯一正成長通路的現象，顯示目的型、可停車、一站購足的線下場景仍具效益，不宜套用「線上全面取代線下」的簡化結論；③ 規劃第四季促銷折扣深度前務必先做成本試算，食品通膨 4.5% 與購物者信心歸零意味消費者價格敏感度高、可能需要更深折扣，但成本端同時受包裝法規與能源價格推升；④ 英國市場的第四季假設建議獨立重算，7 月零售放緩、9 月 1 日起自送訂單政策收緊、10 月 15 日起旺季配送費三項因素疊加於同一市場；⑤ 自有品牌優於品牌商品的趨勢對性價比定位的賣家相對有利，可作為選品參考；⑥ 建議追蹤 8 月 21 日英國國家統計局零售銷售指數作為交叉驗證，該監測為會員樣本、官方統計為全樣本，兩者分歧時以官方數據為準。",
-    "sources": [
-      {
-        "name": "Retail Week（8/10 23:01）：BRC-KPMG 7 月數據、Dickinson 引述「食品靠世界盃最後一週、非食品被客流拖累」",
-        "url": "https://www.retail-week.com/stores-and-property/soaring-temperatures-stifle-retail-sales-growth-in-july/7051846.article"
-      },
-      {
-        "name": "Investing.com 經濟日曆：8/10 公布 7 月 like-for-like +1.5%（前值 1.7%）",
-        "url": "https://www.investing.com/economic-calendar/brc-retail-sales-monitor-18"
-      },
-      {
-        "name": "BRC 官方（8/7）：7 月客流 -2.1%、大街 -3.8%、購物中心 -1.4%、零售園區 +1.2%、前七月有六月遜於去年",
-        "url": "https://brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/too-hot-for-the-high-street"
-      },
-      {
-        "name": "BRC 官方（7/14）：6 月線上滲透率 39.0%（去年 37.7%）為 2026 年最高",
-        "url": "https://brc.org.uk/news-and-events/news/2026/online-sales-shine-in-the-heat"
-      },
-      {
-        "name": "新華社（7/15）：6 月總銷售 +1.9%、食品 +2.8%、非食品 +1.2%",
-        "url": "https://english.news.cn/europe/20260715/b0fb31f4500e43da9f68b4a88301ff3d/c.html"
-      },
-      {
-        "name": "BRC：IGD Bradbury 引述 7 月購物者信心降至零、食品通膨 4.5%、自有品牌優於品牌",
-        "url": "https://brc.org.uk/news-and-events/news/corporate-affairs/2025/ungated/rising-sales-not-enough-to-fend-off-job-losses-and-store-closures"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-11",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【7/26 招股書】Shein Q1 轉虧 $9,900 萬、歐洲占營收近三分之一：自行警告 EU €3 衝擊「可能不亞於美國」",
-    "summary": "這是第一次有低價直郵平台用自己的財報證明關稅衝擊的量級，說服力高於任何第三方推估：\n        ① 財務數字（Shein 香港上市草擬招股書，7/26 經 Reuters）：Q1 2026 淨虧損 $9,900 萬（去年同期淨利 $3.95 億），營收 $90.5 億僅微增 1.1%；虧損含 $3.28 億可轉換優先股公允價值損失（會計項、非營運項）。\n        ② 美國是已實現的對照組：Q1 美國營收 -14.3% 至 $20.4 億，美國占比從 2023 年的 29.4% 降至 22.5%。Shein 明言美國 de minimis 於 2025/5 取消對銷售與整體成長造成不利影響，中國原產商品現面臨 10%–87.5% 稅率。\n        ③ 對歐洲的自我警告是本則核心：歐洲占 2025 年營收約三分之一。招股書原文警告：雖然仍太早完全評估，但 EU 的影響「可能與美國取消 de minimis 後所觀察到的情況大致相當、或更嚴重」。\n        ④ 全年趨勢已在減速：2025 年營收 $418.5 億、+8%（2024 為 +20.7%），淨利 -38.7% 至 $20.6 億；估值目標 $400–500 億，遠低於 2022 年媒體報導的約 $1,000 億。\n        ⑤ 應對方式已經明確：招股書載明在美採正式報關程序、漲價、庫存本地化與本地履約，並預期在歐洲採取類似措施；Reuters 另報導 Shein 已擴建波蘭 Wrocław 倉儲、改以整批進口。",
-    "public_impact": "Shein 於 7 月 26 日提交的香港上市草擬招股書顯示，2026 年第一季淨虧損 9,900 萬美元，去年同期為淨利 3.95 億美元；營收 90.5 億美元僅微增 1.1%。須注意虧損中含 3.28 億美元可轉換優先股公允價值損失，屬會計項目而非營運項目。美國市場是已實現的對照組：第一季美國營收下滑 14.3% 至 20.4 億美元，占比從 2023 年的 29.4% 降至 22.5%，公司明言美國低價免稅門檻於 2025 年 5 月取消對銷售與整體成長造成不利影響。最值得注意的是對歐洲的自我警告：歐洲占其 2025 年營收約三分之一，招股書指出雖然仍太早完全評估，但歐盟措施的影響可能與美國取消免稅門檻後所觀察到的情況大致相當、甚至更嚴重。全年趨勢亦在減速，2025 年營收 418.5 億美元、成長 8%（2024 年為 20.7%），淨利下滑 38.7% 至 20.6 億美元。其因應方式已明確載明：在美採正式報關程序、漲價、庫存本地化與本地履約，並預期在歐洲採取類似措施，已擴建波蘭 Wrocław 倉儲改以整批進口。",
-    "public_action": "① 解讀上宜採「競爭者成本結構趨同」而非「競爭者退場」的框架，其因應方式是本地倉儲、整批進口與漲價，代表價格差距縮小但配送速度可能改善，據此調整選品與定價較為穩健；② 廣告投放成本出現短期窗口，Smarter Ecommerce 追蹤約 500 家歐洲 Google Shopping 廣告主顯示 Temu 競爭出現率自 3 月起減半、SHEIN 於 6 月底近乎歸零，但同一分析指出這可能是改走整批進倉的暫時性退出，且 AliExpress 反而加碼，不宜視為新常態；③ 下一個硬性節點是 11 月 1 日，產品識別碼由自願轉為強制、歐盟層級小包處理費預計同日開徵，第二波成本壓力與旺季重疊，建議 9 至 10 月完成準備；④ 評估虧損幅度時請區分會計項與營運項，3.28 億美元屬可轉換優先股公允價值損失，不宜將全額虧損都歸因於關稅；⑤ 低單價品類的競爭壓力來源正從絕對低價轉向配送速度與合規完整度，選品與行銷敘事可往品質與配送時效傾斜。",
-    "sources": [
-      {
-        "name": "CNBC（7/26）：Q1 淨虧 $9,900 萬、美國 -14.3%、歐洲占約三分之一、招股書原文警告 EU 影響「相當或更嚴重」",
-        "url": "https://www.cnbc.com/2026/07/26/shein-reveals-key-financials-ahead-of-hong-kong-ipo.html"
-      },
-      {
-        "name": "Reuters／Globe and Mail（7/26）：招股書細節、$3.28 億公允價值損失、10%–87.5% 稅率",
-        "url": "https://www.theglobeandmail.com/business/article-shein-posts-99-million-quarterly-loss-ahead-of-hong-kong-ipo"
-      },
-      {
-        "name": "Quartz（7/27）：美國營收 $20.4 億、占比 22.5%、EU €3 收費與伊朗戰事影響需求之揭露",
-        "url": "https://qz.com/shein-quarterly-loss-tariffs-hong-kong-ipo-072726"
-      },
-      {
-        "name": "Reuters（7/1）：€3 每項費用生效、Shein 擴建 Wrocław 倉儲改整批進口、空運量預估降 10–35%",
-        "url": "https://www.reuters.com/business/retail-consumer/eu-slaps-3-fee-cheap-ecommerce-parcels-blow-shein-temu-aliexpress-2026-07-01"
-      },
-      {
-        "name": "PPC Land：smec 約 500 家歐洲廣告主樣本、Temu 自 3 月減半、SHEIN 6 月底近乎歸零",
-        "url": "https://ppc.land/3-euro-parcel-fee-cuts-temu-ad-spend-shein-nears-full-exit"
-      },
-      {
-        "name": "smec 原始分析：€3 相當於 €30 訂單約 10% 關稅、按稅則行計費、AliExpress 反而加碼",
-        "url": "https://smarter-ecommerce.com/blog/en/google-shopping/europes-new-tariffs-on-temu-shein-what-google-shopping-data-reveals"
       }
     ],
     "color": "#0891b2"
