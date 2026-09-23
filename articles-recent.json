@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-09-23",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/20 晚間生效・9/22 歐媒跟進】Amazon 封殺 Meta 的 Muse AI 代理：以使用條款為由，Perplexity 判例失守後改打合約戰",
+    "summary": "進展在哪：不是新一輪封鎖，而是 Amazon 的法律武器換了一把——反駭客法那條路 9/10 被關上，改走使用條款：\n        ① 時序（GeekWire 9/20 23:05）：Meta 於 9/8 推出可自主瀏覽並付款的 AI 代理 Muse，一週內登上美國 iPhone 免費榜第一、超越 ChatGPT。Amazon 先要求 Meta 自行把 Amazon 移出 Muse，未果後自 9/20 晚間起封鎖，彈窗寫明「未經授權的 AI 代理持續存取，違反客戶已同意的使用條件」。\n        ② Amazon 的理由：從未同意、未獲告知、Muse 瀏覽時不自我標識，且「似乎擷取並儲存客戶憑證」，受提示時可進入帳戶頁與訂單紀錄。\n        ③ Meta 反駁：Muse「無法看見密碼或付款方式」，憑證存入安全儲存區、可用而不可見，另有安全虛擬機與監控代理 Sentinel；但承認無 API 時「會像你一樣用瀏覽器操作」。\n        ④ 為何改打合約：Amazon 告 Perplexity 一案 2026/3 曾取得初步禁制令，8/4 第九巡迴認定依聯邦反駭客法存取者是「使用者」而非 AI 公司而撤銷，9/10 駁回覆審，只剩使用條款一途。\n        結論：去年逾 $680 億廣告營收建立在使用者看得到商品頁，代理購物直接繞過版位；而兩家同時是合作方（Meta 今年 4 月簽數十億美元合約在 Amazon Graviton 晶片跑 agentic AI）。",
+    "public_impact": "這起爭議的核心是「誰能代消費者下單」。Meta 於九月八日推出可自主瀏覽並完成付款的 AI 代理，一週內登上美國 iPhone 免費應用榜第一。Amazon 自九月二十日晚間起在美國站封鎖該代理，理由是從未同意、代理未事先告知也不自我標識，且似乎擷取並儲存客戶憑證、可進入帳戶頁與訂單紀錄。值得注意的是法律路徑的變化：平台方先前對另一家 AI 公司的訴訟曾取得初步禁制令，但上訴法院於八月四日認定依聯邦反駭客法存取者是使用者而非 AI 公司，九月十日駁回覆審，因此這次改以使用條款為依據。對賣家的實質含意有兩點。第一，商品頁曝光是平台廣告模式的基礎，第三方代理把選品與下單收進自己的介面，站內廣告版位會被繞過，這是平台強力防守的根本原因。第二，平台方已公開表達可接受的代理應具備三項條件：須自我標識、須取得平台同意、品牌可選擇不參與。目前此事僅發生於美國站，無跡象顯示歐洲站同步，賣家端亦無需調整設定。",
+    "public_action": "① 目前無須採取任何操作。事件限於美國站、自九月二十日晚間起，依據為平台使用條款而非法院命令，賣家後台沒有相應設定需要調整。② 不要據此推測歐洲站時程。平台是否在歐盟採取相同做法、以及在歐盟競爭法環境下是否會被檢視，目前都沒有答案，規劃不宜納入假設。③ 值得留意的結構性訊號是代理購物的成長速度。代理若普及，消費者可能不再逐一瀏覽商品頁，商品標題、規格欄位、結構化資料與評價這類機器可讀的資訊，重要性會高於視覺呈現。建議趁旺季前把主要商品的規格欄位與屬性填寫完整，這件事無論代理爭議如何收場都有效益。④ 平台方已表態可接受的代理應自我標識、取得平台同意、並讓品牌可選擇不參與。品牌方若擔心第三方代理擅自代理自家商品，這三項是目前可參照的公開原則。⑤ 一併留意帳戶安全。此案爭點之一是第三方代理是否擷取並儲存消費者登入憑證，賣家自身的後台帳號亦不宜授權給來源不明的自動化工具。",
+    "sources": [
+      {
+        "name": "GeekWire，記者 Todd Bishop，2026/9/20 23:05 發布、9/22 更新（獨立來源 1，🟢 一手：含 Amazon 發言人具名回應。Muse 9/8 推出、免費並有付費層、上架 iOS／Android／muse.ai／WhatsApp、一週內登美國 iPhone 免費榜第一並超越 ChatGPT；封鎖自「週日晚間」起生效；彈窗原文 \"Continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\"；Amazon 理由為未經同意、未獲通知、Muse 不自我標識、「似乎擷取並儲存客戶憑證」、可進入帳戶頁與訂單紀錄；發言人稱代理 \"should operate openly and respect service provider decisions about whether or not to participate\" 並 \"we've requested that Meta remove Amazon from the experience\"；Amazon 確認正與 Meta 直接協商、不評論是否訴訟；Meta 於 Muse 發布時稱其 \"has no visibility into people's passwords or payment methods\"、憑證 \"go into secure storage, so Muse can use them without seeing them\"、另有安全虛擬機／自有瀏覽器／敏感動作需確認／監控代理 Sentinel、無 API 時 \"can use the service through a browser the way you would\"；Perplexity 案 2026/3 取得初步禁制令、8/4 第九巡迴以「存取者為使用者而非 AI 公司」撤銷、9/10 駁回覆審；Amazon 另曾動作阻擋 Google 與 OpenAI 的購物代理；去年廣告營收逾 $680 億；自家 Alexa for Shopping 於 5 月推出、Buy for Me 會自我標識且品牌可 opt out；兩家同時為合作方，Amazon 商品自 2023 年可在 Facebook 與 Instagram 購買、Meta 今年 4 月簽數十億美元合約在 Amazon Graviton 晶片上跑 agentic AI）",
+        "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/"
+      },
+      {
+        "name": "RetailDetail EU，記者 Pauline Neerman，2026/9/22（獨立來源 2，🟡 歐洲零售媒體、付費牆，僅導言可讀：確認 Amazon 拒絕 Muse 進入其網路商店、封鎖「自週日起」生效、使用者收到「未經授權 AI 代理」違反使用條款的通知，並註明資訊源為 GeekWire；框架為「爭奪機器顧客」，警告此僵局「對消費者與商家都構成碎片化風險」。註：本則與來源 1 在封鎖事實上非完全獨立（RetailDetail 明載引用 GeekWire），其獨立價值在於歐洲零售業視角與碎片化評述）",
+        "url": "https://www.retaildetail.eu/news/general/ai-retail-battle-erupts-amazon-blocks-metas-ai-shopping-assistant/"
+      },
+      {
+        "name": "Investing.com，文章「Meta options market activity surges on Muse AI optimism」，2026/9/21 14:07，編輯 Louis Juricic（獨立來源 3，🟡 市場數據獨立佐證 Muse 的規模與市場反應：META 當日 +11.64% 至 $742.69、Wells Fargo 目標價上調至 $796、選擇權總量 183 萬口、call／put 比約 1.84:1、put 量為 2026/1/15 以來最高、3 個月隱含波動率 43.59%；Meta Connect 定於 9/23。此來源僅用於佐證 Muse 的市場規模，不涉封鎖事實。⚠️ 連結說明：本連結為 webFetch 實際抓取並取得上述內容之 URL，但該站 share-link slug（amazon-blocks-metas-muse…）與實際文章標題不符，此為 investing.com 已知的 slug 錯置問題，已於 footer 記錄）",
+        "url": "https://www.investing.com/news/company-news/amazon-blocks-metas-muse-ai-agent-from-shopping-on-its-site-93CH-4909500"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-23",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/18 馬克宏致函・9/22 曝光】法國要歐盟臨時鬆綁燃油規格換 5-20% 煉油產能，執委會草案要拿強制限電權",
+    "summary": "進展在哪：昨日本報寫的是柴油創高的「價格」，今天是政府端「政策應對」首次成文——兩份文件同日曝光：\n        ① 馬克宏致函 von der Leyen（9/18 發出、Euronews 9/22 取得）：要求臨時放寬歐盟燃油品質規格（密度、揮發性、脫硫）以增產柴油與航空燃油，每座煉油廠可多出約 5% 至 20% 產能，並引 Covid 期間鬆綁為先例；另要求擴大使用 B10 柴油（現行 B7）、將甲烷進口申報義務延後一年至 2028/1/1、並檢討把歐盟聯合採購機制擴及柴油與航空燃油。\n        ② 缺口數字：9/22 上午 9 時法國有 14% 加油站短缺或接近短缺；若荷莫茲持續封閉且沙烏地東西輸油管停擺，恐再失至少每日 400 萬桶；全球原油庫存已減逾 5 億桶；歐洲對中東依賴度為航空燃油 36%、柴油 18%。\n        ③ 執委會草案要強制限電權（Euronews 同日取得）：擬取得宣布區域或全歐電力警報並要求成員國削減用電之權力，草案寫明可含「強制性的全國需求調整」且「執委會應於警報宣告中明定所需的調整幅度」；另可阻止惡化鄰國短缺的跨境限流。仍為草案、無通過日期。\n        結論：同日川普在聯合國表態支持禁止美國柴油出口，Wood Mackenzie 的 Jim Mitchell 直言此舉「對幾個關鍵美國盟邦看來相當傷」——歐洲結構性缺柴油、且高度依賴美國船貨。",
+    "public_impact": "能源議題的重心已從價格轉向實體供給與政策干預，這對物流成本的推估方式有直接影響。關鍵在於原油與柴油出現脫鉤：原油連續五個交易日走弱、布蘭特原油收於一百美元以下，但柴油在美國與歐洲同步創歷史新高，瓶頸在煉油產能與航運而非原油供給。因此以原油價格推估運費會系統性低估成本，Q4 成本評估應改以柴油價格與承運商燃油附加費為基準。實體層面已出現影響：九月二十二日上午九時，法國有百分之十四的加油站短缺或接近短缺，可能波及最後一哩配送與自行提貨的穩定度。歐洲對中東進口依賴度為航空燃油百分之三十六、柴油百分之十八，若荷莫茲海峽持續封閉且沙烏地東西輸油管停擺，恐再減少每日至少四百萬桶供給。政策面有兩項尚未定案的動向：法國要求歐盟臨時放寬燃油品質規格以增產柴油與航空燃油；美國出現限制柴油出口的政治呼聲，後者若成真將進一步緊縮歐洲供給。",
+    "public_action": "① Q4 物流成本的推估基準請改用柴油價格與承運商燃油附加費，不要用原油價格。原油正在走弱但柴油創高，兩者已脫鉤，用原油推估會低估成本。歐洲柴油煉油利潤預期於十月見頂，可作為成本高點的參考時點。② 在法國出貨或自行提貨的賣家，本週建議向承運商確認取件時效與是否加收附加費。法國政府公布九月二十二日上午九時有百分之十四加油站短缺或接近短缺，這是已發生的事實而非預測。③ 政策面兩項動向請都視為未定案。放寬燃油規格屬單一成員國提案，歐盟執委會僅回應該議題在議程上極為優先並將召開高階會議，未承諾採納。美國限制柴油出口僅為政治表態，其財政部門稱仍在評估，能源與內政部門則公開反對。均不宜作為定價或備貨假設。④ 若使用自建倉或第三方倉儲，可在年度規劃中納入電力供應的營運連續性評估，但相關規則仍在草案階段、無時程與削減幅度，今年不需調整。⑤ 建議追蹤荷莫茲海峽是否重啟，這是柴油與運費最關鍵的單一變數。",
+    "sources": [
+      {
+        "name": "Euronews，記者 Marta Pacheco，2026/9/22 13:24 CEST（獨立來源 1，🟢 一手文件：馬克宏 9/18 致 von der Leyen 函，由 Euronews 取得。五項要求為臨時放寬燃油品質規格含密度／揮發性／脫硫並引 Covid 為先例、與車廠協調哪些標準可鬆綁而不損車輛與基礎設施且維持健康安全規定、准許擴大使用 B10 柴油取代 B7 並與製造商議定適用引擎的暫時限制、將原油與天然氣進口商的甲烷申報義務延後一年至 2028/1/1、檢討歐盟聯合天然氣採購機制並可能擴及柴油與航空燃油；每座煉油廠可多出約 5% 至 20% 產能；9/22 上午 9 時法國 14% 加油站短缺或接近短缺（法國政府數據）；荷莫茲持續封閉加沙烏地東西管停擺恐再失至少每日 400 萬桶；全球原油庫存減逾 5 億桶；歐洲對中東依賴為航空燃油 36%、柴油 18%；馬克宏原文 \"It is also important not to weaken European production capacities while preparing for long-term supply difficulties.\"；執委會回應短缺 \"extremely high on the agenda and on our radar\" 並將與業界及成員國開高階會議；甲烷規則 2024/5 由成員國通過、執委會已建議將財務罰則延後三年至 2029 年底）",
+        "url": "https://www.euronews.com/my-europe/2026/09/22/france-warns-of-fresh-oil-shock-urges-eu-to-free-up-refinery-capacity"
+      },
+      {
+        "name": "Euronews，記者 Marta Pacheco，2026/9/22（獨立來源 2，🟢 一手文件：執委會能源安全包裹草案，由 Euronews 取得。擬取得宣布區域或全歐電力警報並要求成員國削減用電之權力、草案原文含 \"mandatory national demand adjustments\" 與 \"The Commission shall specify in the alarm declaration the level of demand adjustments required\"；可阻止或勸阻會惡化鄰國短缺之跨境電力或天然氣限流措施；建立全歐電網與氣網關鍵備品清單、由歐盟能源主管機關訂最低庫存並可建議區域共享儲備；觸發為認定存在 \"substantial risk of a power crisis\" 並先諮詢電力協調小組；各國升級階梯為早期預警→全國警報→緊急狀態，最後一級須待市場工具用盡；氣電機組須被認定為 \"strictly limited to the critical gas volumes needed to maintain electricity grid stability\"。仍為草案、無通過或發布日期、亦無削減幅度之百分比或量值；原定今年較早推出，因美以對伊朗戰事之供給與價格衝擊、北溪破壞與德國電網遭攻擊而重做）",
+        "url": "https://www.euronews.com/my-europe/2026/09/22/brussels-seeks-power-to-order-electricity-demand-cuts-in-energy-crisis"
+      },
+      {
+        "name": "Reuters（經 Investing.com 轉載），2026/9/22（獨立來源 3，🟢 tier-1 一手引述：川普 9/22 於紐約聯合國第 81 屆大會場邊、會見澤倫斯基前對記者表示支持禁止柴油出口，原文 \"I've said let's not send out the diesel. We make a lot of diesel.\" 與 \"I've called for it within my people.\"；另稱烏克蘭打擊俄煉油廠 \"It is a serious hit on the Russians. It's also a serious hit on the price of diesel.\"；財政部長 Scott Bessent 稱正研究是否可行及應為全面或部分；共和黨參議員 Dan Sullivan 稱 \"The cost of diesel is just too damn high.\"；反對方能源部長 Chris Wright 稱 \"If you start putting barriers on flows, pretty quickly you will reduce the production.\"、內政部長 Doug Burgum 疑價格未必下降並示警出口國報復、德州石油天然氣協會 Todd Staples 稱將 \"cripple domestic jobs, lead to fuel shortages here at home\"；Wood Mackenzie 的 Jim Mitchell 稱 \"That would seem pretty damaging to some key U.S. allies.\"、因歐洲結構性缺柴油且高度依賴美國船貨；柴油在美歐均創歷史新高，歸因於伊朗與烏克蘭戰事削減俄國、沙烏地與阿聯酋出口。本文未提供任何每加侖價格或庫存數字）",
+        "url": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466"
+      },
+      {
+        "name": "Reuters（經 Investing.com 轉載），記者 Mohi Narayan，新德里，2026/9/22 06:57 發、07:00 更新（獨立來源 4，🟢 一手航運數據：依 Kpler 初步航運資料，荷莫茲海峽通行商品船舶 9/21 週一僅 2 艘、前一日 10 艘（不含關閉 AIS 者）；衝突（2/28）前基準約每日 125 艘大型商船、約占全球每日原油與 LNG 供給 20%；曼德海峽週一 26 艘、與前一日持平；另據 Marisks Intelligence，曼島籍原油輪 LR Stephanie 週一入港途中遭不明彈體擊中、2 名船員輕傷，賴比瑞亞籍 LPG 輪 Al Maryah 週日出港途中被擊中，兩船均自行續航；Marisks 稱「兩起事件的責任方仍未確認」。同日另兩則為沙烏地重啟東西輸油管並將自延布恢復出口（消息人士）、伊朗稱若美方鬆綁軍事壓力並解除封鎖則七日內可重開海峽）",
+        "url": "https://www.investing.com/news/commodities-news/hormuz-vessel-traffic-falls-to-two-data-shows-4910409"
+      },
+      {
+        "name": "Investing.com，編輯 Jaiveer Shekhawat，2026/9/22 13:48（獨立來源 5，🟡 轉述：歐洲柴油煉油利潤週二上升 3%，低硫柴油期貨於 1646 GMT 報較 Brent 高 $86.80／桶、較前收升 $2.55；沙烏地已重啟東西輸油管並準備自紅海延布港恢復出貨，沙烏地多數柴油出口自延布裝船故市場對此敏感。本文註明「由 AI 協助生成並經編輯審閱」；同頁即時報價 Brent $98.78（-0.47%）、WTI $89.74（-0.86%））",
+        "url": "https://www.investing.com/news/commodities-news/european-diesel-margins-climb-as-saudi-pipeline-restarts-93CH-4911407"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-23",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/21 06:45 K+N ad hoc】Amazon 拿下 Kuehne+Nagel 現股認購權：綁 7 年商業里程碑，範圍涵蓋 AWS 機房全生命週期",
+    "summary": "一句 so what：Amazon 把物流採購關係升級成帶股權掛鉤的長期綁約，而主戰場不是電商履約，是 AWS 機房：\n        ① 公告性質（K+N 官方，瑞士 Schindellegi，9/21 06:45 Europe/Berlin）：依 SIX 上市規則第 53 條之ad hoc 重大訊息發布，非一般新聞稿；內容為與既有客戶 Amazon 締結長期戰略合作，自述「範圍全面」。\n        ② 認購權條件：標的為既有（非新發行）K+N 股份；以現金結算或由 Amazon 選擇以股份結算；行使須達成商業里程碑並實際提供服務，期間最長 7 年；K+N 已安排第三方金融機構就 K+N 股票避險以支撐此結構。股數、履約價、授予價值與里程碑細節均未揭露。\n        ③ 服務範圍：涵蓋 AWS 基礎設施全生命週期——自建置與設備部署到維護、升級與擴建專案。既有履約與運輸業務同樣在內，Amazon 已是 K+N 該領域最大客戶之一。\n        ④ 財務數字要分層：ad hoc 公告未揭露任何營收或財務影響，LOGISTIK HEUTE 9/21 亦明載無合約金額。「現年營收數億歐元、新合作預期數十億歐元」僅見 OnlinehändlerNews 9/22 轉述 K+N 自述，屬單一來源且為預期值。\n        結論：CEO Stefan Paul 稱雙方「共同聚焦規模、創新與客戶價值」。公告中無任何 Amazon 或 AWS 方發言。K+N 為蘇黎世上市、全球海空運物流第一，約 8.8 萬員工、逾 1,300 站點、近 100 國。",
+    "public_impact": "瑞士物流集團 Kuehne+Nagel 於九月二十一日上午六時四十五分依瑞士交易所上市規則第五十三條發布重大訊息，宣布與既有客戶 Amazon 締結長期戰略合作。需要先釐清合作重心：公告載明新增範圍為 Amazon Web Services 基礎設施的全生命週期服務，含建置與設備部署、後續維護、升級與擴建專案，目的為強化全球雲端基礎設施供應鏈的韌性與可擴展性。既有履約與運輸業務同樣涵蓋在內，公告方表示 Amazon 已是其該領域最大客戶之一。合作以認購權支撐：標的為既有股份而非新發行股份，以現金或由 Amazon 選擇以股份結算，行使須達成商業里程碑並提供服務，期間最長七年。股數、履約價與里程碑細節均未揭露。財務數字需特別注意：重大訊息公告本身未揭露任何營收或財務影響，德國媒體轉述的數億歐元現況與數十億歐元預期屬單一來源且為預期值。對賣家而言，此事目前對履約條件、費率與配送時效均無已知影響。",
+    "public_action": "① 此事目前不需要採取任何行動，也不需調整物流規劃。公告內容集中於雲端基礎設施的供應鏈服務，並未涉及賣家履約條件、倉儲費率或配送時效的任何變動。② 引用相關數字時請留意層級差異。上市公司重大訊息公告未揭露任何營收或財務影響，媒體所載的數億歐元現況與數十億歐元預期為單一來源轉述且屬預期值，不宜當作已簽訂的合約金額引用。③ 可作為背景參考的一點是，公告方自述 Amazon 已是其履約與運輸領域最大客戶之一，這間接說明大型平台的歐洲跨境幹線有相當比重由第三方國際貨代承運。評估旺季跨境運能時，此為供給端的背景資訊，但不構成任何時效或費率的承諾。④ 值得留意的是雲端基礎設施擴張正在形成新的供應鏈需求，可能與一般商品物流競逐同一批運能與工程資源。這屬於中長期觀察，短期無須反應。⑤ 若後續出現涉及電商履約網路而非雲端基礎設施的公告，才需要重新評估。",
+    "sources": [
+      {
+        "name": "Kuehne+Nagel 官方新聞室，瑞士 Schindellegi，2026/9/21 06:45 Europe/Berlin（獨立來源 1，🟢 上市公司一手：依 SIX 上市規則第 53 條之 ad hoc 重大訊息，標籤 Global／Ad hoc／Group。與既有客戶 Amazon 締結長期戰略合作、自述 \"comprehensive in its scope\"；未載固定合約期間，唯一期間為認購權之 \"over a period of up to seven years\"；涵蓋 AWS、範圍為 \"from construction and equipment deployment to ongoing maintenance, upgrades and expansion projects\"；認購權標的為既有股份、以現金或由 Amazon 選擇以股份結算、行使綁商業里程碑與服務提供、並安排 \"a third-party financial institution to engage in hedging transactions in Kuehne+Nagel shares\"；股數、履約價、授予價值、里程碑細節均未揭露；CEO Stefan Paul 稱 \"We are excited to enter this long-term collaboration with Amazon\"、\"a shared focus on scale, innovation and customer value\"、\"setting the foundation for a new level of customer service commitment at a global scale for Amazon\"；無任何 Amazon 或 AWS 方發言；公司規模約 8.8 萬員工、逾 1,300 站點、近 100 國、約 40 萬客戶，蘇黎世上市、全球海空運物流第一。本公告明確未揭露任何營收或財務影響）",
+        "url": "https://newsroom.kuehne-nagel.com/kuehnenagel-announces-long-term-strategic-collaboration-with-amazon/"
+      },
+      {
+        "name": "LOGISTIK HEUTE，記者 Therese Meitinger，2026/9/21 10:50（獨立來源 2，🟡 德國物流專業媒體獨立報導：確認公告日為 9/21、合作為長期且全面、旨在深化既有業務關係並擴大對 Amazon 及其關係企業之服務組合；確認範圍為 AWS 基礎設施之建置與啟用、持續維護與現代化、直至擴建專案；認購權為既有股份、現金或由 Amazon 選擇以股份結算、行使綁商業里程碑與七年期間服務提供、由外部金融服務商就 K+N 股票進行避險；Stefan Paul 德文引述 \"Wir freuen uns auf die langfristige Zusammenarbeit mit Amazon. Im Mittelpunkt stehen Skalierbarkeit, Innovation und Kundennutzen.\" 並稱 K+N \"exzellent aufgestellt\"。本文明確記載無合約金額、無營收數字、無股價反應，與來源 1 一致）",
+        "url": "https://logistik-heute.de/news/transportdienstleistungen-kuehnenagel-und-amazon-kooperieren-langfristig-284995.html"
+      },
+      {
+        "name": "OnlinehändlerNews（Händlerbund），2026/9/22，分類標籤「Kooperation」（獨立來源 3，🟡 德國同業公會媒體轉述：標題直譯「數十億交易在望」。唯一提供財務數字之來源，且為 K+N 自述之預期值——現行與 Amazon 之年業務量為數億歐元（K+N 自述）、新合作預期量為數十億歐元（明載為預期而非合約金額、未揭露固定合約價值）；另稱合作為七年、認購權行使條件同樣為最長七年；確認既有履約與運輸業務在內且 Amazon 已是 K+N 該領域最大客戶之一。註：數億／數十億歐元一項僅此一源，本報已於摘要與 Action 標明為單一來源之預期值）",
+        "url": "https://ohn.haendlerbund.de/logistik/paketdienste/milliarden-deal-amazon-kuehne-nagel-zusammenarbeit"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-23",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/22 執委會 flash】歐元區 9 月消費信心 -16.5 中斷四連升、遜於共識 -16.0；德國五大所擬把 2026 成長由 0.6% 上修到 1.3%",
+    "summary": "一句 so what：需求端與供給端首次明顯背離——消費者轉壞、但機構把德國成長幾乎翻倍上修，兩者對 Q4 備貨的指向相反：\n        ① 消費信心 flash（執委會 DG ECFIN，9/22 發布）：歐元區 -16.5，較 8 月 -15.5 下滑 1.0 點，遜於 Reuters 調查共識 -16.0，路透稱跌幅「比預期更陡」；EU 整體降 0.8 點至 -15.8。\n        ② 為何是轉折：此次中斷連續四個月改善，而該波改善原已把指數推上六個月高點，Trading Economics 歸因於地緣政治不確定性與通膨憂慮。長期均值 -9.49（1985-2026）、歷史低點 -27.50（2022/9）。\n        ③ 訊號在分項：8 月終值顯示消費者對自家財務「沒那麼悲觀」，拖累來自未來 12 個月大額消費意願轉弱與對整體經濟看法惡化；同期消費者通膨預期由 30.40 升至 33.00。大額消費意願正是電商耐久品的先行指標。\n        ④ 反向訊號：德國五大所擬大幅上修（Reuters 9/22，引未具名消息人士）：RWI、ifo、IfW、IWH、DIW 之聯合診斷擬將 2026 成長由 0.6% 上修至 1.3%、2027 至 1.1%、2028 僅 0.4%，官方版 9/24 才發布。\n        結論：上修理由是上半年優於預期，但 2028 掉到 0.4%，說明機構自己也認為這是短期反彈而非趨勢反轉。",
+    "public_impact": "需求面出現一個值得注意的轉折。歐盟執委會於九月二十二日發布九月消費信心快報，歐元區降至負十六點五，較八月負十五點五下滑一點，低於市場共識負十六，歐盟整體降零點八點至負十五點八。關鍵不在絕對值而在方向：此次中斷了連續四個月的改善，而該波改善原已把指數推上六個月高點，市場分析歸因於地緣政治不確定性與通膨憂慮。長期均值為負九點四九，歷史低點為二零二二年九月的負二十七點五。更具體的訊號在分項：八月終值顯示消費者對自身財務狀況並未更悲觀，拖累主要來自未來十二個月大額消費意願轉弱，以及對整體經濟看法惡化，同期消費者通膨預期由三十點四升至三十三。大額消費意願是高單價耐久品的先行指標，對家電、家具與消費電子品類尤其相關。另一方向的訊號來自德國，多家研究機構正將該國本年成長預測上修，但上修理由為上半年出口與生產優於預期，與下半年家戶消費並非同一件事。",
+    "public_action": "① Q4 需求評估建議以消費信心為基準，不要以德國 GDP 上修作為樂觀依據。兩者時間軸不同：GDP 上修反映的是上半年已發生的出口與生產表現，消費信心反映的才是當前家戶的消費意願。② 高單價耐久品賣家可將 Q4 備貨設為保守量並預留促銷彈性，不宜以旺季爆量作為基準情境。依據是未來十二個月大額消費意願轉弱，家電、家具與消費電子受影響最直接。相對地低單價、必需性與禮贈品類的相對表現預期較佳。③ 定價規劃請注意成本與需求同時逆風。消費者通膨預期已由三十點四升至三十三，同時大額消費意願轉弱，代表把上升的物流成本轉嫁到售價的空間有限，不宜假設可全額轉嫁。④ 德國研究機構的上修數字目前來自未具名消息人士、官方版本九月二十四日才發布，建議引用已具名公開的版本。⑤ 建議把九月二十九日設為評估檢查點，該日歐元區經濟景氣指數、消費者通膨預期與售價預期同步公布，可據以判斷本次信心下滑是單月雜訊或趨勢轉折。",
+    "sources": [
+      {
+        "name": "歐盟執委會 DG ECFIN 企業與消費者調查官方頁（獨立來源 1，🟢 官方：頁面排程明載 \"Latest update: Flash Consumer Confidence Indicator - 22 September 2026\"，確認發布日期與發布機關；同排程載下一次較完整調查新聞稿（含 ESI、EEI、EUI 與各業別信心）為 9/29。註：本頁為導覽頁、不含指標數值本身，數值由來源 2 與 3 提供）",
+        "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/business-and-consumer-surveys_en"
+      },
+      {
+        "name": "Investing.com，2026/9/22 10:16，編輯 Vlad Schepkov（獨立來源 2，🟡 轉述執委會 flash：歐元區 -16.5、月減 1.0 點、8 月 -15.5；Reuters 調查共識 -16.0、原文稱 \"The decline was steeper than anticipated\"；EU 整體降 0.8 點至 -15.8；明載為執委會 flash 估計、週二發布。本文無分析師引述或市場反應評論，且註明「由 AI 協助生成並經編輯審閱」）",
+        "url": "https://www.investing.com/news/economy-news/euro-zone-consumer-confidence-drops-to-165-in-september-93CH-4911135"
+      },
+      {
+        "name": "Trading Economics 歐元區消費信心（獨立來源 3，🟡 轉述加自有資料庫：確認 9 月 flash -16.5、8 月 -15.5、市場共識 -16（其自有模型預估為 -17，已排除不用）；補充本次中斷連續四個月改善、該波改善原已推至六個月高點、歸因地緣政治不確定性與通膨憂慮；EU 由 -15 降至 -15.8；長期均值 -9.49（1985-2026）、歷史高點 -0.40（2000/1）、歷史低點 -27.50（2022/9）；8 月終值分項為對家戶未來與過去財務狀況「沒那麼悲觀」、但未來 12 個月大額消費意願轉弱且對整體經濟看法惡化；8 月消費者通膨預期由 30.40 升至 33.00。註：9 月 flash 本身不含分項，分項均為 8 月終值）",
+        "url": "https://tradingeconomics.com/euro-area/consumer-confidence"
+      },
+      {
+        "name": "Reuters（經 Investing.com 轉載），記者 Klaus Lauer，柏林，2026/9/22（獨立來源 4，🔴 引未具名消息人士、機構未署名、官方未確認：五所為 RWI（埃森）、ifo（慕尼黑）、IfW（基爾）、IWH（哈勒）、DIW（柏林）；聯合診斷擬定 2026 1.3%（原 0.6%）、2027 1.1%（原 0.9%）、2028 0.4%；上修理由為數家機構已因上半年優於預期而先行調升；報告標題為 \"An economic upturn marred by structural problems – fiscal policy on the wrong track\"；官方發表定於週四即 9/24；Handelsblatt 已於前一週一先報 2026 與 2027 數字。本報僅將此項與消費信心並列為反向訊號、未獨立成則，對外引用建議改用 IW 9/20 之具名公開版本）",
+        "url": "https://www.investing.com/news/economic-indicators/german-institutes-raise-2026-and-2027-economic-growth-forecasts-sources-say-4910568"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-23",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/21 bevh 官方】德國電商詐騙調查：93% 中招、身分詐欺 75% 居首、每 7 家 1 家年損逾 €10 萬（樣本僅 76 家）",
+    "summary": "一句 so what：數字很嗆，但樣本只有 76 家——結論方向可信、絕對比例不可當母體推論，這點先講清楚：\n        ① 調查基本資料（bevh 官方新聞稿 9/21）：bevh 與徵信商 CRIF 合作之「Betrug im E-Commerce」調查，樣本僅 76 家德國商家（稿中自述「近 80 家」），期間 2026/6/1 至 8/14。屬小樣本業界調查、非官方統計。\n        ② 盛行率：93% 曾遭遇詐騙或未遂；近 12 個月 48% 認為風險上升（35% 明顯、13% 大幅）、37% 維持高位、15% 減少。\n        ③ 手法排序：身分詐欺 75% 居首、姓名或地址篡改 67%、完全偽造身分 55%、否認收貨約 6 成、訂購時即無意付款 57%、帳號盜用 56%、空包退貨 47%、換貨詐欺 42%、盜用付款資料 40%。\n        ④ 損失級距：25% 年損低於 €5,000、45% 介於 €10,001 至 €100,000、15%（約每 7 家 1 家）逾 €100,000；單筆逾 €2,500 者占 32%。註：三個年度級距合計僅 85%，€5,000 至 €10,000 一段原稿即缺。\n        結論：CRIF 德國總經理 Frank Schlein 稱這是商家與詐騙者的「龜兔賽跑」，警告「人工智慧與合成身分未來會進一步加劇詐騙活動」，並指 agentic commerce 對身分與信任驗證造成全新需求。bevh 副總幹事 Martin Große-Albenhausen 補充「整體支付流的詐騙件數在千分之一量級」，但「一旦發生，損失金額變大」。",
+    "public_impact": "德國電商協會 bevh 與徵信服務商 CRIF 於九月二十一日發布電商詐騙調查，但引用前必須先注意樣本規模：受訪者僅七十六家德國商家，期間為二零二六年六月一日至八月十四日，屬小樣本業界調查而非官方統計，絕對比例不宜當作母體統計事實，真正有參考價值的是手法排序與趨勢方向。調查顯示百分之九十三的受訪商家曾遭遇詐騙或未遂，近十二個月有百分之四十八認為風險上升。手法排序為身分詐欺百分之七十五居首、姓名或地址資料被篡改百分之六十七、完全偽造身分百分之五十五、否認收到商品約六成、訂購時即無意付款百分之五十七、帳號被盜用百分之五十六、空包退貨百分之四十七、換貨詐欺百分之四十二。百分之十五的受訪者年度損失逾十萬歐元。需特別注意協會方的校正：整體支付流程的詐騙件數僅在千分之一量級，真正的變化是一旦發生單筆損失正在變大，趨勢是變貴而非變多。另值得留意的是 AI 代理自主下單將對身分驗證產生全新需求。",
+    "public_action": "① 引用此調查時請一併註明樣本為七十六家德國商家、期間為二零二六年六月至八月，屬小樣本業界調查。比例數字適合用於判斷手法優先序，不適合當作母體統計。② 自營官網或自行配送的賣家風險高於使用平台履約者。排序前列的身分詐欺、地址資料篡改與否認收貨都發生在下單與配送環節，平台履約通常已有配送證明與爭議處理機制，自行配送則需自行舉證。建議依前五項手法對照自身流程做一次檢查。③ 風控強度請避免過度反應。協會方明確指出整體支付流程的詐騙率僅在千分之一量級，過嚴的風險規則會誤殺正常訂單、損及轉換率，真正的重點是降低單筆損失而非攔阻更多訂單。④ 退貨環節值得單獨檢視。空包退貨與換貨詐欺兩項合計影響近九成受訪商家，且是賣家最難舉證的環節，建議保留收退貨的秤重與影像紀錄。⑤ 若評估導入自動化風控，調查顯示已有防護措施的商家中多數採人工與自動並用，純自動化不足以應對新型態手法。",
+    "sources": [
+      {
+        "name": "bevh（德國電商與郵購協會）官方新聞稿，2026/9/21（獨立來源 1，🟢 協會一手、但為小樣本業界調查：調查名「Betrug im E-Commerce」、由 bevh 與 CRIF 共同執行、樣本 76 家德國商家（稿中自述「近 80 家」）、期間 2026/6/1 至 8/14。93% 曾遭詐騙或未遂；近 12 個月 48% 風險上升（35% 明顯、13% 大幅）、37% 維持高位、15% 減少；手法為身分詐欺 75%、姓名或地址篡改 67%、完全偽造身分 55%、否認收貨約 6 成、訂購時無意付款 57%、帳號盜用 56%、空包退貨 47%、換貨詐欺 42%、盜用付款資料 40%；損失為 25% 年損 <€5,000、45% €10,001-€100,000、15% >€100,000、單筆 >€2,500 占 32%、€1,001-€2,500 占 18%（三個年度級距合計僅 85%、缺 €5,000-€10,000 一段，原稿即缺）；防護為 75% 已用、9% 擬投資、已用者 93% 人工加自動並用、挑戰為設定適切措施 69%／辨識新手法 69%／降低人工審查 53%；CRIF 德國總經理 Dr. Frank Schlein 稱「龜兔賽跑」（Hase-und-Igel-Spiel）並稱「人工智慧會讓此現象的複雜度與這場賽跑進一步加劇」、「身分詐欺、帳號盜用與濫用退貨讓許多商家面臨重大挑戰」、「人工智慧與合成身分未來會進一步加劇詐騙活動」，並就 agentic commerce 指 AI 代理代消費者行動會產生新的詐騙風險與身分信任驗證需求；bevh 副總幹事 Martin Große-Albenhausen 稱「整體支付流中的詐騙件數在千分之一量級」、「一旦發生，損失金額變大。原因是詐騙手法愈來愈高明」）",
+        "url": "https://bevh.org/detail/93-prozent-der-online-haendler-von-betrug-betroffen-betrug-im-e-commerce-bleibt-eine-der-groessten-herausforderungen-fuer-den-online-handel"
+      },
+      {
+        "name": "OnlinehändlerNews（Händlerbund），記者 Christoph Pech，2026/9/22（獨立來源 2，🟡 德國同業公會媒體獨立轉述並交叉確認全部主要數字：93% 曾遭詐騙、48% 風險上升、身分詐欺為最常見、各手法比例與損失級距均與 bevh 原稿一致；同樣引 Schlein 關於人工智慧與合成身分的警語與 agentic commerce 的身分驗證需求。註：本文未載樣本數，樣本 76 家一項僅見於 bevh 原稿）",
+        "url": "https://ohn.haendlerbund.de/ki-tech/cyberkriminalitaet/retouren-identitaetsbetrug-maschen-deutsche-online-shops-oft"
+      },
+      {
+        "name": "RetailDetail EU，2026/9/21（獨立來源 3，🔴 方向性佐證、不可引數字：另一份退貨舞弊研究稱逾三分之一消費者做過、英國消費者 37%、且 98% 未被追究。為付費牆條目、未取得方法與樣本、與 bevh／CRIF 調查為不同研究，本報僅用於說明退貨類詐欺的趨勢方向一致，未引用其任何數字作為事實）",
+        "url": "https://www.retaildetail.eu/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-22",
     "type": "daily",
     "tags": [
