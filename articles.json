@@ -1,5 +1,163 @@
 [
   {
+    "date": "2026-09-25",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/24–9/25 德國三連發】ifo 89.9 優於共識、五大所 2026 成長上修到 1.3%：GfK 卻跌到 -30.6，儲蓄意願創 2008 年來新高",
+    "summary": "企業與研究機構轉樂觀，消費者反向縮手：\n        ① ifo 景氣（ifo，9/24）：9 月 89.9（前 88.8、Reuters 共識 89.0），現況 89.5、預期 90.4 同步走高；ING 稱為連五升、一年多來最高；9/25 出口預期則由 9.8 降到 8.0，主因汽車業。\n        ② 五大所秋季聯合預測（IWH、RWI、ifo、IfW Kiel、DIW，9/24 正式發布）：2026 GDP 由 0.6% 上修到 1.3%、2027 為 1.1%、2028 僅 0.4%；通膨 2026 年 2.8%、2027 年 3.2%。IWH 稱復甦「建立在狹窄的基礎上」。\n        ③ GfK／NIM 消費氣候（9/25）：10 月預測值 -30.6（前 -26.8、共識 -27.4）；所得預期大跌 16.7 點到 -15.0，購買意願 -10.8，儲蓄意願升 6 點到 21.5，為 2008 年金融危機以來最高。\n        ④ 政策：燃油稅 10/1 起每公升調降 €0.17，至年底。\n        結論：ING 稱這波反彈「顯然沒有傳到消費者」，德國 Q4 需求看能源價格，不看企業信心。",
+    "public_impact": "德國在九月二十四日至二十五日連續公布三份資料，方向出現明顯分歧。企業面轉強：ifo 景氣指數升到八十九點九，高於八月的八十八點八與市場共識八十九點零，現況與預期兩項同步走高；五大經濟研究所的秋季聯合預測把二〇二六年經濟成長率從零點六個百分點上修到一點三個百分點，二〇二七年為一點一個百分點。家庭面轉弱：GfK 與 NIM 的消費氣候指標十月預測值跌到負三十點六，低於前值負二十六點八與共識負二十七點四；所得預期單月大跌十六點七點，儲蓄意願升到二十一點五，為二〇〇八年金融危機以來最高，且上升集中在所得較高的家庭。十月一日起德國燃油稅每公升調降零點一七歐元至年底，可能部分緩解家庭的能源支出壓力。對賣家的含意是德國第四季不能只看企業信心，高單價品項的需求可能比整體經濟數據顯示的更弱。",
+    "public_action": "① 德國站第四季備貨建議分品類處理，高單價品項維持去年水位，消耗品與中低單價品項可依企業面轉強適度加量；② 十月初的大型促銷檔期剛好落在燃油稅調降生效後一週，可作為德國站促銷時點的參考；③ 對外溝通德國市場時，建議把企業面與家庭面的數字並列，避免只引用樂觀數據，儲蓄意願升高代表高單價品項的促銷可能需要更長的決策期；④ 接下來可觀察九月二十九日歐元區經濟景氣指數的消費者分項、十月二日歐元區九月消費者物價初值的能源分項，以及十月下旬公布的下一期 GfK 消費氣候，確認家庭所得預期是否隨燃油稅調降回升。",
+    "sources": [
+      {
+        "name": "ifo Institute 新聞稿列表（9/24 景氣 89.9、9/24 聯合預測、9/25 出口預期 8.0）",
+        "url": "https://www.ifo.de/en/press"
+      },
+      {
+        "name": "NIM 消費氣候新聞稿（-30.6、所得預期 -15.0、儲蓄 21.5）",
+        "url": "https://www.nim.org/en/press/article/konsumklima-mit-deutlichem-daempfer"
+      },
+      {
+        "name": "Reuters／Investing：ifo 優於預期（共識 89.0、現況 89.5、預期 90.4、燃油稅降 €0.17）",
+        "url": "https://www.investing.com/news/economic-indicators/german-business-morale-rises-more-than-expected-in-september-ifo-finds-4914577"
+      },
+      {
+        "name": "Reuters／Investing：五大所上修成長預測（通膨 2.8%／3.2%／2.0%）",
+        "url": "https://www.investing.com/news/economic-indicators/german-institutes-raise-2026-and-2027-economic-growth-forecasts-4914571"
+      },
+      {
+        "name": "Reuters／Investing：GfK 共識 -27.4",
+        "url": "https://www.investing.com/news/economic-indicators/german-consumer-confidence-slumps-asenergy-costs-bite-4916659"
+      },
+      {
+        "name": "ING THINK：ifo 連五升（Brzeski）",
+        "url": "https://think.ing.com/snaps/german-ifo-sep26/"
+      },
+      {
+        "name": "ING THINK：德國消費者不買單（Brzeski）",
+        "url": "https://think.ing.com/snaps/german-consumer-confidence-sep26/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-25",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【倒數 2 天・9/27 週日生效】保固標示：eBay 9/24 起可填保證欄位、Kaufland／Otto 已就緒，Amazon 截至 9/16 仍無平台方案",
+    "summary": "距 9/27 只剩週五、週六，各平台落地進度差距拉大：\n        ① eBay（wortfilter 9/19 引 eBay 發言人）：9/24 起提供方案；法定保固通知對商業賣家自動顯示，格式依執行條例 (EU) 2025/1960；製造商提供逾兩年耐用保證者，須填品牌、型號、保證年數三欄，由 eBay 生成標籤。是否支援批量上傳或 API 未說明。\n        ② Amazon（IT-Recht Kanzlei，資訊截至 9/16）：客服稱沒有專屬技術方案、不能上傳 PDF、不會自動顯示、沒有批量工具；讀者回報在 A+ 頁面放標籤被客服稱「嚴格禁止」。\n        ③ 其他平台：Kaufland 已自動加上保固標示，Otto 9/27 起集中處理；Etsy 仍無技術方案。\n        ④ 範圍（OnlinehändlerNews 9/24）：純數位商品（電子書、下載軟體）不適用；含數位元件的實體商品、實體載體上的軟體仍要標示。\n        結論：同一賣家在 eBay 可自救，在 Amazon 只能等平台，警告函風險仍在賣家身上。",
+    "public_impact": "歐盟統一的保固與保證標示義務將於九月二十七日（週日）生效，沒有過渡期。各平台的落地進度差距明顯：eBay 表示九月二十四日起提供方案，法定保固通知會對商業賣家自動顯示，若製造商提供超過兩年的耐用保證，賣家需填寫品牌、型號與保證年數三個欄位，由平台生成標籤；Kaufland 已自動加上保固標示，Otto 自九月二十七日起集中處理；Etsy 目前仍無技術方案。依德國法務事務所 IT-Recht Kanzlei 整理的資訊（截至九月十六日），Amazon 尚未推出專屬的標示工具。適用範圍方面，純數位商品如電子書與下載軟體不適用，但含數位元件的實體商品與實體載體上的軟體仍須標示。標示義務的責任在賣家，德國的同業公會可對未合規者發出警告函。",
+    "public_action": "① 週末前確認各銷售平台的最新公告，特別是尚未推出標示工具的平台；② 在 eBay 上架且商品附有製造商逾兩年耐用保證者，請填寫品牌、型號與保證年數三個欄位；保證期為兩年或無額外保證者不需處理；③ 自有官網賣家請把標示放在商品頁或結帳頁、下單前可見的位置，不能只放在網站法律資訊頁；④ 純數位商品不需標示，混合購物車建議只在實體商品上顯示，避免讓消費者誤以為數位商品沒有保固權利；⑤ 若收到德國警告函，建議先諮詢當地律師，不要自行簽署停止聲明。",
+    "sources": [
+      {
+        "name": "wortfilter：eBay 發言人稱 9/24 起提供方案、三欄位、執行條例 (EU) 2025/1960（9/19）",
+        "url": "https://wortfilter.de/ebay-garantielabel/"
+      },
+      {
+        "name": "IT-Recht Kanzlei：各平台落地狀態（Amazon 資訊截至 9/16）",
+        "url": "https://www.it-recht-kanzlei.de/gewaehrleistungslabel-garantielabel-plattformen.html"
+      },
+      {
+        "name": "OnlinehändlerNews：數位商品是否適用（9/24）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/gewaehrleistungslabel-digitale-inhalte"
+      },
+      {
+        "name": "OnlinehändlerNews：最後檢查清單、不能只放 Impressum（9/23）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/bereit-gewaehrleistungs-garantielabel"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-25",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【9/23–9/24】執委會擬把 11 月起的小包 handling fee 訂為 €2：HDE 稱法國件量少 30-40%、德國每日約 40 萬件剩 30 萬，貨正轉進 EU 倉",
+    "summary": "9/24 日報仍寫「金額未公布」，現在第二筆費用的金額浮現：\n        ① €2 金額（RetailDetail 9/23）：執委會擬把非 EU 小包 handling fee 訂為 €2，歐洲議會與成員國還有一個月表示意見，預計 11 月生效，疊加在 7 月起的 €3 關稅上；2025 年入境小包 58 億件。\n        ② 計費單位未定調（Emerce 9/23）：荷蘭報導寫「每個商品群組 €2」、由進口人支付、11/1 起，收入用於海關增聘人力；RetailDetail 則寫「每件小包」，兩者不一致。\n        ③ 件量（wortfilter 9/24 引 HDE 總經理 Genth）：法國自 EU 新制後件量少 30-40%；德國門檻取消前每日約 40 萬件，現估約 30 萬件。\n        ④ 繞道：訂單改以大宗貨物正式進口、在 EU 內拆單，或預先入 EU 倉以境內包裹寄出；Genth 稱 Shein 正在波蘭蓋大型倉庫。作者批評官方只數「箱子」，看不到 GMV。\n        結論：費用壓低的是跨境直郵件數，不一定是低價賣家在歐洲的銷量。",
+    "public_impact": "歐盟的小包新費用金額浮現。依 RetailDetail 九月二十三日報導，歐盟執委會擬將非歐盟小包的處理費訂為兩歐元，歐洲議會與成員國還有一個月可表示意見，預計十一月生效，疊加在七月起實施的三歐元關稅之上；二〇二五年入境歐盟的小包約五十八億件。計費單位目前說法不一：荷蘭媒體 Emerce 寫的是每個商品群組兩歐元、由進口人支付、十一月一日起，RetailDetail 則寫每件小包。德國零售業公會 HDE 總經理表示，法國自新制上路後件量減少三成到四成，德國每日入境小包從約四十萬件降到約三十萬件；但德國電商評論站 wortfilter 指出，這只是邊境單件統計，低價平台正改以大宗貨物正式進口後在歐盟境內拆單，或預先進駐歐盟倉庫以境內包裹寄出。對賣家的含意是跨境直郵成本持續上升，而競爭對手也正轉向歐盟境內倉儲。",
+    "public_action": "① 仍以跨境直郵寄送到歐盟的賣家，請以三歐元關稅加兩歐元處理費重新試算低客單價商品的毛利，計費單位未定前可用每件小包與每個商品群組兩種情境估算；② 評估改以大宗貨物進口、放進歐盟境內倉庫出貨，但要留意第四季入倉時程已經很緊；③ 不要假設競爭對手會因關稅退場，低價平台正在轉向歐盟境內倉儲；④ 處理費金額目前仍在意見期，正式實施前請以官方公告為準；⑤ 若商品同時在多個歐盟國家銷售，可先確認各國海關是否另有公告，荷蘭已公布由進口人支付的做法。",
+    "sources": [
+      {
+        "name": "RetailDetail：執委會擬定 €2、意見期一個月、2025 年 58 億件（9/23）",
+        "url": "https://www.retaildetail.eu/news/general/additional-handling-fee-adds-another-2-euros-to-the-cost-of-e-commerce-packages/"
+      },
+      {
+        "name": "Emerce：每個商品群組 €2、進口人支付、11/1 起（9/23）",
+        "url": "https://www.emerce.nl/nieuws/europese-toeslag-2-euro-pakketjes-buiten-eu"
+      },
+      {
+        "name": "wortfilter：HDE 件量數字與繞道模式（Mark Steier，9/24）",
+        "url": "https://wortfilter.de/paketsteuer-temu-shein/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-25",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/24 Amazon 官方】Amazon.nl 當日達截單延到 15:00、2.5 萬品項當晚送達：Waddinxveen 新倉開張，2027-28 擴到其他地區",
+    "summary": "荷蘭站的配送承諾升級，靠的是一座新的當日達倉：\n        ① 服務內容（aboutamazon.eu 9/24）：蘭斯塔德地區逾 25,000 個品項在 15:00 前下單，當天 18:00-22:00 送達，是 Amazon 在荷蘭最晚的截單時間；上午下單則有數十萬品項適用。\n        ② 費用：Prime 會員訂單滿 €20 免運，非會員 €4.99。\n        ③ 倉網：新開的當日達倉位於南荷蘭省 Waddinxveen，由物流商 Dragonfly 營運；計畫 2027-2028 年擴到荷蘭其他地區。\n        ④ 投資脈絡：屬 Amazon 2025-2027 年在荷蘭逾 €14 億投資的一部分，2026 年荷蘭員工逾 1,000 人；國家經理 Eva Faict 稱為 Amazon.nl 的「里程碑」。RetailDetail 與 Emerce 同日跟進報導。\n        ⑤ 未揭露事項：官方稿沒有說明 2.5 萬品項的組成、先前的截單時間，也沒有說明是否包含第三方賣家的庫存。\n        結論：荷蘭站的當日達從「上午下單」擴大到「下午三點前」，庫存放在哪裡會決定商品能不能被列入。",
+    "public_impact": "Amazon 九月二十四日宣布在荷蘭推出最快的當日送達服務。蘭斯塔德地區逾兩萬五千個品項在下午三點前下單，當天晚上六點到十點送達，是 Amazon 在荷蘭最晚的截單時間；上午下單則有數十萬個品項適用。Prime 會員訂單滿二十歐元免運，非會員收四點九九歐元。服務依靠新開的 Waddinxveen 當日達倉，由物流商 Dragonfly 營運，並計畫在二〇二七年至二〇二八年擴展到荷蘭其他地區。此次上線屬於 Amazon 在二〇二五年至二〇二七年於荷蘭投入逾十四億歐元的一部分。官方公告並未說明當日達是否適用第三方賣家的庫存。對賣家的含意是荷蘭站的配送時效標準正在提高，庫存放置位置對商品能否提供快速配送的影響會越來越大。",
+    "public_action": "① 已在荷蘭站銷售的賣家，可檢查庫存是否有放在荷蘭當地倉庫，以及商品頁顯示的配送時效；② 十月初的大型促銷檔期前，確認荷蘭站的快速配送標示是否正常；③ 評估開設荷蘭站的賣家，可把平台在荷蘭的持續投資與當日達擴展計畫列入考量；④ 當日達是否適用第三方賣家庫存，請以平台後續公告為準，目前官方公告尚未說明；⑤ 荷蘭站競爭者也在加強賣家工具與配送服務，建議定期比較各平台在荷蘭的配送時效與費用，作為通路配置的依據。",
+    "sources": [
+      {
+        "name": "About Amazon EU：Amazon.nl 推出最快當日達（9/24，官方稿；網址中「company-/news」為官方原始路徑）",
+        "url": "https://www.aboutamazon.eu/news/company-/news/amazon-nl-fastest-same-day-delivery"
+      },
+      {
+        "name": "RetailDetail：18-22 點送達、€14 億投資（Stefan Van Rompaey，9/24）",
+        "url": "https://www.retaildetail.eu/news/algemeen/amazon-offers-faster-delivery-in-the-netherlands/"
+      },
+      {
+        "name": "Emerce：截單延到 15:00、Waddinxveen 當日達倉（9/24，付費牆）",
+        "url": "https://www.emerce.nl/nieuws/amazonnl-verhoogt-besteldeadline-tot-1500-uur"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-25",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/24–9/25 英國】GfK 信心 -13 創兩年新高、CBI 零售 -55 卻創 1983 年來最大砍單：BoE Lombardelli 稱能源若居高「越來越可能緊縮」",
+    "summary": "消費者變樂觀、零售商在砍單，英國 Q4 訊號互相矛盾：\n        ① GfK 消費者信心（Reuters，9/25）：9 月 -13（前 -14、Reuters 共識 -16），為 2024 年 8 月以來最佳，個人財務為八個月最高。GfK 的 Bellamy 提醒，通膨、能源與燃油上漲可能讓信心轉弱；YouGov／Cebr 與 LSEG／Ipsos 本月同創 2 月來最佳，BRC／Opinium 則下滑。\n        ② CBI 零售調查（Investing.com，9/24）：銷售差額由 -48 降到 -55，為 4 月以來最弱；對供應商訂單縮減幅度創 1983 年開調以來最大；預期銷售 -37（前 -22）。樣本為 46 家零售連鎖、71 家批發商；CBI 經濟學家 Sartorius 稱持續的銷售下滑讓零售商以紀錄速度削減訂單。\n        ③ BoE（9/24）：副總裁 Lombardelli 在華沙稱，能源價格若持續偏高，「政策越來越可能需要緊縮」；同日 MPC 委員 Dhingra 則稱金融條件已夠緊、勞動市場疲弱。\n        結論：零售商砍單比消費者信心更貼近 Q4 實際補貨行為，英國旺季的通路庫存會偏薄。",
+    "public_impact": "英國九月二十四日至二十五日公布的兩份調查方向相反。GfK 消費者信心指數升到負十三，高於前值負十四與市場共識負十六，是二〇二四年八月以來最佳，個人財務分項為八個月最高；但 GfK 也提醒通膨、能源與燃油上漲可能讓信心轉弱。英國工業聯合會 CBI 的零售調查則顯示，銷售差額從負四十八降到負五十五，為四月以來最弱，零售商對供應商的訂單縮減幅度創一九八三年開始調查以來最大，預期銷售降到負三十七。英國央行副總裁 Lombardelli 同日表示，能源價格若持續偏高，政策越來越可能需要緊縮；另一位貨幣政策委員 Dhingra 則認為金融條件已經夠緊。對賣家的含意是英國第四季實體零售的庫存可能偏薄，線上有現貨的賣家有機會承接需求，但利率走向仍不確定。",
+    "public_action": "① 英國站第四季熱門品項不要跟著實體零售一起砍量，實體通路庫存偏薄時線上現貨更有價值；② 補貨時請把旺季入倉排隊時間算進去；③ 英鎊匯率假設建議以情境處理，英國央行十一月是否升息仍未確定；④ 接下來可觀察九月二十八日英國零售業公會商店價格指數與九月三十日英國第二季國內生產毛額終值；⑤ 促銷規劃建議以實際銷售與庫存週轉為準，消費者信心指數只能當輔助參考，因為不同機構的調查方向本月並不一致。",
+    "sources": [
+      {
+        "name": "Reuters／Investing：GfK -13 創兩年新高（共識 -16）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-consumer-confidence-hits-more-than-twoyear-high-in-september-gfk-says-4916400"
+      },
+      {
+        "name": "Investing.com：CBI 零售 -55、砍單創 1983 年來最大（9/24）",
+        "url": "https://www.investing.com/news/economic-indicators/british-retailers-report-record-drop-in-supplier-orders-93CH-4914835"
+      },
+      {
+        "name": "Investing.com：Lombardelli 華沙演講（9/24）",
+        "url": "https://www.investing.com/news/economic-indicators/bank-of-england-may-tighten-policy-if-energy-prices-stay-high-93CH-4914594"
+      },
+      {
+        "name": "Investing.com：Dhingra 稱金融條件已夠緊（9/24）",
+        "url": "https://www.investing.com/news/economic-indicators/bank-of-englands-dhingra-says-financial-conditions-already-tight-93CH-4914779"
+      },
+      {
+        "name": "ING THINK：BoE 暗示 11 月可能升息（9/17 背景，James Smith）",
+        "url": "https://think.ing.com/snaps/bank-of-england-floats-a-november-rate-hike-if-energy-prices-dont-come-down/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-24",
     "type": "daily",
     "tags": [
