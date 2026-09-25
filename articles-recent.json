@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-09-24",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/23 flash PMI】歐元區綜合 53.1 衝 41 個月新高、法國 25 個月最強：英國反向降到 51.7，BofA 改喊 BoE 升兩次",
+    "summary": "歐陸三大站同步加速、英國獨自減速，Q4 需求口徑必須拆站看：\n        ① 歐元區（S&P Global flash，9/23）：綜合 53.1（8 月 52.0、共識 51.7）為 41 個月新高；服務 53.0（前 51.6、共識 51.5）、製造 52.7（與前值相同）。\n        ② 德國：綜合 53.8（前 51.8、共識 51.8）為 11 個月最強；服務由 49.7 回升到 52.9、重返擴張；製造 53.8 自 54.3 略降。\n        ③ 法國：綜合 51.2（前 48.5、共識 48.7）為 25 個月最強、服務 51.4 為 10 個月新高；製造 50.3 反向低於共識。\n        ④ 英國：綜合與服務同為 51.7（前 52.5、共識 52.0），連三月擴張但為其中最弱；製造 52.0 優於共識，物價壓力同步升溫。\n        ⑤ 利率分岔：ECB 首席經濟學家 Lane 同日稱「沒看到對能源衝擊的大幅工資反應」；BofA 反向把 BoE 從「持平到 2027 才降」改成 11 月與 2 月各升 25bp、2028 才降回 3.5%，Barclays／UBS／JPM 同向。\n        結論：能源衝擊下歐陸內需仍在加速，英國是唯一走弱且通膨黏著的大站。",
+    "public_impact": "九月二十三日公布的歐洲採購經理人指數初值出現明顯分岔。歐元區綜合指數升到五十三點一，是四十一個月來最高，高於八月的五十二點零與市場共識五十一點七。德國綜合指數五十三點八為十一個月最強，其中服務業由四十九點七回升到五十二點九，從收縮轉為擴張。法國綜合指數五十一點二為二十五個月最強，服務業五十一點四是十個月新高。英國方向相反，綜合與服務業同為五十一點七，低於前值五十二點五與共識五十二點零，雖然仍是連續第三個月擴張但為其中最弱，同時價格壓力升溫。利率預期也出現分岔：歐洲央行首席經濟學家同日表示並未看到工資對能源衝擊出現大幅反應；美銀則把英國央行預期從按兵不動改為十一月與二月各升息二十五個基點。對賣家的含意是第四季不能用單一歐洲口徑，德國內需偏正面、法國服務回溫但家庭能源支出仍在擠壓、英國需求鈍化與成本上升同時發生。",
+    "public_action": "① 第四季站點配重建議按國別拆開重算，德國偏正面、法國以必需品與低單價品項為主、英國轉保守；② 德國站備貨可對應十月六日至七日的大型促銷檔期，引用依據為德國綜合指數五十三點八與服務業重返擴張；③ 英國站建議把促銷深度集中在少數引流品項而非全線打折，因為折扣空間同時受需求鈍化與成本上升兩端擠壓；④ 匯率假設請以情境方式處理：若英國央行升息而歐洲央行不動，英鎊相對歐元偏強，以歐元進貨並在英國銷售者毛利受益，反向操作者受壓，建議不要以單一數字當定價基準；⑤ 接下來可觀察九月二十四日德國 Ifo 景氣指數與英國消費者信心、九月二十九日歐元區經濟景氣指數、十月二日歐元區九月消費者物價初值，用以確認本次調查是單月波動或趨勢轉折。",
+    "sources": [
+      {
+        "name": "Trading Economics 歐元區行事曆（綜合 53.1／前 52.0／共識 51.7）",
+        "url": "https://tradingeconomics.com/euro-area/calendar"
+      },
+      {
+        "name": "德國行事曆（綜合 53.8、服務 52.9）",
+        "url": "https://tradingeconomics.com/germany/calendar"
+      },
+      {
+        "name": "法國行事曆（綜合 51.2、服務 51.4）",
+        "url": "https://tradingeconomics.com/france/calendar"
+      },
+      {
+        "name": "英國行事曆（綜合 51.7、製造 52.0）",
+        "url": "https://tradingeconomics.com/united-kingdom/calendar"
+      },
+      {
+        "name": "Investing.com／Reuters 當日 PMI 報導彙整（41 個月、11 個月、25 個月高點）",
+        "url": "https://www.investing.com/news/economic-indicators"
+      },
+      {
+        "name": "ECB Lane：工資壓力仍有限（9/23）",
+        "url": "https://www.investing.com/news/economy-news/ecb-chief-economist-says-wage-pressures-remain-limited-93CH-4913697"
+      },
+      {
+        "name": "BofA 改預期 BoE 升息兩次（9/23）",
+        "url": "https://www.investing.com/news/economy-news/bofa-forecasts-two-boe-rate-hikes-as-energy-prices-stoke-inflation-concerns-4912807"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-24",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/22–9/23 德國法務雙報・倒數 3 天】EmpCo 舊庫存救命條款 § 15b UWG-E：今天二三讀表決，但線上廣告一律沒有過渡期",
+    "summary": "進展在哪：9/17 日報寫的是 9/27 保固標示倒數，今天是德國臨門一腳想替「已上架舊庫存」開一道門，而線上廣告確定沒有這道門：\n        ① 條文（IT-Recht-Kanzlei 9/22）：CDU/CSU 與 SPD 以修正動議，把 § 15b UWG-E 掛在設計法現代化法案上。對 9/27 前已投入市場的商品，禁制請求須「依誠信並考量比例原則」主張；法院要權衡違規嚴重度、業者補救努力、成本與環境負擔，可改判補充告知義務或限期出清，極端情況請求不成立。特別條款到 2028/9/26 失效。\n        ② 時程：9/24 表決，距 9/27 生效只差三天。\n        ③ 沒有過渡的部分：官網、商店頁、社群與廣告活動不在 § 15b 範圍，9/27 起可被競爭協會寄警告函。\n        ④ 他國作法：奧地利改用一刀切，9/27 前上市商品的特定民事請求三年內排除，不做個案權衡。\n        限制：修正動議未正式公布、未通過，是否自 9/27 適用仍未定；且「已投入市場」不等於已生產或已入倉。",
+    "public_impact": "歐盟賦權消費者綠色轉型指令（EmpCo）在德國的落地規則於九月二十七日生效，零過渡期。九月二十二日至二十三日德國兩家法務媒體同步報導，執政黨以修正動議將一項新條文掛在設計法現代化法案上，針對九月二十七日前已投入市場的商品，禁制請求必須依誠信並考量比例原則主張。法院會權衡違規嚴重程度、補救努力與成本，可能改判補充告知義務或限期出清；該條文計畫於二零二八年九月二十六日失效。關鍵限制有三點。第一，這項緩衝只涵蓋已投入市場的實體商品與包裝，官網、商店頁面、社群與廣告活動完全不在範圍內，九月二十七日起即可能收到警告函。第二，單純生產或倉儲很可能不構成「已投入市場」，最終定義要等條文公布。第三，修正動議尚未通過也未正式公布，是否自九月二十七日適用仍未定。奧地利採取不同作法，對九月二十七日前上市商品的特定民事請求直接排除三年，不做個案權衡，因此同一批庫存在德國與奧地利的風險並不對稱。",
+    "public_action": "① 請在九月二十七日前完成商品頁的環境宣稱盤點，範圍包含商品標題、要點描述、圖文內容、品牌店鋪頁與站外社群及廣告素材，這五處都不在緩衝條文的保護範圍內；② 籠統的環境用語（例如環保、永續、氣候中和等沒有具體依據的表述）請改寫成有明確依據的敘述，或直接移除，不要只調整字眼；③ 不要把這項審議中的條文理解為豁免，它降低的是救濟強度而非讓違規合法，競爭同業與協會仍可提告，應訴成本仍由賣家負擔；④ 倉儲中但尚未出貨的庫存是否屬於已投入市場，目前無法確定，建議直接諮詢法律顧問而非自行推定；⑤ 同時在德國與奧地利銷售者請注意兩國作法不同，奧地利為三年一刀切排除、德國為個案權衡；⑥ 可追蹤的節點為九月二十四日德國聯邦議院的審議結果與最終條文文字、九月二十七日環境宣稱禁令與保固及保證雙標示同步適用。",
+    "sources": [
+      {
+        "name": "IT-Recht-Kanzlei 9/22：EmpCo 舊庫存是否還有解方（§ 15b UWG-E 條文細節、2028/9/26 失效、奧地利對照）",
+        "url": "https://www.it-recht-kanzlei.de/empco-hilfe-fuer-altbestaende.html"
+      },
+      {
+        "name": "OnlinehändlerNews 9/23：EmpCo 舊庫存例外規劃中（比例原則、9/24 審議）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/empco-richtlinie-ausnahme-altbestaende-geplant"
+      },
+      {
+        "name": "IT-Recht-Kanzlei：9/27 起一般性環境宣稱是否全面禁止",
+        "url": "https://www.it-recht-kanzlei.de/allgemeine-umweltaussagen-empco.html"
+      },
+      {
+        "name": "OnlinehändlerNews：9/27 保固與保證標示義務倒數",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/bereit-gewaehrleistungs-garantielabel"
+      },
+      {
+        "name": "wortfilter 9/19：eBay 說明保證標示將於 9/24 自動化（平台自述）",
+        "url": "https://wortfilter.de/ebay-garantielabel/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-24",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/23 泵價全表】柴油最貴丹麥 €2.52、法國 €2.41 超越 2022 峰值：原油反彈 4% 中止五連跌，美柴油期貨聞出口禁令傳聞跌 4%",
+    "summary": "進展在哪：9/22 日報寫的是「原油跌、柴油創高」的脫鉤本身，今天是泵價的國別落差全表、法國的政治代價、以及原油與柴油同日反向大動：\n        ① 泵價（Euronews 引 fuel-prices.eu，截至 9/22）：汽油最貴荷蘭 €2.43、丹麥 2.35、芬蘭 2.32、法國 2.23；柴油最貴丹麥 €2.52、法國 2.40、義大利 2.36，最便宜北馬其頓 1.70，價差近 €1。以購買力調整後 EU 內希臘最吃力。\n        ② 法國：柴油週日創 €2.41 新高、SP95-E10 破 €2.17，已超越 2022 峰值；漁民封鎖油庫、農民全國示威；政府 9/22 加碼 €4.5 億（累計 €14 億）針對性補貼，明言不減稅。\n        ③ 瓶頸在煉油：IEA 8 月報告指 7 月全球煉油產出比去年同月少近 500 萬桶／日；ECB 專家預期柴油利潤 10 月見頂（汽油 8 月已見頂）。\n        ④ 9/23 同日反向：Brent 因伊朗總統強硬表態反彈約 4%、中止五連跌；美超低硫柴油期貨因出口禁令報導跌 4%，白宮否認、能源部長稱禁令無效。\n        結論：成本壓力仍在柴油，不在原油。",
+    "public_impact": "九月二十三日歐洲泵價的國別落差被攤開。汽油最貴為荷蘭每公升二點四三歐元；柴油最貴為丹麥二點五二歐元，法國二點四零、義大利二點三六，最便宜的北馬其頓為一點七零，最高與最低差距接近一歐元。法國情況最為緊張，柴油於週日創下每公升二點四一歐元新高，九五無鉛突破二點一七，已超越二零二二年的峰值；漁民封鎖油庫、農民全國示威，政府於九月二十二日追加四點五億歐元針對性補貼、累計達十四億歐元，並明言維持補貼而不減稅。瓶頸在煉油而非原油：國際能源總署八月報告指出七月全球煉油產出比去年同月少近五百萬桶每日，歐洲央行專家預期柴油煉油利潤於十月見頂，汽油已於八月見頂。九月二十三日兩者甚至反向，布蘭特原油因中東局勢反彈約百分之四、中止五連跌，美國超低硫柴油期貨則因出口禁令報導下跌百分之四，隨後白宮否認。對賣家而言，歐洲最後一哩配送以柴油為主，成本壓力的正確觀察對象是柴油與泵價，不是原油報價。",
+    "public_action": "① 重算第四季履約成本時，成本錨點請用柴油泵價而非原油報價，可參考的數字為丹麥柴油每公升二點五二歐元、法國二點四零、義大利二點三六；② 法國市場建議單獨處理，當地已出現油庫封鎖與全國示威，屬於配送延誤的前置訊號，建議把十月上旬促銷檔期的入倉時程提前，並先準備配送延誤的客服說明；③ 對外溝通成本或調價時不要引用原油方向，九月二十三日原油反彈而柴油期貨下跌，兩者已脫鉤，引用原油會讓人誤判成本即將回落；④ 毛利模型建議把十月標為全年成本高點並先做壓力測試，因為歐洲央行專家預期柴油煉油利潤於該月見頂，正好與大型促銷檔期同月；⑤ 評估新市場時請把燃油成本差異納入，柴油最貴與最便宜市場價差接近每公升一歐元，不同市場的配送成本結構不可直接沿用；⑥ 泵價數字取自即時追蹤平台而非官方週報，購買力調整排名為第三方估算，引用時建議一併說明。",
+    "sources": [
+      {
+        "name": "Euronews 9/23：歐洲泵價國別全表（荷蘭汽油 €2.43、丹麥柴油 €2.52、IEA 煉油缺口、ECB 柴油利潤 10 月見頂）",
+        "url": "https://www.euronews.com/2026/09/23/largest-global-fuel-supply-disruption-in-history-which-europeans-are-paying-the-most-for-f"
+      },
+      {
+        "name": "Euronews 9/23：法國燃油危機與總統大選（柴油 €2.41 新高、€4.5 億加碼、封鎖油庫）",
+        "url": "https://www.euronews.com/2026/09/23/surging-prices-voters-anger-how-frances-fuel-crisis-could-shape-the-presidential-campaign"
+      },
+      {
+        "name": "Investing.com／Reuters 商品新聞 9/23（Brent 反彈約 4%、美柴油期貨跌 4%、白宮否認出口禁令、能源部長稱禁令無效）",
+        "url": "https://www.investing.com/news/commodities-news"
+      },
+      {
+        "name": "Euronews 9/23：Kallas 會晤伊朗外長後要求荷莫茲免費通行",
+        "url": "https://www.euronews.com/2026/09/23/kallas-urges-free-passage-through-hormuz-after-talks-with-iran"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-24",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【9/23 同日兩件】Séjourné 稱對中貿易再平衡「攸關存亡」、10 月是自訂死線；同日美中把休戰從 11/10 延到 1/10",
+    "summary": "同一天兩件事把歐盟的位置擠得更窄：\n        ① Séjourné 專訪（Euronews 9/23）：主管繁榮與產業戰略的執委會執行副主席稱「貿易再平衡對歐洲人已攸關存亡」、「我們每週失去數千個工作」。7 月對中逆差單日超過 €10 億，去年 EU 流失 25 萬個工業職位，集中在能源密集產業與汽車供應鏈。6 月開談、10 月要見到可信成果，10/8–10/9 貿易執委 Šefčovič 訪京要中方承諾節制對歐出口。「貿易防衛工具已在桌上」，選項含反傾銷與反補貼關稅；反制風險是中方限制稀土出口。中方目前仍拒絕自願出口節制。\n        ② 美中反向降溫（9/23）：美財長 Bessent 會晤副總理何立峰後宣布延長「釜山協議」休戰，原定 11/10 到期改為 1/10，為更大架構的協議爭取時間。\n        結論：美中把時間買下來，歐盟卻把死線押在 10 月，兩邊節奏差了一個季度。",
+    "public_impact": "九月二十三日同日出現兩件方向相反的貿易消息。其一，歐盟執委會主管繁榮與產業戰略的執行副主席在專訪中把對中貿易再平衡稱為攸關歐洲人存亡，表示歐洲每週流失數千個工作，七月對中逆差單日超過十億歐元，去年歐盟流失二十五萬個工業職位，集中於能源密集產業與汽車供應鏈。談判自六月展開，執委會自訂十月要見到可信成果，貿易執委將於十月八日至九日訪問北京，要求中方承諾節制對歐出口。他明確表示貿易防衛工具已在桌上，選項包含反傾銷與反補貼關稅，同時承認中方可能以限制稀土出口反制。中方目前仍拒絕自願出口節制。其二，美國財政部長在與中國副總理會晤後宣布延長所謂釜山協議的貿易休戰，原定十一月十日到期改為一月十日。兩者合起來的含意是美中把時間買下來，歐盟卻把死線押在十月，節奏相差約一個季度，因此第四季旺季期間歐盟啟動貿易措施的可能性相對上升。",
+    "public_action": "① 目前沒有任何已生效的新措施，建議先不要調整定價，而是把十月列入風險觀察期，關鍵節點為十月八日至九日的訪京行程與執委會自訂的十月成果死線；② 高曝險品類請優先檢視，包含家電、儲能與太陽能周邊、汽車配件，以及使用稀土磁鐵的消費電子與電動工具，建議確認第四季至次年第一季的料號來源與替代方案；③ 稀土限制屬於供給問題而非價格問題，處理方式是盤點含磁鐵與關鍵金屬的品項並確認替代供應商前置期，而不是先行調價；④ 針對電動車、太陽能板等既有措施已涵蓋的領域，請留意品類範圍可能擴大，一般消費品受到的多為成本與匯率的間接傳導，不是直接稅率衝擊；⑤ 美中休戰延至一月十日的意義僅在於第四季稅率大幅變動的機率下降，屬於時間緩衝而非結構改善，不建議據此擴大長期備貨；⑥ 兩項消息分別來自媒體專訪與官員受訪的口頭宣布，尚無正式文件，引用時建議說明。",
+    "sources": [
+      {
+        "name": "Euronews 9/23：Séjourné 專訪（攸關存亡、單日 €10 億逆差、25 萬職位、10 月死線、10/8–10/9 訪京）",
+        "url": "https://www.euronews.com/2026/09/23/rebalancing-of-trade-with-china-existential-for-eu-commissioner-sejourne-tells-euronews"
+      },
+      {
+        "name": "Investing.com 9/23：Bessent 宣布釜山協議休戰延至 1/10（原 11/10）",
+        "url": "https://www.investing.com/news/economy-news/us-china-agree-to-extend-trade-truce-until-january-bessent-says-4914257"
+      },
+      {
+        "name": "Euronews 9/23：川習會對歐洲的利害",
+        "url": "https://www.euronews.com/2026/09/23/the-trump-xi-summit-why-europe-has-so-much-at-stake"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-24",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/23 英國兩份研究】48% 願讓 AI 代理購物、一年前只有 31%：五年後估 £988 億，但售後溝通失誤已牽動 £235 億訂單",
+    "summary": "英國同日兩份消費端研究，一份講入口、一份講售後，合起來就是旺季前的兩個變數：\n        ① AI 代理購物（Global Payments 委託並發布，Retail Times 9/23）：2,002 位英國成人，48% 已用過或願在 12 個月內使用 AI 購物代理，去年同題 31%（+17pt、相對 +55%）；若能穩定找到最低價，願意者升到 69%。消費者預期五年內 16% 的購買由 AI 完成（去年預期 7%），換算約 £988 億。授權金額集中在小額：願讓 AI 花到 £100 的比例，食品雜貨 90%、服飾鞋類 84%、3C 60%；超過 £500 者各品類僅 0–5%。阻力是信任：54% 擔心付款資料安全、34% 想逐筆核准。\n        ② 售後溝通（ZigZag 年度報告，ChannelX 9/23）：62% 會因一次糟糕的配送體驗換掉零售商；約每 5 筆英國線上訂單有 1 筆溝通失誤，對應 £235 億訂單；95% 期望出問題後一天內收到回覆。\n        結論：入口正在往代理移動，但守住轉換的還是配送與溝通。",
+    "public_impact": "九月二十三日英國同日出現兩份消費端研究，一份講購買入口、一份講售後。第一份由支付業者 Global Payments 發布，樣本兩千零二位英國成人：百分之四十八已使用過或願意在十二個月內使用人工智慧購物代理，一年前僅百分之三十一；若代理能穩定找到最低價，願意者升至百分之六十九。消費者預期五年內有百分之十六的購買由人工智慧完成，去年的預期為百分之七，換算約九百八十八億英鎊（推算值非調查結果）。授權金額集中在小額，願意讓代理花到一百英鎊的比例，食品雜貨百分之九十、服飾鞋類百分之八十四、消費電子百分之六十，超過五百英鎊者各品類僅百分之零至五。主要阻力是信任，百分之五十四擔心付款資料安全、百分之三十四希望逐筆核准。第二份為物流服務商 ZigZag 的年度報告：百分之六十二會因一次糟糕的配送體驗更換零售商，約每五筆英國線上訂單有一筆出現溝通失誤，對應二百三十五億英鎊訂單。",
+    "public_action": "① 兩份研究中可立即執行的是售後溝通，建議在旺季前把異常訂單的主動通知時效壓到二十四小時內，並預先備好出貨與延誤兩類訊息模板，依據是百分之九十五的消費者期望一天內收到回覆、百分之六十二會因一次糟糕配送體驗更換零售商；② 人工智慧代理購物目前屬於趨勢觀察，尚無需要調整的平台設定，建議用來校準預期而非立即行動；③ 影響順序建議按客單價而非品類判斷，一百英鎊以下的高重複購買品項會最先被代理接手，五百英鎊以上各品類的授權比例僅百分之零至五，短期影響有限；④ 信任仍是主要瓶頸，過半消費者擔心付款資料安全、約三分之一希望逐筆核准，說明短期內消費者仍偏好帳戶、付款與退貨在同一邊界內完成；⑤ 引用數字時建議註明兩項限制，其一為九百八十八億英鎊是以零售銷售推算而得，其二為第二份報告未揭露樣本數與調查期間。",
+    "sources": [
+      {
+        "name": "Retail Times 9/23：Global Payments 研究（2,002 人、48% vs 去年 31%、16%、£988 億推算、品類授權分布、信任障礙）",
+        "url": "https://retailtimes.co.uk/almost-half-of-brits-would-let-bots-shop-for-them-as-ai-driven-spending-is-set-to-top-99bn-within-five-years/"
+      },
+      {
+        "name": "ChannelX 9/23：ZigZag 年度報告（62%、每 5 筆 1 筆溝通失誤＝£235 億、95% 期望一天內回覆、五類購物者）",
+        "url": "https://channelx.world/2026/09/how-to-communicate-with-five-types-of-shopper/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-23",
     "type": "daily",
     "tags": [
@@ -2249,160 +2403,6 @@
       {
         "name": "Destatis 8/28 第 310 號「Employment in July 2026 down slightly on the previous month after seasonal adjustment」（約 4,548 萬人、國內概念、暫定值）",
         "url": "https://www.destatis.de/EN/Press/2026/08/PE26_310_132.html"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-08-24",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/21 Flash PMI】歐元區綜合 52.1 九個月新高、製造業 52.8 為 2022/5 來最強：但德國服務業 48.5 連 5 月萎縮、法國 48.8 連 8 月縮",
-    "summary": "總數在漲、但漲的不是賣消費品那一塊——這是今天最容易被讀錯的一組數字。\n        ① 歐元區總量（S&P Global 8/21 初值）：綜合 52.1（7 月 52.0）為九個月新高；製造業 52.8（51.9）是 2022 年 5 月以來最強、製造業產出 53.4（52.9）為 54 個月新高；服務業 51.7 原地不動。新出口訂單四年半來首度成長，就業今年首度增加（終結製造業 38 個月裁員）。\n        ② 國別完全分岔：德國綜合反而降到 51（7 月 51.3、共識 51.3）為兩個月低點——製造業衝到 54.1（產出指數 56.7、四年半最快），但服務業 48.5 連續第 5 個月萎縮。法國綜合 48.8（49.4、共識 49.5）連續第 8 個月萎縮且加深，製造業 51.5 轉正、服務業 48.4，業者普遍歸因極端高溫。\n        ③ 英國是鏡像：綜合 52.5 優於共識 51.6，但靠服務業 52.8 帶動、製造業轉弱；就業續減近兩年，業者點名國民保險費調升。\n        ④ 價格在鬆：歐元區投入成本 2 月以來最緩、產出價格連 3 月放緩至 3 月來最低。ING 的 Bert Colijn 指出油價站上 $90 但通膨壓力反而軟化。\n        結論：庫存回補＋國防＋資料中心撐起製造業，消費端沒有跟上。",
-    "public_impact": "S&P Global 8 月 21 日發布 8 月 PMI 初值。歐元區綜合產出 52.1（7 月 52.0）為九個月新高，製造業 52.8 是 2022 年 5 月以來最強、製造業產出 53.4 為 54 個月新高，但服務業維持 51.7 不變。新出口訂單為四年半來首度成長，就業為今年首度增加。S&P Global 的 Chris Williamson 將動能歸因於因中東供應鏈中斷而進行的預防性庫存回補、AI 相關科技需求與國防設備訂單，並預估第三季 GDP 約成長 0.3%。國別差異明顯：德國綜合反而降至 51（共識 51.3），製造業 54.1 但服務業 48.5 為連續第五個月萎縮；法國綜合 48.8 為連續第八個月萎縮，業者多歸因極端高溫；英國綜合 52.5 優於共識，由服務業 52.8 帶動。價格面轉緩，歐元區投入成本為 2 月以來最緩、產出價格連三個月放緩。",
-    "public_action": "① 綜合指數上升主要來自製造業與庫存、國防、科技需求，對應終端消費的服務業在歐元區持平、德法仍萎縮，不宜把總指數上升解讀為消費需求回升；② 建議按國別而非歐元區總數設定假設，德國呈製造強、服務弱的分裂，法國則是綜合、新訂單與就業三項同步惡化；③ 法英業者均把活動下滑部分歸因極端高溫，屬可回復因素，9 月數據有反彈空間，不宜視為結構性衰退；④ 工業零件、B2B 耗材與設備類賣家環境相對有利，可留意製造業產出 54 個月新高與出口訂單回溫；⑤ 家居、家具與大件耐久財宜維持保守，壓力來自高溫壓抑客流與需求遞延；⑥ 即使油價站上每桶 90 美元，投入與產出價格通膨反而同步放緩，顯示轉嫁空間有限，定價宜以毛利率為指標。",
-    "sources": [
-      {
-        "name": "Investing.com 8/21「Eurozone business activity rises in August on manufacturing strength」（引 S&P Global 初值：綜合 52.1／7 月 52.0、製造業 52.8、製造業產出 53.4、服務業 51.7、新訂單 40 個月高、新出口訂單四年半首度成長、就業終結 38 個月縮減、投入成本 2 月來最緩、Chris Williamson 稱 Q3 GDP 約 +0.3%）",
-        "url": "https://www.investing.com/news/economic-indicators/eurozone-business-activity-rises-in-august-on-manufacturing-strength-93CH-4871039"
-      },
-      {
-        "name": "Trading Economics 歐元區綜合 PMI（52.1、九個月新高、優於預期 51.7）",
-        "url": "https://tradingeconomics.com/euro-area/composite-pmi"
-      },
-      {
-        "name": "Trading Economics 德國綜合 PMI（51、兩個月低點、共識 51.3；製造業 54.1、服務業 48.5 連 5 月萎縮、製造業產出 56.7）",
-        "url": "https://tradingeconomics.com/germany/composite-pmi"
-      },
-      {
-        "name": "Trading Economics 法國綜合 PMI（48.8、連 8 月萎縮、共識 49.5；製造業 51.5、服務業 48.4、業者歸因極端高溫、新訂單連 9 月降、就業連 4 月減）",
-        "url": "https://tradingeconomics.com/france/composite-pmi"
-      },
-      {
-        "name": "Trading Economics 英國綜合 PMI（52.5、優於共識 51.6、服務業 52.8 帶動、就業續減且業者歸因 NIC）",
-        "url": "https://tradingeconomics.com/united-kingdom/composite-pmi"
-      },
-      {
-        "name": "ING Think 8/21「Eurozone PMI in line with continued steady growth despite global unrest」（Bert Colijn：綜合 52→52.1、製造業產出 52.9→53.4 為四年半新高、油價 $90 以上但通膨壓力軟化、Q3 GDP 可期）",
-        "url": "https://think.ing.com/snaps/eurozone-pmi-in-line-with-continued-steady-growth-despite-global-unrest/"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-08-24",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【8/21 ONS】UK 7 月零售銷量 -0.5% MoM、年增砍到 1.6%（預期 2.2%）：線上占比 29.2%→28.3%、服飾 -2.7% 為 2025/5 來最大跌",
-    "summary": "同一天兩份 ONS 數據，一份講消費、一份講稅——合起來鎖定 10/28 預算案。\n        ① 零售本身是「時序」而非「崩盤」（ONS 8/21）：7 月銷量月減 0.5%（符合 Reuters 調查中位數），6 月由初估 +1.0% 下修到 +0.7%、5 月上修到 +1.3%。年增砍到 1.6%（市場原預期放緩到 2.2%），6 月年增下修到 3.8%。三個月／三個月仍 +1.1%。\n        ② 線上是這則最該看的一行：線上占零售金額由 6 月 29.2% 掉回 7 月 28.3%，線上金額月減 3.9%——但年增仍 +6.5%、近三個月年增 +11.0%。所以是促銷提前造成的月度回吐，不是通路份額反轉。\n        ③ 品類分岔：服飾與鞋類月減 2.7%（2025 年 5 月以來最大）、家用品 -1.9%、非食品店 -1.3%；食品 +0.5%。ONS 明講家具需求被熱浪打到、百貨反映缺貨。\n        ④ 同日公共財政（ONS 8/21）：7 月淨借款 £18 億、年增 68.7%、比 OBR 預測高出 £23 億（OBR 原估盈餘 £5 億）；本財年至 7 月 £567 億（年減 9.6%，仍高於預測 £23 億）；債務占 GDP 94.1%。HMRC 作業錯誤使 3–5 月 VAT 各高估約 £2.35 億已更正。2026 年預算案確定 10/28（週三）。\n        結論：GfK 8 月信心衝兩年高，但 10 月電費調整與預算案在後面。",
-    "public_impact": "英國國家統計局 8 月 21 日發布 7 月零售銷售，銷量月減 0.5%，與 Reuters 調查中位數一致；6 月由初估月增 1.0% 下修至 0.7%。年增率放緩至 1.6%，低於原先預期的 2.2%；三個月對前三個月仍成長 1.1%。線上銷售金額占零售總額比重由 6 月 29.2% 降至 7 月 28.3%，金額月減 3.9%，但年增仍 6.5%、近三個月年增 11.0%，顯示月度下滑來自促銷時點前移而非通路份額反轉。服飾與鞋類月減 2.7% 為 2025 年 5 月以來最大跌幅，家用品月減 1.9%，食品店月增 0.5%；統計局指出高溫抑制實體客流、家具等大件需求受影響。同日公共財政顯示 7 月淨借款 18 億英鎊，高於財政研究機構預測 23 億英鎊，債務占 GDP 94.1%。英國 2026 年預算案確定 10 月 28 日公布。",
-    "public_action": "① 引用線上數據時建議月度與年度並列，占比雖由 29.2% 降至 28.3%、金額月減 3.9%，但年增仍 6.5%、近三個月年增 11.0%，僅引月度容易得出通路衰退的錯誤結論；② 今年英國一個明顯變化是大型線上與時尚業者將折扣往前移，導致 6 月吃掉 7 月銷售，規劃第四季促銷宜假設實際競爭起點早於官方檔期；③ 品類假設宜分流，服飾鞋類、家用品與大件家具維持保守，食品相對穩定；百貨反映的缺貨情形是線上可補位的缺口；④ 消費者信心雖達兩年高點，但 10 月起家庭電費稅率調整與受管制能源、燃料上揚方向相反，評估需求時兩者宜同時納入；⑤ 預算案定於 10 月 28 日公布，在此之前第四季假設宜維持保守，並將該日視為重新校準時點。",
-    "sources": [
-      {
-        "name": "ONS 8/21「Retail sales, Great Britain: July 2026」（月減 0.5%、年增 1.6%、6 月下修至 +0.7%、5 月上修 +1.3%、三月／三月 +1.1%、線上占比 29.2%→28.3%、線上金額月減 3.9%／年增 +6.5%／近三月年增 +11.0%、非食品店月減 1.3%、家具受熱浪衝擊、百貨缺貨、回覆率 56.9%、下次發布 9/18）",
-        "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/july2026"
-      },
-      {
-        "name": "Reuters（David Milliken）8/21「British retail sales slip in July after June World Cup boost」（-0.5% 符合 Reuters 調查中位數、年增 1.6% 弱於預期 2.2%、6 月年增下修至 3.8%、服飾鞋類 -2.7% 為 2025/5 來最大、GfK 8 月信心兩年高、10 月家庭電費免 VAT、WPI Strategy 的 Martin Beck 與 PwC 的 Jacqueline Windsor 評論）",
-        "url": "https://www.investing.com/news/economic-indicators/british-retail-sales-soften-in-july-after-june-world-cup-boost-4870869"
-      },
-      {
-        "name": "TheIndustry.fashion 8/21「Retail sales weaken in July as demand for clothing falls」（服飾鞋類 -2.7%、非店面零售 -3.6%、家用品 -1.9%、食品 +0.5%、ONS 首席經濟學家 Grant Fitzner 與 EY-Item Club 的 Matt Swannell 評論）",
-        "url": "https://www.theindustry.fashion/retail-sales-weaken-in-july-as-demand-for-clothing-falls/"
-      },
-      {
-        "name": "Retail Times 8/21（線上占比降至 28.3% 但屬「結構性偏高」；Deloitte 的 Cande Cooper、RSM UK 的 Jacqui Baker 與 Thomas Pugh、McKinsey 的 Hai-Ly Nguyen 評論）",
-        "url": "https://retailtimes.co.uk/retail-sales-volumes-are-estimated-to-have-fallen-by-0-5-in-july-2026-ons-reports/"
-      },
-      {
-        "name": "ONS 8/21「Public sector finances, UK: July 2026」（7 月淨借款 £18 億、年增 68.7%、超 OBR 預測 £23 億、本財年至 7 月 £567 億、債務占 GDP 94.1%、VAT 收入 £185 億 +6.0%、HMRC 錯誤致 3–5 月 VAT 各高估約 £2.35 億已更正、2026 預算案 10/28）",
-        "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/july2026"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-08-24",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【8/20–8/21 FiveX】荷蘭十大 marketplace 佣金實測：Amazon 19.7% 全場最貴、平均 14.5%、Cdiscount 11.2% 最低",
-    "summary": "這是少見的第三方實測佣金橫向比較，會被賣家拿來當談判材料——所以我們得比賣家更早看懂它的邊界。\n        ① 數字本身（荷蘭電商軟體商 FiveX，Emerce 8/20 獨家、ecommercenews.eu 8/21 轉載）：荷蘭十大 marketplace 的平均佣金 14.5%，其中 Amazon 19.7%（8 月數據、最高）、Bol 14.2%、MediaMarkt 13.7%、Fnac 13.6%、Cdiscount 11.2%（最低）。十家的標準差 2.25 個百分點，多數平台其實擠在一起。\n        ② 方法論：FiveX 檢視超過 5,000 萬筆訂單，其中500 萬筆來自最近一季。這是實際成交資料而非費率表推算，這點是它的價值所在。\n        ③ 但它只算了一件事：報導明確寫「未計入 fulfillment、運費與廣告成本」，並自行指出納入後「各平台的成本圖像可能不同」。十家中只有五家被具名，另五家未公開。\n        ④ 時間點的落差：ecommercenews.eu 同時提到 Amazon 去年底才調降過歐洲賣家的部分費用，而本研究的 Amazon 數字標註為「8 月」——即品類組合而非費率本身可能是主要差異來源。\n        結論：19.7% 是「品類加權後的實際佣金」，不是任何一張費率表上的數字。",
-    "public_impact": "荷蘭電商軟體商 FiveX 針對荷蘭十大 marketplace 進行佣金實測，由 Emerce 於 8 月 20 日獨家報導、ecommercenews.eu 於 8 月 21 日轉載。十家平台平均佣金 14.5%，其中 Amazon 以 19.7%（標註為 8 月數據）最高，Bol 14.2%、MediaMarkt 13.7%、Fnac 13.6%，Cdiscount 以 11.2% 最低；標準差僅 2.25 個百分點，多數平台費率其實接近。方法上檢視超過 5,000 萬筆訂單、其中 500 萬筆來自最近一季，屬實際成交資料而非費率表推算。須注意研究自述的兩項邊界：僅衡量佣金，明確未計入履約、運費與廣告成本，並指出納入後各平台成本圖像可能不同；且十家中僅五家具名。由於實際佣金是各品類費率經成交金額加權的結果，品類組合而非費率結構本身可能是平台間差異的重要來源。",
-    "public_action": "① 這份研究衡量的是實際成交的品類加權平均佣金，並非任何平台費率表上的單一數字，比較平台成本時宜回到自己主要品類的實際費率，而非套用全站平均；② 研究明確未計入履約、運費與廣告成本，而這三項在不同平台的差異往往大於佣金本身，評估通路宜以到手毛利或單件總服務成本為指標；③ 可比較的維度包括履約與退貨的單件成本、取得同等曝光所需的廣告投入，以及把同一套商品資訊複製到其他站點的邊際成本；④ 十家標準差僅 2.25 個百分點，代表佣金差異有限，通路選擇的決定性因素通常是可觸及需求量與營運複雜度；⑤ 若考慮以其他平台作為低佣金替代通路，宜一併確認其擁有權與費率政策是否存在變動因素。",
-    "sources": [
-      {
-        "name": "Ecommerce News Europe 8/21「Dutch average Amazon commission fees nearly 20%」（Amazon 19.7%、十家平均 14.5%、Bol 14.2%、MediaMarkt 13.7%、Fnac 13.6%、Cdiscount 11.2%、標準差 2.25pp、逾 5,000 萬筆訂單／近一季 500 萬筆、明述未計 fulfillment／運費／廣告、提及 Amazon 去年底曾調降歐洲賣家費用）",
-        "url": "https://ecommercenews.eu/dutch-average-amazon-commission-fees-nearly-20/"
-      },
-      {
-        "name": "Emerce 8/20「Amazon in Nederland duurste marktplaats voor verkopers」（Erwin Boogert；FiveX 位於 Duivendrecht、研究獨家提供 Emerce、2026 年 8 月平均費率 19.7%、Cdiscount 每件 11.2% 最低；全文需付費訂閱）",
-        "url": "https://www.emerce.nl/nieuws/amazon-nederland-duurste-marktplaats-verkopers"
-      },
-      {
-        "name": "Michael Westerweel LinkedIn 貼文（ecommercenews.eu 據以引用 Bol 14.2% 低於平均的數字）",
-        "url": "https://www.linkedin.com/posts/michael-westerweel-294692a4_marketplaces-ecommerce-bol-share-7496201230986362882-Atrz/"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-08-24",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【8/20 DGCCRF】法國罰 Boohoo €230 萬（約 £200 萬）：受檢促銷 95% 不合規，其中 48% 是「先漲後打折」、40% 根本沒降價",
-    "summary": "法國把「假促銷」從灰色地帶變成有價目表的執法項目，而且這次的數字細到可以直接當自查清單。\n        ① 罰則與比例（法國競爭與消費事務總局 DGCCRF，RetailDetail 與 TheIndustry.fashion 8/20 同日報導）：對英國快時尚業者 Boohoo 開罰 €230 萬（約 £200 萬）。受檢的法國站促銷中95% 違規，拆開來是——40% 根本沒有實際降價、7% 折扣幅度小於宣稱、48% 價格其實是先被調高。\n        ② 第二條罪名常被漏掉：Boohoo 對合成材質使用「leather」「suede」等字詞，違反法國服飾與鞋類的標示規定。這是與定價無關的獨立違規項，對所有在法國賣服飾鞋包的賣家都適用。\n        ③ 調查期是 2023/10–2024/2，而罰款在 2026 年 8 月落地——回溯期間長達兩年多。Boohoo 回應稱這是「前管理層時期的歷史問題、現已解決」，並稱已「充分配合監管機關」。Boohoo 自 2025 年 3 月起隸屬更名後的 Debenhams Group。\n        ④ 這不是孤例：兩份來源都提到法國去年 7 月已對 Shein 開罰 €4,000 萬（£3,430 萬），同樣是誤導性折扣；法國並於今年 6 月通過懲罰「一次性服飾」的法律。\n        結論：法國執法的節奏是「先查兩年、再一次開罰」，現在改還來得及。",
-    "public_impact": "法國競爭、消費事務暨反詐騙總局（DGCCRF）對英國快時尚業者 Boohoo 開罰 230 萬歐元（約 200 萬英鎊），RetailDetail 與 TheIndustry.fashion 於 8 月 20 日同日報導。其法國網站受檢的促銷中有 95% 不符規定，細分為 40% 並無實際降價、7% 折扣幅度小於宣稱、48% 的價格在打折前其實先被調高。另一項獨立違規是對合成材質使用「leather」「suede」等字詞，違反法國服飾與鞋類標示規定，此項對所有在法國銷售服飾、鞋類與包件的賣家同樣適用。時間跨度值得注意：受查期間為 2023 年 10 月至 2024 年 2 月，罰款在 2026 年 8 月才落地。Boohoo 稱屬前管理層時期的歷史問題且已解決。法國主管機關去年 7 月亦曾就類似誤導性折扣對 Shein 開罰 4,000 萬歐元。須說明兩份來源均未指明所依據的具體法條。",
-    "public_action": "① 建議針對法國站商品做四項自查：每一個標示折扣的商品在折扣前一段期間內的最低售價為何、是否存在先調高再打折、顯示的折扣幅度是否與實際差價一致、商品文案是否以皮革相關字詞描述合成材質；② 折扣前的價格軌跡屬可還原查核的資料，且本案查核期間與開罰時點相隔逾兩年，代表現行定價行為在數年後仍可能被追究，宜以可留存紀錄的方式管理促銷定價；③ 更換經營團隊不構成免責事由，本案業者以此抗辯但仍受罰；④ 材質描述僅需修改文案，成本最低宜優先處理，範圍不限服飾，鞋類、包件、配件與軟墊類同樣適用；⑤ 公開報導未指明具體法條，建議向所在市場的法律顧問確認適用規範；⑥ 部分平台已開始在商品頁揭露價格歷史，促銷設計宜以折扣前價格為真實售價為前提。",
-    "sources": [
-      {
-        "name": "RetailDetail EU 8/20「Misleading discounts land Boohoo a fine in the millions」（Stefan Van Rompaey；DGCCRF、€230 萬、40% 無實際降價／7% 折扣小於宣稱／48% 價格反而上漲、合成材質誤用 leather／suede、調查期 2023/10–2024/2、Boohoo 回應、Debenhams Group 自 2025/3、法國 6 月通過懲罰一次性服飾的法律）",
-        "url": "https://www.retaildetail.eu/news/fashion/misleading-discounts-land-boohoo-a-fine-in-the-millions/"
-      },
-      {
-        "name": "TheIndustry.fashion 8/20「Boohoo fined £2m by French consumer watchdog over false discounts」（€230 萬／£200 萬、受檢 95% 違規、Boohoo 發言人「historic issues... under previous management, and are now resolved」、對照法國去年 7 月對 Shein 罰 €4,000 萬／£3,430 萬）",
-        "url": "https://www.theindustry.fashion/boohoo-fined-2m-by-french-consumer-watchdog-over-false-discounts/"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-08-24",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【8/19–8/20】JD.com 併 MediaMarkt 母公司 Ceconomy（$25 億）撞上 EU 補貼調查：8/20 提出救濟，北京同週發第 2 號禁令禁配合取證",
-    "summary": "一樁併購案同時卡在兩個政府手上，而 8/20 出現的是推進與對抗兩個相反動作。\n        ① 案子本身（Reuters 8/20）：JD.com 收購德國電子零售集團 Ceconomy（MediaMarkt 與 Saturn 母公司），Reuters 記作 $25 億、RetailDetail 記作約 €22 億。執委會5 月依外國補貼條例（FSR）啟動深入調查，疑慮是 JD.com 可能受益於扭曲歐盟競爭的外國補貼；上個月已收到正式異議聲明。\n        ② 推進側：JD.com 8/20 向執委會提出救濟方案（remedies）。但監管申報未揭露內容，執委會決定期限亦未公布。\n        ③ 對抗側：中國司法部8/19（週三）會同商務部等部門發布禁令，依今年 4 月生效的反不當域外管轄規定（第 3、6 條）認定執委會的跨境取證構成不當域外管轄，「任何組織或個人不得實施或協助實施」。這是該機制第 2 次動用（首次為 5 月的 Nuctech 案）。司法部稱歐盟「恣意索取在中國境內、與調查無關的大量資訊」、屬「嚴重違反國際法治」，並警告「將依法採取堅決反制」。商務部何亞東 8/20 補充，歐盟向中國境內銀行機構索取大量無關資訊。\n        ④ 邊界必須講清楚：中方三份聲明都只提 JD.com，未點名 Ceconomy 或 MediaMarkt，是 RetailDetail 與 Reuters 把兩件事連起來。\n        結論：買方在配合、母國在禁止配合，這是 FSR 上路後最直接的一次對撞。",
-    "public_impact": "中國電商集團 JD.com 收購德國電子零售集團 Ceconomy（MediaMarkt 與 Saturn 母公司）一案，目前同時受歐盟與中國兩方監管動作影響。Reuters 8 月 20 日報導交易金額為 25 億美元（RetailDetail 記為約 22 億歐元），歐盟執委會已於 5 月依外國補貼條例啟動深入調查，疑慮在於 JD.com 可能受益於足以扭曲歐盟市場競爭的外國補貼，並已於上個月發出正式異議聲明。8 月 20 日 JD.com 提出救濟方案，但監管申報未揭露內容，執委會決定期限亦未公布。另一方面，中國司法部於 8 月 19 日會同商務部等部門發布禁令，依今年 4 月生效的反不當域外管轄規定，認定該案跨境取證屬不當域外管轄，規定任何組織或個人不得實施或協助實施。這是該機制第二次動用，首次為 5 月的 Nuctech 案。須說明中方三份聲明均僅提及 JD.com，未點名 Ceconomy 或 MediaMarkt。",
-    "public_action": "① 若正評估 MediaMarkt 等平台作為銷售通路，宜留意其母公司擁有權處於併購與監管審查程序中，擁有權變更後的品類與費率政策存在不確定性，建議直接向平台確認費率政策穩定性；② 買方提出救濟方案通常是為換取核准，但方案內容未公開、決定期限亦未公布，不宜據此推測核准時程或結果；③ 外國補貼條例是歐盟近年新增的審查工具，本案是其跨境取證權首次遭明確對抗，若取證受阻，未來涉非歐盟資金的歐盟併購或大型採購案審查時程可能拉長，有相關計畫者宜預留更長時間；④ 中國自今年 4 月施行的反不當域外管轄規定已第二次動用，涉及中國境內資料提供的企業宜就其影響諮詢法律顧問；⑤ 本案屬單一監管機制的取證權爭議，與小包關稅、數位服務法罰款的機制不同，不宜合併解讀為整體貿易衝突。",
-    "sources": [
-      {
-        "name": "Reuters 8/20「Chinese e-commerce giant JD.com offers EU remedies in Ceconomy takeover probe」（$25 億、8/20 提出救濟但申報未揭露內容、執委會 5 月依 FSR 啟動全面調查、上月已發異議聲明、中方週三稱屬「improper extraterritorial jurisdiction」並要求不得配合）",
-        "url": "https://www.investing.com/news/stock-market-news/chinese-ecommerce-giant-jdcom-offers-eu-remedies-in-ceconomy-takeover-probe-4869928"
-      },
-      {
-        "name": "Investing.com 8/19「China orders entities not to assist EU probe into JD.com」（司法部週三發布、依今年 4 月生效的反不當域外管轄規定、機制第 2 次動用（首次為 5 月 Nuctech）、EU 索取「extensive and unnecessary information」、「China will resolutely retaliate in accordance with the law」、標的為 $25 億 Ceconomy 收購案）",
-        "url": "https://www.investing.com/news/stock-market-news/china-orders-entities-not-to-assist-eu-probe-into-jdcom-93CH-4867464"
-      },
-      {
-        "name": "Global Times 8/19「China says EU's JD.com probe amounts to 'unjustified extraterritorial jurisdiction'」（司法部會同商務部等；引《反不當域外管轄規定》第 3、6 條與相關規則；「No organization or individual may implement or assist in implementing such measures」；未提及 Ceconomy／MediaMarkt）",
-        "url": "https://www.globaltimes.cn/page/202608/1368568.shtml"
-      },
-      {
-        "name": "Global Times 8/20「China opposes EU's abuse of FSR to suppress Chinese companies: MOFCOM」（商務部何亞東：反對濫用 FSR、指 EU 向中國境內銀行機構索取與調查無關的大量資訊、5 月 Nuctech 為第 1 號禁令）",
-        "url": "https://www.globaltimes.cn/page/202608/1368627.shtml"
-      },
-      {
-        "name": "RetailDetail EU 8/20「China aims to block European investigation into MediaMarkt acquisition」（Pauline Neerman；交易約 €22 億、Ceconomy 為 MediaMarkt 母公司、5 月執委會開啟深入調查並已提出異議、JD.com 8/14 公布逾十年來首次季度營收下滑）",
-        "url": "https://www.retaildetail.eu/news/electronics/china-wants-to-block-european-investigation-into-mediamarkt-takeover/"
       }
     ],
     "color": "#0891b2"
