@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-09-29",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/27 生效後】保固標示：Amazon 9/25 起在 EU 商品頁掛「免責聲明」連結、保證標籤靠三個目錄欄位生成，法務稱連結式顯示不合規",
+    "summary": "9/25 日報寫「Amazon 仍無方案」，現在做法曝光，法務界不買單：\n        ① 法定保固通知（IT-Recht Kanzlei 9/28 更新）：9/25 起 Amazon 在所有 EU 站商品頁「安全與產品資源」放連結，標題寫「Haftungsausschluss（免責聲明）」；讀者回報連結開出英文版，9/28 又改成結帳頁的小字連結。事務所認為連結式的巢狀顯示不合規，標題也有誤導。\n        ② 保證標籤（wortfilter 9/26）：9/27 起由 brand、model_number、extended_warranty_duration 三個目錄欄位生成，年數要填含法定兩年的總長（5 年而非 3 年）；須同時符合製造商免費提供、涵蓋整個商品、超過兩年等四項條件。\n        ③ 轉售賣家：欄位綁在共用的 ASIN 上，沒有寫入權限就無法顯示，Amazon 未說明多賣家資料衝突如何處理。\n        ④ Q4 下一批（OnlinehändlerNews 9/28）：消費信貸新規 11/20（BNPL、零利率分期納管）、產品責任法 12/9 前轉化、EUDR 12/30。\n        結論：平台做了，但警告函仍寄給賣家。",
+    "public_impact": "歐盟統一的保固與保證標示義務已於九月二十七日生效。依德國法務事務所 IT-Recht Kanzlei 九月二十八日的更新，Amazon 自九月二十五日起在所有歐盟站商品頁的「安全與產品資源」區放上法定保固通知的連結，但標題寫成「免責聲明」，讀者回報連結開出的是英文版，九月二十八日又改成結帳頁的小字連結；事務所認為這種需要點擊的巢狀顯示可能不合規。依德國電商評論站 wortfilter 九月二十六日報導，保證標籤自九月二十七日起由品牌、型號與延長保固年數三個目錄欄位自動生成，年數須填含法定兩年的總長度，且須符合製造商免費提供、涵蓋整個商品、超過兩年等條件；由於欄位屬於共用商品頁，沒有編輯權限的轉售賣家無法自行顯示。平台雖已提供做法，標示責任與警告函風險仍在賣家身上。第四季還有三個法規節點：十一月二十日消費信貸新規、十二月九日前產品責任法轉化、十二月三十日歐盟毀林條例。",
+    "public_action": "① 製造商提供超過兩年免費保證的品牌方，請填寫品牌、型號與延長保固年數三個欄位，年數填含法定兩年的總長度，完成後截圖存證；② 沒有額外保證的商品不需填寫，但請檢查標題與商品說明是否寫有「三年保固」「五年保固」等字樣，避免文案與標示不一致；③ 請自行抽查德國站商品頁的法定保固通知是否出現、語言是否正確，並保留截圖；④ 自有官網須自行放上兩種標示，平台不會代為處理；⑤ 提前準備第四季法規：使用分期付款文案者留意十一月二十日消費信貸新規，銷售木製品、咖啡、可可、橡膠等商品者留意十二月三十日毀林條例；⑥ 若收到德國警告函，請先諮詢當地律師，不要自行簽署停止聲明。",
+    "sources": [
+      {
+        "name": "IT-Recht Kanzlei：各平台落地狀態（9/28 更新，Amazon 9/25 起放「Haftungsausschluss」連結）",
+        "url": "https://www.it-recht-kanzlei.de/gewaehrleistungslabel-garantielabel-plattformen.html"
+      },
+      {
+        "name": "wortfilter：Amazon 保證標籤三欄位與轉售賣家問題（Mark Steier，9/26）",
+        "url": "https://wortfilter.de/amazon-garantielabel/"
+      },
+      {
+        "name": "wortfilter：平台方案太晚、賣家獨自承擔警告函風險（9/26）",
+        "url": "https://wortfilter.de/garantielabel-amazon-ebay-eu/"
+      },
+      {
+        "name": "OnlinehändlerNews：Q4 法規待辦清單（Yvonne Bachmann，9/28）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/bnpl-produkthaftung-amazon-garantie-q4-2026"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-29",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/23 Accelerate・9/28 歐媒跟進】Amazon GWD 年底前進英德法義西：工廠旁一次入倉、多國共用庫存池，美國實績儲存費較 AWD 低最多 45%",
+    "summary": "跨國庫存從「每國各備一批」改成「一批貨、按需求分配」：\n        ① GWD 機制（About Amazon，FBA 全球副總裁 Sunny Jain）：賣家把整批生產送進工廠附近的 Amazon 設施，單一庫存池服務多國，某國出現需求才調撥到當地 FBA；目前只連美國，年底前加入英、日、德、法、義、西、加。美國數據：儲存成本較 AWD 低最多 45%、補貨進 FBA 快最多 5 天。\n        ② 合規工具：每個目的地一份整合規格（測試、標示、包裝），一次送測可對應多國認證、既有證書免重測；玩具先上，電子與嬰兒用品年底前，2027 年擴品類並可在生產前看到要求與成本。先導賣家稱合規成本省最多 60%。\n        ③ 其他：跨國拓展總覽已涵蓋美、歐、日；AWD 已在 EU、英國、澳洲營運。同場發表的多通路工具（eBay、Shopify、TikTok、Walmart）只限美國站（ChannelX）。\n        ④ Amazon 數據：只有 30% 賣家在超過一國上架，多國賣家平均營收高 70%。\n        結論：出口型賣家的歐洲備貨模式可能在 2027 年改寫。",
+    "public_impact": "Amazon 在九月下旬的年度賣家大會發表多項跨國銷售工具。全球倉儲與配送服務讓賣家把整批生產送進工廠附近的倉庫，以單一庫存池服務多個國家，某國出現需求時才調撥到當地配送中心；目前只連接美國，年底前將加入英國、德國、法國、義大利、西班牙、日本與加拿大。依官方公布的美國數據，儲存成本較既有大宗倉儲服務低最多四成五，補貨速度快最多五天。合規方面，平台將為每個目的地提供一份整合的測試、標示與包裝規格，一次送測可對應多國認證，既有證書可沿用；玩具類先上線，電子與嬰兒用品年底前，二〇二七年擴大品類。同場發表的多通路管理工具目前只適用美國站。官方數據顯示只有三成賣家在超過一個國家上架，而多國銷售賣家的平均營收高出七成。對出口型賣家的含意是，進入歐洲的備貨門檻可能在明年明顯降低。",
+    "public_action": "① 已在美國銷售、尚未進入歐洲的賣家，可開始評估以單一庫存池服務歐美的可行性，但請等待歐洲上線後的費率與適用條件；② 官方公布的成本與時效數據來自美國，歐洲實際數字請以正式公告為準；③ 玩具、電子與嬰兒用品賣家可先整理既有的 CE、UKCA 等認證文件，方便合規工具上線時直接沿用；④ 已使用多國配送方案的賣家，請留意新服務與既有方案如何搭配，官方目前尚未說明；⑤ 多通路管理工具目前只限美國站，歐洲賣家暫時不需調整作業流程。",
+    "sources": [
+      {
+        "name": "About Amazon：跨國拓展工具（Sunny Jain，約 9/23，官方稿頁面未標日期，依圖檔名判定）",
+        "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-global-expansion-tools"
+      },
+      {
+        "name": "Ecommerce News Europe：Amazon GWD 擴展到歐洲（9/28）",
+        "url": "https://ecommercenews.eu/amazon-will-expand-gwd-to-europe/"
+      },
+      {
+        "name": "ChannelX：Accelerate 多通路工具、僅限美國站（Chris Dawson，9/25）",
+        "url": "https://channelx.world/2026/09/new-amazon-multichannel-selling-tools-for-ebay-shopify-tiktok-and-walmart/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-29",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/28 同日】Trump 拒伊朗停火、Brent 收 $105.28：Lagarde 稱年底通膨近 4% 仍採「溫和回應」，英國家庭通膨預期跳到 4.5%",
+    "summary": "停火破局讓能源與利率風險同時回來：\n        ① 油價（Euronews、Reuters）：伊朗在聯合國大會提議 7 天停火以重開荷莫茲海峽，Trump 表示拒絕；Brent 9/28 盤中漲逾 $4、早盤一度 $107 以上，收 $105.28（+0.9%），WTI $92.60；卡達斡旋消息壓回漲幅。Goldman 稱柴油吃緊會快速外溢，歐洲是美國柴油主要買家。\n        ② ECB（Reuters）：Lagarde 在歐洲議會稱歐元區通膨已逾 3%、年底可能接近 4%，但「尚未看到能源傳導到薪資」，以「溫和回應」為宜；市場押未來一年最多再升 4 次，多數經濟學家預期 10/29 不動、12 月升息。\n        ③ 英國：Citi／YouGov 9 月一年期通膨預期由 3.9% 升到 4.5%、長期 4.1% 升到 4.3%；BoE 副總裁 Ramsden 稱上行壓力若持續累積「可能有理由升息」。\n        ④ 義大利（Euronews 9/27）：柴油全國均價 €2.377／L、高速公路 €2.459，SOCAR 與 ENI 宣布設價格上限，金額未公布。\n        結論：Q4 旺季要同時面對運費與利率兩條上行曲線。",
+    "public_impact": "美伊停火在九月二十八日破局，能源與利率風險同時回升。伊朗在聯合國大會提議七天停火以重開荷莫茲海峽，美國總統拒絕；Brent 原油當日盤中漲逾四美元，收在每桶一百零五點二八美元，漲零點九個百分點，WTI 收九十二點六美元。義大利九月二十七日柴油全國均價每公升二點三七七歐元，高速公路二點四五九歐元，部分油商宣布設價格上限。歐洲央行總裁 Lagarde 同日在歐洲議會表示，歐元區通膨已超過百分之三，年底可能接近百分之四，但尚未看到能源價格傳導到薪資，主張溫和回應；市場押注未來一年最多再升息四次，多數經濟學家預期十月二十九日按兵不動、十二月升息。英國方面，Citi 與 YouGov 調查顯示家庭一年期通膨預期從百分之三點九升到四點五，英國央行副總裁 Ramsden 表示上行壓力若持續累積可能有理由升息。對賣家的含意是第四季運費與融資成本都有上行壓力。",
+    "public_action": "① 第四季物流成本建議以油價每桶一百、一百零五、一百一十美元三種情境試算，不要以九月中旬油價回落時的水準為基準；② 歐洲境內補貨請提早安排，柴油價格上漲會先反映在卡車運費；③ 英國消費者通膨預期升高，促銷時中低單價品項的折扣可略深，高單價品項維持原規劃；④ 匯率假設建議以情境處理，歐洲與英國央行的升息口徑不同；⑤ 接下來可觀察十月二日歐元區九月消費者物價初值、十月二十九日歐洲央行會議，以及美伊間接談判的進展。",
+    "sources": [
+      {
+        "name": "Euronews：Trump 拒伊朗停火、Brent 早盤逾 $107（9/28）",
+        "url": "https://www.euronews.com/2026/09/28/oil-prices-jump-after-trump-rejects-irans-truce-offer"
+      },
+      {
+        "name": "Reuters／Investing：Brent 收 $105.28、Goldman 柴油評論（9/28）",
+        "url": "https://www.investing.com/news/commodities-news/oil-price-gains-pared-as-qatarusiran-talks-loom-4920947"
+      },
+      {
+        "name": "Reuters／Investing：Lagarde 歐洲議會聽證（9/28）",
+        "url": "https://www.investing.com/news/economy-news/measured-ecb-hikes-to-quell-inflation-remain-appropriate-lagarde-says-4920668"
+      },
+      {
+        "name": "Reuters／Investing：Citi／YouGov 通膨預期 4.5%（9/28）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-inflation-expectations-rise-in-september-citiyougov-survey-shows-4920605"
+      },
+      {
+        "name": "Investing.com：Ramsden 演講（9/28）",
+        "url": "https://www.investing.com/news/economic-indicators/bank-of-england-may-raise-rates-if-inflation-pressures-grow-93CH-4919741"
+      },
+      {
+        "name": "Euronews：義大利柴油 €2.377、SOCAR 設上限（9/27）",
+        "url": "https://www.euronews.com/2026/09/27/fuel-price-surge-in-italy-socar-steps-in-price-cap-on-ip-network"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-29",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【9/25–9/28】美中各提 $300 億降稅清單、美方含玩具與小家電：歐盟同時要北京接受進口配額，10/8 Šefčovič 訪京",
+    "summary": "9/24 日報報了休戰延長，現在清單內容出來了：\n        ① 美中清單（Reuters、Euronews）：習近平 9/25 結束訪美，雙方透過美中貿易委員會各提名約 $300 億「非敏感商品」；美方 77 類含玩具（不含連網玩具）、兒童自行車、咖啡機、烤麵包機、床單、聖誕裝飾、兒童汽座，玩具 2025 年自中進口 $98 億。降幅與生效日都未公布，休戰延到 1/10。\n        ② 中方清單：1,619 類含肉品、乳酪、葡萄酒、威士忌、醫材，黃豆除外。Euronews 指歐盟豬肉 2025 年輸中約 107 萬噸、占區外出口約四分之一，恐失價格優勢。\n        ③ 歐盟配額（Euronews 9/28 引知情人士）：執委會要中方接受部分商品進口配額，電動車則推「自願出口限制」；化學品貿易防衛措施延後以留談判空間。中方商務部本月已拒絕自願出口限制。10 月是執委會自訂死線，Šefčovič 10/8–9 赴京。\n        結論：美方對中國消費品降稅，轉向歐洲的低價貨壓力可能減輕；歐中談判 10 月才見分曉。",
+    "public_impact": "美中在九月下旬公布雙方各約三百億美元的降稅候選清單。美方清單七十七類，包括玩具（不含具無線連網功能者）、兒童自行車、咖啡機、烤麵包機、床單、聖誕裝飾與兒童汽車座椅，其中玩具二〇二五年自中國進口約九十八億美元；中方清單一千六百一十九類，包括肉品、乳酪、葡萄酒、威士忌與醫療器材，但不含黃豆。降稅幅度與生效日期都尚未公布，雙方休戰期延長到明年一月十日。同一時間，依 Euronews 引述知情人士，歐盟執委會要求中國接受部分商品的進口配額，電動車則推動自願出口限制，並把化學品的貿易防衛措施延後以保留談判空間；中方本月已公開拒絕自願出口限制。執委會把十月訂為談判須見成果的期限，貿易執委預定十月八日至九日訪問北京。對賣家的含意是，若美國對中國消費品降稅落地，部分原本可能轉向歐洲的低價商品會回流美國市場。",
+    "public_action": "① 同時經營美國與歐洲的玩具、小家電、家紡與節慶商品賣家，可開始評估美國市場價格競爭的變化，但請等降稅幅度與生效日公布後再調整定價；② 目前清單只是候選，不要把「已降稅」當成定價前提；③ 歐洲市場的低價競爭壓力可能稍減，但仍要看歐中十月談判結果；④ 接下來可觀察十月八日至九日歐盟貿易執委訪問北京的結果，以及美方公布的降稅細節。",
+    "sources": [
+      {
+        "name": "Reuters／Investing：美中各提 $300 億、玩具 $98 億、休戰到 1/10（Liz Lee，9/27–9/28）",
+        "url": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293"
+      },
+      {
+        "name": "Euronews：美中清單對歐洲的影響、歐盟豬肉 107 萬噸（9/28）",
+        "url": "https://www.euronews.com/2026/09/28/us-and-china-name-goods-for-possible-tariff-cuts-what-it-could-mean-for-europe"
+      },
+      {
+        "name": "Euronews：歐盟要中方接受進口配額（Peggy Corlin，9/28）",
+        "url": "https://www.euronews.com/2026/09/28/eu-pushes-china-to-accept-import-quotas-in-bid-to-rebalance-trade"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-29",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/22 發布・9/28 跟進】歐洲電商報告：2025 年 €9,110 億、名目 +7%，2026 估 €9,610 億、成長放緩到 5%，東歐引擎熄火",
+    "summary": "歐洲電商仍在成長，但速度一年比一年慢：\n        ① 規模（Ecommerce Europe、EuroCommerce，阿姆斯特丹應用科大執行，38 國）：2025 年 B2C 電商 €9,110 億（2024 年修正為 €8,420 億），名目 +7%、實質 +4%，EU27 實質 +5%。2026 年估 €9,610 億，名目約 +5%、實質 +3%；EU27 估 €7,573 億。\n        ② 區域（Emerce、Ecommerce News）：西歐 €5,230 億占 57%，名目 +5% 最慢；北歐 €700 億 +6%；中歐 €930 億 +8%；南歐 +11%；東歐 +14% 最快，但低於 2024 年的 18%，2026 年估僅名目 +5%、實質 -1%。報告原文以實質計，南歐 +8% 最快。\n        ③ 滲透：歐洲 16-74 歲網購比例 2026 年估 77%，EU27 為 72% 持平；電商占 GDP 3.77%，南歐 4.44% 最高。\n        ④ 政策訴求：歡迎 DSA 執法與海關改革，要求對歐盟內外賣家一致執法。\n        結論：量最大的西歐成長最慢，南歐是相對亮點。",
+    "public_impact": "歐洲電商公會 Ecommerce Europe 與零售批發公會 EuroCommerce 九月二十二日發布《二〇二六歐洲電商報告》，涵蓋三十八國。二〇二五年歐洲 B2C 電商營收九千一百一十億歐元，名目成長百分之七、扣除通膨實質成長百分之四，歐盟二十七國實質成長百分之五；二〇二六年估計達九千六百一十億歐元，名目成長約百分之五、實質約百分之三。區域方面，依 Emerce 與 Ecommerce News 整理，西歐營收五千二百三十億歐元、占全歐百分之五十七，但名目成長百分之五最慢；南歐名目成長百分之十一，報告原文以實質計為百分之八、全歐最快，電商占國內生產毛額比重四點四四個百分點也最高；東歐二〇二五年名目成長百分之十四，但低於前一年的百分之十八，二〇二六年估計實質轉為負百分之一。歐洲十六至七十四歲人口的網購比例二〇二六年估計達百分之七十七。對賣家的含意是西歐市場規模最大但成長最慢，南歐是相對亮點。",
+    "public_action": "① 評估新開站時，可把南歐市場的成長數據列入考量，西歐市場規模大但成長放緩；② 以東歐高成長作為擴張理由的賣家，建議重新檢視二〇二六年的預估，報告預期實質成長轉負；③ 引用報告數字時請註明出處與名目或實質口徑，兩者差距可達數個百分點；④ 報告免費版只提供區域與整體數字，各國細項請以完整版或各國統計為準。",
+    "sources": [
+      {
+        "name": "Ecommerce Europe：European E-commerce Report 2026 免費版 PDF（原文全文）",
+        "url": "https://ecommerce-europe.eu/wp-content/uploads/2026/09/CMI2026_LIGHT.pdf"
+      },
+      {
+        "name": "Emerce：歐洲電商成長到 €911bn、區域營收（9/22）",
+        "url": "https://www.emerce.nl/nieuws/europees-ecommerce-groeit-tot-911-miljard-euro-7"
+      },
+      {
+        "name": "Ecommerce News Europe：2026 年成長 5%、東歐放緩（Arjan van Oosterhout，9/28）",
+        "url": "https://ecommercenews.eu/european-ecommerce-set-to-grow-5-this-year/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-25",
     "type": "daily",
     "tags": [
