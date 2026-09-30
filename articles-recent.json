@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-09-30",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/29 都柏林能源部長會】IEA 稱儲備還有八成、歐洲柴油最脆弱；美方施壓歐盟釋出柴油庫存，Jørgensen：已多付逾 €1,000 億",
+    "summary": "9/29 日報寫了停火破局；今天的新進展是柴油供給變成政策戰：\n        ① IEA（Euronews，Birol 在都柏林歐盟能源部長會）：3 月以來已釋出 4 億桶儲備，約三分之一還沒到市場，「八成還在口袋」；必要時可再釋出，但「不是首要議程」。他稱歐洲是柴油「最暴露、甚至是最暴露」的地區。\n        ② 美方施壓（Reuters 9/29，兩位知情人士）：白宮要求歐盟釋出緊急柴油庫存，認為法德未履行先前承諾；能源部長 Wright 稱「數個歐洲會員國只釋出一小部分」。執委 Jørgensen 回應尚未決定，要在壓價與保留庫存間權衡。\n        ③ 歐盟成本：Jørgensen 稱開戰以來歐盟能源進口已多付 逾 €1,000 億。上週歐盟柴油均價創 €2.23／L 紀錄；8 月美國約占歐盟柴油進口一半。Oxford Economics 估若美國全面禁出口，歐洲批發柴油 +40-50%、零售每公升多 €0.50-0.60。\n        ④ 油價（Investing.com）：Kpler 顯示 9 月中東原油出口為開戰以來最高，Brent 12 月合約 9/29 盤中跌 2% 到 $95.88。\n        結論：原油鬆動，柴油仍卡在政治與煉油。",
+    "public_impact": "九月二十九日在都柏林舉行的歐盟能源部長會議上，國際能源總署署長 Birol 表示，三月以來已釋出四億桶戰略儲備，約三分之一尚未進入市場，庫存仍有八成，必要時可再釋出；他指出歐洲是柴油供應最脆弱的地區。依 Reuters 引述知情人士，美國白宮同日要求歐盟釋出緊急柴油庫存，歐盟能源執委 Jørgensen 表示尚未決定，並指出開戰以來歐盟能源進口已多付逾一千億歐元。上週歐盟柴油均價創每公升二點二三歐元紀錄，美國約占歐盟柴油進口一半；Oxford Economics 估計若美國全面禁止柴油出口，歐洲零售柴油每公升將多零點五至零點六歐元。原油方面，中東九月出口回升，Brent 十二月合約當日跌至約九十六美元。對賣家的含意是原油回落不等於運費下降，歐洲境內卡車配送吃的是柴油價格。",
+    "public_action": "① 第四季歐洲境內物流成本建議以柴油價格而非原油價格試算，並準備現況、法國水準與美國限制出口三種情境；② 自行配送的賣家請留意物流商十月與十一月的燃油附加費公告，旺季前重新檢查運費設定；③ 使用平台倉儲的賣家可提早安排旺季補貨，避開十一月運力與附加費同時上調；④ 美國限制柴油出口目前仍是選項之一，相關估算屬情境分析，請以正式決定為準；⑤ 可觀察歐盟是否要求會員國釋出柴油儲備，以及十月二日歐元區九月物價初值的能源分項。",
+    "sources": [
+      {
+        "name": "Euronews：IEA 可能再釋儲備、歐洲柴油最脆弱（Doloresz Katanich，9/29）",
+        "url": "https://www.euronews.com/2026/09/29/iea-could-consider-more-oil-reserve-releases-as-europe-faces-tough-winter"
+      },
+      {
+        "name": "Reuters／Investing：白宮要求歐盟釋出柴油庫存（Jarrett Renshaw，9/29）",
+        "url": "https://www.investing.com/news/commodities-news/white-house-urges-eu-to-draw-down-diesel-inventories-sources-say-4923232"
+      },
+      {
+        "name": "Investing.com：中東出口回升、Brent 12 月合約 $95.88（Anuron Mitra，9/29）",
+        "url": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-usiran-stalemate-overshadows-saudi-flows-4921487"
+      },
+      {
+        "name": "Euronews：中東原油出口創開戰以來新高、LNG 通行回升（9/29）",
+        "url": "https://www.euronews.com/2026/09/29/middle-east-oil-exports-rise-as-lng-traffic-through-hormuz-picks-up"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-09-30",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/29】西班牙 9 月 CPI 4.9%、HICP 5.0% 創 2023/2 以來新高：歐元區 ESI 降到 97.9 遜於共識，消費者通膨預期再升",
+    "summary": "10/2 歐元區 HICP flash 前，兩份官方數據都指向通膨上行：\n        ① 西班牙（INE flash）：9 月 CPI 4.9%（8 月 4.3%），2023 年 2 月以來最高；核心 3.1%；HICP 5.0%。月增 0.3% 為 2021 年來同月最大，主因燃油（去年同月下跌、今年再漲）；能源 +21.6%。同日 8 月零售銷量年減 0.4%（固定價格、經季調），與 7 月修正值相同。\n        ② 景氣調查（執委會 DG ECFIN）：ESI 歐盟、歐元區都降到 97.9（-0.4／-0.5），TradingEconomics 列共識 99；拖累來自消費者信心 -0.8，工業 +1.0。法國 -1.7、義大利 -0.8，西班牙 +3.4、德國 +0.6。消費者未來 12 個月通膨預期 +1.8 點；工業、營建售價預期大升，零售持平。\n        ③ 債市（Euronews 9/29）：德國 10 年期公債殖利率到 3.62%，2009 年 6 月以來最高；美國 10 年期 9/28 破 5.27%，19 年高點。\n        結論：消費者對漲價的預期在升溫，信心在降。",
+    "public_impact": "西班牙統計局九月二十九日公布九月消費者物價初值，年增百分之四點九，為二〇二三年二月以來最高，歐盟調和物價指數年增百分之五；主因是燃油價格回升，能源類年增逾兩成。同日公布的八月零售銷量年減百分之零點四，與七月相同，顯示消費者付出更多但購買量下降。歐盟執委會同日公布的九月經濟景氣指標，歐盟與歐元區均降至九十七點九，低於市場預期，主要拖累來自消費者信心；法國與義大利下滑，西班牙與德國回升。消費者對未來一年的通膨預期明顯上升，工業與營建業者的售價預期大幅走高，零售業則大致持平，代表上游成本還沒完全轉嫁到終端。債市方面，德國十年期公債殖利率升至百分之三點六二，為二〇〇九年以來最高。對賣家的含意是第四季消費者對價格更敏感，融資成本也在上升。",
+    "public_action": "① 西班牙市場第四季的促銷可集中在中低單價品項，高單價品項的折扣深度建議維持去年水準；② 上游供應商可能在第四季調整出廠價，建議提前確認明年第一季的採購價格；③ 有營運資金需求的賣家，旺季備貨請把利率上升納入成本試算；④ 引用歐元區景氣數據時請註明本期不含義大利消費者調查；⑤ 可觀察十月二日歐元區九月物價初值、十月十四日西班牙物價終值，以及十月二十九日歐洲央行會議。",
+    "sources": [
+      {
+        "name": "INE 西班牙統計局：9 月 CPI／HICP flash 與 8 月零售（9/29）",
+        "url": "https://www.ine.es/en/index.htm"
+      },
+      {
+        "name": "歐盟執委會 DG ECFIN：9 月景氣與消費者調查新聞稿 PDF（9/29）",
+        "url": "https://economy-finance.ec.europa.eu/document/download/60c46029-7f60-40f0-b8ef-a9ca8aa46aae_en?filename=bcs_2026_09_en.pdf"
+      },
+      {
+        "name": "Euronews：西班牙通膨升到 4.9%（9/29）",
+        "url": "https://www.euronews.com/2026/09/29/inflation-in-spain-surges-to-49-in-september-on-higher-fuel-prices"
+      },
+      {
+        "name": "Euronews：全球債市拋售、德債 3.62%（9/29）",
+        "url": "https://www.euronews.com/2026/09/29/oil-prices-rise-as-bond-sell-off-hits-global-markets"
+      },
+      {
+        "name": "TradingEconomics：歐元區 ESI 共識 99",
+        "url": "https://tradingeconomics.com/euro-area/calendar"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-09-30",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/29 上市後首份財報】SHEIN Q2 歐洲營收 -14% 至 $38 億、占比 39.9% 降到 34%：€3 關稅見效，股價跌 11-14%",
+    "summary": "€3 小包關稅 7/1 上路後，第一份看得到歐洲數字的大型直郵平台財報：\n        ① 歐洲（Emerce 引 SHEIN 投資人關係網站）：Q2 歐洲營收年減 14% 至 $38 億，占總營收由 39.9% 降到 34%。Emerce 稱這是「關稅有效、訂單減少」的跡象，但 SHEIN 同時調高歐洲售價、轉向 marketplace 模式（自營銷售下降、改收服務費），並削減歐盟線上廣告，行銷費用 -4.1%。\n        ② 整體（Nikkei Asia）：Q2 淨營收 $111 億、成長僅 0.86%，9/1 在港掛牌後首份財報；Emerce 另列營收約 $201 億、+1%（口徑見 footer）、訂單 2.98 億筆 +7.6%、每筆訂單金額 $39.7 降到 $37，淨利 $2.28 億。\n        ③ 股價：Nikkei 稱週二跌 12%，SCMP 稱跌 14% 至上市以來新低、原因含美歐取消小額免稅，Emerce 寫 -10.7%。\n        結論：直郵模式在歐洲確實失速，但部分是 SHEIN 自己改模式。",
+    "public_impact": "SHEIN 九月二十九日公布九月初在香港掛牌後的首份季報。依荷蘭電商媒體 Emerce 引述公司投資人關係網站，第二季歐洲營收年減百分之十四至三十八億美元，歐洲占總營收比重由百分之三十九點九降到百分之三十四；Emerce 認為這顯示歐盟七月一日起對小額包裹課徵的三歐元關稅已壓低訂單。不過 SHEIN 同期也調高歐洲售價、轉向讓第三方賣家上架的平台模式，並削減歐盟線上廣告，營收下降不全是關稅造成。依 Nikkei Asia，第二季淨營收一百一十一億美元、成長不到百分之一，股價當日跌約一成二，香港《南華早報》稱跌至上市以來新低。對賣家的含意是低價直郵模式在歐洲的成本優勢縮小，已在歐洲備有本地庫存的賣家在交期與價格上相對有利，但低價競爭者可能改以本地倉庫模式回到市場。",
+    "public_action": "① 已在歐洲備有本地庫存的賣家，可在商品頁強調配送時效與售後服務，與直郵商品做出區隔；② 低價競爭者可能改用歐洲本地倉庫，價格壓力是延後而非消失，定價策略不宜因此大幅調高；③ 服飾、家居類賣家可在第四季小幅測試站外廣告預算，觀察點擊成本是否因大型平台縮減廣告而下降；④ 十一月起歐盟將對小額包裹加收處理費，可持續觀察其他直郵平台的後續財報。",
+    "sources": [
+      {
+        "name": "Emerce：SHEIN 歐洲營收降 14%（Erwin Boogert，9/29）",
+        "url": "https://www.emerce.nl/nieuws/europese-omzet-shein-daalt-14-procent"
+      },
+      {
+        "name": "Nikkei Asia：SHEIN 股價跌 12%、Q2 淨營收 $111 億（Cissy Zhou，9/29 更新）",
+        "url": "https://asia.nikkei.com/business/retail/shein-shares-sink-12-as-slow-revenue-growth-fuels-doubts"
+      },
+      {
+        "name": "SCMP 商業版列表：SHEIN 跌 14% 至上市新低（9/29，個別文章 403，僅標題與圖說）",
+        "url": "https://www.scmp.com/business"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-09-30",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【9/28 實測・9/29 刊出】保固標示生效次日：OnlinehändlerNews 在 Amazon 找不到標籤、eBay 最完整，責任仍在賣家",
+    "summary": "9/29 日報寫了 Amazon 的做法；今天的新進展是實測結果不一致，且法務界明確說責任在賣家：\n        ① 五平台實測（OnlinehändlerNews 9/28 抽查）：Amazon 商品頁與結帳都找不到標籤，只在右側「更多」裡有一段法定保固的一般說明；eBay 表現最好，標籤在購買鍵下方；Otto 全無；Kaufland 預告的區塊不存在；Etsy 分批上線。\n        ② 與 9/28 報告不一致（IT-Recht Kanzlei 9/28 版）：該所稱 Amazon 9/25 起在「安全與產品資源」放連結；讀者回報 9/28 移到結帳頁小字、連到英文版。另有讀者 9/29 引執委會文件稱巢狀顯示可行，事務所未回應。\n        ③ 誰負責（OnlinehändlerNews 9/29）：通常是賣家，即使錯在平台；向平台求償理論可行但很少成功，多數平台條款只對故意或重大過失負責。建議二選一：暫時下架，或承擔警告函風險。\n        ④ eBay（ChannelX 9/29）：保證年數填 3-99 整數，法定保固自動顯示。\n        結論：平台顯示仍不穩，賣家要自己截圖存證。",
+    "public_impact": "歐盟保固與保證標示義務九月二十七日生效後，德國同業公會媒體 OnlinehändlerNews 九月二十八日抽查五大平台：Amazon 商品頁與結帳頁都找不到標籤，只在右側欄位有一段法定保固的一般說明；eBay 表現最好，標籤位於購買按鈕下方；Otto 完全沒有；Kaufland 預告的區塊並不存在；Etsy 則在分批上線。這與德國法務事務所 IT-Recht Kanzlei 同日更新的說法不一致，該所稱 Amazon 自九月二十五日起已在商品頁放連結，讀者則回報連結位置變動且指向英文版，顯示平台端呈現仍不穩定。OnlinehändlerNews 九月二十九日另文指出，即使錯在平台，警告函的責任通常仍由賣家承擔，向平台求償很少成功。eBay 已開放保證年數欄位，法定保固則自動顯示。",
+    "public_action": "① 每週抽查主力商品在各平台的商品頁與結帳頁是否顯示標示，並截圖保留日期作為存證；② 製造商提供超過兩年保證的品牌方，請在各平台填寫保證年數等欄位；③ 在 eBay 銷售者可在商品規格填寫三至九十九年的保證年數；④ 是否暫時下架屬法律判斷，請諮詢當地律師後決定；⑤ 若收到德國警告函，不要自行簽署停止聲明，先交由律師處理。",
+    "sources": [
+      {
+        "name": "OnlinehändlerNews：五平台實測（Yvonne Bachmann，9/29）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/marktplaetze-stichtag-gewaehrleistungs-und-garantielabels"
+      },
+      {
+        "name": "OnlinehändlerNews：平台漏標誰負責（Hanna Hillnhütter，9/29）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/gewaehrleistungslabel-marktplaetzen-fehlt-wer-haftet-abmahnung"
+      },
+      {
+        "name": "IT-Recht Kanzlei：各平台落地狀態（9/28 版與讀者留言）",
+        "url": "https://www.it-recht-kanzlei.de/gewaehrleistungslabel-garantielabel-plattformen.html"
+      },
+      {
+        "name": "ChannelX：eBay 保證欄位操作（Chris Dawson，9/29）",
+        "url": "https://channelx.world/2026/09/displaying-a-durability-guarantee-on-your-ebay-listings/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-09-30",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/29–9/30 英國】BRC 9 月商店物價 1.4% 小降、Lloyds 企業信心跌 12 點到 17 個月低：SMMT 警告「Made in Europe」排除英國",
+    "summary": "英國零售端價格還壓得住，企業端信心先掉：\n        ① 商店物價（BRC-NIQ，9/1–9/7 採價）：9 月年增 1.4%（8 月 1.5%），食品 2.5%（8 月 2.8%）、非食品 0.8%；月增 0.1%。開學用品、電子產品大幅促銷拉低非食品。BRC 執行長 Dickinson 稱零售商「吸收成本有極限」，要求預算案凍結營業稅率；NIQ 的 Watkins 稱 9 月消費重新收緊、Q4 家庭預算會更緊。\n        ② 企業信心（Reuters 引 Lloyds Business Barometer，9/2–9/16 訪 1,200 家）：9 月 +41%，跌 12 點，2025 年 4 月以來最低；經濟樂觀度跌 18 點到 +31%、自身營運展望 +50%；預期一年內漲價的企業比例小升。\n        ③ 對歐貿易（Reuters 引 SMMT 9/30）：8 月汽車產量 +6.1%，但對歐盟出口 -7.4%；SMMT 稱歐盟「Made in Europe」條款若排除英國，是英國汽車業的「存亡威脅」。\n        結論：英國企業在旺季前轉趨保守。",
+    "public_impact": "英國零售業協會 BRC 與 NIQ 九月二十九日公布，九月商店物價年增百分之一點四，低於八月的一點五；食品通膨由二點八降到二點五，非食品零點八，開學用品與電子產品大幅促銷拉低價格。BRC 執行長 Dickinson 表示零售商吸收成本已有極限，要求政府在預算案凍結營業稅率；NIQ 指出九月消費轉趨謹慎，第四季家庭預算會更緊。Lloyds 九月企業信心調查降十二點至百分之四十一，為二〇二五年四月以來最低，經濟樂觀度大跌十八點，預期一年內漲價的企業比例小幅上升。英國汽車製造商協會同時警告，歐盟「歐洲製造」條款若排除英國，將對英國汽車業構成重大威脅，八月對歐盟汽車出口年減百分之七點四。對賣家的含意是英國市場價格競爭激烈、企業採購轉趨保守。",
+    "public_action": "① 英國市場第四季的價格競爭可能較激烈，開學與電子類品項請預先準備促銷方案；② 面向企業客戶的賣家，第四季採購量預估建議保守；③ 英國零售商吸收成本已接近極限，明年初可能出現漲價，供應鏈報價請提前確認；④ 可觀察英國秋季預算案的營業稅率決定，以及十一月英國央行會議；⑤ 英歐原產地規則的變化目前集中在汽車業，其他品類可持續關注。",
+    "sources": [
+      {
+        "name": "BRC：9 月商店物價監測（Helen Dickinson、NIQ Mike Watkins，9/29）",
+        "url": "https://brc.org.uk/news-and-events/news/retailers-keep-prices-low-despite-rising-cost-pressures/"
+      },
+      {
+        "name": "Reuters／Investing：Lloyds 企業信心 17 個月低（9/30）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-business-morale-hits-17month-low-lloyds-says-4923846"
+      },
+      {
+        "name": "Reuters／Investing：SMMT 8 月汽車產量與 Made in Europe 警告（9/30）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-auto-output-rebounds-in-august-but-made-in-europe-proposals-pose-threat-industry-data-shows-4923863"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-29",
     "type": "daily",
     "tags": [
