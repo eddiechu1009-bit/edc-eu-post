@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-10-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/30】法義德 9 月通膨同步超預期：法 HICP 3.4%、義 4.1%、德 3.3%，10/2 歐元區 flash 估 3.6%",
+    "summary": "9/30 日報已寫西班牙 HICP 5.0%；9/30 其餘三大國數據出爐，全數高於預期：\n        ① 法國（INSEE，AFP）：CPI 3.0%（8 月 2.4%），2024/2 以來最高；HICP 3.4%（8 月 2.6%）；能源通膨 21.2%。同日公布 8 月家庭消費 -0.5%。\n        ② 義大利（Istat，ING）：CPI 4.2%、HICP 4.1%（8 月 3.2%），三年新高；能源 22.3%，核心僅 1.7%。ING 預估 Q4 維持 4% 以上。\n        ③ 德國（Destatis，FXStreet）：CPI 與 HICP 皆 3.3%（8 月 2.9%），2023/12 以來最高；核心持平 2.4%。\n        ④ ECB（Reuters）：10/2 歐元區 9 月 flash 共識 3.6%；ECB 原估 Q4 為 3.6%，經濟學家稱高峰更接近 4%。Capital Economics 等預期 10/29 按兵不動、12 月再升。\n        結論：漲的是能源，核心還沒跟上，ECB 有理由等；但法國消費已先被吃掉。",
+    "public_impact": "九月三十日法國、義大利、德國同步公布九月通膨，全數高於預期。法國調和物價（HICP）年增三點四％，義大利四點一％、為三年新高，德國三點三％、為 2023 年 12 月以來最高；三國都是能源推升，法、義能源通膨超過二十％，核心通膨則僅一點七至二點四％。法國同日公布八月家庭消費月減零點五％。市場預期十月二日歐元區九月初值約三點六％，多數經濟學家認為歐洲央行十月二十九日按兵不動、十二月再升息。對賣家而言，消費者預算被能源擠壓，第四季非必需品的價格敏感度上升；歐元兌美元約一點一三五，以美元計成本者毛利承壓。",
+    "public_action": "① 十月檔期活動價應先反映運費與能源成本上調，再決定折扣深度；② 法國市場第四季銷售預估宜保守，以八月家庭消費下滑為基準情境；③ 以美元採購的賣家可用歐元兌美元一點一零、一點一三五、一點一七三種情境重算毛利；④ 留意十月二日歐元區九月通膨初值與十月二十九日歐洲央行會議；⑤ 升息時點目前為市場預期，請以央行正式決定為準。",
+    "sources": [
+      {
+        "name": "Reuters：歐元區通膨跳升、ECB 升息壓力增（Maria Martinez、Balazs Koranyi，9/30，付費牆）",
+        "url": "https://www.reuters.com/world/europe/inflation-jumps-across-euro-zone-raising-pressure-ecb-hike-2026-09-30"
+      },
+      {
+        "name": "France 24／AFP：法國 9 月通膨 3%、能源 21.2%（9/30）",
+        "url": "https://www.france24.com/en/live-news/20260930-french-inflation-jumps-to-3-in-september-on-energy-costs"
+      },
+      {
+        "name": "ING THINK：義大利 9 月通膨能源推升（9/30）",
+        "url": "https://think.ing.com/snaps/italian-inflation-accelerates-sharply-in-september"
+      },
+      {
+        "name": "FXStreet：德國 9 月 CPI 3.3%（Eren Sengezer，9/30）",
+        "url": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-rises-to-33-in-september-202609301205"
+      },
+      {
+        "name": "Daily Sabah（通訊社稿）：核心 2.4%、法國消費 -0.5%、Capital Economics 看 12 月升息（9/30）",
+        "url": "https://www.dailysabah.com/business/economy/sky-high-energy-costs-fuel-inflation-pain-across-europe/amp"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-01",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【10/1 今天生效】奧地利包裹稅上路：營收逾 €1 億的 16 家平台每件 B2C 包裹 €2（含稅 €2.40），平台上的小賣家照樣計入",
+    "summary": "9/22 日報預告過，今天正式生效；新資訊是歸屬與計費細節：\n        ① 誰要繳（ORF、Kurier）：前一年度在奧地利郵購營收逾 €1 億 的業者，依市調機構 EBCD 估算共 16 家，含 Amazon、Temu、Zalando、Otto、eBay、Shein、AliExpress、Ikea、XXXLutz。\n        ② 平台歸屬（Heute、SN）：經線上市集的銷售額算在市集頭上，營收未達門檻的小賣家在 Amazon 等平台上賣，仍會被課；SN 稱約 4,000 家奧地利業者經大型平台銷售。\n        ③ 怎麼算：每件 €2 淨額，含 20% VAT 為 €2.40；業者可選按包裹或按訂單計。稅負在收款時成立，退貨不退。31.5 公斤以上、Click & Collect、餐飲生鮮配送除外。\n        ④ 反彈：財政部估年稅收 €2.8 億，補貼食品減稅；Otto 將對稅單申訴，Zalando 稱違憲且違反歐盟法。郵政旗下 shöpping.at 因未達門檻免稅，祭出 10/31 前註冊、年底前免佣金。\n        結論：這筆稅不看商品從哪裡來，歐盟倉出貨也躲不掉。",
+    "public_impact": "奧地利包裹稅自十月一日起生效。前一年度在奧地利郵購營收超過一億歐元的業者，每件 B2C 包裹須繳二歐元，含增值稅為二點四歐元，依市調估計共十六家，包括主要國際電商平台與大型零售商。透過線上市集的銷售額計入市集本身，因此營收未達門檻的小賣家在大型平台上銷售，仍會被課。稅負在收款時成立，退貨不退；業者可選按包裹或按訂單計。與歐盟三歐元關稅不同，這筆稅不看商品來源，從歐盟境內倉庫出貨同樣適用。低單價商品受影響最大，十至二十歐元的商品等於漲價一至二成。",
+    "public_action": "① 先確認自己在奧地利的訂單占比，以及所用平台是否、如何把這筆稅轉給賣家或消費者，以平台正式公告為準；② 自有官網若年營收未達一億歐元則不適用，但多平台銷售者要逐一確認各平台做法；③ 二十歐元以下的商品可評估調整奧地利售價或推出多件組合，攤薄每單成本；④ 留意業者對此稅的法律申訴進展。",
+    "sources": [
+      {
+        "name": "ORF Ö3：新包裹稅 10 月起、16 家平台名單（9/30）",
+        "url": "https://oe3.orf.at/stories/3054899"
+      },
+      {
+        "name": "Kurier：包裹稅七問七答（Marlene Liebhart，9/29）",
+        "url": "https://kurier.at/wirtschaft/paketsteuer-ecommerce-onlineshopping-zoll/403194303"
+      },
+      {
+        "name": "Salzburger Nachrichten／APA：業者已就緒、4,000 家經平台銷售、Zalando 稱違憲（9/25）",
+        "url": "https://www.sn.at/wirtschaft/oesterreich/paketsteuer-haendler-sind-vorbereitet-klagen-angekuendigt-art-674959"
+      },
+      {
+        "name": "Heute：市集銷售額歸市集、收款時點決定是否課稅（9/30）",
+        "url": "https://www.heute.at/s/neue-paketsteuer-ab-donnerstag-hier-sparst-du-sie-dir-120258910"
+      },
+      {
+        "name": "medianet：shöpping.at 免稅、10/31 前註冊免佣（10/1）",
+        "url": "https://medianet.at/news/retail/startschuss-fuer-paketsteuer-shoeppingat-bietet-steuerfreie-alternative-77372.html"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-01",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【9/29 愛爾蘭稅局】11/1 起 €2 handling fee 確認按「不同品項」計、退貨不退：三種小物的 €10 包裹，關稅加手續費共 €15",
+    "summary": "9/30 日報還註記「計費單位各報說法不一」；新進展是會員國稅局首度給出計算範例：\n        ① 計費單位（RTÉ、Irish Examiner）：愛爾蘭稅局 Revenue 確認 11/1 起 Union Handling Fee 為每件「不同品項」€2，不是每個包裹；與 7/1 起的 €3 關稅分開計、疊加收取。\n        ② 範例（Irish Times、TheJournal）：€10 包裹內有筆、筆記本、鑰匙圈三種商品，關稅 €9 加手續費 €6，共 €15（另計 VAT）；兩支相同的筆算一個品項，只收 €3 + €2。\n        ③ 不分價值、不退費：超過 €150 改課一般關稅，但 handling fee 照收；退貨、甚至瑕疵品都不退。從英國寄出同樣適用。\n        ④ 誰付、哪裡免：由賣家或配送業者繳，可在結帳時收，否則由 An Post、DHL 等送達時向消費者收。下單時商品已在愛爾蘭、北愛或其他歐盟國家，則兩者皆免。\n        結論：直郵包裹的成本隨品項數線性增加。",
+    "public_impact": "愛爾蘭稅局九月二十九日確認，歐盟 Union Handling Fee 自十一月一日起按每件「不同品項」收取二歐元，而非每個包裹，並與七月起的三歐元關稅分開疊加。稅局範例：十歐元包裹內有三種不同商品，關稅九歐元加手續費六歐元，共十五歐元（另計增值稅）；相同商品算一個品項。超過一百五十歐元的包裹改課一般關稅，但手續費照收；退貨或瑕疵品都不退費，從英國寄出同樣適用。下單時商品已位於歐盟境內者則免。對直郵賣家，多品項包裹與高退貨品類的成本上升最明顯。",
+    "public_action": "① 從歐盟境外直郵的賣家，以每品項三歐元關稅加二歐元手續費、退貨不退，重算十一月起的到岸成本；② 評估在十一月前把主力商品移入歐盟境內倉庫，並預留旺季入倉排隊時間；③ 從英國倉直寄歐盟消費者的賣家同樣適用，需一併納入；④ 本則依據愛爾蘭稅局說明，其他會員國實務請以當地海關公告為準。",
+    "sources": [
+      {
+        "name": "RTÉ：Revenue 確認每不同品項 €2、不退費（Aengus Cox，9/29）",
+        "url": "https://www.rte.ie/news/business/2026/0929/1593393-new-handling-fee-for-online-shoppers-on-non-eu-goods"
+      },
+      {
+        "name": "The Irish Times：11/1 起新增 €2 收費與計算範例（9/29）",
+        "url": "https://www.irishtimes.com/business/2026/09/29/online-shoppers-face-fresh-charges-from-november"
+      },
+      {
+        "name": "TheJournal.ie：每品項分開計、英國寄出也適用（9/29）",
+        "url": "https://www.thejournal.ie/eu-handling-fee-2-euro-separate-items-refund-7177228-Sep2026"
+      },
+      {
+        "name": "Irish Examiner：低價值包裹 2025 年達 57 億件、占件數 97%（9/29）",
+        "url": "https://www.irishexaminer.com/business/economy/arid-41917402.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-01",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【9/29–9/30】德法傳擬聯手要求歐版「301 條款」對中工具，中國商務部揚言「堅決回應」：10/8 Šefčovič 訪京前升溫",
+    "summary": "9/29 日報寫了歐盟要北京接受進口配額；新進展是德法要新工具、中方首度公開警告反制：\n        ① 德法聯合文件（Global Times、Investing.com，皆引述 Rhodium Group 的 Noah Barkin）：德法正定稿聯合文件，要求執委會加速打造可比照美國 Section 301 的工具，讓布魯塞爾有權限制中國進入歐盟市場；預計數日內經 Macron、Merz 同意後送交 von der Leyen。此為分析師引述歐洲官員，兩國政府尚未證實。\n        ② 中方回應（中國商務部 9/29）：稱這是「典型的保護主義和單邊主義」，若歐盟對中國企業或產品施加歧視性限制將堅決回應。Global Times 引述觀察人士，可能工具包括反歧視調查、產業鏈供應鏈安全調查與外國補貼影響調查。\n        ③ 時程（SCMP）：貿易執委 Šefčovič 10/8–10/9 訪京會商務部長王文濤；執委會的對中新工具可能 12 月提出。\n        結論：雙方都在 10 月談判前亮工具。",
+    "public_impact": "據 Rhodium Group 分析師 Noah Barkin 引述歐洲官員，德國與法國正定稿一份聯合文件，要求歐盟執委會加速打造類似美國 Section 301 的貿易工具，以限制中國企業或產品進入歐盟市場；此說法尚未經兩國政府證實。中國商務部九月二十九日回應稱這是保護主義與單邊主義，若歐盟施加歧視性限制將堅決回應，官媒引述觀察人士稱可能動用反歧視、供應鏈安全與外國補貼影響等調查。歐盟貿易執委十月八至九日訪問北京，相關新工具可能於十二月提出。對賣家的直接影響短期有限，中長期的關鍵在商品原產地。",
+    "public_action": "① 供應鏈集中在中國的賣家，可先整理銷往歐盟主力商品的原產地資料，作為明年採購規劃的參考；② 目前德法文件與歐盟新工具都尚未定案，不宜據此調整第四季計畫；③ 可觀察十月八至九日歐盟貿易執委訪京結果，以及十二月是否正式提出新工具。",
+    "sources": [
+      {
+        "name": "Global Times：中國商務部回應、可能動用的反制工具（9/30）",
+        "url": "https://www.globaltimes.cn/page/202609/1371594.shtml"
+      },
+      {
+        "name": "Investing.com／Yahoo Finance：中國將以「強力政策工具箱」回應（Roushni Nair，9/30）",
+        "url": "https://uk.finance.yahoo.com/news/china-respond-strong-policy-toolbox-031009034.html"
+      },
+      {
+        "name": "Firstpost：德法推 Section 301 式工具、中方警告（9/30）",
+        "url": "https://www.firstpost.com/business/china-eu-trade-tensions-section-301-trade-tool-beijing-eu-trade-policy-14049259.html"
+      },
+      {
+        "name": "SCMP：歐盟 10 月前權衡對中新工具、12 月提出（Finbarr Bermingham，9/30，部分付費牆）",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3369303/eu-weighs-sweeping-new-trade-powers-against-china-make-or-break-october"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-01",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【9/30 德國雙數據】8 月線上與郵購零售實質 +3.5% YoY、整體 -0.4%；9 月失業人數增 1.2 萬，遠超預期",
+    "summary": "德國消費兩極：線上持續吸走需求，就業面開始轉弱：\n        ① 零售（Destatis，dts 通訊社）：8 月零售實質月增 +1.3%、名目 +1.7%，但年減 -0.4%（名目 +2.6%）；7 月跌幅由 -3.4% 修正為 -3.2%。\n        ② 線上與郵購：實質月增 +3.7%、年增 +3.5%（名目 +4.8%）；同期非食品零售實質年減 0.8%。加油站實質年減 8.7%、名目卻 +10.7%，反映油價。\n        ③ 就業（聯邦勞動署，Reuters）：9 月季調失業人數增 1.2 萬至 301 萬，預期僅增 1,000；失業率持平 6.4%。署長 Nahles 稱「經濟改善還沒傳到勞動市場」。\n        結論：通路移轉還在進行，總需求沒有變大；第 1 則的通膨會再壓一次購買力。",
+    "public_impact": "德國聯邦統計局九月三十日公布，八月零售銷售實質月增一點三％，但年減零點四％；其中網路與郵購零售實質年增三點五％、名目年增四點八％，同期非食品零售實質年減零點八％，顯示需求持續從實體轉向線上，但整體消費並未擴大。同日聯邦勞動署公布九月季調失業人數增加一點二萬人至三百零一萬，遠超預期的一千人，失業率持平六點四％。線上名目與實質成長的差距約一點三個百分點，代表部分銷售額成長來自漲價。對賣家而言，德國第四季成長主要靠搶占份額，就業轉弱是旺季需求的下行風險。",
+    "public_action": "① 檢視德國市場的銷售成長時，拆成件數與平均售價，分辨是量增還是價格上升；② 第四季可用德國線上零售實質年增約三至四％作為市場基準，評估自身表現；③ 黑色星期五備貨與廣告預算宜保守規劃，並觀察德國十月消費信心與零售數據。",
+    "sources": [
+      {
+        "name": "ad-hoc-news／dts 通訊社：8 月零售實質 +1.3%、線上 +3.5% YoY（9/30）",
+        "url": "https://www.ad-hoc-news.de/wirtschaft/der-deutsche-einzelhandel-hat-im-august-deutlich-mehr-umgesetzt-als-im/70202161"
+      },
+      {
+        "name": "Lebensmittel Praxis：Destatis 零售分項數字（Manuel Glasfort，9/30）",
+        "url": "https://lebensmittelpraxis.de/handel-aktuell/49963-branchenkonjunktur-einzelhandel-steigert-umsatz-im-august-um-1-3-prozent.html"
+      },
+      {
+        "name": "Reuters：德國 9 月失業增幅遠超預期（Klaus Lauer，9/30，付費牆）",
+        "url": "https://www.reuters.com/business/german-unemployment-rises-much-more-than-expected-september-2026-09-30"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-09-30",
     "type": "daily",
     "tags": [
