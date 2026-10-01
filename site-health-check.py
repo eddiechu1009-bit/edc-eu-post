@@ -333,7 +333,7 @@ def check_sidebar_dates():
         section_html
     )
 
-    now = datetime.now()
+    now = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)  # 以日為單位比，否則當天條目會被算成過期 1 天
 
     def _latest_date(label):
         """從一個 sidebar 標籤裡取出「最後一個」日期。
