@@ -1,5 +1,167 @@
 [
   {
+    "date": "2026-10-02",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【10/1 生效首日】奧地利包裹稅：Amazon 每筆訂單收 €2.40、整單退貨退還，並與 Otto、Zalando 尋求法律途徑挑戰",
+    "summary": "10/1 日報寫到「Amazon 處理方式未查到公開說明」；生效當天 Amazon 官方說明了：\n        ① Amazon 怎麼收（aboutamazon.de）：按每筆訂單收一次，不按包裹數；結帳頁單列「Paketsteuer」€2.40（含稅）；在退貨期限內整單退貨會退還；定期購（Spar-Abo）只在首單收。\n        ② 要打官司（Amazon、APA／vol.at）：Amazon 稱法律有違憲及違反 EU 單一市場之虞，將尋求法律釐清；Zalando 稱已於 8/20 向憲法法院起訴；Otto 奧地利總裁估最多 10 家會對稅單提出申訴。\n        ③ 誰被課（Die Presse、ORF）：15–16 家大型平台；Handelsverband 稱 4,000 家本地業者透過這些平台銷售而間接受影響。財政部估年稅收 €2.8 億，用來補貼 7/1 起基本食品的 VAT 降稅。\n        ④ 業界反擊（ecommercenews.eu）：Handelsverband 與 Ecommerce Europe 研議向執委會提單一市場申訴。\n        結論：消費者看得到這筆費用，退貨會退，訴訟短期內不會改變現狀。",
+    "public_impact": "奧地利包裹稅十月一日生效，適用在奧地利年營收逾一億歐元的電商與市集，每件或每筆訂單二歐元，含稅二點四歐元。Amazon 當天公布處理方式：每筆訂單收一次、不按包裹數，結帳頁單獨列出，退貨期限內整單退貨會退還，定期購只在首單收取。Amazon 表示該法有違憲及違反歐盟單一市場之虞，將尋求法律釐清；Zalando 稱已於八月二十日向憲法法院起訴。奧地利商業協會指出約四千家本地業者透過大型市集銷售而間接受影響。由於每單固定收費，低金額訂單受影響最大：十歐元的訂單等於多付百分之二十四。",
+    "public_action": "① 檢視寄往奧地利的訂單占比與平均訂單金額，低單價商品優先評估影響；② 以組合包或多件折扣提高單筆訂單金額，降低固定費用的占比；③ 準備客服說明，告知買家此費用依奧地利法律收取、整單退貨會退還；④ 訴訟程序耗時，第四季旺季請依現行規定規劃；⑤ 十一月起歐盟小包手續費上路後，非歐盟直郵到奧地利將同時負擔兩項費用。",
+    "sources": [
+      {
+        "name": "About Amazon：Amazon 對奧地利包裹稅的立場與收取方式（10/1）",
+        "url": "https://www.aboutamazon.de/news/amazon-in-oesterreich/amazon-position-paketsteuer-oesterreich"
+      },
+      {
+        "name": "vol.at／APA：包裹稅上路、Zalando 8/20 已起訴、Amazon 定期購只收一次（10/1）",
+        "url": "https://www.vol.at/paketsteuer-wird-faellig-online-bestellungen-werden-teurer/10508672"
+      },
+      {
+        "name": "Die Presse：Amazon 與 Otto 按訂單收、稅收估 €2.8 億（10/1）",
+        "url": "https://www.diepresse.com/41313985/paketsteuer-in-kraft-amazon-und-otto-verrechnen-pro-bestellung"
+      },
+      {
+        "name": "help.ORF.at：退貨退稅非強制、Handelsverband 研議向執委會申訴（10/1）",
+        "url": "https://help.orf.at/stories/3237570"
+      },
+      {
+        "name": "Ecommerce News Europe：業界批評奧地利包裹稅、4,000 家本地業者受影響（10/1）",
+        "url": "https://ecommercenews.eu/industry-criticizes-national-parcel-levy-in-austria"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-02",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/1】美方要歐盟半年釋出 1.2 億桶柴油、否則考慮禁出口，中國 10 月停止成品油出口：歐盟今天開會",
+    "summary": "9/30 日報寫到美方「施壓」；10/1 升級成附條件的具體要求，同日中國斷供：\n        ① 美方條件（Reuters，三位知情人士）：要求德法動用緊急柴油庫存，否則美國可能禁止柴油出口；歐洲方面消息稱，美方要歐盟 6 個月內釋出 1.2 億桶。\n        ② 規模（Politico）：提案來自美國能源部長 Wright，1.2 億桶占歐盟 6 月柴油戰略庫存約 3.15 億桶的三分之一以上；執委會稱任何釋儲都要經 IEA 協調。\n        ③ 中國斷供（Reuters，四位知情人士）：中國煉廠暫停 10 月成品油出口，中石油取消多船汽油與航油；Quartz 稱 Brent 盤中回到 $100.15（+2.2%）。俄羅斯柴油出口禁令也延到 10 月底。\n        ④ 下一步（France 24／AFP）：美財長 Bessent 要歐洲「立即」釋儲；歐盟會員國 10/2 與執委會討論協調應對。Šefčovič 稱美國若禁出口，對歐洲經濟「後果會非常嚴重」。\n        結論：柴油供給三面同時收緊，Q4 運費要往上看。",
+    "public_impact": "路透十月一日引述知情人士報導，美國要求德國與法國動用緊急柴油庫存，否則可能禁止美國柴油出口；歐洲方面消息稱，美方希望歐盟在六個月內釋出一點二億桶。Politico 指出這相當於歐盟六月約三點一五億桶柴油戰略庫存的三分之一以上；執委會表示任何釋儲都須經國際能源總署協調。同日中國煉廠暫停十月成品油出口，俄羅斯柴油出口禁令也延到十月底，Brent 盤中回到每桶一百美元以上。歐盟會員國十月二日與執委會討論應對。對賣家而言，柴油供給三面收緊，第四季卡車與快遞燃油附加費仍有上行風險。",
+    "public_action": "① 自行出貨的賣家，向合作快遞確認十一月燃油附加費的公布時間，運費設定預留調整空間；② 旺季補貨盡量提早安排，並比較多家卡車報價；③ 留意十月二日歐盟會議結果、中國十月七日長假後是否恢復出口，以及美國是否宣布柴油出口限制；④ 釋儲規模與禁出口條件目前為媒體引述消息，請以官方公布為準。",
+    "sources": [
+      {
+        "name": "Reuters：美方要德法釋出柴油庫存、否則可能禁出口（10/1，付費牆）",
+        "url": "https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01"
+      },
+      {
+        "name": "Politico Europe：Wright 提案釋出逾三分之一柴油儲備（10/1）",
+        "url": "https://www.politico.eu/article/trumps-energy-chief-asked-europe-to-release-more-than-a-third-of-its-diesel-reserves"
+      },
+      {
+        "name": "France 24／AFP：美方要歐洲「立即」釋儲、歐盟 10/2 開會（10/1）",
+        "url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices"
+      },
+      {
+        "name": "Reuters：中國煉廠暫停 10 月成品油出口（10/1，付費牆）",
+        "url": "https://www.reuters.com/business/energy/chinese-refiners-suspend-oct-fuel-exports-petrochina-cancels-cargoes-sources-say-2026-10-01"
+      },
+      {
+        "name": "Quartz：Brent 回到 $100 以上（10/1）",
+        "url": "https://qz.com/china-fuel-export-halt-brent-crude-100-dollars-100126"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-02",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/1】歐元區 9 月製造業 PMI 終值 52.9 創 52 個月新高，進貨與出廠價四個月來首度同步加速；英國也轉向",
+    "summary": "景氣與物價同時往上，ECB 升息的理由又多一個：\n        ① 歐元區（S&P Global，investing.com、investingLive）：PMI 終值 52.9（8 月 52.7、預期 52.7），2022/5 以來最高；產出指數 53.6、55 個月新高；調查涵蓋的 8 國全部擴張，荷蘭領先，部分來自 AI 相關設備需求。\n        ② 物價（investingLive、Yahoo Finance）：進貨成本與出廠售價四個月來首度同步加速，交期仍在拉長。S&P Global 首席經濟學家 Williamson 稱這讓市場臆測 ECB 會再升息。\n        ③ 英國（investingLive）：PMI 51.9（初值 52.0），產出成長為半年最弱；價格指標由降溫轉為回升，為 5 月以來首見，柴油推高運輸成本。\n        ④ 就業（Eurostat）：歐元區 8 月失業率 6.4%，與 7 月持平、比去年同期高 0.1 個百分點。\n        結論：製造業成本正在往出廠價傳，消費品漲價壓力在 Q4 還會增加。",
+    "public_impact": "標普全球十月一日公布，歐元區九月製造業採購經理人指數終值五十二點九，高於預期的五十二點七，為 2022 年 5 月以來最高；產出指數五十三點六、創五十五個月新高，調查涵蓋的八國全數擴張。但進貨成本與出廠售價四個月來首度同步加速，市場因此臆測歐洲央行可能再升息。英國製造業指數五十一點九，產出成長為半年最弱，價格指標也由降溫轉為回升，柴油推高運輸成本。歐元區八月失業率六點四％持平。對賣家而言，工廠成本正傳導到出廠價，歐洲採購的進貨報價第四季到明年第一季可能再上調。",
+    "public_action": "① 留意十月二日歐元區九月通膨初值，若明顯高於市場預期，以歐元計價成本的賣家應重新檢視明年第一季報價；② 向歐洲供應商確認明年第一季報價是否已反映能源與運費調整，條件許可時提早鎖價；③ 英國市場第四季以保守情境規劃，促銷預算集中在黑色星期五檔期；④ 持續觀察服務業指數與十月二十九日歐洲央行會議。",
+    "sources": [
+      {
+        "name": "Investing.com：歐元區製造業 52 個月新高、產出 55 個月新高（10/1）",
+        "url": "https://www.investing.com/news/economic-indicators/eurozone-manufacturing-hits-52month-high-in-september-93CH-4926531"
+      },
+      {
+        "name": "investingLive：進貨與出廠價同步加速（10/1）",
+        "url": "https://investinglive.com/news/eurozone-manufacturing-hits-52-month-high-as-input-and-output-prices-accelerate"
+      },
+      {
+        "name": "Yahoo Finance：Williamson 稱價格加速推升 ECB 升息臆測（10/1）",
+        "url": "https://finance.yahoo.com/economy/articles/eurozone-manufacturing-activity-gathers-momentum-103335984.html"
+      },
+      {
+        "name": "investingLive：英國製造業 PMI 51.9、價格轉為回升（10/1）",
+        "url": "https://investinglive.com/news/uk-september-final-manufacturing-pmi-51-9-vs-52-0-preliminary"
+      },
+      {
+        "name": "Eurostat：歐元區 8 月失業率 6.4%（10/1）",
+        "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/3-01102026-ap"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-02",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【9/30–10/1 德國】DACH 免費退貨比例從 49.2% 回到 60.6%，德國今年退貨估 5.6 億件再創新高",
+    "summary": "兩份研究同時發布，方向一致：退貨變多，賣家吸收的比例也變高：\n        ① 免費退貨回來了（EHI，etailment、Ecommerce News）：調查 108 家 DACH 線上零售商，2026 年完全負擔退貨運費的占 60.6%（去年 49.2%），全額轉嫁給消費者的從 18.0% 降到 10.6%。76.2% 稱主因是顧客滿意與留存。\n        ② 退貨率分化（EHI）：退貨率上升的業者占 18.7%（去年 14.7%）；服飾仍最高，約三分之二業者退貨率超過 20%；3C 有 94.5% 業者退貨率在 10% 以內。超過四分之一業者說不出每件退貨的處理成本。\n        ③ 件數創新高（WDR，班貝格大學 Asdecker）：德國 2026 年退貨估 5.6 億件（2025 年 5.5 億），幾乎每 4 件線上包裹就有 1 件退回；八成以上退貨包裹來自服飾。\n        結論：退貨政策又變回競爭工具，成本壓力回到賣家身上。",
+    "public_impact": "德國零售研究機構 EHI 調查一百零八家德奧瑞線上零售商，2026 年完全負擔退貨運費的業者占百分之六十點六，去年為四十九點二；全額轉嫁給消費者的從百分之十八降到十點六，主因是顧客滿意與留存。退貨率上升的業者占百分之十八點七；服飾仍最高，約三分之二業者退貨率超過二十％，3C 則有九成以上在十％以內。班貝格大學研究估計德國 2026 年退貨約五點六億件，再創新高，幾乎每四件線上包裹就有一件退回。對賣家而言，免費退貨已成消費者的基本預期，服飾類的退貨成本最重。",
+    "public_action": "① 服飾賣家試算毛利時，退貨率以百分之二十至三十五估計，並優先改善尺寸表與材質說明；② 3C 賣家若退貨率超過百分之十，代表高於同業水準，應檢查是否集中在特定商品；③ 第四季促銷後一月通常是退貨高峰，提早預留處理預算並規劃退回商品的處理方式；④ 研究樣本為德奧瑞線上零售商，各平台情況可能不同。",
+    "sources": [
+      {
+        "name": "etailment：免費退貨回到 60.6%、四分之一業者不知退貨成本（10/1）",
+        "url": "https://www.etailment.de/magazin/2026-10-01-ruecksendung-auf-haendlerkosten-wird-wieder-zur-regel"
+      },
+      {
+        "name": "Ecommerce News Europe：EHI 調查 DACH 退貨率與品類差異（10/1）",
+        "url": "https://ecommercenews.eu/free-returns-on-the-rise-in-dach-region"
+      },
+      {
+        "name": "LOGISTIK HEUTE：EHI 退貨研究（10/1）",
+        "url": "https://logistik-heute.de/news/e-commerce-retouren-bleiben-relevantes-thema-286428.html"
+      },
+      {
+        "name": "WDR：德國 2026 年退貨估 5.6 億件（Sabine Schmitt，9/30）",
+        "url": "https://www1.wdr.de/nrw/retouren-rekord-strategie-armed-angels-100.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-02",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/30 宣布・10/1 歐媒跟進】Bizum、Wero 等五家支付系統組 ENP、1.3 億用戶：先做 P2P，電商跨境付款排在後面",
+    "summary": "歐洲各國的本地支付系統開始互通，目標是降低對 Visa、Mastercard 的依賴：\n        ① 誰參加（聯合新聞稿，KBC newsroom）：義大利 Bancomat、西班牙 Bizum、EPI／Wero、葡萄牙 SIBS–MB WAY、北歐 Vipps MobilePay 合組「European Network for Payments」（ENP），五方同股；服務 13 國約 1.3 億用戶，覆蓋歐盟加挪威逾 70% 人口。\n        ② 怎麼做（Reuters）：總部在馬德里，建共用的互通平台，以歐洲標準與即時帳戶轉帳為基礎；Visa 與 Mastercard 目前處理歐盟近三分之二的卡片支付。\n        ③ 時程（新聞稿、Il Sole 24 Ore）：分階段上線，先做跨境個人轉帳，電商與實體刷卡在後續階段；Il Sole 稱 2027 年起運作。ECB 的數位歐元目標是 2029 年。\n        結論：短期不影響結帳，但 2027 年後歐洲本地錢包的跨境電商付款可能成形。",
+    "public_impact": "九月三十日，義大利 Bancomat、西班牙 Bizum、EPI 旗下的 Wero、葡萄牙 MB WAY 與北歐 Vipps MobilePay 宣布合組歐洲支付網路（ENP），總部設在馬德里，五方同股，服務十三國約一點三億用戶，覆蓋歐盟加挪威逾七成人口。新平台以歐洲標準與即時帳戶轉帳為基礎，目標是降低對 Visa 與 Mastercard 的依賴，兩者目前處理歐盟近三分之二的卡片支付。上線分階段進行，先做跨境個人轉帳，電商與實體店付款在後續階段，義大利媒體稱 2027 年起運作。對賣家而言，短期不影響結帳流程，但未來歐洲本地錢包的跨境付款可能成為新的收款選項。",
+    "public_action": "① 目前不需調整收款方式，電商付款階段尚無確切日期；② 經營獨立站的賣家可持續關注 ENP 公布的電商時程與費率；③ 若有支付服務商以此推銷，先確認對方是否已實際接入，以及費率是否低於現行卡片收款。",
+    "sources": [
+      {
+        "name": "Reuters：歐洲支付業者合組公司、減少對美依賴（Jesús Aguado 等，9/30，付費牆）",
+        "url": "https://www.reuters.com/business/finance/european-payments-groups-join-forces-lessen-us-reliance-2026-09-30"
+      },
+      {
+        "name": "KBC newsroom：五家支付系統聯合新聞稿（9/30）",
+        "url": "https://newsroom.kbc.com/bancomat-bizum-epiwero-sibs-mb-way-and-vipps-mobilepay-announce-the-creation-of-a-european-interoperability-entity-to-connect-their-respective-solution"
+      },
+      {
+        "name": "Il Sole 24 Ore：ENP 2027 年起運作（Lucilla Incorvati，10/1）",
+        "url": "https://en.ilsole24ore.com/art/a-european-alternative-to-the-giants-visa-and-mastercard-has-emerged-AJFmLoTB"
+      },
+      {
+        "name": "PaymentsJournal：歐洲串連支付系統挑戰 Visa、Mastercard（10/1）",
+        "url": "https://www.paymentsjournal.com/europe-links-payment-systems-in-push-to-challenge-visa-and-mastercard"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-01",
     "type": "daily",
     "tags": [
