@@ -1,5 +1,163 @@
 [
   {
+    "date": "2026-10-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/2 Eurostat】歐元區 9 月 HICP flash 3.8% 高於共識 3.6%、三年新高：能源 +18.8%，ECB 10/29 再升息機率 91%",
+    "summary": "10/1 日報已報法義德個別數字；10/2 歐元區合計出爐，比共識高 0.2 個百分點：\n        ① 總數（Eurostat）：9 月 HICP 3.8%（8 月 3.2%），月增 0.6%，2023/9 以來最高；共識 3.6%（Euronews、Trading Economics）。核心 2.5%（8 月 2.4%）符合預期。\n        ② 誰在推（Eurostat）：能源 18.8%（8 月 14.3%，一年前 -0.4%）；服務 3.2%；未加工食品 4.0%；非能源工業品 1.1%，是唯一放緩的大類。\n        ③ 主要國家：德 3.3%、法 3.4%、義 4.1%（月增 2.0%）、西 5.0%、荷 3.0%、奧 3.5%、比 4.6%。\n        ④ ECB 與債市（Euronews）：存款利率 6 月、9 月兩度升息後為 2.50%；預測市場給 10/29 再升一碼 91%。法國 10 年期公債殖利率 10/1 觸 4.96%，2002 年 7 月以來最高，法德利差逾 140bp。\n        結論：通膨幾乎全由能源推升，一般商品價格反而放緩；利率端已先反映。",
+    "public_impact": "歐盟統計局十月二日公布，歐元區九月通膨初值百分之三點八，高於市場預期的三點六，為二〇二三年九月以來最高。能源年增百分之十八點八是主要推手，核心通膨二點五符合預期；非能源工業品只漲一點一，是唯一放緩的大類，代表一般商品價格並沒有在漲。主要國家中西班牙五點零、義大利四點一且單月上升二點零，南歐消費壓力最大。預測市場認為歐洲央行十月二十九日再升息一碼的機率約九成一，法國十年期公債殖利率十月一日觸及四點九六，為二〇〇二年以來最高，旺季前的融資成本可能上升。",
+    "public_action": "① 第四季定價不宜以通膨為由調高標價，一般商品通膨僅百分之一點一；② 西班牙、義大利站的第四季銷售預估宜採保守情境；③ 有庫存融資需求者，可在十月二十九日歐洲央行會議前確認額度與利率；④ 留意十月十六日通膨終值與十一月四日十月份初值。",
+    "sources": [
+      {
+        "name": "Eurostat：Euro area annual inflation up to 3.8%（9 月 flash，含分項與會員國全表，10/2）",
+        "url": "https://ec.europa.eu/eurostat/product?code=2-02102026-ap"
+      },
+      {
+        "name": "Euronews：歐元區通膨跳升至 3.8%、共識 3.6%、10/29 升息機率 91%（10/2）",
+        "url": "https://www.euronews.com/2026/10/02/eurozone-inflation-spikes-to-38-is-your-country-on-the-worst-list"
+      },
+      {
+        "name": "Trading Economics：9 月 flash 實際 3.8% vs 共識 3.6%（10/2）",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi"
+      },
+      {
+        "name": "Euronews：法國 10 年期殖利率 4.96% 創 24 年新高、法德利差逾 140bp（10/2）",
+        "url": "https://www.euronews.com/2026/10/02/bonds-steady-as-french-borrowing-costs-hit-24-year-high-and-uk-30-year-yields-top-6"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-05",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/2 G7】IEA 協調四個月釋出 1 億桶、柴油為主且 20 天內先到：川普稱不禁柴油出口，Brent 週跌 1.5%",
+    "summary": "10/2 日報寫到美方要求歐盟釋出柴油、否則考慮禁出口；當天 G7 拍板：\n        ① 規模（G7 聲明，Euronews、Reuters）：IEA 協調釋出最多 1 億桶原油與油品，四個月內完成（約每日 83 萬桶），「相當比例的柴油」20 天內到位；另承諾提高煉油產能、不限制夥伴國間能源貿易。各國分攤未公布。\n        ② 歐方立場（Euronews）：歐盟外交官稱法國原提案為柴油、原油各 5,000 萬桶；執委會稱「完全拒絕任何柴油禁令」。川普稱「不會做出口禁令」。\n        ③ 能降多少（Wood Mackenzie Gelder，Euronews 引述）：大規模釋出可讓批發價降 $20–30／桶，約泵價每公升 €0.10–0.15；Kpler 稱傳導到泵價要 1–2 週。Gelder 也說「只是買時間」。\n        ④ 油價（Reuters）：Brent 12 月合約 10/2 收在 $102.79、週跌 1.5%，10/5 亞洲盤 $101.58。OPEC+ 10/4 維持 11 月產量目標；胡塞 10/3 稱攻擊利雅德 Aramco 設施，沙國未證實。\n        結論：柴油短期有緩解，結構性短缺沒有解決。",
+    "public_impact": "七大工業國十月二日同意由國際能源署協調，在四個月內釋出最多一億桶原油與油品，以柴油為主，相當部分二十天內到位；歐盟執委會表示拒絕任何柴油出口禁令，美方也稱不會實施。Wood Mackenzie 分析師估算，大規模釋出可讓泵價每公升下降零點一至零點一五歐元，傳導需一到兩週，並提醒這只是爭取時間。布蘭特原油十二月合約十月二日收在一百零二點七九美元，週跌百分之一點五。對賣家而言，第四季運費是漲勢減緩而非回落，中東供應風險仍在。",
+    "public_action": "① 第四季運費預算維持現有水準，不宜因釋儲消息下修；② 黑色星期五的入倉排程照計畫完成，不要等運費回落；③ 留意十月下旬柴油釋出到位後的泵價變化，以及十一月一日 OPEC+ 會議。",
+    "sources": [
+      {
+        "name": "Euronews：G7 同意釋出 1 億桶、柴油 20 天內到位（10/2）",
+        "url": "https://www.euronews.com/2026/10/02/g7-agrees-100-million-barrel-emergency-oil-release-amid-us-pressure-over-diesel"
+      },
+      {
+        "name": "Euronews：釋儲能否壓低柴油價格（Wood Mackenzie、Kpler 估算，10/2）",
+        "url": "https://www.euronews.com/2026/10/02/can-releasing-more-of-europes-emergency-reserves-bring-diesel-prices-down"
+      },
+      {
+        "name": "Investing.com：川普稱歐洲將釋出大量柴油、馬克宏宣布 G7 釋儲（10/2）",
+        "url": "https://www.investing.com/news/commodities-news/trump-says-europe-to-release-massive-amount-of-diesel-stocks-4930069"
+      },
+      {
+        "name": "Investing.com：油價週跌、Brent 12 月合約 $102.79（10/2）",
+        "url": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-us-weighs-more-middle-east-military-presence-4928800"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：OPEC+ 維持 11 月產量目標（10/4）",
+        "url": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：胡塞稱攻擊利雅德 Aramco 設施（10/3）",
+        "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-05",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/2 ECDB】歐盟線上消費外流 €551 億、九成給 Temu／Shein／AliExpress：外流占比 5 年從 2.3% 升到 13.1%",
+    "summary": "第一份量化「歐盟消費者有多少線上消費流到歐盟外商店」的數據：\n        ① 規模（ECDB，Ecommerce News Europe 10/2）：2025 年歐盟實體商品線上消費 €4,210 億，86.9% 給歐盟內商店；€551 億（13.1%）流向歐盟外，其中 Temu、Shein、AliExpress 拿 €497 億，即外流的九成；美國 4.8%、英國 4.6%。\n        ② 趨勢與品類（ECDB 創辦人 Schwandt）：外流占比 2020 年 2.3%，ECDB 估 2026 年 15.2%，但此估計做於免稅門檻取消前。服飾有 32% 是跨境購買，遠高於其他品類。\n        ③ 定義：在 Amazon、eBay 歐洲本地站購買都算境內。ECDB 9/15 另稱 Temu 2025 年已是法國第二大線上零售商，在德英荷義西都進前十。\n        ④ 大平台怎麼應對（Händlerbund 執行長 Arlt 評論，10/1）：讀者回報 AliExpress 把更多商品放進歐盟倉、Temu 在德國設倉；大平台吸收得了 €3 關稅，小賣家只能漲價或砍品項；另有進口商稱清關多花約 14 天。\n        結論：外流的錢正轉成歐盟倉內的直接競爭。",
+    "public_impact": "市場研究機構 ECDB 估計，二〇二五年歐盟實體商品線上消費四千二百一十億歐元，其中五百五十一億、百分之十三點一流向歐盟以外的商店，Temu、Shein 與 AliExpress 合計拿走四百九十七億，約外流的九成。外流占比二〇二〇年只有百分之二點三，服飾類有三成二是跨境購買。在大型平台的歐洲本地站購買不算跨境。德國商業協會 Händlerbund 指出，大平台正把商品移入歐盟倉，有能力吸收三歐元關稅，小型賣家只能漲價或縮減品項。競爭正從跨境直郵轉為歐盟倉內的直接比價。",
+    "public_action": "① 從亞洲直接寄送的賣家，可在十一月歐盟小包手續費上路前，評估哪些品項適合改為歐洲倉出貨；② 服飾與低價家居賣家可比對中國平台同款售價，價差過大時改以差異化商品或組合包競爭；③ 引用外流數據時，注意歐洲本地站購買不計入跨境。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe：歐盟外流線上消費九成給 Temu、Shein、AliExpress（ECDB 數據，10/2）",
+        "url": "https://ecommercenews.eu/over-90-of-purchases-abroad-made-on-temu-shein-or-aliexpress/"
+      },
+      {
+        "name": "LinkedIn：ECDB 創辦人 Friedrich Schwandt 跨境電商報告摘要（服飾 32%、定義說明）",
+        "url": "https://www.linkedin.com/posts/friedrichschwandt_cross-border-e-commerce-in-europe-dossier-ugcPost-7510279041426337792-m9wF/"
+      },
+      {
+        "name": "ECDB：Temu 2025 年在歐洲四國第一、法國第二（9/15）",
+        "url": "https://ecdb.com/blog/temu-s-first-rank/5260"
+      },
+      {
+        "name": "OnlinehändlerNews：Händlerbund 執行長評論「關稅改革，大平台算進成本、小賣家買單」（10/1）",
+        "url": "https://ohn.haendlerbund.de/haendlerbund-news/zollreform-die-kleinen-zahlen"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-05",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/30 研究・10/6 開跑】Amazon 氣候友善標章研究：歐洲五國上架後 12 週 GMS +16.8%，明天 Prime Big Deal Days",
+    "summary": "PBDD 開跑前，一份用 Amazon 實際銷售資料做的研究被德國業界轉介：\n        ① 研究（IFH Köln 9/30、OnlinehändlerNews 10/1）：Proserpio、Goli 等五位作者發表於《International Journal of Research in Marketing》（2025），追蹤美國約 4.5 萬件商品約三年，另含英德法義西同規模資料，比較加入 Climate Pledge Friendly（CPF）前後與未加入的商品。\n        ② 結果（加入後 12 週）：歐洲 GMS +16.8%、營收 +15.5%、出貨件數 +4.2%；美國分別 +13.3%、+12.5%、+4.4%，效果延續到 48 週。\n        ③ 三個但書：若不扣除同期加碼的廣告與促銷，效果會被高估 19–27%；原本能見度低的商品受益最大；食品、健康與個人護理受益最多，耐久財與服飾較少。\n        ④ PBDD（About Amazon EU／UK）：10/6–10/7，10/6 00:01 CET 開始，含德法義西荷、英國、波蘭、瑞典等歐洲 14 國，Rufus 與 Lens Live 列為主打購物工具。\n        結論：標章的效果在「被找到」，不在漲價。",
+    "public_impact": "德國零售研究機構 IFH Köln 九月三十日轉介一篇發表於《International Journal of Research in Marketing》的研究，以 Amazon 實際銷售資料分析氣候友善標章（Climate Pledge Friendly）的效果。研究追蹤美國約四點五萬件商品約三年，另含英德法義西資料。歐洲商品加入後十二週，銷售額增加百分之十六點八、件數增加四點二，效果延續到四十八週。研究也指出，若不扣除同期加碼的廣告與促銷，效果會被高估一到兩成多；原本能見度低的商品、食品與個人護理類受益最大。Prime Big Deal Days 十月六日至七日在歐洲十四國舉行。",
+    "public_action": "① 食品、健康與個人護理類賣家可評估是否已有標章認可的第三方認證；② 評估標章效果時避開大促檔期，至少觀察十二週，並扣除同期廣告與促銷的影響；③ 新上架、能見度較低的商品比熱銷品更可能受益；④ 研究結果是平均值，不代表個別商品一定有相同增幅。",
+    "sources": [
+      {
+        "name": "IFH Köln：Nachhaltigkeit verkauft – aber nicht von allein（Werner Reinartz，9/30）",
+        "url": "https://www.ifhkoeln.de/nachhaltigkeit-verkauft-aber-nicht-von-allein/"
+      },
+      {
+        "name": "OnlinehändlerNews：Amazon 永續標章提升營收，但不會自動發生（10/1）",
+        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/amazons-nachhaltigkeitslabel-steigern-umsatz-nicht-allein"
+      },
+      {
+        "name": "International Journal of Research in Marketing：原始論文 DOI（付費牆）",
+        "url": "https://doi.org/10.1016/j.ijresmar.2025.04.009"
+      },
+      {
+        "name": "About Amazon EU：Prime Big Deal Days 10/6–10/7 回歸（9/15）",
+        "url": "https://www.aboutamazon.eu/news/retail/prime-big-deal-days-2026"
+      },
+      {
+        "name": "About Amazon UK：Prime Big Deal Days 英國 10/6–10/7（9/15）",
+        "url": "https://www.aboutamazon.co.uk/news/retail/amazon-prime-big-deal-days-2026-date"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/2 英國】BoE DMP：七成企業預期毛利下降、漲價意願降到 57%；30 年期公債 10/1 破 6%，1998 年來首見",
+    "summary": "英國企業還在消化能源成本，債市先替財政擔心：\n        ① DMP 9 月調查（BoE 10/2，1,993 家企業 CFO，9/4–9/18）：未來一年自家售價預期 3.7%、近三個月實際 3.7%；一年後 CPI 預期 3.1%、三年後 2.8% 皆持平；工資實際 4.0%、預期 3.4%；就業 -0.2%。\n        ② 能源衝擊怎麼吸收（BoE、Investing.com）：70% 預期毛利下降（比 4 月多 2 點）；57% 預期漲價，比 4 月少 7 點、比 8 月少 2 點；7% 預期降價。\n        ③ 債市（Euronews 10/2）：30 年期公債殖利率 10/1 突破 6%，1998 年後首見，10/2 回到約 5.92%；10 年期約 5.37%。報導指財政大臣 Healey 在 10/28 預算案前召見銀行高層，市場揣測加徵銀行稅，銀行股 10/1 跌 4–5%。\n        結論：企業轉嫁成本的意願在降、吸收比例在升，價格競爭會比漲價更明顯。",
+    "public_impact": "英格蘭銀行十月二日公布九月決策者調查，訪問近兩千家企業財務長。企業預期未來一年自家售價上漲百分之三點七，與近三個月實際相同；一年後通膨預期三點一。面對能源成本，百分之七十的企業預期毛利下降，比四月多兩個百分點；預期漲價的比例降到五成七，比四月少七個百分點。債市方面，英國三十年期公債殖利率十月一日突破百分之六，為一九九八年以來首見。十月二十八日預算案落在黑色星期五前一個月，英國消費者第四季的支出可能更保守。",
+    "public_action": "① 英國站第四季以守住價格為主，用折扣與優惠券帶動轉換，避免直接調高標價；② 英國站銷售預估採保守情境，十月二十八日預算案公布後再調整；③ 留意十月三十日下一期決策者調查與十一月英格蘭銀行會議。",
+    "sources": [
+      {
+        "name": "Bank of England：Decision Maker Panel – September 2026（10/2）",
+        "url": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026"
+      },
+      {
+        "name": "Investing.com：英國企業售價與工資預期持平、能源成本擠壓毛利（10/2）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-firms-see-price-wage-growth-steady-as-energy-costs-squeeze-margins-93CH-4929402"
+      },
+      {
+        "name": "Euronews：英國 30 年期殖利率破 6%、10/28 預算案前銀行稅揣測（10/2）",
+        "url": "https://www.euronews.com/2026/10/02/bonds-steady-as-french-borrowing-costs-hit-24-year-high-and-uk-30-year-yields-top-6"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-02",
     "type": "daily",
     "tags": [
