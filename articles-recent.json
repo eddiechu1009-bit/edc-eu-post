@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-10-06",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/5】法國財政拖累歐元盤中跌到 $1.116、17 個月新低：法德利差上週近 160bp，四週累跌 3.1%",
+    "summary": "10/5 日報寫到法國公債殖利率創 24 年新高；週一壓力傳到匯市：\n        ① 匯價（Reuters）：EUR/USD 10/5 盤中跌 0.8% 至 $1.116，2025 年 5 月以來最低，收在 $1.1211；上週為連續第四週下跌，累計 -3.1%。歐元對英鎊、瑞郎、日圓同步走弱。\n        ② 利差（Reuters、ING）：法德 10 年期利差上週五近 160bp，2011 年債務危機以來最寬；週一收斂到約 134–136bp，9 月初還不到 90bp。BofA 估利差每擴大 10bp，EUR/USD 約跌 0.4%。\n        ③ 原因（Reuters、ING）：2027 年預算案在分裂國會難以過關，市場擔心 2027 年大選前減赤落空；ING 稱 Moody's 本月稍晚的檢視可能拿掉法國在三大評等機構僅剩的 AA。\n        ④ 政治面擴散（Euronews）：西班牙總理 Sánchez 10/5 宣布 11/29 提前大選。ING 維持 EUR/USD 目標 1.11–1.12，不排除測試 1.10。\n        結論：歐元弱勢的主因從利率轉為財政風險。",
+    "public_impact": "法國財政疑慮在十月五日延燒到匯市，歐元兌美元盤中下跌百分之零點八至一點一一六，為二〇二五年五月以來最低，上週已是連續第四週下跌、累計百分之三點一。法德十年期公債利差上週五接近一百六十個基點，為二〇一一年歐債危機以來最寬，週一收斂到約一百三十五。主因是二〇二七年預算案難以在分裂的國會過關。ING 指出評等機構穆迪本月稍晚的檢視，可能讓法國失去最後一個 AA 評等；西班牙也宣布十一月二十九日提前大選。以歐元收款、以美元或其他貨幣計算成本的賣家，旺季營收換匯後會縮水。",
+    "public_action": "① 第四季毛利試算把歐元兌美元假設下修到一點一一，並準備一點一零的壓力情境；② 旺季回款可分批換匯，避免集中在單一低點；③ 匯差超過百分之三的品項，可在大促結束後評估小幅調整售價；④ 留意十月下旬法國評等、十月二十九日歐洲央行會議與十一月二十九日西班牙大選。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：歐元因法國債務疑慮跌至 17 個月低點（10/5）",
+        "url": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot-4930983"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：法國公債傳染疑慮撼動歐元、BofA 利差敏感度（10/5）",
+        "url": "https://www.investing.com/news/economy-news/french-bond-contagion-fears-are-rattling-the-euro-4932638"
+      },
+      {
+        "name": "ING THINK：FX Daily – Euro repriced for fiscal woes（10/5）",
+        "url": "https://think.ing.com/articles/fx-daily-euro-repriced-for-fiscal-woes/"
+      },
+      {
+        "name": "ING THINK：Rates Spark – OAT/Bund 利差 134bp、Moody's 檢視（10/5）",
+        "url": "https://think.ing.com/articles/rates-spark-repricing-the-ecb-path/"
+      },
+      {
+        "name": "Euronews：西班牙 Sánchez 宣布 11/29 提前大選（10/5）",
+        "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-06",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/1 判決・10/5 德媒跟進】德國聯邦最高法院判 Prime 2022 年漲價條款無效：Amazon 暫時恢復老會員舊價",
+    "summary": "德國消保團體告了四年的 Prime 漲價案，終審定讞：\n        ① 判決（BGH 新聞稿 184/2026、LTO）：BGH 第三民事庭 10/1 判決（III ZR 205/25），維持杜塞道夫地院與高院見解：會費調整條款依 §307 BGB 不透明而無效。條款同時寫「可拒絕變更」與「可免費退訂」，客戶無法判斷拒絕後是退訂還是續用舊價。\n        ② 漲多少（LTO、OnlinehändlerNews）：2022 年 9 月年費 €69 → €89.90、月費 €7.99 → €8.99，Amazon 未取得明確同意。原告為 NRW 消保中心。\n        ③ Amazon 怎麼做（LTO、OnlinehändlerNews 10/5）：Amazon 表示不同意判決，但對 2022/9/15 前加入且持續未變更的會員暫時恢復舊價，下次扣款前通知。\n        ④ 退款未決（LTO）：BGH 未判是否退還溢付，要個別請求；消保中心 2025 年 12 月起在漢姆高院提團體訴訟，約 14.5 萬人登記。\n        結論：德國法院對定型化條款的透明度要求很嚴。",
+    "public_impact": "德國聯邦最高法院十月一日判決，Amazon 在二〇二二年九月把 Prime 年費從六十九歐元調到八十九點九歐元、月費從七點九九調到八點九九時所依據的條款不透明而無效，原因是條款同時寫可以拒絕變更、又寫可以免費退訂，消費者無法判斷拒絕後是退訂還是續用舊價。Amazon 表示不同意，但會對二〇二二年九月十五日前加入且未變更方案的會員暫時恢復舊價。是否退還溢付款尚未判決，消保團體的團體訴訟已有約十四點五萬人登記。對平台賣家的費用沒有直接影響，但顯示德國法院對定型化條款的透明度要求很嚴。",
+    "public_action": "① 這是會員與平台之間的消費者訴訟，不影響賣家費用；② 在德國經營獨立網站、訂閱制或會員方案的賣家，檢查價格調整條款是否清楚寫明消費者拒絕漲價的後果；③ 避免同時寫「可拒絕變更」與「可退訂」卻不說明兩者關係，以免被認定條款無效或收到警告函。",
+    "sources": [
+      {
+        "name": "Bundesgerichtshof：新聞稿 184/2026，III ZR 205/25（10/1）",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html?nn=373478"
+      },
+      {
+        "name": "LTO：BGH 判 Amazon Prime 漲價條款無效、Amazon 回應與團體訴訟（10/1）",
+        "url": "https://www.lto.de/recht/nachrichten/n/bgh-iiizr20525-amazon-prime-preiserhoehung-agb"
+      },
+      {
+        "name": "OnlinehändlerNews：Prime 漲價違法（10/5）",
+        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/prime-amazons-preiserhoehung-rechtswidrig"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-06",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/5】德法聯名提議「反向多數決」對中貿易工具：10/8 Šefčovič 訪京、10/15–16 峰會討論",
+    "summary": "10/1 日報寫到德法「傳擬」聯手要歐版 301；10/5 正式送出：\n        ① 提案（Euronews、Reuters）：馬克宏與梅爾茨 10/5 致函 von der Leyen 並附政策文件，要求新設「系統性反應」工具，對造成市場扭曲的國家限制單一市場准入，手段可包括關稅、授權與智財限制。名義上不點名，實際針對中國。\n        ② 怎麼運作：執委會提案後，除非成員國條件多數反對，否則生效；德方官員稱可在數天內啟動。範圍從單一產品到整個產業，涵蓋補貼與匯率。另要求加快反傾銷、反補貼調查並以產業為單位。\n        ③ 時程：新工具仍需成員國與歐洲議會通過。Šefčovič 10/8–10/9 訪京，歐盟峰會 10/15–10/16 討論。\n        ④ 背景（Euronews）：歐盟對中逆差約每天 €10 億；中國商務部 10/3 對歐盟對硝基甲苯發起反傾銷調查。\n        結論：歐盟對中貿易防衛的門檻正在降低。",
+    "public_impact": "法國總統馬克宏與德國總理梅爾茨十月五日聯名致函歐盟執委會主席，提議新設一套對造成市場扭曲國家的反應工具，可限制其進入歐盟單一市場，手段包括關稅、授權與智財限制。名義上不針對特定國家，外界普遍認為對象是中國。機制採反向多數決，除非成員國以條件多數反對，否則執委會的措施即生效。文件也要求以整個產業為單位加快反傾銷調查。新工具仍需成員國與歐洲議會通過，歐盟貿易執委十月八日至九日訪問北京，峰會十月十五至十六日討論。對在中國生產的賣家，未來部分品類的關稅風險可能從個案擴大到整個產業。",
+    "public_action": "① 盤點主力商品的原產地，了解中國製商品的占比；② 目前仍是提案，不需要立即調整定價或供應鏈；③ 在台灣或其他地區生產的賣家，可留意若中國製同類商品被課稅後的價格競爭變化；④ 留意十月八日至九日北京會談與十月十五至十六日歐盟峰會的結論。",
+    "sources": [
+      {
+        "name": "Euronews：德法同意對中新貿易工具（10/5）",
+        "url": "https://www.euronews.com/2026/10/05/germany-and-france-agree-new-trade-tool-to-counter-china"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：德法提議新的歐盟快速貿易反應工具（10/5）",
+        "url": "https://www.investing.com/news/economy-news/france-germany-propose-new-rapid-eu-trade-response-tool-4932514"
+      },
+      {
+        "name": "Euronews：中國在北京會談前對歐盟發起反傾銷調查（10/3）",
+        "url": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-06",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/5】歐元區 9 月綜合 PMI 53.1 創三年半新高、8 月 PPI 年增 8.2%：Lane 稱「需求破壞」可減少升息",
+    "summary": "同一天三個訊號：需求強、出廠價高，但 ECB 首席經濟學家偏鴿：\n        ① PMI 終值（S&P Global，Reuters、Trading Economics）：綜合 53.1（8 月 52.0），2023 年 4 月以來最高，符合共識；服務業 53.0。新訂單 41 個月最快、海外訂單四年半最快；投入與產出價格四個月最快。S&P 的 Williamson 稱相當於季增 0.4%。\n        ② PPI（Eurostat）：8 月月增 1.9%、年增 8.2%（共識 8.1%）；能源年增 21.0%，扣除能源只 3.4%，耐久消費品 3.4%、非耐久 -0.8%。義大利 13.5%、西班牙 13.2%，德、法約 4.6–4.8%。\n        ③ ECB（Reuters）：Lane 稱能源、財政退場與長端利率上升的「需求破壞」可能減少所需升息幅度；Nagel 稱尚無二輪效應。ING：9 月底以來市場已移除 30bp 升息預期。\n        結論：成本壓力集中在能源，ECB 升息路徑正在下修。",
+    "public_impact": "十月五日公布的歐元區九月綜合採購經理人指數終值五十三點一，為二〇二三年四月以來最高，新訂單成長為四十一個月來最快，海外訂單為四年半來最快。歐盟統計局同日公布八月工業生產者價格年增百分之八點二，但幾乎都來自能源的百分之二十一；扣除能源只漲三點四，非耐久消費品甚至年減零點八。義大利與西班牙年增都超過百分之十三。歐洲央行首席經濟學家 Lane 表示，能源成本與長期利率上升抑制需求，可能減少所需的升息幅度，市場自九月底已下修升息預期。需求仍在擴張，但一般消費品沒有漲價空間。",
+    "public_action": "① 第四季需求面可維持原本的預估，不必因通膨數字大幅下修；② 一般消費品的歐洲本地競品出廠價沒有上漲，定價宜以守價為主；③ 南歐站留意物流與倉儲報價可能因能源成本調升；④ 留意十月八日歐洲央行會議紀要與十月二十九日利率決議。",
+    "sources": [
+      {
+        "name": "Eurostat：Industrial producer prices up by 1.9%（8 月 PPI，含分項與會員國全表，10/5）",
+        "url": "https://ec.europa.eu/eurostat/product?code=4-05102026-ap"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：歐元區 PMI 創三年半新高（10/5）",
+        "url": "https://www.investing.com/news/economy-news/euro-zone-business-growth-hits-over-312year-high-despite-inflation-worries-pmi-shows-4931193"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Lane 稱成長拖累可能減少 ECB 行動需求、Nagel 談二輪效應（10/5）",
+        "url": "https://www.investing.com/news/economy-news/ecbs-lane-recent-energy-price-surge-a-drag-on-growth-may-limit-need-for-ecb-action-4931191"
+      },
+      {
+        "name": "Trading Economics：PMI 與 PPI 實際值 vs 共識（10/5）",
+        "url": "https://tradingeconomics.com/euro-area/calendar"
+      },
+      {
+        "name": "ING THINK：9 月底以來市場移除 30bp ECB 升息預期（10/5）",
+        "url": "https://think.ing.com/articles/fx-daily-euro-repriced-for-fiscal-woes/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-06",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【9/29 ECDB・10/5 跟進】TikTok Shop 歐洲 GMV 65% 在英國、德國僅 9%：10/19 擴大 EU 與英國互賣",
+    "summary": "第一份 TikTok Shop 歐洲分國 GMV 估算：\n        ① 規模（ECDB 9/29、Ecommerce News Europe 10/5）：2025 年歐洲 GMV 約 €40.7 億；英國 65%（約 €26.3 億，2021 年上線），西班牙 14%（約 €5.7 億），法國、德國各 9%（約 €3.6、3.5 億），義大利 4%。ECDB 估 2026 年各國約翻倍，英國近 €50 億；未說明估算方法。\n        ② 英國賣家賣 EU（ChannelX 9/7）：「Sell Across EU」10/19 上線，9/21 起邀請制試行，可賣德義法西波荷比捷奧希葡匈 12 國；需在英國站正常營運、近 30 天有銷售、帳戶無高風險紀錄。\n        ③ EU 賣家賣英國（TikTok Shop 官方賣家大學 8/26）：比德西法愛義荷波 8 國賣家可申請；只能 Ship by Seller，2 個工作天內出貨、7 個工作天內交寄；要有英國退貨地址，否則退件轉 TikTok 倉並收處理費。\n        結論：TikTok Shop 在歐盟主要市場仍小，跨境靠賣家自發貨。",
+    "public_impact": "德國研究機構 ECDB 估計，TikTok Shop 二〇二五年歐洲交易額約四十點七億歐元，其中英國占百分之六十五、約二十六點三億，西班牙百分之十四，法國與德國各約百分之九，義大利百分之四；預估二〇二六年各國約成長一倍，但未公開估算方法。TikTok Shop 的「Sell Across EU」預計十月十九日上線，英國賣家可銷售到十二個歐盟國家；歐盟八國賣家也可申請銷售到英國，但只能由賣家自行出貨，須在兩個工作天內出貨、七個工作天內交寄，並準備英國退貨地址。對多數賣家而言，TikTok Shop 在歐盟主要市場仍屬早期，跨境營運的配送與退貨責任都在賣家身上。",
+    "public_action": "① 評估 TikTok Shop 時，歐盟市場以補充曝光看待，英國才是主要市場；② 申請歐盟與英國互賣前，先確認自有承運商的時效能否達到兩個與七個工作天的要求；③ 準備英國退貨地址，避免退件轉入平台倉並被收取處理費；④ 引用交易額數據時註明為研究機構估算。",
+    "sources": [
+      {
+        "name": "ECDB：The UK Generates Two of Every Three Euros TikTok Shop Makes in Europe（9/29）",
+        "url": "https://ecdb.com/blog/the-uk-is-tiktok-shop-s-most-important-market/5265"
+      },
+      {
+        "name": "Ecommerce News Europe：TikTok Shop 英國規模仍遠大於歐洲其他國家（10/5）",
+        "url": "https://ecommercenews.eu/tiktok-shop-still-much-bigger-in-the-uk-than-elsewhere-in-europe/"
+      },
+      {
+        "name": "Ecommerce News Europe：TikTok Shop 開放 EU 與英國跨境銷售（9/7）",
+        "url": "https://ecommercenews.eu/tiktok-shop-opens-cross-border-sales-between-eu-and-uk/"
+      },
+      {
+        "name": "ChannelX：TikTok Shop Sell Across EU 10/19 上線（9/7）",
+        "url": "https://channelx.world/2026/09/tiktok-shop-sell-across-eu-launches-19th-october-2026/"
+      },
+      {
+        "name": "TikTok Shop 賣家大學：[For EU sellers] Sell to UK（8/26）",
+        "url": "https://seller-ie.tiktok.com/university/essay?knowledge_id=4159761564534548"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-05",
     "type": "daily",
     "tags": [
