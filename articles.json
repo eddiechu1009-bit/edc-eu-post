@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-10-07",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/6】IEA 延到 10/14–15 敲定柴油釋儲細節、EIA 上修 Q4 Brent 到 $105：義大利柴油減稅同日歸零",
+    "summary": "10/5 日報寫到 G7 釋儲 1 億桶；10/6 的進展是細節延後、預測上修：\n        ① 釋儲細節未定（Reuters）：知情人士稱 IEA 理事會 10/14–15 才敲定，原油與柴油比例、參與國都未公布。Vitol 執行長 Hardy 稱宣布「不夠透明」，要看未來兩週的標售才知道油從哪裡出。\n        ② EIA 上修（EIA 10 月 STEO）：Q4 Brent 預測 $105，比 9 月高 $14；2026 年均 $96、2027 年 $84（原 $74）。理由是沙國東西管線遇襲、全球庫存持續下降與柴油市場吃緊；預測未計入 G7 釋儲。\n        ③ 油價（Reuters）：Brent 10/6 收 $100.58，+0.3%。\n        ④ 義大利（Euronews）：柴油消費稅減免 10/6 起全數取消，3 月以來首次沒有燃油減稅；Eni 柴油限價 €2.19／公升。卡車業者公會 Assotir 不排除全行業罷工，未給日期。\n        結論：釋儲實際量要到 10 月下旬才明朗，Q4 運費仍在高檔。",
+    "public_impact": "G7 上週同意釋出 1 億桶柴油與原油儲備，但 IEA 要到 10 月 14 至 15 日理事會才敲定原油與柴油的比例與參與國，貿易商 Vitol 認為宣布不夠透明，要看未來兩週的標售才知道實際量。美國 EIA 10 月 6 日把第四季 Brent 預測上修 14 美元到每桶 105 美元，理由包括全球庫存持續下降與柴油吃緊，且未計入 G7 釋儲；Brent 當天收 100.58 美元。義大利柴油消費稅減免同日全數取消，卡車業者公會不排除罷工。歐洲第四季運費與燃油附加費仍會維持高檔，義大利的公路配送短期有中斷風險。",
+    "public_action": "① 第四季毛利試算維持 Brent 每桶 100 至 105 美元的情境，不假設燃油附加費回落；② 義大利旺季庫存盡量在 10 月底前完成入倉，並準備由其他國家倉庫調撥的備案；③ 自行出貨的賣家，在 Black Friday 前向物流商確認 11 月燃油附加費，必要時調整免運門檻；④ 留意 10 月 14 至 15 日 IEA 理事會與義大利卡車業罷工動向。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：IEA 10/14–15 決定柴油釋儲細節（10/6）",
+        "url": "https://www.investing.com/news/commodities-news/iea-to-decide-details-of-g7-diesel-and-oil-stocks-release-on-october-1415-sources-say-4934649"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Brent 收 $100.58（10/6）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-stable-as-market-weighs-supply-risks-rising-middle-east-exports-4935024"
+      },
+      {
+        "name": "EIA：Short-Term Energy Outlook 2026 年 10 月版（10/6）",
+        "url": "https://www.eia.gov/outlooks/steo/"
+      },
+      {
+        "name": "Euronews：義大利減稅結束、柴油上漲、卡車業威脅罷工（10/6）",
+        "url": "https://www.euronews.com/2026/10/06/fuel-prices-in-italy-tax-cuts-end-diesel-rises-and-hauliers-threaten-strikes"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-07",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/5–10/6】歐元區 8 月零售量 +0.1%、非食品 +0.5%：德國 HDE 10 月消費晴雨表跌到 93.51，聖誕預期轉弱",
+    "summary": "8 月零售止跌，但德國消費者對 Q4 的預期轉差：\n        ① 歐元區零售（Eurostat 10/6）：8 月零售量月增 +0.1%、年增 +0.8%，7 月為 -0.6%。非食品（不含燃料）月增 +0.5%、年增 +1.7%；燃料 -1.9%。\n        ② 五國（Eurostat）：德國月增 +1.3%（7 月 -3.2%）但年減 0.4%；法國 -1.1%；義大利 +0.1%；西班牙 +0.3%；荷蘭 +0.7%、年增 1.9%。\n        ③ HDE 消費晴雨表（HDE、wortfilter）：10 月 93.51，比 9 月跌 1.19 點，與去年同期差距從 1.27 擴大到 3.01 點；購買意願明顯低於去年，所得預期下滑。指數反映未來三個月，涵蓋 Black Week 與聖誕。HDE 稱聖誕業績預期「轉弱」，主因能源與油價。\n        結論：非食品需求還在，德國消費者對旺季的預期卻在下修。",
+    "public_impact": "Eurostat 10 月 6 日公布，歐元區 8 月零售量月增 0.1%、年增 0.8%，7 月為下跌 0.6%；非食品（不含燃料）月增 0.5%、年增 1.7%，燃料下跌 1.9%。德國月增 1.3% 但年減 0.4%，法國月減 1.1%，荷蘭年增 1.9% 最強。德國零售公會 HDE 10 月消費晴雨表跌 1.19 點到 93.51，與去年同期的差距擴大到 3.01 點，購買意願明顯低於去年、所得預期下滑；該指數反映未來三個月，HDE 表示聖誕業績預期轉弱，主因是能源與燃油價格。非食品需求仍在，但德國消費者在旺季會更重視價格。",
+    "public_action": "① 德國旺季備貨以去年同期銷量為上限，避免 1 月庫存積壓；② 旺季主推低單價品項與組合包，大件商品優先用優惠券而非大幅降價；③ 現金流計畫納入 1 月退貨與 12 月 VAT 申報，旺季營收不等於旺季現金；④ 留意 11 月 2 日 HDE 晴雨表與 11 月 6 日歐元區 9 月零售數據。",
+    "sources": [
+      {
+        "name": "Eurostat：Volume of retail trade up by 0.1%（10/6）",
+        "url": "https://ec.europa.eu/eurostat/product?code=4-06102026-ap"
+      },
+      {
+        "name": "HDE：10 月消費晴雨表新聞稿（10/5）",
+        "url": "https://einzelhandel.de/presse/aktuellemeldungen/15372-hde-konsumbarometer-im-oktober-verbraucherstimmung-verschlechtert-sich-deutlich"
+      },
+      {
+        "name": "wortfilter：HDE 晴雨表 93.51、Q4 沒有救援（10/5）",
+        "url": "https://wortfilter.de/hde-konsumbarometer-oktober-2026/"
+      },
+      {
+        "name": "OnlinehändlerNews：消費意願低迷，零售擔心聖誕檔期（10/6）",
+        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/kauflaune-haendler-bangen-weihnachtsgeschaeft"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-07",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/5–10/6 德國兩判決】跟賣既有 listing 要為他人改的內容負責；Amazon 因 Impressum 信箱拒收信敗訴",
+    "summary": "兩則判決都在講：平台上的法律責任，最後落在賣家自己身上：\n        ① 跟賣責任（LG Limburg 5 O 25/25，4/30 判決，OnlinehändlerNews 10/5 報導）：賣家跟賣 Amazon 既有商品頁販售足貼，頁面有「排毒」等未經證實的健康宣稱，遭公會警告。賣家稱文案來自供應商、自己無法修改，法院仍判賣家敗訴：以自己名義在無法完全控制內容的頁面上架，就要預期第三方修改。\n        ② Impressum 信箱（KG Berlin 5 UKl 1/26，8/11 判決，vzbv 10/2 公布）：Amazon 法定資訊頁的 email 自動回覆「不接受來信」並要人登入帳號，vzbv 提告；Amazon 未出庭，缺席判決已確定。法院認定依 §5 DDG，email 必須能真正溝通，客服頁或帳號訊息不能取代。\n        ③ 罰則（wortfilter）：Impressum 資訊錯誤最高罰 €5 萬；公會可發警告函並請求費用，競爭對手則不行。\n        結論：德國的警告函風險不分平台、不分規模。",
+    "public_impact": "德國兩則判決在 10 月 5 至 6 日被法務媒體報導。林堡地方法院（5 O 25/25）判決，在 Amazon 既有商品頁跟賣足貼的賣家，即使健康宣稱是供應商或第三方寫的、自己無法修改，仍要為頁面內容負責，因為以自己名義在無法完全控制的頁面上架，就要預期第三方修改。柏林高等法院（5 UKl 1/26）則判 Amazon 法定資訊頁的 email 不收信違法，依數位服務法第 5 條，email 必須能真正溝通，客服頁不能取代；Impressum 資訊錯誤最高可罰 5 萬歐元。兩者對所有在德國銷售的賣家都適用。",
+    "public_action": "① 盤點在德國跟賣、且頁面含健康或功效宣稱的商品，定期截圖存證，發現未經證實的宣稱先回報修改或暫停販售；② 從外部信箱寄測試信到自己公開的聯絡 email，確認不會退信或只回導向式自動回覆，休假期間也有人處理；③ 收到德國警告函時，先諮詢德國律師再決定是否簽署不作為聲明。",
+    "sources": [
+      {
+        "name": "OnlinehändlerNews：別人改了商品描述，誰負責？LG Limburg（10/5）",
+        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/haftet-anderes-produktbeschreibung-aendert"
+      },
+      {
+        "name": "OnlinehändlerNews：信寄不進去，Amazon 敗訴（10/5）",
+        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/mails-laufen-leere-amazon-gericht"
+      },
+      {
+        "name": "vzbv：Amazon Impressum 的 email 不能是死信箱（10/2）",
+        "url": "https://www.vzbv.de/urteile/urteil-e-mail-im-amazon-impressum-darf-kein-toter-briefkasten-sein"
+      },
+      {
+        "name": "wortfilter：KG Berlin 判 Amazon Impressum email 違法（10/6）",
+        "url": "https://wortfilter.de/e-mail-adresse-im-impressum-kg-berlin-amazon/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-07",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【10/6 草案曝光】德國擬 2027 年 7 月開徵塑膠包裝稅：製造商與進口商繳，2028 年起年稅收約 €15 億",
+    "summary": "德國要把繳給歐盟的塑膠費，轉成向產業課的稅：\n        ① 草案（OnlinehändlerNews 引 dpa；EUWID）：《塑膠包裝稅法》草案由 dpa 取得，依據執政聯盟 7 月的政府決議，仍在部會協調、須經聯邦議院；預計 2027 年 7 月上路。\n        ② 範圍：塑膠包裝、膜、封口、蓋子與膠囊；複合包裝塑膠占比超過 5% 即課稅；再生塑膠可申請豁免。稅率未公布。\n        ③ 誰繳：包裝的製造商與進口商，在德國生產、進口或帶入時課徵；零售與網店不直接負擔，但自己從國外帶入包裝的就成為納稅人。\n        ④ 規模（引 Spiegel）：應稅量約每年 300 萬噸，稅收 2027 年 €8.05 億、2028 年起約 €15 億，用來抵德國向歐盟繳的每公斤 €0.80 塑膠費。\n        ⑤ 反應：Plastics Europe 稱是「國家稅務實驗」，包裝業公會 IK 反對，環團 DUH 支持但要擴及紙與鋁。\n        結論：稅率未定，但「帶入即課稅」會碰到跨境賣家。",
+    "public_impact": "德國《塑膠包裝稅法》草案 10 月 6 日由 dpa 取得並被多家媒體報導，預計 2027 年 7 月上路，仍在部會協調、須經聯邦議院通過。課稅範圍包括塑膠包裝、膜、封口、蓋子與膠囊，複合包裝塑膠占比超過 5% 即課稅，再生塑膠可申請豁免，稅率尚未公布。納稅人是包裝的製造商與進口商，在德國生產、進口或帶入時課徵；零售商與網店不直接負擔，但自己從國外帶入包裝的就成為納稅人。依 Spiegel 引述，稅收 2027 年約 8.05 億歐元、2028 年起每年約 15 億歐元。從海外發貨到德國倉庫的賣家，隨貨進口的塑膠包裝可能落入課稅範圍。",
+    "public_action": "① 先算每件商品的塑膠包裝重量，可暫以歐盟塑膠費每公斤 0.80 歐元做敏感度試算（非實際稅率）；② 新品開發時評估改用紙材或再生塑膠，但環保團體主張擴及紙與鋁，換材質不保證免稅；③ 目前仍是草案，持續留意內閣決議、稅率與是否設小型進口商門檻。",
+    "sources": [
+      {
+        "name": "OnlinehändlerNews：2027 年新包裝稅，製造商與進口商要為塑膠付費（10/6）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/neue-verpackungssteuer-2027-hersteller-importeure-kunststoff-zahlen"
+      },
+      {
+        "name": "EUWID Recycling：塑膠稅為聯邦帶來數十億、產業批評（10/6，付費牆）",
+        "url": "https://www.euwid-recycling.de/news/wirtschaft/plastiksteuer-milliarden-fuer-den-bund-kritik-aus-der-wirtschaft-061026/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-07",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/6 Destatis】德國 8 月製造業訂單月減 10.6%、遠遜共識 -1%：扣除大型訂單僅 -0.1%，消費品 -7.3%",
+    "summary": "數字很難看，但主要是 7 月大單回吐：\n        ① 總量（Destatis）：8 月實質訂單月減 10.6%，Reuters 調查共識 -1.0%；年增 +2.7%。扣除大型訂單僅 -0.1%。\n        ② 原因（Destatis）：其他運輸設備（飛機、船、火車、軍用車）-61.5%，7 月曾因大單 +129.4%；跌幅「幾乎全部」來自這一項。\n        ③ 分項（Destatis）：國內 -17.3%、國外 -5.4%；資本財 -15.3%、中間財 -2.6%、消費品 -7.3%。三個月比較總量 +1.3%，扣除大單 -2.6%。\n        ④ 經濟學家（Reuters）：DIHK 稱扣除大單後訂單「幾個月來原地踏步」；Commerzbank 預期 Q4 隨政府訂單回升；Deutsche Bank 稱積壓訂單約 9 個月、創紀錄。\n        結論：德國工業沒有崩，但也沒有帶動內需的力道。",
+    "public_impact": "德國聯邦統計局 10 月 6 日公布，8 月製造業實質訂單月減 10.6%，遠低於路透調查的 -1.0%，年增 2.7%；扣除大型訂單僅減 0.1%。跌幅幾乎全部來自飛機、船舶等其他運輸設備的 -61.5%，7 月曾因大單成長 129.4%。分項中消費品訂單減 7.3%、資本財減 15.3%；扣除大單的三個月比較為 -2.6%。經濟學家指出積壓訂單約 9 個月、創紀錄，預期第四季隨政府訂單回升，但扣除大單後訂單已原地踏步數月。德國工業沒有崩，但也難以帶動家庭所得與內需。",
+    "public_action": "① 德國第四季業績預估不宜因景氣調查回升而上修，以消費者信心與零售數據為準；② 工業耗材、辦公用品與維修類賣家，可針對企業採購設定數量折扣；③ 留意消費品訂單是否連續下滑，作為明年上半年備貨的參考。",
+    "sources": [
+      {
+        "name": "Destatis：新聞稿 354，8 月製造業訂單 -10.6%（10/6）",
+        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_354_421.html"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：德國工業訂單因大單枯竭重挫（10/6）",
+        "url": "https://www.investing.com/news/economic-indicators/german-industrial-orders-fall-more-than-expected-in-august-4933414"
+      },
+      {
+        "name": "OnlinehändlerNews：消費意願低迷（含訂單數據與 Union Investment 評論，10/6）",
+        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/kauflaune-haendler-bangen-weihnachtsgeschaeft"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-06",
     "type": "daily",
     "tags": [
