@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-09",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/8】德國政府上修今年成長到 1.3%（4 月 0.5%）、明年通膨 3.0%：同日 8 月出口月減 0.8%、對美 -6.3%",
+    "summary": "同一天兩組德國數字方向相反：\n        ① 政府預測（Reuters、Euronews）：經濟部把 2026 年 GDP 成長從 4 月的 0.5% 上修到 1.3%，2027 年從 0.9% 上修到 1.1%，2028 年 0.6%，與主要研究所一致。通膨預估 2026 年 2.7%、2027 年 3.0%；實質家庭消費只 +0.3%、+0.5%。部長 Reiche 稱經濟「比春季預期更穩」，動能來自國防與基建支出及 AI 設備需求。\n        ② 8 月貿易（Destatis）：出口 €1,376 億、月減 0.8%（年增 6.2%），連兩個月下滑；進口月增 0.9%。對美出口月減 6.3%；自中國進口 €168 億、月增 11.0%。1–8 月自中進口年增 10.1%，對中出口 -12.9%。\n        ③ ING：「貿易是德國韌性失守的地方」，河川低水位可能拖累 7–8 月出口。\n        結論：成長靠政府支出撐，消費仍弱，中國貨持續流入。",
+    "public_impact": "德國經濟部 10 月 8 日把 2026 年經濟成長預測從 0.5% 上修到 1.3%，但同時預估 2027 年通膨升到 3.0%、今年實質家庭消費只成長 0.3%，成長動能主要來自國防、基建支出與出口。同日公布的 8 月貿易數據顯示，出口月減 0.8%、對美出口月減 6.3%，自中國進口則月增 11%，前八月自中進口年增 10.1%。對消費品賣家而言，德國旺季需求仍以價格敏感為主；中國製商品持續增加，同品類價格競爭會延續。工業零組件與設備類的企業採購需求相對較強。",
+    "public_action": "① 德國旺季備貨以近期大促實績為依據，不因成長預測上修而額外加量；② 檢查主力商品在德國站的競品來源，若中國賣家占比上升，考慮組合包或強化規格差異；③ 工業零組件、工具類賣家可評估企業採購通路，設定階梯價並備妥增值稅發票；④ 留意 10 月 13 日德國 9 月 CPI 終值與 10 月 20 日 ZEW 景氣調查。",
+    "sources": [
+      {
+        "name": "Destatis：Exports, August 2026（10/8）",
+        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_356_51.html"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：German government raises growth forecasts（10/8）",
+        "url": "https://www.investing.com/news/economic-indicators/german-government-raises-growth-forecasts-for-2026-and-2027-4938363"
+      },
+      {
+        "name": "Euronews：Germany lifts GDP forecast（10/8）",
+        "url": "https://www.euronews.com/2026/10/08/germany-lifts-gdp-forecast-as-economy-withstands-iran-war"
+      },
+      {
+        "name": "ING THINK：German exports weakened further over the summer（10/8）",
+        "url": "https://think.ing.com/snaps/german-trade-in-august-2026/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-09",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/8】ECB 紀要不給前瞻指引、Reuters 調查 70/73 預期 10/29 按兵：OECD 估義西法英實質薪資將下滑",
+    "summary": "升息路徑與家庭購買力同日有新訊號：\n        ① ECB 紀要（ING、Reuters）：9/9–10 會議全員支持升 25bp，存款利率到 2.50%，所有委員認為通膨風險偏上；但有委員認為能源衝擊「本質上是政治驅動」、可能很快消退。溝通維持中性，不預設後續路徑。ING 認為債市殖利率上升已等於多升一碼，10 月不會討論升息。\n        ② Reuters 調查（10/5–8，73 位經濟學家）：70 位預期 10/29 維持 2.50%，64 位預期 12 月再升 25bp；2026 年通膨預估上修到 3.0%、2027 年 2.6%。\n        ③ OECD 就業展望（Euronews）：以 2026 Q1 為基準，實質薪資義大利 Q3 -1.9%、英國 Q4 -1.6%、西班牙到 2027 年底仍 -0.7%、法國 Q2 -0.5%；只有德國上升，2027 年底 +1.7%。\n        結論：利率暫停一次，但南歐與英國家庭購買力在縮。",
+    "public_impact": "ECB 10 月 8 日公布的 9 月會議紀要顯示，委員全員支持升息一碼、存款利率到 2.50%，但溝通維持中性、不預設後續路徑。Reuters 同日調查 73 位經濟學家，70 位預期 10 月 29 日按兵不動，64 位預期 12 月再升息。OECD 就業展望則預估，以今年第一季為基準，義大利實質薪資第三季跌 1.9%、英國第四季跌 1.6%、西班牙到 2027 年底仍低 0.7%，只有德國回升。南歐與英國消費者的價格敏感度會更高；歐元缺乏利率支撐，以美元或新台幣計成本的賣家毛利仍受壓。",
+    "public_action": "① 規劃義大利、西班牙市場時，主力價格帶與客單價假設應低於德國，可多用組合包與多件優惠；② 第四季毛利以歐元兌美元 1.11 至 1.13 試算，大促後調價依此重算；③ 英國旺季廣告預算可等 10 月 28 日預算案後再定；④ 留意 10 月 16 日歐元區 9 月通膨終值與 10 月 29 日 ECB 會議。",
+    "sources": [
+      {
+        "name": "ING THINK：ECB's September minutes reveal full support for 25bp rate hike（10/8）",
+        "url": "https://think.ing.com/snaps/ecb-minutes-sep26-meeting/"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：ECB to hike rates again in December: Reuters poll（10/8）",
+        "url": "https://www.investing.com/news/economy-news/ecb-to-hike-rates-again-in-december-as-inflation-almost-doubles-2-target-reuters-poll-4938304"
+      },
+      {
+        "name": "Euronews：Real wages set to fall in major European economies, except Germany（10/8）",
+        "url": "https://www.euronews.com/2026/10/08/real-wages-set-to-fall-in-major-european-economies-except-germany"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Euro skids toward fifth weekly fall（10/9）",
+        "url": "https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-09",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/8】Šefčovič 北京會談最後一天：44 個歐洲產業公會聯名要求動用貿易工具，人行同日反駁人民幣低估",
+    "summary": "10/8 日報報的是會談開始；新進展是業界與盟友加壓、中方表態：\n        ① 產業公會（Reuters）：金屬、化工、汽車零件等 44 個歐洲產業公會聯名，要求會員國充分動用貿易防衛工具、審查整條價值鏈而非單一產品、增加執委會人力加速處理申訴，並避免傷及英國、挪威、瑞士。\n        ② 人民銀行（Reuters）：聲明稱「不需要也無意」靠匯率貶值取得貿易優勢；人民幣今年對美元約升 4%。德國總理 Merz 先前稱人民幣低估 25–30%。\n        ③ 產能聲明（Investing.com）：歐盟與十多個 G20 國家 10/7 簽聯合聲明，承諾就產能過剩交換資訊；美國貿易代表 Greer 稱歐盟會員國「一致」認為需要進一步措施。\n        ④ 談判（Euronews、Reuters）：Reuters 稱訪問到 10/9 結束，歐方要求中方限制單一產業對歐出口，「最可能是油電混合車」；截至發稿無結果。\n        結論：下週峰會前，壓力從政府擴大到產業與盟友。",
+    "public_impact": "歐盟貿易執委 Šefčovič 的北京會談進入最後一天，歐方要求中方限制特定產業對歐出口。10 月 8 日，44 個歐洲產業公會聯名要求會員國充分動用貿易防衛工具，並改為審查整條價值鏈而非單一產品；歐盟也與十多個 G20 國家簽署產能過剩的資訊交換聲明。中國人民銀行同日發聲明，否認以匯率貶值取得貿易優勢。若「價值鏈審查」被採納，零組件與中間財也可能被納入，成品在中國以外組裝、但關鍵零件來自中國的商品，原產地與成本風險都會上升。",
+    "public_action": "① 盤點主力商品的關鍵零件來源與原產地判定方式，中國零件占比高者準備替代供應商；② 對歐洲企業買家溝通時，可說明供應鏈分散的現況，但不宜對關稅結果做承諾；③ 留意會談結果與 10 月 15 至 16 日歐盟峰會的對中決議。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：European industry groups call for urgent EU action on China trade（10/8）",
+        "url": "https://www.investing.com/news/economic-indicators/european-industry-groups-call-for-urgent-eu-action-on-china-trade-4939861"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：China defends yuan policy（10/8）",
+        "url": "https://www.investing.com/news/economy-news/china-has-no-need-or-intention-to-weakenyuan-for-trade-edge-central-bank-says-4938641"
+      },
+      {
+        "name": "Investing.com：US trade chief says EU nations united on tackling Asia capacity（10/8）",
+        "url": "https://www.investing.com/news/economy-news/us-trade-chief-says-eu-nations-united-on-tackling-asia-capacity-93CH-4939686"
+      },
+      {
+        "name": "Euronews：EU-China talks enter critical phase（10/8）",
+        "url": "https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-09",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/8】美軍備戰消息加颶風減產，Brent 漲 4.1% 收 $104.28、柴油價差 $81：Trump 稱選前不攻擊伊朗，10/9 回落",
+    "summary": "10/8 日報報的是 IEA 加速釋儲；隔天油價反彈，抵銷釋儲效果：\n        ① 原油（Reuters）：Brent 收 $104.28（+4.1%），盤中漲逾 $5、創 9/29 以來高點；WTI 收 $91.49（+3.6%）。觸發點是美媒報導五角大廈要求中央司令部完成恢復「大規模作戰」準備（Euronews），加上颶風 Isaias 使美國墨西哥灣約 130 萬桶／日（62.9%）停產。\n        ② 柴油（Investing.com）：16:26 GMT 低硫柴油對 Brent 溢價 $81.16／桶，單日 +$2.45；德國仍未公布釋儲細節。\n        ③ 回落（Reuters）：Trump 稱與伊朗談判「有成效」、11/3 期中選舉前不攻擊；10/9 02:20 GMT Brent 跌到 $103.53。伊朗提議 7 天內重開荷莫茲海峽，正審閱美方回覆。\n        ④ 中國（Reuters）：10 月恢復成品油出口，核准約 370 萬噸。\n        結論：油價隨政治訊號單日擺 4%，柴油價差續擴大。",
+    "public_impact": "10 月 8 日美媒報導五角大廈要求完成恢復對伊朗大規模作戰的準備，加上颶風使美國墨西哥灣約 130 萬桶／日產量停產，Brent 原油單日漲 4.1% 收在每桶 104.28 美元；歐洲柴油對原油溢價擴大到每桶 81.16 美元。川普隨後表示 11 月 3 日期中選舉前不會攻擊伊朗，10 月 9 日亞洲早盤 Brent 回落到 103.53 美元。原油回落但柴油價差仍在擴大，歐洲卡車與快遞的燃油成本沒有下降，11 月燃油附加費下調機會不大；選後的風險也尚未解除。",
+    "public_action": "① 第四季物流成本以 Brent 每桶 100 至 110 美元試算，不因短線回落而下修；② 自發貨賣家留意物流商 11 月燃油附加費公告，必要時調整免運門檻；③ 旺季後的補貨報價，盡量取得美國期中選舉後的報價有效期；④ 留意 10 月 14 至 15 日 IEA 理事會的釋儲進度。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil rises 4% on revived Middle East worries, Hurricane Isaias（10/8）",
+        "url": "https://www.investing.com/news/commodities-news/oil-jumps-as-middle-east-supply-concerns-persist-amid-shipping-attacks-4938452"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil falls as Trump comments on Iran talks（10/9）",
+        "url": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：China to resume October fuel exports（10/9）",
+        "url": "https://www.investing.com/news/commodities-news/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say-4940140"
+      },
+      {
+        "name": "Euronews：Oil tops $105 as Trump weighs return to Iran combat operations（10/8）",
+        "url": "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war"
+      },
+      {
+        "name": "Investing.com：European diesel margins climb（10/8）",
+        "url": "https://www.investing.com/news/commodities-news/european-diesel-margins-climb-on-middle-east-supply-worries-93CH-4939602"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-09",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/7 德媒・執委會指引已出】EU 強迫勞動產品禁令 2027/12/14 適用：不新增一般申報義務，德國主管機關仍未指定",
+    "summary": "距適用還有 14 個月，執委會工具已上線，德國執法端還沒到位：\n        ① 規則（執委會）：條例 (EU) 2024/3015 於 2024/11/19 通過，2027/12/14 起禁止以強迫勞動生產的產品在歐盟銷售或出口，不分企業規模。如何防範由企業自行決定；調查時企業可能要說明如何處理供應鏈風險，確認違反就必須遵守處分。\n        ② 工具（執委會）：單一入口網站與準備工具包 2026/6/30 上線，含風險資料庫（查高風險產品與地區）與中小企業檢核表；指引已發布。\n        ③ 德國（OnlinehändlerNews）：除特定嫌疑案件外，沒有新的一般申報義務。會員國原應在 2025/12/14 前指定主管機關，德國至今未定，人選在 BAFA 與海關 FKS 之間；主管機關可要求企業提供資料、下令下架或禁止上市。HDE 批評與供應鏈法、生態設計規則協調不足。\n        結論：不用新申報，但被查時要拿得出供應鏈紀錄。",
+    "public_impact": "歐盟強迫勞動產品禁令（條例 (EU) 2024/3015）將於 2027 年 12 月 14 日起適用，禁止以強迫勞動生產的產品在歐盟銷售或出口，不分企業規模。執委會已於 2026 年 6 月 30 日上線單一入口網站，含高風險產品與地區的資料庫、中小企業檢核表，指引也已發布。除特定嫌疑案件外，沒有新的一般申報義務；但主管機關調查時，業者可能要說明如何處理供應鏈風險，確認違反須下架。德國尚未指定主管機關。原料或半成品來自高風險地區的賣家，需要的供應商聲明與採購紀錄往往要回溯多層，宜提早整理。",
+    "public_action": "① 先用執委會單一入口網站的風險資料庫，查詢主力品類與原料產地是否屬高風險；② 2027 年第二季前整理一級供應商聲明與原料產地紀錄，可與產品安全、毀林條例的供應鏈文件一併管理；③ 目前沒有新的申報義務，不需提交新文件，重點是被查時能提出紀錄；④ 留意德國主管機關的指定進度。",
+    "sources": [
+      {
+        "name": "European Commission：Forced Labour Regulation（官方頁）",
+        "url": "https://single-market-economy.ec.europa.eu/single-market/goods/forced-labour-regulation_en"
+      },
+      {
+        "name": "OnlinehändlerNews：EU-Zwangsarbeitsverordnung: Neue Prüfpflichten für Händler?（10/7）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/eu-zwangsarbeitsverordnung-pruefpflichten-haendler"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-08",
     "type": "daily",
     "tags": [
