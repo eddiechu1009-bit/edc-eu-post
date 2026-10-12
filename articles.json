@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-10-12",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/8–10/11】歐盟擬第三道包裹費：Product Act 草案按件收市場監督費、罰則最高全球營收 6%，正式提案延後",
+    "summary": "€3 關稅、€2 handling fee 之後，外洩草案再出現一筆費用：\n        ① 監督費（ecommercenews.eu、Osborne Clarke）：外洩的 European Product Act 草案擬對進口商品按件收「Union market surveillance fee」，由海關徵收，散裝進口費率低於直送消費者的小包；金額未公布。罰則為全球年營收 1–6%。\n        ② 平台義務（Osborne Clarke）：上架前要核對數位產品護照（DPP）或產品責任紀錄；歐盟境內沒有責任業者時，平台可能成為「事實上的授權代表」；收到下架令後 2 個工作天內處理。\n        ③ 時程（wortfilter、HDE）：原訂 10/6 提出，MLex 報導延到今年稍晚。德國零售公會 HDE、消保總會 vzbv、品牌公會 10/8 聯名要求每件商品都要有歐盟境內可追責的業者。\n        ④ €2 handling fee（wortfilter）：按報關「品項」計、沒有金額上限，€150 以上也收；預計 10/22 刊登公報、11/1 起徵。\n        結論：直郵小包的固定成本還在往上疊。",
+    "public_impact": "外洩的歐盟 European Product Act 草案擬對進口商品按件收取「市場監督費」，由海關徵收，散裝進口費率低於直送消費者的小包，金額尚未公布；罰則為全球年營收 1% 至 6%，平台上架前須核對數位產品護照或產品責任紀錄。執委會原訂 10 月 6 日提出，據報已延到今年稍晚。另一方面，11 月 1 日起徵的每品項 €2 處理費確認沒有金額上限，€150 以上的包裹也要收、退貨不退。直郵小包已有 €3 關稅，再加處理費與可能的監督費，低單價、多品項的直郵商品成本壓力最大；歐盟境內責任人資料不完整的商品，未來上架可能受阻。",
+    "public_action": "① 直郵歐盟的賣家在 11 月 1 日前，以每品項 €3 關稅加 €2 處理費重算低單價商品毛利，評估是否改為先進口到歐盟倉再出貨；② 確認產品安全法規要求的歐盟責任人名稱、地址與聯絡方式真實可用，並有書面合約；③ 監督費金額與適用日尚未公布，暫不需調價，留意執委會正式提案；④ 留意處理費預計 10 月 22 日刊登公報。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe：EU wants to introduce another parcel tax（10/9）",
+        "url": "https://ecommercenews.eu/eu-wants-to-introduce-another-parcel-tax/"
+      },
+      {
+        "name": "Osborne Clarke：Leaked draft European Product Act（10/1）",
+        "url": "https://www.osborneclarke.com/insights/leaked-draft-european-product-act-gives-commission-direct-enforcement-powers-and-exposes"
+      },
+      {
+        "name": "wortfilter：European Product Act: Verbände fordern Haftung in der EU（10/11）",
+        "url": "https://wortfilter.de/european-product-act-hde-vzbv-markenverband/"
+      },
+      {
+        "name": "wortfilter：EU-Zollreform: 2 Euro je Warenposition – auch über 150 Euro（10/9）",
+        "url": "https://wortfilter.de/eu-zollreform-bearbeitungsgebuehr-2-euro-warenposition/"
+      },
+      {
+        "name": "HDE：Allianz aus Markenverband, HDE und vzbv gegen unsichere Billigimporte（10/8）",
+        "url": "https://einzelhandel.de/presse/aktuellemeldungen/15381-allianz-aus-markenverband-hde-und-vzbv-gegen-unsichere-billigimporte"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/9】歐中北京會談達成諒解：中國油電混合車對歐出口砍半以上、加速稀土許可，下週峰會決定是否足夠",
+    "summary": "10/9 日報報的是會談最後一天的施壓；新進展是談出結果：\n        ① 油電車（Euronews、SCMP）：Šefčovič 稱雙方就節制中國油電與插電混合車對歐出口達成共識，可望砍掉一半以上、四年內少「數百萬輛」；細節未公布，消息人士稱可能採防衛措施（配額加關稅）。\n        ② 其他成果（Euronews、SCMP）：中方加速稀土與永久磁鐵出口許可，並對歐盟汽車零件、橄欖油等開放市場，現有出口值近 €40 億、估省關稅至少 €2.25 億。16 點聯合聲明列出電動車最低價格與關稅續談，下輪 2027 年 3 月。\n        ③ 表態（SCMP）：商務部長王文濤對歐盟近期限制措施表達「關切」；Šefčovič 稱這只是「第一步」，各國領袖下週峰會決定是否足夠。\n        ④ 背景（Investing.com）：1–8 月歐盟自中進口汽車與輕型商用車增近 75%、近 77 萬輛；中國品牌 8 月占歐洲新車約 12%。\n        結論：以單一產業讓步換時間，全面貿易戰暫緩。",
+    "public_impact": "歐盟貿易執委 Šefčovič 10 月 9 日結束北京會談，宣布雙方就節制中國油電與插電混合車對歐出口達成共識，可望減少一半以上；中方同意加速稀土與永久磁鐵出口許可，並對歐盟汽車零件、橄欖油等商品開放市場。雙方聯合聲明另列出電動車最低價格、醫療器材與電源逆變器等續談項目，下輪會談在 2027 年 3 月。成果集中在汽車與稀土，沒有涉及一般消費品或電商；全面貿易衝突短期緩和，但歐盟以單一產業逐項處理的方式已成形，逆變器等電子零組件可能是後續議題。",
+    "public_action": "① 儲能、行動電源、太陽能周邊類賣家，確認逆變器模組的原產地與替代供應來源；② 對歐洲企業買家溝通時可說明政策方向，但不宜對關稅結果做承諾；③ 留意 10 月 15 至 16 日歐盟峰會是否接受這次成果。",
+    "sources": [
+      {
+        "name": "Euronews：EU and China clinch deal over EVs after weeks of heated trade talks（10/9）",
+        "url": "https://www.euronews.com/2026/10/09/eu-and-china-clinch-deal-over-cars-after-heated-trade-talks-as-brussels-pushes-to-rebalanc"
+      },
+      {
+        "name": "SCMP：China agrees to slash EU hybrid car exports in half（10/9）",
+        "url": "https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks"
+      },
+      {
+        "name": "Investing.com：European automakers gain breathing room from EU-China hybrid car deal（10/10）",
+        "url": "https://www.investing.com/news/economy-news/european-automakers-gain-breathing-room-from-euchina-hybrid-car-deal-4942066"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/8–10/10 德國】客服把保固推給原廠被判誤導、獨家商品標 UVP 被禁：保固標籤藏在連結後也有警告函風險",
+    "summary": "三則指向同一件事：保固與價格的說法，責任在賣家：\n        ① 保固推給原廠（vzbv、wortfilter）：英戈爾施塔特地方法院（Az. 1 HK O 1352/25，7/24 判決、vzbv 10/8 公布）判 MediaMarkt 線上商店客服要求顧客找原廠處理瑕疵，屬對消費者權利的誤導；單一封客服信即構成，委外客服也算賣家責任。再犯每次最高罰 €25 萬。一審，可上訴。\n        ② 獨家商品 UVP（OnlinehändlerNews）：維爾茨堡地方法院判定，只在自家集團銷售的商品標「廠商建議售價」對比售價屬誤導，因為沒有市場行情可參照；建議改用自家近 30 天價格當參考。\n        ③ 保固標籤（OnlinehändlerNews）：9/27 起強制的保固標籤若只放在連結後面，不算安全做法，可能引來警告函；應以原尺寸放在商品說明或結帳流程。\n        結論：德國警告函的焦點轉到保固與價格標示。",
+    "public_impact": "德國近日兩則判決與一則同業公會提醒，都指向保固與價格標示。英戈爾施塔特地方法院判定，MediaMarkt 線上商店客服要求顧客找原廠處理瑕疵，構成對消費者權利的誤導，單一封客服信就足以成立，委外客服也算賣家責任，再犯每次最高罰 €25 萬。維爾茨堡地方法院則判定，只在自家集團銷售的商品標示「廠商建議售價」做對比屬誤導。OnlinehändlerNews 另提醒，9 月 27 日起強制的保固標籤若只放在連結後面，可能引來警告函。自有品牌賣家與使用制式客服回覆的賣家，在德國的風險最高。",
+    "public_action": "① 自有品牌若沒有其他通路以建議售價實際銷售，德國站避免用建議售價做劃線對比，可改用自家近 30 天價格為參考；② 客服模板改為由賣家受理瑕疵、必要時代轉原廠，不要求顧客自行聯繫原廠；③ 確認保固標籤以原尺寸放在商品說明或結帳流程；④ 收到警告函時不要直接簽署對方附的切結書，先諮詢德國律師。",
+    "sources": [
+      {
+        "name": "vzbv：Gewährleistung: MediaMarkt darf Kunde nicht an Hersteller verweisen（10/8）",
+        "url": "https://www.vzbv.de/urteile/gewaehrleistung-mediamarkt-darf-kunde-nicht-hersteller-verweisen"
+      },
+      {
+        "name": "wortfilter：Urteil: Gewährleistung, Verweis an Hersteller ist Irreführung（10/10）",
+        "url": "https://wortfilter.de/gewaehrleistung-hersteller-verweis-urteil/"
+      },
+      {
+        "name": "OnlinehändlerNews：Gericht stoppt UVP-Werbung bei Eigenmarken（10/9）",
+        "url": "https://ohn.haendlerbund.de/recht/wettbewerbsrecht/uvp-werbung-eigenmarken"
+      },
+      {
+        "name": "OnlinehändlerNews：Gewährleistungslabel im Online-Shop（10/9）",
+        "url": "https://ohn.haendlerbund.de/recht/abmahnungen/gewaehrleistungslabel-online-shop-darstellung-abmahnung"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/9–10/11】Trump 宣布俄國供應柴油、俄烏「能源停火」：Brent 跌 1.5% 到 $103.18、ICE 柴油期貨跌 3%",
+    "summary": "10/9 日報報的是伊朗消息帶動油價擺盪；新進展是柴油供給端多了新來源：\n        ① 柴油協議（Investing.com、Reuters）：Trump 10/9 稱 Putin 同意先供應逾 30 萬噸柴油，11 月 50 萬噸、之後再 100 萬噸；美國財政部發臨時許可暫停部分制裁。分析師質疑俄國煉油廠遭攻擊後的交付能力；7 位美國參議員 10/11 稱可能違法。\n        ② 德國釋儲（Investing.com）：經濟部 10/9 宣布釋出最多 1,500 萬桶，柴油與暖氣油先行。\n        ③ 能源停火（Reuters、Euronews）：Trump 10/11 宣布俄烏停止攻擊能源設施，烏方稱未獲細節、俄方未證實，數小時後基輔電廠遭無人機攻擊。\n        ④ 價格（Reuters）：10/12 01:54 GMT Brent $103.18（-1.47%）、WTI $90.31；ICE 柴油期貨跌 3% 至 $1,436。法國柴油每公升 €2.25（Euronews）。\n        結論：三個供給消息都偏多，但都還沒兌現。",
+    "public_impact": "川普 10 月 9 日宣布俄羅斯將先供應逾 30 萬噸柴油，11 月再供應 50 萬噸、之後 100 萬噸，美國暫停部分制裁；德國同日宣布釋出最多 1,500 萬桶石油儲備，柴油與暖氣油先行。川普 10 月 11 日再宣布俄烏停止攻擊能源設施，但俄方未證實，數小時後基輔電廠仍遭攻擊。10 月 12 日亞洲早盤 Brent 原油跌 1.47% 至每桶 103.18 美元，柴油期貨跌 3%。歐盟自 2023 年起禁止進口俄國成品油，這批柴油對歐洲只有間接效果；物流商燃油附加費多按前期均價調整，旺季前運費下降的空間有限。",
+    "public_action": "① 第四季物流成本仍以 Brent 每桶 100 至 110 美元試算，不因短線回落而下修；② 自發貨賣家留意物流商 11 月燃油附加費公告，免運門檻暫不下調；③ 留意 10 月 14 至 15 日 IEA 理事會的釋儲細節與能源停火是否落實。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies（10/12）",
+        "url": "https://www.investing.com/news/commodities-news/oil-climbs-as-mideast-conflict-tanker-attacks-persist-4942900"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：US Republicans, Democrats want Trump to reverse course on Russia diesel（10/11）",
+        "url": "https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755"
+      },
+      {
+        "name": "Investing.com：Trump reaches Russian diesel supply deal as U.S. fuel prices surge（10/9）",
+        "url": "https://www.investing.com/news/economy-news/trump-reaches-russian-diesel-supply-deal-as-us-fuel-prices-surge-4941896"
+      },
+      {
+        "name": "Investing.com：Germany to release 15 million barrels from oil reserves（10/9）",
+        "url": "https://www.investing.com/news/commodities-news/germany-to-release-15-million-barrels-from-oil-reserves-93CH-4941051"
+      },
+      {
+        "name": "Euronews：Power plants hit in Ukraine despite Trump's energy ceasefire（10/11）",
+        "url": "https://www.euronews.com/2026/10/11/energy-ceasefire-agreed-between-russia-and-ukraine-trump-says"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/9–10/10】歐盟儲氣 72.4% 創 2011 年來同期新低：IEEFA 估冬季需求要減 7%，UBS 上修 Q4 TTF 到 €75",
+    "summary": "油價之外，冬季的第二個能源風險是天然氣：\n        ① 庫存（Euronews 引 IEEFA）：10/3 歐盟儲氣約 72.4%，為 2011 年來同期最低、較五年平均低約 15 個百分點。IEEFA 估 11–3 月缺口 7.3 bcm，加上 2027/1/1 俄國 LNG 長約禁令，冬季需求需較去年減約 7%；改用進口補足要多花約 €30 億。\n        ② 價格（Euronews、Investing.com）：荷蘭 TTF 9 月中曾達 €84.5/MWh、2022 年來最高，10/9 早盤約 €78。UBS 把 Q4 TTF 預測從 €62 上修到 €75；中東中斷延續加冷冬情境平均約 €90、高峰近 €120，暖冬加卡達加速復產約 €50。\n        ③ 俄國 LNG（Euronews 引 Urgewald）：1–9 月歐盟進口 Yamal LNG 1,218 萬噸、付約 €79 億，創新高。\n        結論：基本情境靠暖冬撐，冷冬會把能源成本再推一輪。",
+    "public_impact": "Euronews 引述 IEEFA 分析，10 月 3 日歐盟天然氣儲量約 72.4%，為 2011 年來同期最低、較五年平均低約 15 個百分點；加上 2027 年 1 月 1 日起禁止俄國 LNG 長約，冬季需求需較去年減少約 7%。荷蘭 TTF 天然氣價格 9 月中曾達每 MWh 84.5 歐元，10 月 9 日約 78 歐元。UBS 把第四季 TTF 預測上修到 75 歐元，冷冬加中東供應中斷延續的情境平均約 90 歐元、高峰近 120 歐元。天然氣影響暖氣與電價，冷冬情境下歐洲家庭的非必需消費會更受壓，取暖與節能品類需求則可能上升，但高度取決於氣溫。",
+    "public_action": "① 取暖與節能類商品分批備貨，依 12 月氣溫追加，不一次備足；② 暖風機、電熱毯等商品確認 CE、能源標示與生態設計文件齊全；③ 2027 年第一季的營收預測保守設定，不沿用旺季成長率；④ 留意 10 月 16 日歐元區 9 月通膨終值與天然氣價格走勢。",
+    "sources": [
+      {
+        "name": "Euronews：EU may need to cut winter gas demand by 7% as storage hits record low, IEEFA warns（10/9）",
+        "url": "https://www.euronews.com/2026/10/09/eu-may-need-to-cut-winter-gas-demand-by-7-as-storage-hits-record-low-ieefa-warns"
+      },
+      {
+        "name": "Investing.com：Why are EU gas prices not higher already?（10/10，引 UBS 10/5 報告）",
+        "url": "https://www.investing.com/news/economy-news/why-are-eu-gas-prices-not-higher-already-4942043"
+      },
+      {
+        "name": "Euronews：EU paid €7.9bn for Russian Arctic LNG amid record imports（10/9）",
+        "url": "https://www.euronews.com/2026/10/09/eu-paid-79bn-for-russian-arctic-lng-amid-record-imports"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-09",
     "type": "daily",
     "tags": [
