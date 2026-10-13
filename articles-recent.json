@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-13",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/8 bevh・10/12 跟進】德國 Q3 線上零售 +2.9% 輸給通膨：Shein、Temu、AliExpress 營收 -35.5%，平台 +5%、純電商 -0.8%",
+    "summary": "€3 關稅 7/1 上路後第一份完整季度數據：\n        ① 大盤（bevh）：7–9 月德國線上商品營收 €184.7 億、年增 2.9%，低於 9 月通膨 3.3%。bevh 執行長 Mulyk 歸因於能源價格上漲與所得預期下滑。\n        ② 亞洲平台（bevh、Ecommerce News）：Shein、Temu、AliExpress 合計 €5.66 億、-35.5%，市占由 Q2 的 5.3% 降到 3.1%；bevh 稱本地業者並未因此受惠。\n        ③ 品類（bevh）：藥品 +15.4%、藥妝 +14.3%、食品 +9.1%；電子與電信 -4.6%、家具燈飾 -5.2%、珠寶鐘錶 -5.7%，大件高單價延後購買。\n        ④ 通路（bevh）：線上平台 €102.8 億、+5.0%；純電商與藥局 -0.8%。\n        ⑤ 觸及率（OnlinehändlerNews 引 Statista）：過去 12 個月在 Temu 買過的德國受訪者 31%，接近 eBay 32%；Amazon 75%。\n        結論：份額流向平台通路，但大盤實質沒長。",
+    "public_impact": "德國電商公會 bevh 公布，2026 年第三季德國線上商品營收 184.7 億歐元、年增 2.9%，低於 9 月通膨 3.3%。7 月起取消 150 歐元免稅門檻後，Shein、Temu、AliExpress 合計營收 5.66 億歐元、年減 35.5%，市占由第二季的 5.3% 降到 3.1%。品類分化明顯：藥品、藥妝、食品成長 9% 至 15%，電子與電信減 4.6%、家具燈飾減 5.2%，高單價大件延後購買。通路方面，線上平台成長 5.0%，純電商減 0.8%。業界人士指出，部分降幅來自中國平台改採第三方賣家加歐洲倉模式、只認列佣金，價格競爭不會消失，而是轉到歐盟境內出貨。",
+    "public_action": "① 德國站 3C 周邊與家居燈飾類賣家，旺季備貨以品類衰退約 5% 的情境試算，不直接沿用去年量；② 留意同款低價商品是否已改由德國境內倉出貨，評估價格壓力；③ 藥品、藥妝、食品是成長最快的品類，但合規門檻高，進入前先確認法規要求；④ 留意 11 月 1 日每品項 €2 處理費起徵後的市場變化。",
+    "sources": [
+      {
+        "name": "bevh：Nach Abschaffung der Zollfreigrenze: Asiatische Plattformen verlieren deutlich Marktanteile（10/8）",
+        "url": "https://www.bevh.org/detail/nach-abschaffung-der-zollfreigrenze-asiatische-plattformen-verlieren-deutlich-marktanteile"
+      },
+      {
+        "name": "Ecommerce News Europe：Asian marketplaces lose market share in Germany（10/12）",
+        "url": "https://ecommercenews.eu/asian-marketplaces-lose-market-share-in-germany/"
+      },
+      {
+        "name": "OnlinehändlerNews：Nach Aus der Zollfreigrenze: Umsatz von Shein, Temu und AliExpress bricht ein（10/12）",
+        "url": "https://ohn.haendlerbund.de/themen/marktplaetze/aus-zollfreigrenze-umsatz-shein-temu-aliexpress-bricht-ein"
+      },
+      {
+        "name": "OnlinehändlerNews：Temu holt auf: China-Marktplatz fast so beliebt wie Ebay（10/12）",
+        "url": "https://ohn.haendlerbund.de/themen/marktplaetze/temu-china-marktplatz-beliebt-ebay"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-13",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/12】胡塞攻擊沙國機場與能源設施，Brent 漲 1.8% 收 $106.65 創 9/15 來新高：IEA 10/15 檢討追加柴油釋儲",
+    "summary": "10/12 日報報的是俄國柴油協議帶動油價回落；新進展是週一反轉：\n        ① 原油（Reuters、Investing.com）：Brent 漲 $1.93 收 $106.65、9/15 以來最高，WTI $93.74。胡塞武裝週六攻擊利雅德機場、13 人死亡，並攻擊 Aramco 東部天然氣設施；分析師稱 5 座沙國煉油廠因紅海管線關閉暫停。\n        ② 柴油（Reuters）：ICE 柴油期貨反跌 2.3% 至 $1,449/噸。俄副總理 Novak 稱年底出口可回到每月 300–350 萬噸，但 9 月實際只有 42.7 萬噸、主要供中亞。\n        ③ IEA（Euronews）：Birol 致函會員國，未交足 3 月承諾者加速釋出、柴油優先，並評估是否追加；10/15 理事會檢討。3 月承諾 4 億桶，已釋出 3.26 億桶。\n        ④ 天然氣（ING）：TTF 近月收逾 €84/MWh、2022/12 以來最高；儲氣不到 75%，去年同期 83%。\n        結論：柴油供給消息被中東風險蓋過。",
+    "public_impact": "葉門胡塞武裝週末攻擊沙烏地阿拉伯利雅德機場與能源設施，10 月 12 日 Brent 原油漲 1.8% 收每桶 106.65 美元，為 9 月 15 日以來最高，前一日因俄國柴油協議出現的跌幅全數回吐。柴油期貨則跌 2.3% 至每噸 1,449 美元，但歐盟禁止進口俄國成品油，歐洲燃料供給主要靠 IEA 協調釋儲；IEA 要求會員國加速交付、柴油優先，10 月 15 日理事會將檢討是否追加。荷蘭 TTF 天然氣近月價格收在每 MWh 84 歐元以上，為 2022 年 12 月以來最高。物流商燃油附加費多按前期均價調整，旺季運費下降空間有限。",
+    "public_action": "① 第四季物流成本仍以 Brent 每桶 100 至 110 美元試算，另做 115 美元的壓力測試；② 自發貨賣家留意物流商 11 月燃油附加費公告，免運門檻暫不下調；③ 留意 10 月 15 日 IEA 理事會是否追加柴油釋儲。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal（10/12）",
+        "url": "https://www.investing.com/news/commodities-news/oil-climbs-as-mideast-conflict-tanker-attacks-persist-4942900"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Russia says its diesel exports may exceed volumes announced by Trump（10/12）",
+        "url": "https://www.investing.com/news/commodities-news/russia-says-its-diesel-exports-may-exceed-volumes-announced-by-trump-4945250"
+      },
+      {
+        "name": "Investing.com：Oil gains as deadly attack on Saudi airport outweighs Trump's Russia diesel deal（10/12）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934"
+      },
+      {
+        "name": "Euronews：IEA urges additional diesel releases ahead of key meeting（10/12）",
+        "url": "https://www.euronews.com/2026/10/12/iea-urges-additional-diesel-releases-ahead-of-key-meeting"
+      },
+      {
+        "name": "ING THINK：The Commodities Feed: Middle East conflict keeps oil well supported（10/13）",
+        "url": "https://think.ing.com/articles/the-commodities-feed-middle-east-conflict-keeps-oil-well-supported131026/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/13 IMF】歐元區今年成長上修到 1.1%、通膨 3.1%：法國僅 0.4%，油價假設 $96、荷莫茲 2027/3 重開",
+    "summary": "IMF 10 月《世界經濟展望》：成長上修，但通膨拖得更久：\n        ① 全球（Reuters、Yahoo Finance）：2026 年 3.1%、2027 年 3.4%；全球通膨 4.7%／4.1%。32 國貢獻 95% 成長（4 月為 54 國），47% 經濟體自 4 月被下修。\n        ② 歐洲（Euronews、Reuters）：歐元區 2026 年 1.1%（7 月 0.9%）、2027 年 1.2%；通膨 3.1%／2.8%，核心通膨回到 2% 要到 2028 年中。德國 1.3%、西班牙 2.5%、法國 0.4%（失業率 7.7% → 8.4%）。\n        ③ 英國（Reuters）：2026 年 1.3%（7 月 1.0%）、2027 年 1.2%；通膨 3.3%／2.8%，失業率 5.3%。\n        ④ 假設（Reuters）：油價 2026 年均 $96、2027 年 $87，荷莫茲海峽 2027 年 3 月重開；若 $130 延續到 2027 Q1，2027 年成長少 0.5 個百分點、通膨升到 5.2%。\n        結論：IMF 建議通膨預期鬆動處加快升息。",
+    "public_impact": "國際貨幣基金（IMF）10 月《世界經濟展望》預估 2026 年全球成長 3.1%、通膨 4.7%。歐元區 2026 年成長由 7 月的 0.9% 上修到 1.1%，2027 年 1.2%；但通膨 2026 年 3.1%、2027 年 2.8%，核心通膨要到 2028 年中才回到 2%。各國差異明顯：西班牙 2.5%、德國 1.3%、法國僅 0.4%，法國失業率預估升到 8.4%；英國 1.3%。IMF 的基本情境假設 2026 年油價平均每桶 96 美元、荷莫茲海峽 2027 年 3 月重開，若油價維持 130 美元，2027 年通膨將升到 5.2%。IMF 支持在通膨預期鬆動處加快升息，歐洲消費與資金成本壓力仍在。",
+    "public_action": "① 規劃 2027 年歐洲各站目標時，以西班牙、德國、法國的成長差異分別設定，法國站保守；② 通膨約 3% 的環境可能延續到 2027 年，售價調整宜分次進行；③ 留意 10 月 16 日歐元區通膨終值、10 月 29 日歐洲央行會議與 10 月 30 日法國第三季 GDP 初值。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：IMF says AI investment propping up global growth, but war and debt threaten outlook（10/13）",
+        "url": "https://www.investing.com/news/economy-news/imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-threaten-outlook-4945312"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：IMF sees higher energy prices and interest rates hitting UK growth（10/13）",
+        "url": "https://www.investing.com/news/economy-news/imf-sees-higher-energy-prices-and-interest-rates-hitting-uk-growth-4945313"
+      },
+      {
+        "name": "Euronews：IMF forecasts 3.1% global growth in 2026, with eurozone at 1.1%（10/13）",
+        "url": "https://www.euronews.com/2026/10/13/imf-forecasts-31-global-growth-in-2026-with-eurozone-at-11"
+      },
+      {
+        "name": "Yahoo Finance：IMF warns of fractured global growth and rising inflation（10/13）",
+        "url": "https://finance.yahoo.com/economy/article/imf-warns-of-fractured-global-growth-and-rising-inflation-driven-by-the-iran-war-and-ai-build-out-020000624.html"
+      },
+      {
+        "name": "Investing.com：French economy posts minimal growth in third quarter（10/12，法國央行調查）",
+        "url": "https://www.investing.com/news/economy-news/french-economy-posts-minimal-growth-in-third-quarter-93CH-4945036"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-13",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/12】中國油電車配額定為每年 35 萬輛，執委會 12 月提對中貿易防衛工具：本週峰會先討論，官員憂施壓鬆手",
+    "summary": "10/12 日報報的是北京會談成果；新進展是配額數字與下一步時程：\n        ① 配額（Reuters、Euronews）：中國油電車對歐每年 35 萬輛、每年調升 6%、為期四年，可能 12 月初起適用，也適用其他貿易夥伴；歐盟官員估今年出口可達 80 萬輛。\n        ② 12 月工具（Reuters）：執委會資深官員稱，12 月將提出降低對中逆差與關鍵供應依賴的措施，包括限制「單一來源依賴」的工具、協助受報復產業的機制，12/17–18 峰會討論；本週峰會先談中國。\n        ③ 疑慮（Euronews）：對中逆差 €3,600 億、中國汽車出口約 €150 億；官員擔心協議讓峰會「放鬆」，Bruegel 的 García-Herrero 認為 Merz 會拖延新措施。\n        ④ 英國（SCMP 引 The Times）：英國考慮比照歐盟對中國電動車最高 45% 的關稅。\n        結論：汽車先談定，更廣的工具 12 月見。",
+    "public_impact": "路透引述歐盟執委會資深官員，中國油電混合車對歐出口將以每年 35 萬輛為上限、每年調升 6%、為期四年，可能 12 月初起適用；歐盟官員估今年中國出口可達 80 萬輛。執委會並計畫 12 月提出降低對中貿易逆差與關鍵供應依賴的措施，包括限制企業對單一供應來源依賴的工具，以及協助受外國報復產業的機制，預定在 12 月 17 至 18 日歐盟峰會討論。目前措施只涉及汽車，沒有一般消費品或電商項目；但若「單一來源依賴」工具擴及電子零組件，品牌商的供應鏈文件要求可能增加。",
+    "public_action": "① 電子、儲能類品牌商先整理關鍵零組件來源與替代供應商清單，待 12 月執委會提案後再評估；② 對歐洲企業買家溝通時，不宜對關稅結果做承諾；③ 留意 10 月 15 至 16 日歐盟峰會與 12 月 17 至 18 日峰會的結論。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：EU eyes December trade initiatives after China car import deal（10/12）",
+        "url": "https://www.investing.com/news/economy-news/eu-eyes-december-trade-initiatives-after-china-car-import-deal-4944130"
+      },
+      {
+        "name": "Euronews：EU's China trade breakthrough risks taking pressure off Beijing（10/12）",
+        "url": "https://www.euronews.com/2026/10/12/eu-china-trade-deal-raises-fears-brussels-will-go-soft-on-beijing"
+      },
+      {
+        "name": "SCMP：The EU's China dilemma: how to counter Beijing without alienating friends（10/11）",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3370482/eus-china-dilemma-how-counter-beijing-without-alienating-friends"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/13 英國】BRC 9 月零售 +1.3% 低於年均、線上非食品僅 +0.7%：Barclays 卡消費 +2.0%，燃料支出 +17.3%",
+    "summary": "10/28 預算案前，兩份 9 月消費數據都偏弱：\n        ① BRC-KPMG（BRC，8/30–10/3）：總零售 +1.3%（去年同期 +2.3%、12 個月均 +1.5%）；食品 +2.5%、非食品 +0.3%；線上非食品 +0.7%（12 個月均 +1.3%），線上滲透率 38.3%。健康美妝是今年最強月，寶可夢 30 週年帶動玩具，天氣偏暖拖累服飾鞋類。\n        ② Barclays（Reuters，8/22–9/24）：卡消費 +2.0%（8 月 +2.1%）；必需 +2.5%，其中燃料 +17.3%（柴油創新高）；非必需 +1.8%。68% 擔心預算案影響財務、30% 正在減少非必需支出。\n        ③ 評論（BRC）：KPMG 的 Ellett 稱消費者「越來越挑」，黑五時點可能讓消費者延後購買；IGD 稱油價上漲壓低購物信心。\n        結論：錢流向燃料，非必需消費在等黑五。",
+    "public_impact": "英國零售商協會（BRC）與 KPMG 公布，8 月 30 日至 10 月 3 日英國零售銷售年增 1.3%，低於 12 個月平均 1.5%；食品增 2.5%、非食品僅增 0.3%，線上非食品增 0.7%，約為年均的一半。健康美妝是今年最強月份，玩具受寶可夢 30 週年帶動，服飾鞋類受偏暖天氣拖累。Barclays 卡消費數據顯示 9 月整體增 2.0%，其中燃料支出大增 17.3%，非必需支出增 1.8%；68% 消費者擔心 10 月 28 日預算案影響財務。KPMG 認為黑色星期五的時點可能讓消費者延後購買，10 月至 11 月上旬需求偏弱。",
+    "public_action": "① 英國站賣家 10 月廣告不追量，預算集中在黑色星期五前後；② 健康美妝、玩具類賣家確認旺季庫存充足，服飾鞋類提早規劃旺季後出清；③ 留意 10 月 28 日英國預算案是否調整稅負。",
+    "sources": [
+      {
+        "name": "BRC：Sluggish sales as shoppers look for Budget boost（10/13）",
+        "url": "https://www.brc.org.uk/news-and-events/news/sluggish-sales-as-shoppers-look-for-budget-boost/"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：UK consumers stay cautious as fuel costs bite, surveys show（10/13）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-12",
     "type": "daily",
     "tags": [
