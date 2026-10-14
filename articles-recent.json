@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-10-14",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/8】德國產品責任法改革通過、12/9 適用：EU 外製造商沒有進口商或授權代表時，履約服務商與平台可被追責",
+    "summary": "1989 年來首次全面翻修，轉化歐盟 2024/2853 指令：\n        ① 表決（Bundestag，10/8）：以委員會版本通過，CDU/CSU、SPD、綠黨贊成，AfD、左黨棄權。IT-Recht Kanzlei 指出聯邦參議院仍須走完第二輪。\n        ② 責任鏈（IT-Recht Kanzlei）：製造商在 EU 外時，先由進口商與 EU 授權代表負責；兩者皆無，由履約服務商（倉儲、包裝、貼標、出貨至少提供兩項）承接，再來是供貨者；消費者會誤認平台就是賣方時，平台也要負責。\n        ③ 一個月規則（IT-Recht Kanzlei、OnlinehändlerNews）：供貨者或平台被要求指名責任人，須在一個月內回覆，否則自負其責。\n        ④ 範圍（Bundestag、IT-Recht Kanzlei）：軟體與 AI 系統算產品；人身傷害 €8,500 萬上限與財損 €500 自付額取消。\n        ⑤ 附帶決議（Bundestag）：請政府研究是否要求非 EU 製造商的授權代表投保責任險。\n        結論：12/9 起首次上市的商品適用新法，沒有 EU 責任人的進口貨，責任會往下游轉。",
+    "public_impact": "德國聯邦議院 10 月 8 日通過產品責任法改革，轉化歐盟 2024/2853 指令，預定 12 月 9 日起適用於新上市商品。製造商在歐盟以外時，受害者可依序向進口商、歐盟授權代表、履約服務商（提供倉儲、包裝、貼標、出貨其中至少兩項）、供貨者追償；消費者會誤認平台就是賣方時，平台也要負責。人身傷害 8,500 萬歐元上限與財損 500 歐元自付額取消，軟體與 AI 系統也算產品。對沒有歐盟法人的品牌，現有的歐盟責任人合約多半不含賠償責任，議會另要求政府研究是否強制授權代表投保。",
+    "public_action": "① 12 月 9 日前逐一確認每項商品在歐盟的進口商或授權代表資訊齊全；② 向現有歐盟責任人確認合約是否涵蓋產品責任與保險，必要時諮詢律師；③ 12 月 9 日前已在歐盟上市的商品沿用舊法，保留入倉與首次銷售紀錄；④ 收到指名製造商或供貨者的請求時，在一個月內回覆；⑤ 連網電子、電器、兒童用品等高風險品類優先處理。",
+    "sources": [
+      {
+        "name": "Deutscher Bundestag：Modernisierung des Produkthaftungsrechts（10/8）",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-produkthaftungsrecht-1222456"
+      },
+      {
+        "name": "IT-Recht Kanzlei：Produkthaftungsrecht 2026: Das müssen Händler zur Neuregelung wissen（10/9 更新）",
+        "url": "https://www.it-recht-kanzlei.de/produkthaftung-2026-faq.html"
+      },
+      {
+        "name": "OnlinehändlerNews：Produkthaftung neu geregelt: Das ändert sich für den Online-Handel（10/13）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/produkthaftung-neu-2026"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-14",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10 月初 ENVI・10/13 德媒跟進】歐洲議會環委會同意暫停微型與小型企業 PPWR 授權代表義務：執委會盼 11 月底前生效",
+    "summary": "PPWR 8/12 上路後最直接的鬆綁訊號，但還不是法律：\n        ① 表決（Roswall、OnlinehändlerNews）：歐洲議會環境委員會（ENVI）以壓倒性多數，支持暫停微型與小型企業在各目標國指定授權代表的義務，與執委 Roswall 去年 12 月環境 omnibus 提案一致。\n        ② 時程（Roswall）：還要大會表決、理事會立場，再進三方協商；她希望 10 月啟動協商、11 月底前生效，趕上 Black Friday 與聖誕檔期。\n        ③ 範圍（FulGrid）：依歐盟中小企業定義，員工 50 人以下、年營業額或資產 €1,000 萬以下；標示、可回收性與對主管機關的文件義務不變。\n        ④ 代價（OnlinehändlerNews）：德國 B2B 電商 Böttcher AG 稱每進一國都要重做註冊、申報與回收義務，停止奧地利等擴張，自估少掉最高 €5 億年營收、300 個職缺。\n        結論：會員國去年曾反對同一豁免，理事會是最大變數。",
+    "public_impact": "歐洲議會環境委員會 10 月初以壓倒性多數，支持暫停微型與小型企業在各目標國指定包裝法（PPWR）授權代表的義務，與執委會去年 12 月的環境簡化提案一致。執委 Roswall 希望 10 月啟動三方協商、11 月底前生效，但仍需大會表決與理事會立場，會員國去年曾反對同一豁免。適用對象依歐盟中小企業定義，員工 50 人以下、年營業額或資產 1,000 萬歐元以下；包裝標示、可回收性與文件義務不變。德國 B2B 電商 Böttcher AG 同週宣布因 PPWR 停止奧地利等擴張，顯示多國合規成本仍是實際負擔。",
+    "public_action": "① 豁免正式生效前，已指定的授權代表不要解約，續約時選短約或可提前終止條款；② 先核對自身員工數與營業額是否符合小型企業定義；③ 評估新增歐盟國家時，把授權代表費用分成有豁免與無豁免兩種情境試算；④ 留意歐洲議會大會表決、理事會立場與三方協商進度。",
+    "sources": [
+      {
+        "name": "OnlinehändlerNews：EU-Umweltausschuss einigt sich auf PPWR-Erleichterung zum Bevollmächtigten（10/13）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/eu-umweltausschuss-ppwr-erleichterung-bevollmaechtigten"
+      },
+      {
+        "name": "OnlinehändlerNews：Wegen PPWR: Großer Online-Händler stoppt Europa-Expansion（10/13）",
+        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/wegen-ppwr-online-haendler-stoppt-europa-expansion"
+      },
+      {
+        "name": "FulGrid：PPWR Ausnahme für Kleinunternehmen（10/7）",
+        "url": "https://www.fulgrid.de/blog/ppwr-ausnahme-kleinunternehmen-envi-beschluss"
+      },
+      {
+        "name": "Jessika Roswall（歐盟環境執委）LinkedIn 貼文",
+        "url": "https://www.linkedin.com/posts/jessika-roswall-153ba9b9_small-businesses-should-thrive-in-the-single-share-7513524138616041473-efXn"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-14",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/14】中國 9 月出口年增 36.3%、遠超預期 25.5%，對歐盟 +25.25%：前三季順差 $9,381 億，歐盟峰會明天討論對中",
+    "summary": "歐盟峰會 10/15–16 前一天，順差數字再加碼：\n        ① 總量（中國海關，經 SCMP、Reuters）：9 月出口 $4,471.8 億、+36.3%，Reuters 調查預期 25.5%、Wind 25.7%，8 月為 25%；進口 $3,136.5 億、+31%；單月順差 $1,335.3 億。\n        ② 歐美（SCMP）：對歐盟出口 +25.25%；對美 +39.56%，主因去年基期低。\n        ③ 驅動（海關副署長王軍）：晶片與電子零組件，受 AI 算力與電力基礎建設需求帶動，加上十一長假前的提前出貨；前三季外貿成長為五年最快。\n        ④ 累計（SCMP、China Daily）：前三季順差 $9,381.1 億、年增約 7.2%；以人民幣計前三季外貿 39.94 兆元、+18.8%。\n        結論：上週油電車協議只處理汽車，德法提議的對中貿易工具在峰會上多了一組數字。",
+    "public_impact": "中國海關 10 月 14 日公布，9 月出口 4,471.8 億美元、年增 36.3%，遠高於 Reuters 調查預期的 25.5%；進口年增 31%，單月順差 1,335.3 億美元。對歐盟出口年增 25.25%，前三季累計順差 9,381.1 億美元。海關副署長王軍指出，成長主要來自晶片與電子零組件，受 AI 算力與電力基礎建設需求帶動。數據公布時間正值歐盟 10 月 15–16 日峰會前夕，德法已提議新的對中貿易工具，執委會預計 12 月提出方案。零組件需求強勁也意味電子產品的上游成本壓力仍在。",
+    "public_action": "① 3C 與電子周邊賣家檢視 2027 年第一季零組件報價，評估成本是否上升；② 備齊原產地證明與主要零組件來源清單，因應可能的原產地查核；③ 留意 10 月 15–16 日歐盟峰會與 12 月年終峰會對中國貿易工具的結論；④ 不必把出口數字直接解讀為站內競品增加，主要成長在零組件。",
+    "sources": [
+      {
+        "name": "SCMP：China's exports surge more than 36% in September amid tech demand, holiday rush（10/14）",
+        "url": "https://www.scmp.com/economy/china-economy/article/3370799/chinas-trade-momentum-quickens-september-amid-tech-demand-holiday-rush"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：China's exports surge 36.3% y/y in September, imports up 31%（10/14）",
+        "url": "https://www.investing.com/news/economy-news/chinas-exports-surge-363-yy-in-september-imports-up-31-4947903"
+      },
+      {
+        "name": "China Daily：China's foreign trade up 18.8% in first three quarters of 2026（10/14）",
+        "url": "https://www.chinadaily.com.cn/a/202610/14/WS6acee27be4b06d4aa0562ad7.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-14",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/12】德國網路局擬准 Deutsche Post 2027 年起私人包裹最多漲 10.72%、信件 20.35%：意見徵詢到 10/30",
+    "summary": "新郵政法下首次市場分析，兩年價格上限初稿出爐：\n        ① 上限（BNetzA）：2027/1/1–2028/12/31，私人客戶包裹平均最多 +10.72%（上一輪 7.21%）；私人信件與商業郵件 +20.35%（上一輪 10.48%）。\n        ② 算法（BNetzA）：兩年合計通膨 4.04%，扣生產力率（包裹 -6.68%、信件 -16.31%）；局長 Müller 稱主因是信件量大減。\n        ③ 範圍（OnlinehändlerNews）：個別議價的商業包裹不受上限直接規範；上限是平均值，Post 自行分配，個別品項可能漲更多。\n        ④ 信件（VerkehrsRundschau）：用滿額度的話，標準信件 €0.95 → 約 €1.14；信件量由 2005 年近 170 億件降到 2025 年約 94 億件。業界預期大宗寄件的電商物流成本也會上升。\n        ⑤ 程序：意見徵詢到 10/30，11 月定案，之後 Post 再申請個別品項價格。\n        結論：直接受管制的是私人包裹，但商業合約價通常會跟著調。",
+    "public_impact": "德國聯邦網路局 10 月 12 日公布 Deutsche Post 價格上限初稿，2027 年 1 月 1 日至 2028 年 12 月 31 日私人客戶包裹平均最多可漲 10.72%（上一輪 7.21%），私人信件與商業郵件最多 20.35%（上一輪 10.48%）。主因是信件量由 2005 年近 170 億件降到 2025 年約 94 億件，固定成本攤到更少件數。個別議價的商業包裹不受上限直接規範，但業界預期大宗寄件的電商物流成本也會上升。意見徵詢到 10 月 30 日，11 月定案，之後 Post 再申請個別品項價格。",
+    "public_action": "① 在德國自行出貨的賣家，2027 年運費預算以約 10% 漲幅做壓力測試；② 等 11 月定案後再與承運商談 2027 年合約，並比較其他承運商報價；③ 提供免費退貨的賣家重新估算 2027 年退貨成本；④ 用新的運費假設比較自行出貨與平台倉儲出貨的單件成本。",
+    "sources": [
+      {
+        "name": "Bundesnetzagentur：Price-Cap-Entscheidung Deutsche Post ab 2027（10/12）",
+        "url": "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261012_Post.html"
+      },
+      {
+        "name": "OnlinehändlerNews：Höhere Paketpreise der Deutschen Post ab 2027（10/13）",
+        "url": "https://ohn.haendlerbund.de/logistik/paketdienste/hoehere-paketpreise-deutschen-post-2027"
+      },
+      {
+        "name": "VerkehrsRundschau：Briefporto könnte 2027 um mehr als 20 Prozent steigen（10/12）",
+        "url": "https://www.verkehrsrundschau.de/nachrichten/lager-umschlag/briefporto-koennte-2027-um-mehr-als-20-prozent-steigen-3915960"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-14",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/13】德國 9 月 CPI 終值 3.3%、燃料 +37.1%：荷蘭 HICP 3.0%，法國 11/1 起動用儲備讓柴油降 12–18 分",
+    "summary": "能源推升的通膨還在擴散，法國先出手壓柴油：\n        ① 德國（Destatis）：9 月 CPI 3.3%（8 月 2.9%）、月增 0.6%，2023 年 12 月來最高；能源 +14.9%，其中燃料 +37.1%、暖氣油 +74.9%；核心 2.4%、食品僅 0.4%。\n        ② 荷蘭（ING）：9 月 HICP 3.0%（8 月 2.8%），燃料 +27.3%、服務 3.8%；手機與影音設備因 AI 帶動零組件漲價轉正。ING 估 2027 年 Q1 見頂 3.5–4%。\n        ③ 法國（Euronews、Connexion）：Lecornu 10/12 宣布以成本價釋出 1,000 萬桶戰略儲備柴油，11/1–2027/1/31 泵價預估降 12–18 分/公升，加滿一箱省約 €10；運輸業、非道路柴油與家用暖氣油也適用。法國 10/5 柴油 €2.355，高於 EU 均價 €2.149。\n        結論：通膨主因仍是燃料，核心物價沒有失控。",
+    "public_impact": "德國統計局確認 9 月 CPI 年增 3.3%，為 2023 年 12 月以來最高，燃料年增 37.1%、暖氣油 74.9%，但核心通膨 2.4%、食品僅 0.4%，漲價集中在能源。荷蘭 9 月 HICP 3.0%，ING 預估 2027 年第一季見頂 3.5% 至 4%，手機與影音設備因零組件成本上升轉為正成長。法國政府將以成本價釋出 1,000 萬桶戰略儲備柴油，11 月 1 日至 2027 年 1 月 31 日泵價預估每公升降 12 至 18 歐分，運輸業與家用暖氣油也適用。能源支出擠壓可支配所得，旺季消費者對價格更敏感。",
+    "public_action": "① 德國站旺季調價以核心通膨約 2.4% 為參考，非能源密集品類避免大幅漲價；② 法國自行出貨的賣家，11 月至 1 月運費假設可小幅下修，2 月起恢復；③ 電子產品賣家確認供應商 2027 年第一季報價是否已反映零組件漲價；④ 留意 10 月 16 日歐元區 HICP 終值與 10 月 29 日歐洲央行會議。",
+    "sources": [
+      {
+        "name": "Destatis：Inflation rate at +3.3% in September 2026（10/13）",
+        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_364_611.html"
+      },
+      {
+        "name": "ING THINK：Higher inflation in the Netherlands in September not only due to fuel（10/13）",
+        "url": "https://think.ing.com/snaps/higher-inflation-in-the-netherlands-in-september-not-only-due-to-fuel/"
+      },
+      {
+        "name": "Euronews：Fuel prices: Sébastien Lecornu promises €10 cut per fill-up（10/13）",
+        "url": "https://www.euronews.com/2026/10/13/fuel-prices-sebastien-lecornu-promises-10-cut-per-fill-up"
+      },
+      {
+        "name": "The Connexion：French government says diesel prices will drop from November 1（10/13）",
+        "url": "https://www.connexionfrance.com/news/french-government-says-diesel-prices-will-drop-from-november-1/820506"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-13",
     "type": "daily",
     "tags": [
