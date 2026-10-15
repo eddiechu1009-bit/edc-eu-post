@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-15",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/13】easyJet 創辦人推 easyShop、一次開 21 國：月費 €29 起、佣金 7–20%，要有 50 則評價才能入駐",
+    "summary": "歐洲多一個標榜「不跟賣家搶生意」的綜合市集：\n        ① 開站（ChannelX、OnlinehändlerNews）：easyGroup（Stelios Haji-Ioannou）10/13 在含德國的 21 個歐洲國家上線，由 OnBuy 母公司 OnCommerce 營運；分階段開站後已有數百家賣家，平台不持有庫存、不賣自有品牌。\n        ② 入駐條件（wortfilter）：一個帳號賣 21 國、VAT 自動計算；須在其他平台有至少 50 則評價、4.5 星以上，每項商品要有條碼，每個目標國要有退貨方案，新帳號上限 2,500 個 listing。\n        ③ 費用（wortfilter）：月費 €29／€79／€299 三級（優惠到 2027/1），佣金按含運總價計，家電 7%、一般 15%、珠寶 20%；退款收訂單金額 20%、上限 €6。\n        ④ 規模（wortfilter）：OnBuy 2025 年 GMV 約 $2 億，英國約占三分之二；德國流量占 8.5%、每月約 38 萬次造訪。\n        結論：多一個通路選項，但德國需求小，作者抽查還發現境外賣家缺 Impressum 與 GPSR 資訊。",
+    "public_impact": "easyJet 創辦人 Stelios Haji-Ioannou 的 easyGroup 於 10 月 13 日推出 easyShop，在含德國的 21 個歐洲國家上線，由 OnBuy 母公司 OnCommerce 營運，平台不持有庫存、不賣自有品牌。賣家一個帳號即可賣 21 國，VAT 由平台自動計算；入駐需在其他平台有至少 50 則評價、4.5 星以上。月費 29、79、299 歐元三級，佣金按含運總價計，家電 7%、一般 15%、珠寶 20%，退款另收訂單金額 20%（上限 6 歐元）。德國流量僅占 8.5%，英國約占營收三分之二；德國法務媒體抽查發現部分境外賣家缺少 Impressum、撤回權與 GPSR 資訊，責任由賣家承擔。",
+    "public_action": "① 評估新通路時，把月費、佣金與 20% 退款費一起算進單件成本；② 德國需求目前偏小，3C 賣家可先從英國測試；③ 上架任何歐盟平台都要補齊 Impressum、撤回權說明與 GPSR 責任人，避免警告函；④ 確認自用的 ERP 或多通路工具是否已支援串接。",
+    "sources": [
+      {
+        "name": "ChannelX：easyShop launched as Stelios takes on online shopping giants（10/13）",
+        "url": "https://channelx.world/2026/10/easyshop-launched-as-stelios-takes-on-online-shopping-giants/"
+      },
+      {
+        "name": "OnlinehändlerNews：Neuer Marktplatz easyShop: Taugt er als Amazon-Alternative für Händler?（10/14）",
+        "url": "https://ohn.haendlerbund.de/themen/marktplaetze/marktplatz-easyshop-amazon-alternative-haendler"
+      },
+      {
+        "name": "wortfilter：easyShop Marktplatz – Gebühren, API, Rechtslage（10/14）",
+        "url": "https://wortfilter.de/easyshop-marktplatz-gebuehren-api-rechtslage/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/14 IEA 月報】歐洲柴油庫存 2027 下半年前補不回、到岸價可能再漲：同日荷莫茲貨櫃輪被擊沉，Brent 盤中破 $107",
+    "summary": "10/13 日報報過 Brent 新高，本期進展是 IEA 官方月報把柴油緊缺延到 2027：\n        ① 柴油（IEA）：9 月中歐美柴油約 $220/桶 創歷史高，之後回落但仍約為原油兩倍；運費推高原油到岸成本，歐洲到岸柴油價「可能再漲」，庫存 2027 下半年前難回補。\n        ② 供需（IEA）：9 月全球供給增 2.5 mb/d 到 102.3 mb/d，仍低於約 103.5 mb/d 的需求；2026 年需求下修 2.6 mb/d，中東成品油出口仍不到戰前一半。\n        ③ 荷莫茲（Reuters）：新加坡籍貨櫃輪 GFS Pride 10/14 遭不明飛彈擊中沉沒，21 名船員獲救；本月逾 20 艘船遇襲，荷莫茲原油出口較正常少近 40%。\n        ④ 價格（Euronews）：Brent 10/14 早盤一度破 $107、後回 $106；TTF 天然氣約 €86/MWh，近四年高。IEA 理事會 10/15 開會。\n        結論：瓶頸在煉油產能，旺季到明年上半年運費難降。",
+    "public_impact": "國際能源署 10 月 14 日發布月報，指出 9 月中歐美柴油約每桶 220 美元創歷史高，之後雖回落但仍約為原油兩倍；歐洲到岸柴油價格可能再漲，流失的柴油庫存在 2027 年下半年前難以回補。同日一艘新加坡籍貨櫃輪在荷莫茲海峽遭擊中沉沒，本月已有逾 20 艘船遇襲，Brent 盤中一度突破 107 美元，歐洲天然氣接近四年高點。瓶頸在煉油產能，代表承運商燃油附加費到 2027 年上半年都難以下降，旺季與明年的運費預算需要保守估算。",
+    "public_action": "① 2027 年運費預算不要假設燃油附加費下降；② 海運在途貨物向貨代確認是否會追加戰爭險或緊急附加費；③ 旺季補貨預留空運預算；④ 有中東出貨的賣家延長交期預估並提高安全庫存；⑤ 留意 IEA 理事會與 11 月 1 日 OPEC+ 會議結果。",
+    "sources": [
+      {
+        "name": "IEA：Oil Market Report – October 2026（10/14）",
+        "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Container ship sinks in Strait of Hormuz amid Iran attacks（10/14）",
+        "url": "https://www.investing.com/news/economy-news/container-ship-sinks-in-strait-of-hormuz-amid-iran-attacks-4949823"
+      },
+      {
+        "name": "Euronews：IEA warns European diesel prices could rise as crunch lasts into 2027（10/14）",
+        "url": "https://www.euronews.com/2026/10/14/iea-warns-diesel-prices-in-europe-could-rise-as-global-crunch-lasts-into-2027"
+      },
+      {
+        "name": "Euronews：Oil prices rise after reported attacks on ships in Strait of Hormuz（10/14）",
+        "url": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/14–10/15】上游成本齊漲：德國 9 月批發物價 +8.7%、電腦周邊 +12.1%，中國 PPI +5.0% 創 2022 年來高，西班牙 HICP 5.0%",
+    "summary": "消費端通膨之外，批發與出廠價漲得更快：\n        ① 德國批發（Destatis，10/14）：9 月批發物價年增 8.7%（8 月 6.8%）、月增 1.9%，2023 年 2 月來最高；礦物油 +48.8%、非鐵金屬 +24.9%、化學品 +16.4%、電腦與周邊 +12.1%，Destatis 歸因中東衝突推升能源與中間財。\n        ② 中國出廠價（國家統計局，經 China Daily）：9 月 PPI 年增 5.0%（8 月 3.8%）、月增 1.2%，2022 年 6 月來最高；CPI 僅 0.9%，兩者差距擴大到 4.1 個百分點，分析師預期出廠價到年底維持高檔。\n        ③ 西班牙（INE、Reuters）：9 月 HICP 終值 5.0%（8 月 4.6%），2023 年 2 月來最快；CPI 4.9%、核心 3.1%，主因燃料與機票，與初值相同。\n        結論：成本壓力集中在供應鏈上游，零售價還沒完全反映。",
+    "public_impact": "德國統計局 10 月 14 日公布 9 月批發物價年增 8.7%，為 2023 年 2 月以來最高，其中礦物油 48.8%、非鐵金屬 24.9%、化學品 16.4%、電腦與周邊設備 12.1%。中國 9 月生產者物價年增 5.0%，為 2022 年 6 月以來最高，消費者物價僅 0.9%，代表中游廠商仍在吸收成本，出廠價預期到年底維持高檔。西班牙 9 月調和通膨終值 5.0%，為 2023 年 2 月以來最快，主因燃料與機票。成本壓力集中在供應鏈上游，電子、化學品與包材類賣家的明年進貨價上調機率高。",
+    "public_action": "① 電子類賣家本月內與供應商確認 2027 年第一季報價，可行時簽固定價或調價上限；② 化學品、金屬、包材占比高的品類，以成本上漲約 9% 做壓力測試；③ 西班牙等通膨較高的市場，旺季折扣先算清毛利底線；④ 留意 10 月 16 日歐元區通膨終值與 10 月 20 日德國生產者物價。",
+    "sources": [
+      {
+        "name": "Destatis：Wholesale prices in September 2026: +8.7% on September 2025（10/14）",
+        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_368_61281.html"
+      },
+      {
+        "name": "China Daily：Sept PPI rises on energy surge（10/15）",
+        "url": "https://www.chinadaily.com.cn/a/202610/15/WS6ad028efe4b06d4aa0562e04.html"
+      },
+      {
+        "name": "INE：CPI / HICP September 2026（10/14）",
+        "url": "https://www.ine.es/en/index.htm"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Spain's inflation rises at fastest pace in more than three years（10/14）",
+        "url": "https://www.investing.com/news/economic-indicators/spains-final-12month-euharmonised-inflation-at-5-in-september-4948193"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "daily",
+    "tags": [
+      "貨幣"
+    ],
+    "title": "【10/14】美國 9 月 CPI 3.7%、核心 2.6% 略高於預期：10 月 Fed 升息機率由約 20% 升到 45%，美元指數 18 個月高",
+    "summary": "Fed 9 月已升息，熱數據讓 10/27–28 再升的機率翻倍：\n        ① 數據（BLS，經 Reuters、Euronews）：9 月 CPI 年增 3.7%（8 月 3.4%）、月增 0.6%，5 月來最高；Reuters 與 FactSet 調查預期 3.6%。核心年增 2.6%、月增 0.3%，略高於預期；汽油月漲約 9%。\n        ② Fed（ING、Euronews）：ING 稱期貨隱含 10 月升息機率由約 20% 升到 45%，ING 自己預期 12 月升息後長期按兵；Fed 9 月升到 3.75–4%，主席 Warsh 稱「通膨太高、也太久」。\n        ③ 市場（Reuters）：2 年期美債殖利率 +13bp 到 4.92%、10 年期約 5.30%；美元指數 +0.55% 到 102.75，18 個月高。\n        ④ 歐元（ING、Euronews）：數據前 EUR/USD 約 1.12；ING 認為可能先回測 1.1150–1.1160，一個月目標 1.13，歐元弱勢部分反映法國風險。\n        結論：美元走強期間，歐元營收換回美元的金額縮水。",
+    "public_impact": "美國 9 月消費者物價年增 3.7%，為 5 月以來最高，略高於市場預期的 3.6%，核心通膨 2.6% 也略高於預期，主因汽油月漲約 9%。ING 指出期貨隱含 10 月底聯準會再升息的機率由約 20% 升到 45%；2 年期美債殖利率升 13 個基點，美元指數升到 18 個月高點。歐元兌美元數據公布前約 1.12，ING 認為可能先回測 1.115 附近。以美元或台幣結算的對歐賣家，旺季歐元營收換回的金額可能縮水，用美元融資備貨的成本也難下降。",
+    "public_action": "① 旺季定價與毛利以歐元兌美元 1.11 至 1.13 區間試算；② 旺季歐元回款分 2 至 3 批換匯，避免集中在單一時點；③ 用美元融資備貨的賣家，明年借款成本假設不下修；④ 留意 10 月 27–28 日聯準會與 10 月 29 日歐洲央行會議。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Hot September CPI sends rate-hike bets soaring（10/14）",
+        "url": "https://www.investing.com/news/economic-indicators/hot-september-cpi-sends-ratehike-bets-soaring-4949438"
+      },
+      {
+        "name": "Euronews：US inflation rises to 3.7% as fuel costs climb ahead of midterms（10/14）",
+        "url": "https://www.euronews.com/2026/10/14/us-inflation-rises-to-37-as-fuel-costs-climb-ahead-of-midterms"
+      },
+      {
+        "name": "ING THINK：Hotter US inflation leaves the market gunning for rate hikes（10/14）",
+        "url": "https://think.ing.com/articles/hotter-us-inflation-leaves-the-market-gunning-for-rate-hikes/"
+      },
+      {
+        "name": "ING THINK：FX Daily: Hot inflation to strengthen dollar floor（10/14）",
+        "url": "https://think.ing.com/articles/fx-daily-hot-inflation-to-strengthen-dollar-floor/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-15",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/15 峰會開幕】Dombrovskis：對中失衡「不只汽車」，官員點名化工、家具、機械、鋼鐵；德法提對中「斷路開關」",
+    "summary": "10/14 日報預告峰會，本期進展是歐盟把下一步擴到汽車以外：\n        ① 執委會（Reuters，10/14）：Dombrovskis 稱失衡「不限於汽車」，要重新平衡其他產業並改善市場准入，「不能只是無止境的討論」，否則採取其他措施；他未點名產業，接近談判的官員提到化工、家具、工業機械、鋼鐵、風機零件。\n        ② 峰會（Euronews）：10/15–16 布魯塞爾峰會首日討論能源價格與中國；預期要求執委會「緊急強化」貿易工具，德法提出「斷路開關」，逆差持續就切斷中國進入歐盟市場。德、義、比另致函 Costa，要求對加重企業負擔的新法設「緊急煞車」。\n        ③ 中方（新華社，經 China Daily、Reuters）：中國汽車工業協會稱共識有助穩定預期，對抗只會推高企業成本；何立峰對法方表示願與歐盟增加經貿穩定性。\n        結論：家具進入官員名單，貿易工具可能擴及消費品。",
+    "public_impact": "歐盟執委會副主席 Dombrovskis 10 月 14 日表示，對中國貿易失衡不限於汽車，歐盟需要在其他產業重新平衡並改善市場准入，否則將採取其他措施；接近談判的官員提到化工、家具、工業機械、鋼鐵與風機零件。10 月 15–16 日歐盟峰會首日討論能源價格與中國，預期要求執委會強化貿易工具，德法提議逆差持續時可切斷中國進入歐盟市場。德、義、比另要求對加重企業負擔的新法設「緊急煞車」。中方表示願增加經貿穩定性。目前仍是政治方向，執委會方案預計 12 月才提出。",
+    "public_action": "① 家具家居與工具類賣家整理主要零組件的來源國比例，備好原產地證明；② 目前尚無具體措施，不必提前調整定價或供應鏈；③ 留意 10 月 16 日峰會結論、12 月執委會貿易工具提案與 12 月 17–18 日年終峰會；④ 「緊急煞車」若推進，留意包裝法、毀林條例等新規是否再延後。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：After hybrid car deal, EU needs to rebalance China trade in other sectors, Dombrovskis says（10/14）",
+        "url": "https://www.investing.com/news/economic-indicators/after-hybrid-car-deal-eu-needs-to-rebalance-china-trade-in-other-sectors-dombrovskis-says-4948938"
+      },
+      {
+        "name": "Euronews：EU leaders tackle energy prices, spar over budget and unite on Ukraine（10/14）",
+        "url": "https://www.euronews.com/2026/10/14/eu-summit-leaders-tackle-energy-prices-spar-over-budget-and-unite-on-ukraine"
+      },
+      {
+        "name": "Euronews：Germany, Italy and Belgium call for 'emergency brake' on EU laws（10/13）",
+        "url": "https://www.euronews.com/2026/10/13/germany-italy-and-belgium-call-for-emergency-brake-on-eu-legislation"
+      },
+      {
+        "name": "China Daily（新華社）：China-EU consensus on vehicle trade to stabilize industry expectations: CAAM（10/15）",
+        "url": "https://www.chinadaily.com.cn/a/202610/15/WS6ad0381fe4b06d4aa0562ec9.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-14",
     "type": "daily",
     "tags": [
