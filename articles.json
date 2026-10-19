@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-19",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/16 峰會】執委會將對汽車以外的中國產業提防衛措施：Macron 點名化工、塑膠、鐵合金，8 月自中進口 +19.7%",
+    "summary": "10/15 日報報過峰會開幕的對中討論，本期進展是峰會結論與執委會表態：\n        ① 執委會（Reuters）：von der Leyen 10/16 稱與北京的油電混合車協議解決不了結構性失衡，會提出更多防衛措施，「產業要求行動，我們聽到了」；未給時程。\n        ② 產業（Reuters、Euronews）：Macron 點名化工、塑膠、鐵合金；領袖要求執委會準備含配額與關稅的工具箱保護化工與機械，並「立即」採取單邊防衛措施。\n        ③ 新工具（Reuters、Euronews）：以德法提案為基礎的快速限制單一市場准入工具，12 月提出單一來源依賴提案，另設團結機制；Euronews 指年底前未必能完成。\n        ④ 數據（Eurostat，10/16）：8 月歐盟自中國進口 €531 億、+19.7%，出口 €147 億、+3.2%，單月逆差 €384 億（去年同期 €301 億）。\n        結論：對中措施從汽車擴到化工與機械，細節與時程未定。",
+    "public_impact": "歐盟領袖 10 月 15 日至 16 日峰會後，執委會主席 von der Leyen 表示，與中國達成的油電混合車協議無法解決結構性貿易失衡，執委會將對其他中國產業提出更多防衛措施。法國總統 Macron 點名化工、塑膠與鐵合金；據 Euronews 報導，領袖要求執委會準備包含配額與關稅的工具箱，保護化工與機械產業，並提出快速限制單一市場准入的新工具，12 月另有降低單一來源依賴的提案。歐盟統計局同日公布，8 月歐盟自中國進口 531 億歐元、年增 19.7%，出口僅增 3.2%，單月逆差 384 億歐元。措施細節與適用產品尚未公布，但方向是對中國原產商品加強管制。",
+    "public_action": "① 盤點主力商品的原產地與生產地，特別是化工、塑膠製品與機械類；② 在中國生產的商品，2027 年進貨成本預估加入可能加徵關稅或配額的情境；③ 非中國原產的商品，提早備妥產地證明文件；④ 留意 12 月執委會提案與歐盟年終峰會的結論。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：EU to propose import curbs on other Chinese sectors, says EU chief（10/16）",
+        "url": "https://www.investing.com/news/economic-indicators/eu-to-propose-import-curbs-on-other-chinese-sectorssays-eu-chief-4954705"
+      },
+      {
+        "name": "Euronews：Budget, Ukraine, migration: Five takeaways from the EU leaders' summit（10/16）",
+        "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
+      },
+      {
+        "name": "Eurostat：Euro area international trade in goods deficit €16.1 bn（10/16）",
+        "url": "https://ec.europa.eu/eurostat/product?code=6-16102026-bp"
+      },
+      {
+        "name": "European Parliament：Media invitation: EU-China trade press briefing ahead of MEPs' visit to China（10/16）",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20261016IPR48218/media-invitation-eu-china-trade-press-briefing-ahead-of-meps-visit-to-china"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-19",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/19–10/20 歐洲議會】暫停包裝與電池 EPR 規則今天辯論、明天可能表決：理事會未通過前，授權代表義務照舊",
+    "summary": "10/14 日報報過環委會同意暫停微型與小型企業的授權代表義務，本期進展是送進大會：\n        ① 議程（歐洲議會）：10/19 晚間合併辯論兩件 Omnibus VIII 環境案，含「暫停電池與包裝 EPR 規則」，報告人 Ingeborg Ter Laak；10/20 中午可能表決。\n        ② 內容（IT-Recht Kanzlei，10/16）：執委會 2025 年底提議把授權代表義務暫停到 2035 年初，環委會只同意適用微型與小型企業；理事會尚未通過。\n        ③ 過渡（IT-Recht Kanzlei）：執委會建議會員國暫不處罰，但不具拘束力；PPWR 8/12 起適用，德國 LUCID 註冊與系統參與沒有數量門檻。執委會稱國家登錄建好前平台不必查註冊號，律所認為與第 45(4) 條不一致。\n        ④ 案例（OnlinehändlerNews，10/13）：B2B 電商 Böttcher AG 以 PPWR 每國重複的註冊與申報為主因，擱置奧地利等歐洲擴張。\n        結論：議會表決只是一步，生效前義務不變。",
+    "public_impact": "歐洲議會 10 月 19 日晚間合併辯論兩件環境簡化案，其中包括暫停電池與包裝的生產者延伸責任規則，議程顯示最快 10 月 20 日中午表決。據德國 IT-Recht Kanzlei 律師事務所說明，執委會 2025 年底提議把非本國企業指定授權代表的義務暫停到 2035 年初，議會環境委員會只同意適用於微型與小型企業，理事會尚未通過。包裝與包裝廢棄物條例自 8 月 12 日起適用，執委會雖建議會員國暫不處罰，但不具拘束力；德國的 LUCID 註冊與系統參與義務沒有數量門檻。德國 B2B 電商 Böttcher AG 已以各國重複的註冊與申報負擔為主因，擱置奧地利等歐洲擴張計畫。",
+    "public_action": "① 議會表決不等於生效，理事會通過並刊登公報前，不要解除現有授權代表合約；② 確認自身是否屬於微型或小型企業，再判斷是否適用暫停；③ 德國站賣家的 LUCID 註冊與包裝系統參與義務不受影響；④ 留意 10 月 20 日議會表決結果與後續理事會立場。",
+    "sources": [
+      {
+        "name": "European Parliament：Weekly agenda 2026-43（Plenary 10/19–10/22）",
+        "url": "https://www.europarl.europa.eu/news/en/agenda/weekly-agenda/2026-43"
+      },
+      {
+        "name": "IT-Recht Kanzlei：EU-Verpackungsverordnung: Viel Entlastung versprochen, wenig davon umgesetzt（10/16）",
+        "url": "https://www.it-recht-kanzlei.de/eu-verpackungsverordnung-erleichterungen-fuer-kleine-haendler.html"
+      },
+      {
+        "name": "OnlinehändlerNews：Wegen PPWR: Großer Online-Händler stoppt Europa-Expansion（10/13）",
+        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/wegen-ppwr-online-haendler-stoppt-europa-expansion"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-19",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/16–10/19】Brent 週五收 $109.86、5 月 19 日來最高，TTF €86 近 2022 年高點：川普豁免對俄制裁，週一早盤回落",
+    "summary": "10/16 日報報過 IEA 加速釋儲，週五油價仍衝上 5 月來高點：\n        ① 原油（Reuters，10/16）：Brent 盤中觸及 $110，收 $109.86、+3.7%，5/19 以來最高；WTI 收 $101.41。主因沙國延布港遭飛彈攻擊未遂、荷莫茲攻擊增加、烏克蘭打擊俄國煉油廠。\n        ② 回落（Reuters、Investing.com）：川普週五晚間簽令豁免多數對俄制裁與關稅；10/19 亞洲早盤 Brent 跌到 $107.95、-1.75%。伊朗稱若美方接受條件，可在七天內重開荷莫茲。\n        ③ 天然氣（Investing.com，10/16）：TTF 收 €86.10/MWh、週漲約 6%，連三週上漲、近 2022 年底來高點；歐盟儲氣約 74%，10 月中歷史均值約 86%。\n        ④ 峰會（Euronews）：結論要求協調的能源因應、針對性臨時補助、檢討煉油產能與自願聯合採購；歐盟官員稱「沒有新措施」。\n        結論：俄國制裁豁免壓低油價，但荷莫茲與儲氣問題都還在。",
+    "public_impact": "Brent 原油 10 月 16 日盤中觸及每桶 110 美元，收在 109.86 美元、單日漲 3.7%，為 5 月 19 日以來最高，主因中東攻擊增加與烏克蘭打擊俄國煉油廠。美國總統川普當晚簽令豁免多數對俄制裁與關稅，19 日亞洲早盤 Brent 回落到約 107.95 美元。歐洲天然氣 TTF 收在每百萬瓦時 86.10 歐元，連三週上漲，接近 2022 年底以來高點；歐盟儲氣約 74%，低於 10 月中歷史均值約 86%。歐盟峰會結論要求協調的能源因應與臨時補助，但未推出新措施。旺季運費與冬季能源支出仍偏高。",
+    "public_action": "① 旺季到 2027 年第一季的物流預算，以燃油附加費維持目前水準估算；② 暖氣、保暖與節能類商品，可依冬季需求提早備貨；③ 家居與小家電類在德國、義大利站準備入門款或組合包，因應消費者能源支出上升；④ 留意伊朗重開荷莫茲海峽的談判與 11 月 1 日 OPEC+ 會議。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil touches $110 a barrel for first time since May on Middle East, Russia supply fears（10/16）",
+        "url": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies（10/19）",
+        "url": "https://www.investing.com/news/commodities-news/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies-4956112"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Iran urges US to accept proposal to reopen Strait of Hormuz（10/18）",
+        "url": "https://www.investing.com/news/commodities-news/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz-4955871"
+      },
+      {
+        "name": "Investing.com：Oil prices slide nearly 2% as Trump waives Russia sanctions（10/19）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158"
+      },
+      {
+        "name": "Investing.com：European gas consolidates near 2022 peaks to lock in 3rd weekly gain（10/16）",
+        "url": "https://www.investing.com/news/commodities-news/european-gas-consolidates-near-2022-peaks-to-lock-in-3rd-weekly-gain-4953342"
+      },
+      {
+        "name": "Euronews：EU leaders demand joint action to tackle soaring energy prices（10/16）",
+        "url": "https://www.euronews.com/2026/10/16/eu-leaders-demand-joint-action-to-tackle-soaring-energy-prices"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/17 法國】生活成本示威 55 萬人上街、逾千人被捕，多城商店遭洗劫：Moody's 10/23 檢視法國評等",
+    "summary": "法國的生活成本壓力從數據走上街頭，同時債市與評等壓力未解：\n        ① 規模（The Connexion、Euronews）：內政部估全國約 55 萬人、110 場示威，巴黎 11 萬；主辦單位稱 80 萬。訴求從生活成本、燃料價格、公共服務擴到薪資與退休金，學生與 CGT 等工會參加。\n        ② 暴力（The Connexion、Euronews）：多數和平，但巴黎共和廣場、香榭大道，波爾多 Sainte-Catherine 街商店遭洗劫，里摩日市政廳被縱火。The Connexion 稱至週日早上約 1,800 人被捕；政府排除緊急狀態。\n        ③ 債市（The Connexion，10/17）：10 年期公債 10/1 標售時殖利率逼近 5%，後回落到 4.8%；赤字約占 GDP 5.4%，預算案目標 5%，國會分裂難過。\n        ④ 評等（Investing.com 引 UBS）：Moody's 10/23 檢視法國，現為 Aa3、展望負向；S&P、Fitch 皆 A+ 穩定。\n        結論：FR 站旺季同時面對消費緊縮與政治不確定。",
+    "public_impact": "法國 10 月 17 日爆發全國性生活成本示威，內政部估約 55 萬人參加、110 場示威，主辦單位稱 80 萬人；訴求從生活成本、燃料價格擴大到薪資、退休金與公共服務。多數示威和平，但巴黎、波爾多等城市商店遭洗劫，里摩日市政廳被縱火，據 The Connexion 報導至週日早上約 1,800 人被捕，政府排除宣布緊急狀態。法國 10 年期公債殖利率 10 月初一度逼近 5%，赤字約占 GDP 5.4%；Moody's 將於 10 月 23 日檢視法國評等，目前為 Aa3、展望負向。法國旺季的消費需求與配送時效都面臨不確定性。",
+    "public_action": "① 法國站旺季備貨以去年同期持平為基準，主推中低價組合包或入門款；② 自行配送的賣家在大規模示威期間適度拉長配送時效設定；③ 以歐元收款的賣家在 10 月 23 日評等檢視與 10 月 29 日歐洲央行會議前後分批換匯；④ 留意後續示威日期與 10 月 30 日法國第三季 GDP 初值。",
+    "sources": [
+      {
+        "name": "The Connexion：France's October 17 protests: clashes with police, looting and arson attacks eclipse protestors' voices（10/17–10/18）",
+        "url": "https://www.connexionfrance.com/news/frances-october-17-protests-clashes-with-police-looting-and-arson-attacks-eclipse-protestors-voices/821742"
+      },
+      {
+        "name": "Euronews：France reels after cost-of-living protests see widespread violence（10/18）",
+        "url": "https://www.euronews.com/2026/10/18/france-reels-after-cost-of-living-protests-see-widespread-violence"
+      },
+      {
+        "name": "The Connexion：French government bonds renamed 'Frogs' due to rise in yield（10/17）",
+        "url": "https://www.connexionfrance.com/money/french-government-bonds-renamed-frogs-due-to-rise-in-yield/821650"
+      },
+      {
+        "name": "Investing.com：Could another France downgrade put the EU's credit rating at risk?（10/17，引 UBS 10/16 報告）",
+        "url": "https://www.investing.com/news/economy-news/could-another-france-downgrade-put-the-eus-credit-rating-at-risk-4955657"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/16–10/17】歐元區 9 月通膨終值 3.8%、能源 +18.9%：Lagarde 稱長天期利率上升會壓低成長與通膨，市場仍看 12 月升息",
+    "summary": "10/2 日報報過 9 月初值 3.8%，本期進展是終值分項與 Lagarde 對債市拋售的表態：\n        ① 終值（Eurostat，10/16）：歐元區 9 月 HICP 3.8%，與初值相同，8 月 3.2%；23 國上升。能源 +18.9%、貢獻 1.71 個百分點，服務 3.2%、貢獻 1.52，非能源工業品 1.1%、食品 1.3%。\n        ② 國別（Eurostat）：西班牙 5.0%、比利時 4.5%、義大利 4.2%、波蘭 4.0%、奧地利 3.6%、法國 3.4%、德國 3.3%、荷蘭 3.0%。\n        ③ Lagarde（Reuters，10/17 曼谷）：上次會議後長天期利率明顯上升，會壓低成長，並讓轉嫁「低於 9 月預測」；消費者更難吸收燃料漲價。\n        ④ 其他委員（Reuters）：Nagel 稱「也許要做更多」，Rehn 稱尚無二輪效應。ECB 四個月內已升息兩次，市場預期 12 月再升到 2.75%。\n        結論：通膨仍是能源推動，債市拋售讓 ECB 多了不急著升息的理由。",
+    "public_impact": "歐盟統計局 10 月 16 日公布，歐元區 9 月調和通膨終值為 3.8%，與初值相同，8 月為 3.2%；能源年增 18.9%，為最大貢獻來源，服務 3.2%，非能源工業品僅 1.1%。國別方面，西班牙 5.0%、義大利 4.2%、法國 3.4%、德國 3.3%。歐洲央行總裁 Lagarde 10 月 17 日在曼谷表示，長天期利率上升會壓低成長，並讓消費者更難吸收燃料漲價；市場仍預期 12 月再升息至 2.75%。通膨主要由能源推動，一般商品的漲價空間有限，消費者對價格更敏感。",
+    "public_action": "① 旺季調價以非能源工業品 1.1% 的漲幅為參考，避免以整體通膨作為大幅漲價依據；② 西班牙、義大利站通膨較高，主力商品準備入門款或組合包；③ 以歐元收款的賣家維持保守匯率假設；④ 留意 10 月 29 日歐洲央行會議與 11 月 4 日歐元區 10 月通膨初值。",
+    "sources": [
+      {
+        "name": "Eurostat：Annual inflation up to 3.8% in the euro area（10/16）",
+        "url": "https://ec.europa.eu/eurostat/product?code=2-16102026-ap"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：ECB's Lagarde says bond selloff will slow inflation（10/17）",
+        "url": "https://www.investing.com/news/economy-news/ecbs-lagarde-says-bond-selloff-will-slow-inflation-4955322"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-16",
     "type": "daily",
     "tags": [
