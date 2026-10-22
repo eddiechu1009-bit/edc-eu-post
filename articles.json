@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-22",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/20 歐洲議會】616 票通過暫停 EPR 授權代表義務，但只限歐盟境內小微企業：非歐盟賣家照舊要指派",
+    "summary": "10/19 日報報過大會辯論，本期進展是表決結果：議會版比執委會原案窄很多。\n        ① 表決（歐洲議會，10/20 中午）：電池與包裝廢棄物案 616 票贊成、9 票反對、39 票棄權；紡織、鞋類、電子電器與一次性塑膠案 612 比 8、39 票棄權，屬 Environmental Omnibus。\n        ② 適用對象（歐洲議會、Neue Verpackung）：只暫停歐盟境內小型與微型企業的授權代表義務，即員工少於 50 人、營業額或資產不超過 €1,000 萬；中大型企業與歐盟以外製造商不適用，另有防拆分條款。\n        ③ 期限：最晚到 2035/1/1，或循環經濟法上路後提前結束；生產者登記、包裝量申報、EPR 費用照舊。\n        ④ 下一步（OnlinehändlerNews、Neue Verpackung）：理事會還要先定立場，才能開始三方協商，修法生效前現行規定繼續有效；據 OHN，成員國 2025 年 12 月曾否決執委會的暫停提議。\n        結論：議會版本對台灣賣家沒有減負，授權代表合約要續。",
+    "public_impact": "歐洲議會 10 月 20 日以 616 票贊成、9 票反對、39 票棄權，通過電池與包裝廢棄物規則的簡化立場，另一案涵蓋紡織、鞋類、電子電器與一次性塑膠。議會版只暫停歐盟境內小型與微型企業（員工少於 50 人、營業額或資產不超過 1,000 萬歐元）在各國指派授權代表的義務，中大型企業與歐盟以外的製造商不適用，最晚到 2035 年 1 月 1 日。生產者登記、包裝量申報與 EPR 費用不受影響。理事會尚未定立場，修法生效前現行規定繼續有效。對歐盟以外的跨境賣家而言，這次表決不會減少任何義務。",
+    "public_action": "① 歐盟以外的公司不要因為新聞解除授權代表合約；② 確認各國包裝與電池的生產者登記、申報與 EPR 費用持續繳交；③ 多國銷售的成本試算中，授權代表費用仍列為每國固定成本；④ 留意理事會立場與後續三方協商結果。",
+    "sources": [
+      {
+        "name": "European Parliament：Waste: MEPs back simplified rules for small businesses（10/20）",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48256/waste-meps-back-simplified-rules-for-small-businesses"
+      },
+      {
+        "name": "European Parliament：EP TODAY, Tuesday 20 October 2026",
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48246/ep-today"
+      },
+      {
+        "name": "OnlinehändlerNews：EU-Parlament will Aussetzung von Bevollmächtigten-Pflicht für kleine Händler（10/21）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/eu-parlament-aussetzung-bevollmaechtigten-pflicht-kleine-haendler"
+      },
+      {
+        "name": "Neue Verpackung：PPWR: Erleichterung bei der erweiterten Herstellerverantwortung（10/21）",
+        "url": "https://www.neue-verpackung.de/markt/ppwr-erleichterung-bei-der-erweiterten-herstellerverantwortung/2755569"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-22",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/13 起】Amazon 自發貨運費模板被自動改成 €0：未改用按件或按重模板者遭遷移，官方稱「照設計運作」",
+    "summary": "FBM 賣家運費設定被平台改動，低單價商品每單賠運費：\n        ① 現象（sellerforum.de，10/14 起）：有賣家回報 10/13 中午「Standardvorlage Amazon」運費由 €3.90 變 €0；另一位 4 個模板中 2 個被改，出現「KG」重量單位與「滿件免運」新欄位，Premium 運費也變 €0；也有人回報 Amazon.co.uk 的英國運費變 €0。\n        ② 原因（OnlinehändlerNews，10/21）：Amazon 已取消按訂單金額計算的運費模式，未在期限前改成按件或按重的模板會被自動遷移；論壇版主回覆技術團隊查過，系統「照設計運作」。論壇有賣家指此與 8/24 起改為按重計費的通知有關，OHN 未證實。\n        ③ 後果（OHN）：低價商品每單虧損；有賣家改休假模式或手動取消訂單，又因取消率上升收到警告。\n        ④ 爭點（OHN）：歐盟 P2B 規章要求平台事先以易懂方式通知條款變更；Amazon 有預告遷移，但沒寫到可能變成 €0 或重新開啟已關閉的國際配送選項。\n        結論：這是規則遷移造成的設定變動，不是系統故障。",
+    "public_impact": "據德國電商媒體 OnlinehändlerNews 與賣家論壇回報，10 月中旬起部分在 Amazon 自行出貨的賣家發現運費模板被改成 0 歐元，有人的標準運費由 3.90 歐元變成 0，也有英國站運費歸零與已關閉的國際配送選項被重新開啟的回報。原因是 Amazon 已取消按訂單金額計算運費的模式，未改用按件或按重模板的設定會被自動遷移；平台回覆系統照設計運作。低單價商品每單都在賠運費，而取消訂單又會影響帳號的取消率指標。歐盟 P2B 規章要求平台事先清楚通知條款變更，但這次通知是否涵蓋 0 運費的結果仍有爭議。",
+    "public_action": "① 立即檢查每個運費模板與配送等級的費率，留意重量單位、滿件免運欄位與 0 元費率；② 確認已關閉的國際配送選項沒有被重新開啟；③ 已成立的訂單優先出貨，避免大量取消影響帳號指標；④ 把受影響的訂單編號與運費差額整理成清單，以書面向平台申請補償；⑤ 歐洲其他站點也一併檢查。",
+    "sources": [
+      {
+        "name": "OnlinehändlerNews：Ungewollter Gratisversand: Amazon setzt Versandtarife auf null（10/21）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/ungewollter-gratisversand-amazon"
+      },
+      {
+        "name": "sellerforum.de：Versandvorlage „Standardvorlage Amazon“ ist auf 0€ gerutscht（10/14–10/15）",
+        "url": "https://www.sellerforum.de/forum/thread/67196-versandvorlage-standardvorlage-amazon-ist-auf-0-gerutscht/?postID=840536"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-22",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/20 柏林】Amazon 宣布 2027 年在德國投資逾 €160 億：AWS 法蘭克福 €48 億，物流 6 站升級、新增 3,000 職缺",
+    "summary": "德國政府「Invest in Germany Summit」上，Amazon 公布明年的德國投資計畫：\n        ① 總額（Amazon 新聞稿）：2027 年計畫投資逾 €160 億；2010 年以來在德累計逾 €1,000 億、常設職位逾 4 萬個。\n        ② 雲端與 AI：€48 億擴建 AWS 歐洲（法蘭克福）區域，是唯一揭露金額的項目；柏林設第二座機器人與 AI 實驗室。\n        ③ 物流：Bad Hersfeld、Dortmund、Werne 三站 2027 年完成現代化並導入機器人，Koblenz、Pforzheim、Rheinberg 延續到 2028 年；Zweibrücken 已啟用、Könnern 興建中；物流項目預計新增逾 3,000 個職缺。\n        ④ 其他：Amazon Leo 衛星網路向 Arianespace 訂 24 次發射；Prime Video 2027 年底前在德逾 15 部新製作。\n        ⑤ 反應（OnlinehändlerNews、RetailDetail）：經濟部長 Reiche 稱是「對德國的信任票」；IW 所長 Hüther 提醒企業選址看能否賺錢，不看峰會。\n        結論：投資重心在雲端，物流以升級既有站點為主。",
+    "public_impact": "Amazon 10 月 20 日在德國政府主辦的投資峰會上宣布，2027 年計畫在德國投資逾 160 億歐元，其中 48 億歐元擴建法蘭克福的 AWS 雲端區域。物流方面，Bad Hersfeld、Dortmund、Werne 三個站點 2027 年完成現代化並導入機器人，Koblenz、Pforzheim、Rheinberg 延續到 2028 年，Zweibrücken 已啟用、Könnern 興建中，預計新增逾 3,000 個物流職缺。官方未公布物流投資金額或倉容數字。對在德國銷售的跨境賣家，這代表當地配送網絡會持續升級，但入倉條件與費用仍以平台實際公告為準。",
+    "public_action": "① 以德國為主要市場的賣家，可把當地物流網絡持續升級列為長期佈局的參考；② 入倉限制與費用仍以平台公告為準，不要假設明年倉容一定放寬；③ 規劃 2027 年德國補貨時程時，留意新站點啟用後配送節點可能調整。",
+    "sources": [
+      {
+        "name": "Amazon 新聞稿：Invest in Germany Summit: Amazon kündigt 16 Milliarden Euro Investitionen für 2027 in Deutschland an（10/20）",
+        "url": "https://press.aboutamazon.com/de/2026/10/invest-in-germany-summit-amazon-kuendigt-16-milliarden-euro-investitionen-fuer-2027-in-deutschland-an"
+      },
+      {
+        "name": "OnlinehändlerNews：Amazon kündigt Milliarden-Investitionen für Deutschland an（10/21）",
+        "url": "https://ohn.haendlerbund.de/amazon/konzern/amazon-kuendigt-milliarden-investitionen-deutschland"
+      },
+      {
+        "name": "RetailDetail：Amazon invests 16.9 billion euros in German AI, cloud computing, and satellite internet（10/20）",
+        "url": "https://www.retaildetail.eu/news/general/amazon-is-investing-16-9-billion-euros-in-german-ai-cloud-computing-and-satellite-internet/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/21 法國】10 年期公債殖利率觸及 5.002%、2002 年來最高：Carrefour 因暴動下修全年財測，股價重挫逾 11%",
+    "summary": "10/19 日報報過法國示威，本期進展是債市與零售業開始反映成本：\n        ① 債市（Reuters，10/21）：法國 10 年期殖利率 09:14 GMT 觸及 5.002%，24 年新高；對德利差約 150–157bp，接近 2011 年水準。ING 指利差由上週五 137bp 擴大到 10/20 的 153bp。\n        ② Carrefour（Reuters、Investing.com）：下修 2026 年財測，經常性營業利益率增幅由 25bp 降到 0–15bp，調整後 EPS 由高個位數成長降到持平或小增，自由現金流改為小幅下滑；約 50 家店受損，削減法國資本支出 €1 億；股價跌逾 11%。Q3 法國同店 +1.2%，電商 +18%。\n        ③ 損失（ING，10/21）：法國商會統計截至 10/20 逾 2,000 家企業直接受影響；Morningstar 初估保險損失最高 €12 億。10/24、10/31 還有示威，11/5 全國罷工。\n        ④ 成長（ING）：法國 GDP 估 2026 年 0.3%、2027 年 0.6%，動盪延續恐更弱。\n        結論：示威成本已經進到零售業財測。",
+    "public_impact": "法國 10 年期公債殖利率 10 月 21 日盤中觸及 5.002%，為 2002 年以來最高，對德國利差約 150 至 157 個基點。法國最大零售商之一 Carrefour 同日因各地暴動、洗劫與宵禁影響門市營運，下修 2026 年營業利益率、每股盈餘與自由現金流目標，約 50 家門市受損，股價重挫逾 11%；不過其電商第三季成長 18%。據 ING 引述法國商會，截至 10 月 20 日逾 2,000 家企業直接受影響，10 月 24 日、31 日還有示威，11 月 5 日全國罷工。ING 預估法國 2026 年成長僅 0.3%。法國第四季消費偏弱，大件與非必需品受影響最大。",
+    "public_action": "① 法國站第四季銷售預估保守處理，大件與非必需品類優先下修；② 11 月 5 日全國罷工前後，自行出貨的訂單預留配送緩衝；③ 黑五檔期的促銷預算可偏重其他歐洲站點，法國以維持曝光為主；④ 留意 10 月 23 日 Moody's 評等檢視與 10 月 30 日法國第三季 GDP 初值。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：French 10-year bond yields hit 5%, highest since 2002（10/21）",
+        "url": "https://www.investing.com/news/economy-news/french-10year-bond-yields-hit-5-highest-since-2002-4962104"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：French bonds lead euro zone yields higher（10/21）",
+        "url": "https://www.investing.com/news/economy-news/french-bondslead-euro-zone-yields-higher-4962106"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Carrefour shares tumble 11% as France events force guidance cut（10/21）",
+        "url": "https://www.investing.com/news/earnings/carrefour-shares-tumble-11-as-france-events-force-guidance-cut-4961797"
+      },
+      {
+        "name": "Investing.com：Why is Carrefour stock plunging today?（10/21）",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-carrefour-stock-plunging-today-93CH-4961875"
+      },
+      {
+        "name": "ING THINK：France's unrest adds to an already toxic economic mix（10/21）",
+        "url": "https://think.ing.com/articles/frances-unrest-adds-to-an-already-toxic-economic-mix/"
+      },
+      {
+        "name": "ING THINK：Rates Spark: Welcome to the 5% club（10/21）",
+        "url": "https://think.ing.com/articles/rates-spark-welcome-to-the-5-club/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-22",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/21 ONS】英國 9 月 CPI 3.5%、高於預期 3.4%：車用燃料 +29.8%，市場押 BoE 11/5 升息到 4%",
+    "summary": "英國通膨連續上行，10/28 預算案與 11/5 BoE 會議前壓力加大：\n        ① CPI（ONS，10/21）：9 月 3.5%（8 月 3.1%、Reuters 調查預期 3.4%），月增 0.4%；核心 2.8%、服務 3.7%、商品 3.2%。\n        ② 燃料（ONS）：車用燃料年增 29.8%（8 月 23.0%），汽油每公升 169.5p、柴油 192.5p，皆為 2022 年中以來最高；食品 1.3% 持平。\n        ③ 上游與財政（Reuters、Investing.com）：出廠價格 +4.6%、投入成本 +8.3%（預期 7.2%）；9 月公共借款 £245 億，高於預期 £239 億，公共債務破 £3 兆。\n        ④ 利率（Reuters、ING）：市場預期 BoE 11/5 升息到 4%，為三年多來首次；ING 估冬季通膨高點約 4%，並稱尚未看到第二輪效應，Capital Economics 估明年高點約 4.2%。\n        結論：燃料推升通膨，升息與緊縮預算都在旺季前。",
+    "public_impact": "英國國家統計局 10 月 21 日公布，9 月消費者物價年增 3.5%，高於 8 月的 3.1% 與市場預期的 3.4%；核心通膨 2.8%、服務 3.7%。主因是車用燃料年增 29.8%，汽油每公升 169.5 便士、柴油 192.5 便士，都是 2022 年中以來最高。同日公布 9 月公共借款 245 億英鎊，高於預期。市場預期英格蘭銀行 11 月 5 日升息到 4%，10 月 28 日預算案也可能偏緊。英國站第四季非必需品需求偏保守，境內配送成本隨柴油價格上升。",
+    "public_action": "① 英國站第四季銷售預估以非必需品持平或小幅下修為基準；② 自行出貨的賣家檢查運費設定，柴油高價下避免壓低運費；③ 留意 10 月 28 日預算案與 11 月 5 日英格蘭銀行利率決議；④ 以英鎊收款的賣家留意升息對匯率的影響，分批換匯。",
+    "sources": [
+      {
+        "name": "ONS：Consumer price inflation, UK: September 2026（10/21）",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：UK inflation and borrowing climb before Healey's first budget（10/21）",
+        "url": "https://www.investing.com/news/economy-news/uk-inflation-picks-up-more-than-expected-to-35-in-september-4961639"
+      },
+      {
+        "name": "Investing.com：Analysts expect BoE hike as UK September inflation rises on fuel prices（10/21）",
+        "url": "https://www.investing.com/news/economy-news/uk-inflation-hits-35-in-september-on-fuel-costs-boe-hike-seen-in-november-4962322"
+      },
+      {
+        "name": "ING THINK：UK inflation is up, but there's still no sign of second-round effects（10/21）",
+        "url": "https://think.ing.com/snaps/uk-inflation-is-up-but-theres-still-no-sign-of-second-round-effects/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-19",
     "type": "daily",
     "tags": [
