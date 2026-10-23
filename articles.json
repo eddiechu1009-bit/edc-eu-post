@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-10-23",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/22】Amazon 德國中小賣家 2025 年業績逾 €200 億、出口 €59 億：比利時同日簽約，目標 2030 年底累計出口 €20 億",
+    "summary": "10/22 日報報過 Amazon 德國 €160 億投資，本期是同週發布的賣家端數據，重點在出口成長放緩：\n        ① 德國 KMU Report 2026（Amazon 德國，涵蓋 2025 年）：逾 4 萬家德國中小企業在 Amazon 賣出逾 7.5 億件、業績逾 €200 億（首度揭露，未給精確值）；出口 €59 億、約佔三分之一，前五大出口市場為法、奧、義、美、西；逾 80% 中小賣家有跨國銷售。\n        ② 成長放緩（Ecommerce News）：出口 2019 年 €27.5 億、2024 年 €57 億，2025 年只多數億歐元；賣家數「逾 4 萬」與 2021 年相同，該媒體指去年 Amazon 報的是約 4.7 萬。\n        ③ Amazon 訴求：Seller Services 總監 Schöberl 呼籲「少一點官僚」，報告點名歐盟統一規則、資料只報一次、全數位流程；並列出 9 月 Accelerate 發表的單一 listing 跨國管理、跨站拓展總覽等工具。\n        ④ 比利時 Export Pledge（Amazon 歐洲、RetailDetail）：Amazon、比利時電商公會 Becom 與聯邦政府簽 MoU，目標 2030 年底中小企業累計出口逾 €20 億；2025 年出口逾 €4 億，其中逾 €1.9 億銷往其他歐盟國；比利時賣家可免費使用 12 個月 Amazon Quick Plus，申請到 12/31。\n        結論：德國本地賣家的出口佔比已到三成，但成長幾乎停住，歐盟本地供給沒有擴張。",
+    "public_impact": "Amazon 10 月公布的德國中小企業報告顯示，2025 年逾 4 萬家德國中小企業在 Amazon 的業績逾 200 億歐元，出口 59 億歐元、約佔三分之一，前五大出口市場為法國、奧地利、義大利、美國與西班牙。不過出口 2024 年已達 57 億歐元，2025 年成長有限，賣家家數也與 2021 年相當。比利時同日由 Amazon、電商公會 Becom 與聯邦政府簽署合作備忘錄，目標 2030 年底累計出口逾 20 億歐元，2025 年約 4 億歐元。歐洲本地中小賣家的跨國擴張正在放緩，對非歐盟跨境賣家而言，法國、義大利、西班牙等站的本地新供給有限。",
+    "public_action": "① 已在德國站銷售的賣家，可評估擴站到法國、義大利、西班牙，先看所在品類前 20 名的賣家來源，判斷本地競爭強度；② 多國銷售時，listing 翻譯、幣別與合規標示要逐站確認；③ 比利時市場規模較小，可排在多國擴站的後段。",
+    "sources": [
+      {
+        "name": "Amazon 德國：KMU Report 2026",
+        "url": "https://www.aboutamazon.de/news/unser-beitrag-fuer-unternehmer-innen/amazon-kmu-report"
+      },
+      {
+        "name": "Ecommerce News：German SMEs generate over 20 billion euros in sales on Amazon（10/22）",
+        "url": "https://ecommercenews.eu/german-smes-generate-over-20-billion-euros-in-sales-on-amazon/"
+      },
+      {
+        "name": "Amazon 歐洲：Amazon plans to help Belgian businesses achieve more than €2 billion in export sales（10/22）",
+        "url": "https://www.aboutamazon.eu/news/company-news/amazon-export-pledge-2030-belgium"
+      },
+      {
+        "name": "RetailDetail：How Amazon plans to help Belgian entrepreneurs generate 2 billion euros in export revenue（10/22，付費牆）",
+        "url": "https://www.retaildetail.eu/news/general/how-amazon-plans-to-help-belgian-entrepreneurs-generate-2-billion-euros-in-export-revenue/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-23",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/22】胡塞連襲沙國能源設施，Brent 單日 +4% 收逾 $113、5 月 4 日來最高：TTF 破 €90，2022 年 12 月來新高",
+    "summary": "10/19 日報報 Brent $109.86 後週一回落，本期進展是再度突破、並帶動歐洲天然氣創新高：\n        ① 攻擊（Investing.com、Reuters）：胡塞稱 48 小時內四度攻擊沙國，目標含利雅德國防部、Aramco 延布設施與兩座機場；無人機擊中 Shaybah 油田附近與 Dammam 機場，Aramco 下令撤離宰赫蘭總部，美國國務院令駐沙非必要人員撤離。\n        ② 油價（ING、Reuters）：ICE Brent 10/22 收漲 4%、略高於 $113，為 5 月 4 日來最高；10/23 亞洲早盤 $112.96 小跌 0.2%，Brent 走向連三週上漲。\n        ③ 天然氣（ING、Investing.com）：TTF 收漲 3%、逾 €90/MWh，2022 年 12 月來最高；歐盟儲氣約 74–75% 疑已見頂，10 月底歷史平均約 86%。\n        ④ 研判（ING）：ING 原估 Q4 Brent 均價 $80「看來達不到」，即使不再升級，風險溢價也會留在價格裡；LNG 冬季大半可能缺席歐洲市場。\n        結論：能源成本在旺季前又上一階，燃油附加費沒有下修空間。",
+    "public_impact": "葉門胡塞組織 10 月 21 至 22 日連續攻擊沙烏地阿拉伯能源設施與機場，ICE Brent 10 月 22 日收漲 4%、略高於每桶 113 美元，為 5 月 4 日以來最高；歐洲 TTF 天然氣收漲 3%、突破每百萬瓦時 90 歐元，為 2022 年 12 月以來最高，歐盟儲氣率約 74–75%，低於 10 月底歷史平均約 86%。ING 表示原估第四季 Brent 均價 80 美元已難達成。海空運與末端配送的燃油附加費多按月調整，第四季物流成本難以下修；歐洲本地生產的能源密集商品成本也持續上升。",
+    "public_action": "① 第四季成本試算以每桶 110–115 美元為基準，重算頭程與配送成本；② 旺季前的入倉盡量一次完成，避免 11 月燃油附加費調升後再補貨；③ 歐洲本地競品因能源成本漲價時，可評估維持售價以爭取市佔；④ 留意荷莫茲海峽航運、11 月 1 日 OPEC+ 會議與歐盟儲氣率變化。",
+    "sources": [
+      {
+        "name": "ING：The Commodities Feed: Brent builds geopolitical premium as Gulf risks rise（10/23）",
+        "url": "https://think.ing.com/articles/the-commodities-feed-brent-risk-premium-builds-with-fears-of-re-escalation/"
+      },
+      {
+        "name": "ING：The Commodities Feed: Attacks on Saudi Arabia fan oil supply worries（10/22）",
+        "url": "https://think.ing.com/articles/the-commodities-feed-oil-supply-risks-outweigh-elevated-oil-flows221026/"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia（10/23）",
+        "url": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907"
+      },
+      {
+        "name": "Investing.com：Brent hits over 5-month high as Houthi attacks boost supply disruption fears（10/22）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479"
+      },
+      {
+        "name": "Investing.com：European gas at 2022 peaks as Houthi strikes trigger U.S. evacuation order（10/22）",
+        "url": "https://www.investing.com/news/commodities-news/european-gas-at-2022-peaks-as-houthi-strikes-trigger-us-evacuation-order-4964751"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-23",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/21–10/22 義大利】南部卡車司機抗議油價封路逾一週：超市斷貨、兩座機場缺航空燃油，政府撥逾 €10 億補助",
+    "summary": "油價上漲已直接造成義大利南部陸運中斷，10/22 部分地區先解除：\n        ① 封路範圍（ANSA、Euronews）：抗議從 10/21 前一週開始，集中在卡拉布里亞、坎帕尼亞、普利亞；A1 米蘭–拿坡里、A30 卡塞塔–薩萊諾高速公路部分路段一度封閉，商店與物流中心進不了貨，超市生鮮斷貨。\n        ② 連鎖影響：Crotone、Reggio Calabria 機場航空燃油用罄；坎帕尼亞與普利亞的工業協會稱會員企業「瀕臨崩潰」；抗議 10/22 已擴散到亞得里亞海漁船停港。\n        ③ 政府回應（Euronews、ANSA）：經濟部長 Urso 稱補助逾 €10 億，其中 €4.348 億補貼柴油成本、約 €5.9 億用於車隊汰換，已有逾 3.2 萬件申請；警方已查證 1,339 人、移送 71 人、開罰 242 件；Meloni 10/22 稱「這不是抗議，是恐嚇」，將依安全法令追究封路刑責。油價彈性上限納入燃料法令，參議院已通過、待眾議院。\n        ④ 現況（ANSA，10/22）：卡拉布里亞卡車司機暫停抗議，生鮮開始回到貨架；部分司機先前表示至少抗議到 10/27 交通部會議。\n        結論：義大利南部末端配送這週不穩，10/27 會議前仍可能反覆。",
+    "public_impact": "義大利南部卡車司機自 10 月中旬起抗議柴油價格、封鎖道路，卡拉布里亞、坎帕尼亞、普利亞的商店與物流中心一度無法進貨，A1 與 A30 高速公路部分路段封閉，Crotone 與 Reggio Calabria 機場航空燃油用罄。政府宣布逾 10 億歐元補助，並將依法追究封路刑責；卡拉布里亞司機 10 月 22 日暫停抗議，但部分司機表示至少抗議到 10 月 27 日交通部會議。寄往義大利南部的包裹本週末端配送可能延遲，自行出貨的賣家準時到貨率與取消率會受影響。",
+    "public_action": "① 自行出貨到義大利的賣家，本週把處理時間延長 1–2 天；② 遇延遲時保留物流商的延誤證明，日後申訴績效指標時使用；③ 義大利熱賣品可優先使用平台倉儲配送；④ 留意 10 月 27 日交通部會議與燃料法令進度，以及 11 月 11 日西班牙全國大罷工。",
+    "sources": [
+      {
+        "name": "Euronews：Italy's truckers' protests leave supermarket shelves empty and airports without fuel（10/22）",
+        "url": "https://www.euronews.com/2026/10/22/italys-truckers-protests-leave-supermarket-shelves-empty-and-airports-without-fuel"
+      },
+      {
+        "name": "ANSA：Trucker protests have companies on brink of collapse - industry associations（10/21）",
+        "url": "https://www.ansa.it/english/news/business/2026/10/21/trucker-protests-have-companies-on-brink-of-collapse-industry-associations_2d01c3e7-589d-4def-a22d-c3df423e4f4d.html"
+      },
+      {
+        "name": "ANSA：Truckers suspend protest in Calabria, fruit and veg start returning to shelves（10/22）",
+        "url": "https://www.ansa.it/english/news/2026/10/22/truckers-suspend-protest-in-calabria-fruit-and-veg-start-returning-to-shelves_ec9f766c-06be-4b9b-adc3-5b0cf12cfe77.html"
+      },
+      {
+        "name": "ANSA：Meloni announces aid for truckers, says intimidation won't be tolerated（10/22）",
+        "url": "https://www.ansa.it/english/news/politics/2026/10/22/meloni-announces-aid-for-truckers-says-intimidation-wont-be-tolerated_16750afd-4797-40ec-be83-9ff33374e3ab.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-23",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/22 執委會】歐元區 10 月消費信心 -17.9、遜於預期 -17.0：月減 1.1 點、5 月來最低，EU 為 -17.3",
+    "summary": "BFCM 前最後一份消費信心快報，買氣繼續往下：\n        ① 數字（執委會 DG ECFIN，10/22）：歐元區 flash 消費信心 -17.9，較 9 月下降 1.1 點；EU 為 -17.3，下降 1.2 點，兩者「進一步低於長期平均」。調查期間 10/1–10/21。\n        ② 對照預期（Reuters）：Reuters 調查經濟學家預期 -17.0，實際差 0.9 點。\n        ③ 歷史位置（Trading Economics）：5 月以來最低；1985 年以來平均約 -9.5，紀錄低點為 2022 年 9 月的 -27.5。Trading Economics 歸因於油價、通膨與利率前景。\n        ④ 修正：9 月值因重新納入義大利資料下修為 -16.8，義大利 8 月到 9 月有調查方法斷層。\n        結論：能源價格、通膨 3.8% 與升息預期一起壓住消費者，旺季需求偏保守。",
+    "public_impact": "歐盟執委會 10 月 22 日公布，歐元區 10 月消費信心快報為 -17.9，較 9 月下降 1.1 點，歐盟為 -17.3，皆進一步低於長期平均；Reuters 調查預期為 -17.0。依 Trading Economics，這是 5 月以來最低，1985 年以來平均約 -9.5。油價、通膨與利率前景是主要壓力。Black Friday 與年末旺季前，歐洲消費者的價格敏感度偏高，需求可能集中在折扣檔期與必需品，非必需的高單價商品轉換率可能低於去年。",
+    "public_action": "① 旺季備貨以去年同期銷量為上限，高單價品類以補貨追量，不提前加碼；② 折扣檔期的優惠券與會員折扣盡早設定；③ 必需品與低單價商品的旺季預估可維持，非必需品類保守看待；④ 留意 10 月 29 日執委會完整版調查與各國拆解。",
+    "sources": [
+      {
+        "name": "European Commission DG ECFIN：Flash Consumer Confidence Indicator（10/22，PDF）",
+        "url": "https://economy-finance.ec.europa.eu/document/download/1e455a38-643d-44ad-81dd-e71f6c17d3a1_en?filename=Flash_consumer_2026_10_en.pdf"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Euro zone consumer confidence falls to -17.9 in October（10/22）",
+        "url": "https://www.investing.com/news/economic-indicators/euro-zone-consumer-confidence-falls-to-179-in-october-4966691"
+      },
+      {
+        "name": "Trading Economics：Euro Area Consumer Confidence",
+        "url": "https://tradingeconomics.com/euro-area/consumer-confidence"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-23",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/21 執委會】依 DSA 正式調查 Booking.com：假房源、釣魚詐騙與付費加權排序未標廣告，最高可罰全球營收 6%",
+    "summary": "執委會首次對 Booking 啟動 DSA 程序，調查方向也適用其他大型平台：\n        ① 三個調查面向（執委會新聞稿，10/21）：一是假房源、冒名詐騙與不合規房源的風險評估與下架；二是訂房與房客資料分享給業者、站內訊息系統被用於釣魚詐騙的風險；三是業者付較高佣金換取的「加權排序」是否清楚標示為廣告，以及使用者能否看到誰付費、為何看到。\n        ② 法源：DSA 第 34、35 條（超大型平台的系統性風險評估與降低）與第 26(1) 條（廣告須可清楚辨識）。\n        ③ 背景（heise、OnlinehändlerNews）：Booking 自稱 2026 年詐騙嘗試增加 500%，4 月曾發生資料外洩；執委會 2025 年 9 月曾要求 Booking 等大型平台提供詐騙資料。\n        ④ 程序（Euronews、heise）：違規屬實最高可罰全球年營收 6%；調查無法定期限，Booking 可提承諾方案，EU 官員稱離罰款「還很遠」；Booking 稱全力配合。\n        結論：執委會對平台詐騙的執法，重點放在站內訊息與付費排序的透明度。",
+    "public_impact": "歐盟執委會 10 月 21 日依《數位服務法》（DSA）對 Booking.com 啟動正式調查，三個面向為假房源與冒名詐騙的風險評估與下架、訂房資料與站內訊息被用於釣魚詐騙的風險，以及付費換取的加權排序是否清楚標示為廣告。法源為 DSA 第 34、35 條與第 26(1) 條，違規屬實最高可罰全球年營收 6%。這些標準同樣適用其他超大型平台，包括電商平台。對賣家而言，冒充平台的釣魚信件與帳號盜用在旺季前通常增加，站外廣告的標示也會以相同標準被檢視。",
+    "public_action": "① 收到帳號停權或驗證通知時，只從平台後台確認，不點信件中的連結登入，並開啟兩步驟驗證；② 透過網紅或聯盟行銷導流時，貼文以當地語言清楚標示廣告；③ 留意執委會對 Booking 案的後續決定，以及是否擴及其他平台。",
+    "sources": [
+      {
+        "name": "European Commission：Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act（10/21，PDF）",
+        "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2223/IP_26_2223_EN.pdf"
+      },
+      {
+        "name": "heise online：DSA: EU-Kommission leitet Verfahren gegen Booking.com ein（10/21）",
+        "url": "https://www.heise.de/news/DSA-EU-Kommission-leitet-Verfahren-gegen-Booking-com-ein-11495527.html"
+      },
+      {
+        "name": "Euronews：EU probes Booking.com over fake listings and phishing scams（10/21）",
+        "url": "https://www.euronews.com/2026/10/21/eu-probes-whether-bookingcom-is-doing-enough-to-tackle-fake-listings-and-phishing-scams"
+      },
+      {
+        "name": "OnlinehändlerNews：Booking.com im Visier: EU wirft Plattform laxen Betrugsschutz vor（10/22）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/bookingcom-im-visier-eu-wirft-plattform-laxen-betrugsschutz-vor"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-22",
     "type": "daily",
     "tags": [
