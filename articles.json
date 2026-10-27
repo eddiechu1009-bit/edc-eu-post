@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-10-27",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/1 起】歐盟 €2 處理費按申報行收、超過 €150 也收且要課 VAT：英國 Grindstore 歐盟訂單已少 61%",
+    "summary": "10/23 日報已把 11/1 起徵列入關鍵日期，本期進展是執委會指引的計費細節與首批業者數據：\n        ① 計費單位（執委會 €3 關稅指引）：歐盟處理費（UHF）固定 €2，和 €3 暫行關稅一樣按「申報行」計，不論該行有幾件；預計 11/1 適用，申報要填 TARIC 代碼 Y126。\n        ② 範圍比 €3 廣：只要是遠距銷售，超過 €150 的貨也收；不是暫行措施、沒有落日。2028/7/1 起自電商保稅倉出貨的費率較低。\n        ③ VAT：處理費算入 VAT 稅基；走 IOSS 者若向消費者收取，要列入 IOSS 月報。同日起，€150 以下遠距銷售的產品識別資料（PID）正式執法。\n        ④ 業者數據：英國 Grindstore 7/1–10/8 歐盟訂單 2,371 筆、年減 61.3%，平均運費 €4.09 → €11.07（ChannelX）；PostNL Q3 亞洲包裹 -32%（RetailDetail）。\n        結論：11/1 起，€150 以下直郵件每個申報行至少 €5 再加 VAT，多品項訂單最吃虧。",
+    "public_impact": "依執委會 €3 關稅指引，歐盟處理費預計 11/1 起適用，每個申報行固定 2 歐元，不論該行件數；與 3 歐元暫行關稅不同，處理費不限 150 歐元以下、只要是遠距銷售就收，且沒有落日。處理費要算入 VAT 稅基，同日起 150 歐元以下遠距銷售的產品識別資料也開始正式執法。英國業者 Grindstore 表示 7 月以來歐盟訂單年減 61%，平均運費由 4.09 歐元升到 11.07 歐元；PostNL 第三季亞洲包裹減少 32%。從第三國直郵給歐盟消費者的低單價、多品項訂單，成本壓力最大。",
+    "public_action": "① 11/1 前盤點仍直郵歐盟的 SKU，用「每申報行 3 歐元關稅＋2 歐元處理費＋處理費 VAT」重算毛利；② 向物流商確認申報代碼 Y126 與產品識別資料的準備狀況；③ 使用 IOSS 者若向消費者收取處理費，要列入 IOSS 申報；④ 評估改以一般進口入歐盟倉再出貨，並向稅務顧問確認適用規則。",
+    "sources": [
+      {
+        "name": "執委會：Customs Guidance on EUR 3 customs duty（含 Union handling fee，PDF）",
+        "url": "https://taxation-customs.ec.europa.eu/document/download/053e5b4e-f0be-4f20-9a23-3e3b659a6676_en?filename=Customs%20Guidance%20on%20EUR%203%20customs%20duty.pdf"
+      },
+      {
+        "name": "執委會稅務與關稅總署：新聞列表（10/8 指引更新）",
+        "url": "https://taxation-customs.ec.europa.eu/news_en"
+      },
+      {
+        "name": "ChannelX：Grindstore reports 61% fall in EU orders since new customs charges took effect（10/26）",
+        "url": "https://channelx.world/2026/10/grindstore-reports-61-fall-in-eu-orders-since-new-customs-charges-took-effect/"
+      },
+      {
+        "name": "RetailDetail：Starting November 1, Chinese packages will cost (at least) 2 euros more（10/26）",
+        "url": "https://www.retaildetail.eu/news/general/starting-november-1-chinese-packages-will-cost-at-least-2-euros-more/"
+      },
+      {
+        "name": "RetailDetail：Number of Asian packages delivered via PostNL falls by a third（10/26，付費牆）",
+        "url": "https://www.retaildetail.eu/news/general/number-of-asian-packages-delivered-via-postnl-falls-by-a-third-due-to-package-tax/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/26 執委會】接受 Temu 的 DSA 整改計畫：5 月罰 €2 億後，限 4 個月內完成並交外部稽核",
+    "summary": "執委會 5 月依 DSA 對 Temu 開罰，本期是整改計畫正式定案：\n        ① 背景（執委會）：2026 年 5 月的不遵法決定認定 Temu 未履行 DSA 第 34 條風險評估義務，罰款 €2 億。\n        ② 五項措施：針對平台設計的風險評估；可衡量減害成效的指標；說明主動審核的限制及對推薦商品的影響；分析推薦演算法是否放大違法商品；調查賣家與用戶如何利用平台功能刊登違法商品。\n        ③ 時程：Temu 有 4 個月實施，並要完成涵蓋至 11/30 的六個月期中風險評估；之後由獨立外部稽核，實施後 4 個月內交稽核報告，稽核建議要在 1 個月內回報執行情況。\n        ④ 審查意見：數位服務委員會 9/24 認為修正「部分適當」但細節不足，執委會表示會就這些部分密切監督。RetailDetail 引述執委會認定，消費者在 Temu 遇到違法商品的風險「非常高」。\n        結論：DSA 對市集的要求從「下架違法品」轉向「證明系統有效」，監管範圍延伸到推薦演算法與賣家濫用功能。",
+    "public_impact": "執委會 10/26 接受 Temu 依《數位服務法》（DSA）提出的整改計畫。Temu 在 2026 年 5 月因未履行風險評估義務被罰 2 億歐元，整改包含五項措施：針對平台設計的風險評估、可衡量成效的指標、說明審核限制、分析推薦演算法是否放大違法商品，以及調查賣家如何利用平台功能刊登違法商品。Temu 有 4 個月實施，並要交外部稽核報告。歐盟對市集的監管正從「下架違法品」轉向「證明系統有效」，各大平台對賣家合規資料的審查預期會持續嚴格。",
+    "public_action": "① 在任何歐盟市集銷售的賣家，檢查 GPSR 負責人、產品安全資訊、標籤與警語是否齊全；② 避免使用誇大或誤導的商品標示，平台對推薦與曝光的審查會更嚴；③ 依賴低價直郵平台的賣家，可評估分散通路與改走歐盟倉出貨。",
+    "sources": [
+      {
+        "name": "執委會：Commission accepts Temu's action plan to remedy the breach of the Digital Services Act（10/26）",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act"
+      },
+      {
+        "name": "執委會：Commission accepts Temu's corrective measures to terminate breach of the Digital Services Act（10/26）",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-corrective-measures-terminate-breach-digital-services-act"
+      },
+      {
+        "name": "RetailDetail：Temu promises to do better after receiving a 200 million EU fine（10/26）",
+        "url": "https://www.retaildetail.eu/news/general/temu-promises-to-do-better-after-receiving-a-200-million-eu-fine/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/22 執委會・EUIPO】歐盟 2025 年查扣仿冒品 1.96 億件、€63 億創紀錄：年增 67%，玩具佔 19.65%",
+    "summary": "報告 10/22 發布、Ecommerce News 10/26 跟進，重點是電商小包成為主要查扣管道：\n        ① 總量（執委會與 EUIPO 聯合報告）：海關、市場監督與警方 2025 年查扣逾 1.96 億件、估值 €63 億，比 2024 年 +67%、比 2023 年的前紀錄 +29%。\n        ② 邊境：海關在外部邊境查扣約 4,200 萬件、近 €20 億，同創紀錄，為前一年兩倍多；案件以快遞（45,094 件）與郵件（26,453 件）為主，執委會稱「通常與電商相關」。\n        ③ 品類與來源：依件數為 CD/DVD 29.30%、玩具 19.65%、標籤吊牌貼紙 12.82%、香菸 6.19%、遊戲 3.88%、服飾 2.62%；主要來源地為中國大陸、香港與土耳其。報告指標籤與包材單獨進口，可能用來把貨偽裝成歐盟製造。\n        ④ 國別與運輸：七國佔 90% 件數（羅、保、義、荷、德、法、比）；公路首度在件數上超過海運。\n        結論：執委會把仿冒與電商小包直接連在一起，新成立的歐盟海關總署與海關數據中心，會用即時供應鏈資料標記高風險貨件。",
+    "public_impact": "執委會與歐盟智慧財產局（EUIPO）10/22 發布報告，2025 年歐盟查扣仿冒品逾 1.96 億件、估值 63 億歐元，比 2024 年增加 67%，創歷史紀錄。海關在邊境查扣約 4,200 萬件，案件以快遞與郵件為主，執委會稱通常與電商相關。依件數，玩具佔 19.65%，僅次於 CD/DVD；主要來源地為中國大陸、香港與土耳其。報告也指出標籤與包材單獨進口、偽裝成歐盟製造的手法。玩具、遊戲、服飾類貨件被攔檢的機率上升，正品文件不齊同樣會延誤通關。",
+    "public_action": "① 玩具類賣家備妥 CE 符合性聲明、EN 71 測試報告與商標註冊證，供海關查驗；② 自有品牌賣家可先申請歐盟商標，再向各國海關提出海關執法申請，降低仿冒風險；③ 包裝、商品頁與報關資料的原產地標示要一致。",
+    "sources": [
+      {
+        "name": "執委會：EU detains a record 196 million counterfeit items worth €6.3 billion in 2025（10/22）",
+        "url": "https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en"
+      },
+      {
+        "name": "執委會・EUIPO：EU enforcement of IPR 完整報告（PDF）",
+        "url": "https://taxation-customs.ec.europa.eu/document/download/e1809b41-7900-42ef-a32b-c0edd9b1ba98_en"
+      },
+      {
+        "name": "Ecommerce News：Record number of counterfeit products intercepted in EU（10/26）",
+        "url": "https://ecommercenews.eu/record-number-of-counterfeit-products-intercepted-in-eu/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/23–10/26】德國 10 月 Ifo 90.2 優於預期，但歐元區 PMI 跌到 51.9：ECB 調查稱企業借錢變難",
+    "summary": "企業端數據方向分歧，共同點是成本上升、資金變緊：\n        ① 德國 Ifo（ifo，10/26）：10 月企業景氣 90.2，高於 9 月 89.9 與預期 90.0；預期指數 91.6（前 90.4），現況 88.8（前 89.5）。Trading Economics 稱為 2023 年 5 月來最高。\n        ② 歐元區 PMI flash（S&P Global，Reuters 10/23）：綜合 51.9，低於 9 月 53.1 與預期 52.7，6 月來最低；投入成本連兩月上升、售價漲幅放緩；法國活動意外萎縮，信心為 2012 年來最低（疫情除外）。\n        ③ ECB 企業融資調查 SAFE（10/26）：回報取得銀行貸款有障礙的企業 7%（前季 5%）；連續受訪企業預期未來 12 個月售價 +3.6%（前 2.5%）；ECB 稱銀行放貸「更謹慎」，企業營業額上升但獲利轉弱。\n        ④ ECB：Reuters 調查預期 10/29 存款利率維持 2.50%，12 月升 1 碼。\n        結論：德國企業對未來轉樂觀，但歐元區整體成長放緩、融資變貴，Q4 需求面偏弱。",
+    "public_impact": "德國 10 月 Ifo 企業景氣指數升到 90.2，優於預期，但主要靠預期分項，現況分項下滑到 88.8。歐元區 10 月 PMI 初值則降到 51.9、6 月來最低，投入成本連兩月上升，法國活動意外萎縮。歐洲央行 10/26 公布的企業融資調查顯示，回報取得銀行貸款有障礙的企業由 5% 升到 7%，企業預期未來 12 個月售價上漲 3.6%。市場預期 ECB 10/29 維持存款利率 2.50%、12 月升息。歐洲第四季需求偏弱、融資變貴，消費者對價格會更敏感。",
+    "public_action": "① 第四季德國站預估維持持平、法國站保守，備貨集中在已驗證的熱銷商品；② 有備貨資金需求者提早確認融資管道；③ 關注 10/29 ECB 決議、10/30 法國第三季 GDP、11/4 歐元區通膨初值與 11/24 德國 Ifo。",
+    "sources": [
+      {
+        "name": "ifo：ifo Business Climate Index for Germany（10/26）",
+        "url": "https://www.ifo.de/en/survey/ifo-business-climate-index-germany"
+      },
+      {
+        "name": "Investing.com：German business climate index rises on improved expectations（10/26）",
+        "url": "https://www.investing.com/news/economic-indicators/german-business-climate-index-rises-on-improved-expectations-93CH-4971767"
+      },
+      {
+        "name": "Trading Economics：Germany Business Confidence",
+        "url": "https://tradingeconomics.com/germany/business-confidence"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Euro zone growth slows amid rising costs and French strife（10/23）",
+        "url": "https://www.investing.com/news/economic-indicators/euro-zone-growth-slows-to-4month-low-amid-rising-costs-and-french-turmoil-pmi-shows-4968292"
+      },
+      {
+        "name": "ECB：Survey on the Access to Finance of Enterprises（Q3 2026，10/26）",
+        "url": "https://www.ecb.europa.eu/stats/ecb_surveys/safe/html/index.en.html"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Euro zone firms find it harder to get credit, ECB survey shows（10/26）",
+        "url": "https://www.investing.com/news/economy-news/euro-zone-firms-find-it-harder-to-get-credit-ecb-survey-shows-4971992"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/23–10/26 英國】9 月零售量 -0.4%、GfK 信心急挫到 -24：CBI 10 月回升到 -10，10/28 預算案登場",
+    "summary": "9/25 日報報過 GfK -13 兩年高、CBI -55，本期兩者方向反轉，焦點轉到 10/28 預算案：\n        ① ONS 零售（10/23）：9 月零售量月減 0.4%（預期 -0.1%），年增 0.8%；8 月上修到 +0.7%，Q3 仍季增 0.7%。網購佔比 28.8%（8 月 28.9%），網購金額年增 6.8%；服飾 -0.9%、超市 -0.4%，車用燃料量 +2.2%。\n        ② GfK 消費信心（Investing.com）：10 月 -24，9 月 -13，6 個月來最低；Reuters 稱為疫情初期以來最大單月跌幅，燃料、帳單、借貸成本與預算案加稅疑慮同時壓頂。\n        ③ CBI 零售（Reuters 10/26）：銷量差值 -10（前月 -55），一年半來最小跌幅；訂貨 -36（9 月為紀錄低 -62）。CBI 首席經濟學家 Sartorius 稱前景「仍脆弱」。\n        ④ 預算案：CBI 呼籲財政大臣 Healey 在 10/28 預算案調降雇主社會保險提撥與房產相關稅；Capital Economics 預期 Q4 與 2027 Q1 實質消費停滯。\n        結論：零售商端短暫回穩，但消費者信心崩跌，UK 旺季需求看預算案結果。",
+    "public_impact": "英國統計局 10/23 公布 9 月零售量月減 0.4%，遜於預期，網購佔比 28.8% 與上月相當。GfK 10 月消費者信心由 -13 急挫到 -24，6 個月來最低，Reuters 稱為疫情初期以來最大單月跌幅。英國工業聯合會（CBI）10 月零售調查則回升到 -10，是一年半來最小跌幅，但 CBI 稱前景仍脆弱。10/28 英國預算案若加重家庭稅負，11 至 12 月消費可能再受壓，英國站第四季需求不宜過度樂觀。",
+    "public_action": "① 英國站第四季備貨以現有庫存為主，不追加；② 已入倉庫存可透過促銷與廣告去化，避免年初長期倉儲費；③ 關注 10/28 預算案、11/5 英格蘭銀行利率決議與 11/20 英國 10 月零售數據。",
+    "sources": [
+      {
+        "name": "ONS：Retail sales, Great Britain: September 2026（10/23）",
+        "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/latest"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：UK retail sales fall as consumer confidence tumbles（10/23）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-by-more-than-expected-in-september-4968076"
+      },
+      {
+        "name": "Investing.com：UK retail sales fall 0.4% in September as consumer confidence hits six-month low（10/23）",
+        "url": "https://www.investing.com/news/economic-indicators/uk-retail-sales-fall-04-in-september-as-consumer-confidence-hits-sixmonth-low-4968096"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Strong CBI retail sales buck downbeat UK consumer trend（10/26）",
+        "url": "https://www.investing.com/news/economic-indicators/strong-cbi-retail-sales-buck-downbeat-uk-consumer-trend-4972138"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-23",
     "type": "daily",
     "tags": [
