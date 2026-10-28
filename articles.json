@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-10-28",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/27 起】Amazon FBA 在德法義西英開放「免退貨退款」：每件上限 €1–75，不給庫存賠償、仍計入退貨率",
+    "summary": "Amazon 10/27 在德國賣家論壇公告，美國既有的同類機制首度在歐洲上線：\n        ① 運作（Seller Central 論壇）：賣家在「設定 > 亞馬遜物流 > 退貨評估與所有權設定」自行啟用；每筆退貨個別評估，符合條件即自動退款、顧客留下商品。適用 DE、FR、IT、ES、UK。\n        ② 三種模式（wortfilter）：依每件售價上限（€1–€75，預設 €10）、全部 ASIN 加 CSV 排除清單（最多 1 萬筆）、或只限指定 ASIN；只適用啟用後的退貨，變更立即生效。\n        ③ 代價：這類退貨不給庫存賠償、仍計入退貨率；不收高退貨率費，佣金扣管理費後退回。危險品、召回品與大件重貨排除。\n        ④ 反應（OnlinehändlerNews）：論壇賣家諷刺是「自願把商品送給買家」；退款追討服務商預期作業更複雜。\n        結論：退回多半不能再賣的低單價品可能划算；退回多半全新的高單價品，每筆都是整件貨值損失。",
+    "public_impact": "Amazon 10/27 在德國賣家論壇公告，亞馬遜物流（FBA）「免退貨退款」在德、法、義、西與英國站上線。賣家自行啟用後，每筆退貨個別評估，符合條件即自動退款、顧客留下商品；可依每件售價上限（1 至 75 歐元，預設 10 歐元）、全部商品加排除清單，或只限指定商品三種方式設定。這類退貨不給庫存賠償、仍計入退貨率，但不收高退貨率費。退回後多半無法再售的低單價商品可能省下處理與銷毀成本；退回多半全新的高單價商品，每筆都是整件貨值損失，也要留意優惠社群帶來的跟風退款。",
+    "public_action": "① 這是選擇性功能，不啟用就不受影響；② 只對「商品成本低於退貨處理、倉儲與銷毀成本」的商品試用，從指定商品與低上限開始；③ 高單價、退回多可再售的商品放進排除清單，注意新上傳清單會取代舊清單；④ 每週比對退款筆數與啟用前退貨率，數字上升的商品立即移出。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central 賣家論壇：Sparen Sie bei Rücksendungen mit Lösungen ohne Warenrücksendungen bei Versand durch Amazon（10/27）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/f9b88fa8-8bb7-452b-8be4-ccbf9c7f21bf"
+      },
+      {
+        "name": "wortfilter：Amazon FBA Erstattung ohne Rücksendung（10/27）",
+        "url": "https://wortfilter.de/amazon-fba-erstattung-ohne-ruecksendung/"
+      },
+      {
+        "name": "OnlinehändlerNews：FBA: Kunde behält die Ware, Händler trägt die Kosten（10/27）",
+        "url": "https://ohn.haendlerbund.de/amazon/marktplatz/fba-kunde-behaelt-ware-haendler-traegt-kosten"
+      },
+      {
+        "name": "My Amazon Guy：Amazon pushes returnless returns（2025/8/18，美國背景）",
+        "url": "https://myamazonguy.com/news/amazon-pushes-returnless-returns/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/27–10/28】胡塞稱飛彈擊中沙國最大煉油廠 Ras Tanura，Brent 回升到 $115：柴油價差反跌 7%",
+    "summary": "10/23 日報報過胡塞連襲沙國能源設施，本期進展是煉油廠遇襲，以及原油與柴油走勢分歧：\n        ① 攻擊（Reuters 10/27）：胡塞發言人稱彈道飛彈擊中日煉 55 萬桶的 Ras Tanura 煉油廠並起火；沙國未立即證實，Bloomberg 引消息人士稱碼頭附近火勢已控制。沙國幾乎所有原油出口經 Ras Tanura 與延布港。\n        ② 油價（Reuters 10/28）：10/27 因中東斡旋消息跌近 $2；10/28 亞洲早盤 Brent 回升 $1.48 至 $115.36，WTI $101.12。\n        ③ 柴油（Investing.com 10/27）：新加坡柴油對 Brent 價差單日跌 $5.60 至 $73.90（約 -7%），因俄國煉廠 10 月下半月加工量比月初增 25%；ING 稱 ICE 柴油價差約 $70，10 月初以來最低。\n        ④ 法國：11/1 起從戰略儲備釋出 1,000 萬桶柴油壓低泵價。\n        結論：原油的地緣風險溢價回來了，但柴油價差在收斂，卡車運費壓力沒有再擴大。",
+    "public_impact": "葉門胡塞組織 10/27 稱以飛彈擊中沙烏地阿拉伯日煉 55 萬桶的 Ras Tanura 煉油廠，沙國未立即證實。Brent 10/27 因中東斡旋消息下跌近 2 美元，10/28 亞洲早盤回升至約 115 美元。柴油走勢相反：俄國煉廠加工量回升，新加坡柴油價差單日下跌約 7%，ICE 柴油價差降到 10 月初以來最低；法國 11/1 起釋出 1,000 萬桶戰略柴油儲備。海運與空運燃油附加費年底前應維持高檔，歐洲境內卡車配送成本漲勢則暫時放緩。",
+    "public_action": "① 12 月補貨的頭程預算以油價維持高檔為前提，向貨代確認燃油附加費調整週期；② 自發貨運費年底前維持現價，不因柴油短期回落而調降；③ 關注沙國對煉油廠受損的說明、11/1 OPEC+ 會議與法國柴油釋儲。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile（10/27）",
+        "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile-4976138"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns（10/28）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns-4977369"
+      },
+      {
+        "name": "Investing.com：Diesel refining margins drop 7% as Russian output rises（10/27）",
+        "url": "https://www.investing.com/news/commodities-news/diesel-refining-margins-drop-7-as-russian-output-rises-93CH-4976638"
+      },
+      {
+        "name": "ING THINK：The Commodities Feed: Oil in wait-and-see mode ahead of US midterms（10/28）",
+        "url": "https://think.ing.com/articles/the-commodities-feed-oil-market-in-wait-and-see-mode281026/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/27–10/28 英國】BRC 10 月店頭物價 +2.1%、2024 年 2 月來最高：非食品 +1.7% 翻倍，83% 民眾擔心漲價",
+    "summary": "10/27 日報已把焦點放在 10/28 預算案，本期新增預算案前最後的物價與民調數據：\n        ① 店頭物價（BRC-NIQ，10/1–10/7 採樣）：整體年增 2.1%（9 月 1.4%），2024 年 2 月來最高；食品 2.9%（前 2.5%），常溫食品 3.2%（前 2.2%）；非食品 1.7%（前 0.8%）近三年高，家具、地板與 DIY 漲最多。\n        ② 原因：BRC 執行長 Dickinson 稱零售商吸收兩年的成本「開始潰堤」，點名運輸、能源、人事與包裝稅；NIQ 預期非食品零售商會更依賴促銷。\n        ③ 民調（BRC 委託 Opinium，逾 2,000 人）：83% 擔心食品漲價、82% 擔心通膨。\n        ④ 預算案訴求：BRC 要求取消 2027 年 4 月營業稅率 +3.5%、雇主國保門檻由 £5,000 提高到 £6,000。ING 預期預算案偏「無聊」，緊縮多於擴張。\n        結論：英國零售價格轉為加速，消費者已經在擔心，UK 站 Q4 比價會更激烈。",
+    "public_impact": "英國零售商協會（BRC）10/27 公布 10 月店頭物價年增 2.1%，9 月為 1.4%，創 2024 年 2 月來最高；食品 2.9%，非食品由 0.8% 升到 1.7%，近三年高，家具、地板與 DIY 漲幅最大。BRC 稱零售商過去兩年吸收的運輸、能源、人事與包裝成本開始反映到售價；NIQ 預期非食品零售商會更依賴促銷。BRC 委託 Opinium 的民調顯示 83% 受訪者擔心食品漲價。英國站第四季消費者比價會更激烈，本地零售商的促銷力度可能加大。",
+    "public_action": "① 英國站家居、DIY 類若成本已上升，可小幅調價，參考非食品物價漲幅，避免一次大幅調整；② 旺季促銷價要有競爭力，以近期最低價再往下設計；③ 關注 10/28 預算案、11/5 英格蘭銀行利率決議與 11/20 英國 10 月零售數據。",
+    "sources": [
+      {
+        "name": "BRC：Budget must stop rising costs feeding inflation（10/27）",
+        "url": "https://www.brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/budget-must-stop-rising-costs-feeding-inflation/"
+      },
+      {
+        "name": "BRC：More than eight in ten Brits fear rising prices（10/28）",
+        "url": "https://www.brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/more-than-eight-in-ten-brits-fear-rising-prices/"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Britain's retail prices rise at fastest pace in two-and-a-half years（10/27）",
+        "url": "https://www.investing.com/news/economic-indicators/britains-retail-prices-rise-at-fastest-pace-in-twoandahalf-years-93CH-4974222"
+      },
+      {
+        "name": "ING THINK：Rates Spark: Kevin Warsh and John Healey walk into a bar（10/27）",
+        "url": "https://think.ing.com/articles/rates-spark-kevin-warsh-and-john-healey-walk-into-a-bar/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/27 ECB】Q3 銀行貸款調查：企業授信淨收緊 9%、中小企業 11%，房貸需求 -27%：10/29 料維持 2.5%",
+    "summary": "10/27 日報報過企業端的 SAFE 調查，本期是銀行端季度調查（BLS），方向一致且更明確：\n        ① 企業授信（ECB，159 家銀行）：Q3 授信標準淨收緊 9%（Q2 7%、銀行原預期 5%），中小企業 11%、大企業 8%；Q4 預期再收緊 7%，企業貸款被拒比例淨增 5%。\n        ② 企業需求：淨 -6%（原預期 +4%），只有中小企業下滑（-8%），大企業持平；ECB 稱主因利率上升。\n        ③ 家庭：消費信貸標準收緊 14%、Q4 預期 16%；房貸需求 -27%，2023 年 Q3 來最弱，Q4 預期 -36%（法國 -88%）；消費信貸需求 Q4 預期 -14%。\n        ④ 利率（ING）：ECB 9 月升息 1 碼到 2.5%，預期 10/29 按兵不動；市場為 12 月定價約 20bp 升息。\n        結論：歐洲中小企業和家庭借錢同時變難，Q4 大額與耐久財消費最先受影響。",
+    "public_impact": "歐洲央行 10/27 公布第三季銀行貸款調查，銀行對企業的授信標準淨收緊 9%，高於預期，中小企業為 11%；企業貸款需求意外下滑，中小企業降幅較大。家庭端消費信貸標準收緊 14%，房貸需求淨減 27%，為 2023 年第三季來最弱；銀行預期第四季消費信貸需求再降 14%，法國房貸需求預期大降 88%。市場預期 ECB 10/29 維持利率 2.5%、12 月可能升息。家具、大家電等常靠分期購買的高單價品類，第四季需求偏弱，法國家居類降溫最明顯。",
+    "public_action": "① 法國站家居、裝修與大型家具的第四季預估保守，不追加備貨；② 高單價商品旺季以優惠券降低入手門檻，主推商品往中低單價傾斜；③ 關注 10/29 ECB 決議、10/30 法國第三季 GDP 與 11/4 歐元區通膨初值。",
+    "sources": [
+      {
+        "name": "ECB：The euro area bank lending survey – Third quarter of 2026（10/27）",
+        "url": "https://www.ecb.europa.eu/stats/ecb_surveys/bank_lending_survey/html/ecb.blssurvey2026q3~c6a731e213.en.html"
+      },
+      {
+        "name": "ING THINK：Eurozone bank lending environment showing first hints of tightening（10/27）",
+        "url": "https://think.ing.com/snaps/eurozone-bank-lending-environment-showing-first-hints-of-tightening/"
+      },
+      {
+        "name": "ING THINK：October ECB cheat sheet: French malaise shouldn't prompt a dovish turn（10/27）",
+        "url": "https://think.ing.com/articles/october-ecb-cheat-sheet-french-malaise-shouldnt-prompt-a-dovish-turn/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/27】歐盟「EU Inc」新公司形態卡關：€1 資本、48 小時線上設立，但議會委員會兩度表決不成",
+    "summary": "執委會 3/18 提案、目標年底完成立法，本期進展是理事會 10/23 定立場，但議會端卡住：\n        ① 內容（Euronews）：可選用的歐盟統一公司形態（「第 28 制度」），經中央介面在一國設立、原則上 48 小時完成，最低資本 €1；設立到清算全程數位、不需公證。勞動與社保依工作地，稅依實際管理地。\n        ② 理事會：10/23 通過立場，簡化架構並加強防護；新創團體則批評初版妥協稿拿掉「單一歐盟登記處」。\n        ③ 議會：法務委員會 10/19 未能表決報告員草案，已兩度湊不到多數；報告員 Repasi 稱勞工權益是最大爭議，工會擔心「制度套利」。\n        ④ 法律基礎（LTO、OnlinehändlerNews）：德國聯邦公證人公會委託前憲法法官 Di Fabio 出具意見，認為以 TFEU 第 114 條立法不合法、預期被撤銷，應改用需全體一致的第 352 條。\n        結論：年底完成立法仍是目標，但內容可能打折，短期不是設立歐盟公司的選項。",
+    "public_impact": "執委會 3 月提出的「EU Inc」是可選用的歐盟統一公司形態，原則上 48 小時線上設立、最低資本 1 歐元、全程數位不需公證，勞動與社保仍依工作地、稅依實際管理地。理事會 10/23 通過立場，但歐洲議會法務委員會已兩度無法表決報告草案，勞工權益是主要爭議；德國聯邦公證人公會委託的法律意見也認為現行立法基礎可能被法院撤銷。年底完成立法仍是目標，但內容可能縮水。對考慮在歐盟設立公司的跨境賣家，短期內還不是可用選項，VAT、EPR 與產品安全義務也不會因公司形態改變。",
+    "public_action": "① 有設立歐盟公司需求者，照現行各國公司形態規劃，不必等待 EU Inc；② 公司形態與稅務居民身分，向當地律師或會計師確認；③ 關注歐洲議會法務委員會表決與年底三方協商結果。",
+    "sources": [
+      {
+        "name": "Euronews：EU Inc: Why the Commission's startup plan might be falling apart（10/27）",
+        "url": "https://www.euronews.com/2026/10/27/eu-inc-why-the-commissions-perfect-startup-plan-might-be-falling-apart"
+      },
+      {
+        "name": "OnlinehändlerNews：Europa plant neue Rechtsform für Start-ups und wachsende Unternehmen（10/26）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/europa-neue-rechtsform-start-ups-wachsende-unternehmen"
+      },
+      {
+        "name": "LTO：EU Inc.: Gutachten Di Fabio zur Rechtsgrundlage（10/22）",
+        "url": "https://www.lto.de/recht/nachrichten/n/eu-inc-kommission-gesellschaftsform-rechtsgrundlage-gutachten-di-fabio"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-27",
     "type": "daily",
     "tags": [
