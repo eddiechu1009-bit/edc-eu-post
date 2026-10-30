@@ -158,6 +158,144 @@
     "color": "#0891b2"
   },
   {
+    "date": "2026-10-29",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/28】eBay Q3 GMV $232 億、+15%：美國 +27%、海外僅 +4%，國際營收佔比一年內 48% → 43%",
+    "summary": "eBay 10/28 美股盤後公布 Q3，營收與全年指引優於預期，10/29 午盤股價漲 3.9%：\n        ① 整體（eBay）：GMV $231.7 億、+15%（不含匯率 +16%，扣除 Depop、Tise 併購 +13%）；營收 $32.1 億、+14%，預期 $31.1 億；non-GAAP EPS $1.51，預期 $1.41。\n        ② 區域：美國 GMV $125.5 億、+27%；國際 $106.2 億、+4%，Q1 +10%、Q2 +6% 後再放緩；國際佔營收比重由 48% 降到 43%。\n        ③ 買家與成本：活躍買家 1.47 億、+10%，扣除併購只 +1%；行銷費用 $7.47 億、+23%（wortfilter 整理）。\n        ④ 歐洲新功能：eBay International Shipping 英、德上線，賣家寄到國內 hub 即可賣到 190 多個市場；德國汽配免費退貨；AI 上架工具擴到英德法義。\n        結論：成長來自美國，國際段停滯；eBay 不揭露德國或歐洲 GMV。",
+    "public_impact": "eBay 10/28 公布第三季財報，商品交易總額 231.7 億美元、年增 15%，營收 32.1 億美元優於市場預期。成長集中在美國，美國交易額年增 27%，國際交易額只增 4%，且連兩季放緩；活躍買家扣除併購後只增 1%，國際營收佔比一年內由 48% 降到 43%。eBay 同季在英國與德國推出國際物流服務，賣家把貨寄到國內轉運中心即可銷往 190 多個市場、由 eBay 處理關務。對歐洲多通路賣家而言，eBay 的國際買家成長有限，但英德本地賣家的跨境門檻正在降低。",
+    "public_action": "① 評估 eBay 作為歐洲第二通路時，把國際買家成長僅約 1% 列入考量，避免高估增量；② 英德賣家可評估 eBay 國際物流服務作為低成本試水外銷市場的方式；③ 旺季站外廣告以 10 月實際點擊成本為基準預留上漲空間；④ 關注 eBay 下季財報的國際交易額成長率。",
+    "sources": [
+      {
+        "name": "eBay Inc.：eBay Inc. Reports Third Quarter 2026 Results（10/28）",
+        "url": "https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/"
+      },
+      {
+        "name": "wortfilter：eBay Quartalszahlen Q3 2026: USA +27 %, Ausland nur +4 %（10/29）",
+        "url": "https://wortfilter.de/ebay-quartalszahlen-q3-2026/"
+      },
+      {
+        "name": "OnlinehändlerNews：Ebay steigert Umsatz und erkauft sich neue Kunden（10/29）",
+        "url": "https://ohn.haendlerbund.de/themen/marktplaetze/ebay-steigert-umsatz-neue-kunden"
+      },
+      {
+        "name": "Investing.com：Why is eBay stock rallying today?（10/29）",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-ebay-stock-rallying-today-93CH-4984883"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【10/28–10/29】歐盟對中逆差 €3,600 億：11/23 週赴京談人民幣匯率，12 月提供應鏈分散工具",
+    "summary": "10/19 日報報過執委會擬對汽車以外的中國產業提防衛措施，本期進展是施壓擴到匯率與供應鏈：\n        ① 匯率（SCMP 10/28）：執委會經濟總司長 Verwey 11/23 那週赴京「總體經濟對話」，ECB、歐元集團與執委會三方高層擬年底前後接續訪京，敦促人民幣升值。IMF 估人民幣最多低估 21%；人行總裁潘功勝稱失衡「無法靠匯率解決」。\n        ② 供應鏈（SCMP、Euronews 10/29）：執委會 12 月將提 DiversifyEU 等三項工具，可能用關稅或公共採購誘因要求關鍵產業分散供應商，消息人士稱 12/9 提出；ACEA、BDI 反對強制。\n        ③ 議會（Euronews）：12 名議員 10/26–10/29 訪京，稱逆差已達創紀錄 €3,600 億。\n        ④ 德國（Reuters）：GTAI 估 2026 年對亞太逆差近 €1,460 億，對中機械出口前 7 月 -18%、汽車 -30%。\n        結論：歐盟對中工具從個案調查擴到匯率與採購結構。",
+    "public_impact": "歐盟對中國的貿易施壓從個別產業調查擴到匯率與供應鏈。據 SCMP 報導，執委會經濟總司長將在 11/23 那週赴北京進行總體經濟對話，歐洲央行、歐元集團與執委會高層也擬在年底前後接續訪京，敦促人民幣升值；中國人行總裁則表示失衡無法靠匯率解決。執委會預計 12 月提出包含 DiversifyEU 在內的三項工具，可能要求關鍵產業分散供應商，歐洲車廠與德國工業聯合會反對強制要求。訪京歐洲議員指出歐盟對中逆差已達 3,600 億歐元。若人民幣升值，在中國採購的賣家進貨成本會上升；目前工具對象是稀土、電池與半導體等關鍵產業，一般消費品短期不在範圍。",
+    "public_action": "① 中國採購比重高的賣家，試算人民幣對歐元升值 5% 與 10% 時的進貨成本與售價；② 主打台灣製造的品牌，強調原產地前先確認原產地證明文件齊全；③ 關注 11/23 那週的歐中總體經濟對話、12 月執委會的供應鏈工具提案與 12/17–12/18 歐盟峰會。",
+    "sources": [
+      {
+        "name": "SCMP：EU plans high-level China currency talks as fears of new trade shock mount（10/28）",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372373/eu-plans-high-level-china-currency-talks-fears-new-trade-shock-mount"
+      },
+      {
+        "name": "SCMP：Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back（10/29）",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3372511/brussels-wants-industry-ditch-chinese-suppliers-businesses-are-pushing-back"
+      },
+      {
+        "name": "Euronews：MEPs tell China: Your exports are hurting our industry（10/29）",
+        "url": "https://www.euronews.com/2026/10/29/eu-lawmakers-press-beijing-to-rein-in-exports-during-beijing-visit"
+      },
+      {
+        "name": "Euronews：EU's push to reduce reliance on China could come at a price（10/29）",
+        "url": "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Germany set for record trade deficit with Asia-Pacific in 2026（10/28）",
+        "url": "https://www.investing.com/news/economic-indicators/germany-set-for-record-trade-deficit-with-asiapacific-in-2026-report-says-4979705"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【10/28】Temu 在物流夥伴倉庫設實驗室、出貨前抽檢：Bureau Veritas 稽核，今年合規投入 $2 億",
+    "summary": "10/27 日報報過執委會接受 Temu 的 DSA 整改計畫，本期是 Temu 在產品安全端的新動作：\n        ① 倉內實驗室（ChannelX、RetailDetail）：Temu 在物流夥伴倉庫設檢測實驗室，已開始運作，出貨前抽檢選定商品：家電電氣安全、紡織品性能、玩具安全，RetailDetail 另提飾品的禁限用物質。\n        ② 第三方稽核：Bureau Veritas 評估設備、人員、程序與品管，確認實驗室能依選定的歐洲標準檢測；這不是產品認證，也不取代賣家的合規責任。兩篇都沒說明倉庫所在國與檢測件數。\n        ③ 投入規模（Temu 說法）：2026 年全球合規與品保投入約 $2 億，是 2025 年兩倍；合作檢測機構逾 60 家。\n        結論：低價平台的把關從上架前審文件，延伸到出貨前抽檢實物。",
+    "public_impact": "Temu 宣布在物流夥伴倉庫設立檢測實驗室並已開始運作，出貨前抽檢選定商品，包括家電電氣安全、紡織品性能、玩具安全與飾品禁限用物質。認證機構 Bureau Veritas 稽核後確認實驗室可依選定的歐洲標準檢測，但這不是產品認證，也不取代賣家自身的合規責任。Temu 表示 2026 年全球合規與品保投入約 2 億美元，是去年兩倍。這是 Temu 今年 5 月遭歐盟依數位服務法罰款 2 億歐元後的補強措施。平台把關從上架前審文件延伸到出貨前抽檢，電器、玩具、紡織與飾品賣家被要求提供檢測文件的機會只會增加。",
+    "public_action": "① 電器、玩具、紡織與飾品賣家，旺季前備齊符合性聲明、測試報告與歐盟責任人資訊，確保可隨時提交；② 在多個平台銷售的賣家，以同一套檢測文件因應各平台抽檢，避免重複送測；③ 關注 Temu 整改計畫 2027 年 2 月底到期後的外部稽核結果。",
+    "sources": [
+      {
+        "name": "ChannelX：Temu Strengthens Proactive Product Checks with Bureau Veritas（10/28）",
+        "url": "https://channelx.world/2026/10/temu-strengthens-proactive-product-checks-with-bureau-veritas/"
+      },
+      {
+        "name": "RetailDetail：Temu conducts additional product inspections in warehouses following European fine（10/28，部分付費牆）",
+        "url": "https://www.retaildetail.eu/news/general/temu-conducts-additional-product-inspections-in-warehouses-following-a-fine-in-the-millions/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/27–10/29】歐洲垂直平台擴張：zooplus 西班牙開放第三方賣家，Breuninger 線上市場 13 → 24 國",
+    "summary": "寵物與精品時尚兩個垂直平台同週擴張：\n        ① zooplus（ChannelX 10/28）：繼德國（2026/7）、法國後，第三個 marketplace 在西班牙上線，新增 1 萬件商品；德國 marketplace 上線後商品增 3 倍到逾 3 萬件、賣家逾 100 家；冷凍食品是德法最暢銷類別，2027 年擬擴到更多國家。文章未提佣金與入駐條件。\n        ② Breuninger（官方 10/27、Ecommerce News 10/29）：德國百貨 Breuninger 線上商店新增芬蘭、波羅的海三國、愛爾蘭、葡萄牙、希臘等 11 國，由 13 國增至 24 國；新市場為英文介面，以 DHL Paket International 從 Sachsenheim 倉出貨。Marketplace 已在德、奧、荷、波 4 國。\n        結論：歐洲零售商用 marketplace 補品類，用英文介面加單倉出貨低成本試小國市場。",
+    "public_impact": "歐洲寵物電商 zooplus 繼德國與法國後，在西班牙推出第三個第三方賣家市集，新增約 1 萬件商品；德國市集 7 月上線後商品已增至逾 3 萬件、賣家逾 100 家，2027 年計畫擴到更多國家。德國百貨 Breuninger 則把線上商店由 13 國擴至 24 國，新增芬蘭、波羅的海三國、愛爾蘭、葡萄牙、希臘等，以英文介面和德國單一倉配送；其市集已在德、奧、荷、波營運。垂直平台正用市集模式擴品類，寵物與時尚賣家在綜合平台之外多了專業通路，但每多一個平台也多一套包裝回收登記、產品安全與退貨流程。",
+    "public_action": "① 寵物用品賣家可評估 zooplus 市集，先確認入駐條件、佣金與包裝回收登記要求；② 西班牙線上寵物品項變多，標準品的價格競爭可能加劇，旺季前檢查主力商品定價；③ 資源有限的賣家，先評估多開平台帶來的合規與客服成本，再決定是否分散通路。",
+    "sources": [
+      {
+        "name": "ChannelX：zooplus Spanish marketplace launched（10/28）",
+        "url": "https://channelx.world/2026/10/zooplus-spainish-marketplace-launched/"
+      },
+      {
+        "name": "Ecommerce News：Breuninger expands into 11 new markets（10/29）",
+        "url": "https://ecommercenews.eu/breuninger-expands-into-11-new-markets/"
+      },
+      {
+        "name": "Breuninger：Breuninger richtet Breuningerländer strategisch auf die Zukunft aus（10/27）",
+        "url": "https://www.e-breuninger.de/de/medienportal/breuninger-richtet-breuningerlaender-strategisch-auf-die-zukunft-aus/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/28–10/29】歐元區 Q2 家庭實質所得每人僅 +0.1%、儲蓄率降到 14.2%：西班牙 9 月零售 -1.4%",
+    "summary": "家庭收入幾乎沒成長，消費靠降低儲蓄撐：\n        ① 歐元區（Eurostat 10/28）：Q2 每人實質所得 +0.1%（Q1 +0.1%），實質消費 +0.3%；儲蓄率 14.2%、季減 0.2 個百分點。EU 所得 +0.1%、消費 +0.4%、儲蓄率 13.9%。\n        ② 各國儲蓄率（同上）：義大利 -1.2 個百分點、法國與西班牙各 -0.6、荷蘭 -0.5，德國 +0.1。\n        ③ 西班牙（INE 10/29）：9 月零售量（季調）年減 1.4%、月減 0.4%；食品月增 1.1%，非食品月減 0.9%。\n        ④ 購買力差距（Euronews 10/28）：以 2025 年中位所得的 150% 估單身「寬裕生活」月淨所得，荷蘭 €4,308、德國 €3,611、法國 €3,307、義大利 €2,758、西班牙 €2,546。\n        結論：所得停滯、南歐儲蓄緩衝變薄，Q4 非食品消費更看價格。",
+    "public_impact": "歐盟統計局 10/28 公布，歐元區第二季每人實質可支配所得只增 0.1%，實質消費增 0.3%，家庭儲蓄率降到 14.2%；義大利儲蓄率季減 1.2 個百分點、法國與西班牙各減 0.6，德國則微升。西班牙統計局 10/29 公布 9 月零售量年減 1.4%、月減 0.4%，其中食品月增 1.1%、非食品月減 0.9%。Euronews 以中位所得估算，單身者在德國約需每月淨所得 3,611 歐元才算寬裕，西班牙約 2,546 歐元。所得停滯而南歐靠動用儲蓄維持消費，第四季非必需品需求更看價格。",
+    "public_action": "① 在多個歐洲站銷售的賣家，檢查同一商品在義大利、西班牙與德國站的價格差，南歐站轉換偏低時評估分站定價或優惠券；② 西班牙站旺季非食品類主推中低單價商品，高單價商品不追加備貨；③ 關注 10/30 法國第三季 GDP、11/4 歐元區通膨初值與 11/6 歐元區零售數據。",
+    "sources": [
+      {
+        "name": "Eurostat：Household real income per capita slightly increases in both the euro area and the EU（10/28）",
+        "url": "https://ec.europa.eu/eurostat/product?code=2-28102026-ap"
+      },
+      {
+        "name": "INE：Retail Trade Indices, September 2026（10/29）",
+        "url": "https://www.ine.es/dyngs/Prensa/en/ICM0926.htm"
+      },
+      {
+        "name": "Euronews：Living comfortably in Europe: How much net income do you need?（10/28）",
+        "url": "https://www.euronews.com/2026/10/28/cost-of-living-crisis-how-much-net-income-do-you-need-to-live-comfortably-in-europe"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-28",
     "type": "daily",
     "tags": [
