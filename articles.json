@@ -1,5 +1,163 @@
 [
   {
+    "date": "2026-10-30",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/29】Amazon Q3 第三方賣家服務 $465 億、+10%：國際部門 +8%（不含匯率），Q4 營收指引 $2,400–2,470 億",
+    "summary": "Amazon 10/29 美股盤後公布 Q3 財報，營收與 EPS 都略低於預期，盤後股價跌約 5–7%：\n        ① 整體（財報）：營收 $2,019 億、年增 12%（預期 $2,021 億）；營業利益 $281 億、利益率 13.9% 創新高；EPS $1.89 低於預期 $1.96。Prime Day 移到 Q2，拖累 Q3 成長約 4 個百分點。\n        ② 賣家相關：第三方賣家服務（含佣金與 FBA 費）$464.9 億、+9%（不含匯率 +10%）；賣家件數佔比 61%（去年 62%）；廣告 $196 億、不含匯率 +12%。\n        ③ 國際部門：營收 $431 億、+5%（不含匯率 +8%），營業利益 $16 億、利益率 3.7%。\n        ④ 成本與指引（財報電話會）：運費 +11%、件數 +12%；CFO 稱 Q4 燃油與幹線運輸通膨高於 Q3。Q4 營收指引 $2,400–2,470 億，廣告成長回到「high teens」。\n        結論：賣家服務成長回到 10% 是 Prime Day 時點效應；旺季物流成本上升，Amazon 自己點名了。",
+    "public_impact": "Amazon 10/29 公布第三季財報，營收 2,019 億美元、年增 12%，略低於市場預期；第三方賣家服務收入（含佣金與物流費）464.9 億美元，不含匯率年增 10%，賣家件數佔全站 61%；廣告收入 196 億美元。包含歐洲站的國際部門營收 431 億美元，不含匯率年增 8%。財務長表示第四季燃油與幹線運輸成本漲幅高於第三季，Amazon 也預期第四季廣告收入成長回到接近兩成。對賣家而言，旺季物流成本與廣告競價都偏向上升。",
+    "public_action": "① 第四季毛利試算把燃油附加費獨立列出，物流成本以 10 月實際費用為底，不預期下降；② 旺季廣告以 10 月實際點擊成本為基準預留上漲空間，主力商品設每日預算上限；③ 人力有限的賣家可先在少數主力商品試用平台的自動補貨與定價工具；④ 黑五與網購星期一後，對比廣告成本與 10 月的差異。",
+    "sources": [
+      {
+        "name": "Amazon：Q3 2026 Earnings Release（10/29，PDF）",
+        "url": "https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf"
+      },
+      {
+        "name": "wortfilter：Amazon Quartalszahlen Q3 2026: 46,5 Mrd. $ von Händlern kassiert（10/29）",
+        "url": "https://wortfilter.de/amazon-quartalszahlen-q3-2026/"
+      },
+      {
+        "name": "Investing.com：Amazon stock slides after hours as Q3 profit, revenue misses estimates（10/29）",
+        "url": "https://www.investing.com/news/earnings/amazon-shares-slide-almost-7-after-hours-on-quarterly-results-miss-4984953"
+      },
+      {
+        "name": "Investing.com：Earnings call transcript: Amazon Q3 2026（10/29）",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-amazon-q3-2026-misses-eps-as-shares-fall-after-hours-93CH-4985489"
+      },
+      {
+        "name": "Reuters（Investing.com 轉載）：Amazon burns cash, Intel flags weak PC demand（10/29）",
+        "url": "https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-10-30",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【10/28 英國預算案】2027 年 10 月起平台代收本地賣家 VAT，營業稅率「實質凍結」＝+3.5%：最低工資 +3.9%",
+    "summary": "10/27–10/28 日報預告的英國預算案已公布，跟電商最直接相關的是平台代收 VAT：\n        ① 平台代收 VAT（gov.uk）：2027 年 10 月起，線上平台須代收英國本地企業合格銷售的 VAT。ChannelX 引預算文件稱，適用於單一平台銷售逾 £9 萬的英國企業，排除個人、二手與 B2B 交易，稅收用來降低實體店營業稅。海外賣家自 2021 年起已由平台代收。\n        ② 營業稅率（BRC）：零售業稅率「實質凍結」，BRC 換算為名目 +3.5%，明年 4 月多 £2.5 億；另約 7 萬家小店免繳。\n        ③ 人事與能源：最低工資 2027/4/1 起 +3.9% 到 £13.21；雇主國保未降，BRC 估多 £20 億成本。燃油稅減 5p 延長到 2027/7/1，電費 VAT 減免同步延長，2,000 萬戶各發 £100。\n        ④ 個體戶：交易免稅額由 £1,000 提高到 £3,000。\n        結論：平台代收後，英國本地賣家漏報 VAT 的空間變小，海外賣家的價格劣勢縮小。",
+    "public_impact": "英國 10/28 公布 2026 年預算案，宣布 2027 年 10 月起線上平台須代收英國本地企業合格銷售的 VAT。ChannelX 引預算文件指出，適用於在單一平台銷售超過 9 萬英鎊的英國企業，排除個人、二手商品與企業間交易。海外賣家自 2021 年起已由平台代收，新制讓本地與海外賣家的課稅方式趨於一致，本地賣家少報 VAT 的價格空間縮小。英國零售商協會則指出，零售業營業稅率「實質凍結」等於名目上漲 3.5%，加上 2027 年 4 月最低工資上調 3.9%，英國本地零售成本持續上升。",
+    "public_action": "① 在英國站銷售的海外賣家，現行 VAT 代收做法不變；② 評估英國站時，可把 2027 年第四季起的課稅一致化列為中期因素，不必當作短期變化；③ 門檻計算方式與統一稅率制處理細節，留意英國稅務海關總署後續發布的技術文件；④ 關注 11/5 英格蘭銀行利率決議。",
+    "sources": [
+      {
+        "name": "GOV.UK：Budget 2026: breathing space for today, hope for the future（10/28）",
+        "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future"
+      },
+      {
+        "name": "ChannelX：Big Tax changes for Self Employed Marketplace Sellers（10/28）",
+        "url": "https://channelx.world/2026/10/big-tax-changes-for-self-employed-marketplace-sellers/"
+      },
+      {
+        "name": "BRC：No breathing space for retail as Budget keeps costs climbing（10/28）",
+        "url": "https://www.brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/no-breathing-space-for-retail-as-budget-keeps-costs-climbing/"
+      },
+      {
+        "name": "ING THINK：UK Chancellor sticks to script but leaves more questions than answers（10/28）",
+        "url": "https://think.ing.com/articles/uk-chancellor-sticks-to-script-but-leaves-more-questions-than-answers/"
+      },
+      {
+        "name": "Euronews：UK budget: five key takeaways（10/28）",
+        "url": "https://www.euronews.com/2026/10/28/uk-budget-heres-five-key-takeaways-from-the-chancellors-speech"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-10-30",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/29 ECB】維持存款利率 2.5%，Lagarde 宣布 2027/2/7 提前卸任：ING 判斷 12 月升息「已在眼前」",
+    "summary": "10/28 日報預期的按兵不動成真，意外的是 Lagarde 同日宣布提前卸任：\n        ① 決議（ECB）：存款利率 2.50%、主要再融資 2.65%、邊際放款 2.90% 不變；能源價格續漲，推升通膨、壓低成長，融資條件收緊；逐次會議決定，不預設路徑，資產負債表持續縮減。\n        ② 卸任（ECB 新聞稿）：Lagarde 2027/2/7 卸任，比任期早約 9 個月，未說明原因，繼任由歐洲理事會提名。Euronews 稱 de Cos 與 Knot 呼聲最高，報導多把時點連到 2027 年 4 月法國大選。\n        ③ 12 月（ING Brzeski）：本次曾討論升息，因融資條件惡化作罷；除非成長前景急轉直下，12 月升息「已在眼前」。\n        ④ 法國（Euronews）：10 年期公債約 5%、對德利差約 155bp；ING 估 9 月以來殖利率上升，對法國的效果接近升息 2 碼。\n        結論：歐元區利率年底前偏升不偏降，2027 年初央行換帥再添變數。",
+    "public_impact": "歐洲央行 10/29 維持存款利率 2.5%，指出能源價格續漲推升通膨、壓低成長，融資條件已收緊，並表示逐次會議決定、不預設利率路徑。ING 解讀本次會議曾討論升息，12 月升息機會很高。總裁 Lagarde 同日宣布將於 2027 年 2 月 7 日卸任，比任期早約 9 個月，繼任人選由歐洲理事會提名。法國 10 年期公債殖利率約 5%，對消費與融資形成額外壓力。歐元區利率年底前偏向上升，歐元計價營收占比高的賣家，資金成本與匯率波動都要納入規劃。",
+    "public_action": "① 年底大量備貨的賣家，把 12 月升息列為基準情境，歐洲端短期融資不要等降息；② 法國站家居與大型家具第四季預估保守，高單價商品以優惠券降低入手門檻；③ 歐元營收占比高者，評估 2027 年第一季央行換帥期間的匯率避險；④ 關注 11/4 歐元區通膨初值與 12 月 ECB 會議。",
+    "sources": [
+      {
+        "name": "ECB：Monetary policy decisions（10/29）",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+      },
+      {
+        "name": "ECB：President Lagarde to step down on 7 February 2027（10/29）",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
+      },
+      {
+        "name": "ING THINK：Lagarde's comments point to a December ECB rate hike（10/29）",
+        "url": "https://think.ing.com/articles/lagarde-comments-point-to-december-ecb-rate-hike/"
+      },
+      {
+        "name": "Euronews：ECB holds rates at 2.5% as Lagarde announces early exit（10/29）",
+        "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-10-30",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/28–10/29】歐洲天然氣 TTF 破 €100、2022 年 12 月來首見：歐盟 Q2 每月油料進口 €276 億，年增 56%",
+    "summary": "10/23 日報報過 TTF 破 €90，本期進展是突破 €100 且執委會示警：\n        ① 天然氣（Euronews、ING）：TTF 近月 10/28 盤中 €100.37/MWh、單日漲逾 4%，伊朗戰爭前約 €32；ING 稱收盤 +4.85%。卡達 LNG 延長不可抗力到年底、挪威多處非計畫停機，西北歐下週轉冷。\n        ② 庫存：10/21 儲氣率 75%，往年 11/1 目標 90%；ACER 估戰爭讓歐洲天然氣進口帳單多 €180–330 億。能源執委 Jørgensen：歐洲「再次面臨能源危機」。\n        ③ 油料（Euronews 10/29）：歐盟 Q2 每月油料進口 €276 億，比 2025 年月均多 €99 億（+55.8%），進口量只增 1.2%；柴油均價 10/19 每公升 €2.14，比年初高 38%。執委會預期柴油市場緊到 2027 年。\n        結論：冬季能源成本由油擴到氣，電力、包材與倉儲等上游成本會再墊高。",
+    "public_impact": "歐洲天然氣基準 TTF 近月合約 10/28 盤中升至每 MWh 100.37 歐元，為 2022 年 12 月以來首次突破 100 歐元，伊朗戰爭前約 32 歐元。卡達液化天然氣供應中斷延長、挪威設施停機，加上西北歐轉冷，歐盟儲氣率 10/21 約 75%，低於往年 11 月初 90% 的目標；歐盟能源執委表示歐洲再次面臨能源危機。歐盟第二季每月油料進口支出 276 億歐元，比 2025 年月均多 99 億歐元，柴油零售均價比年初高 38%。電力、包材與倉儲等上游成本可能再上升，家庭暖氣支出也會壓縮其他消費。",
+    "public_action": "① 保暖類商品可在 11 月中前補足歐洲各站庫存，避開旺季入倉高峰；② 在歐洲採購包材或委外加工的賣家，年底前向供應商確認明年第一季報價；③ 自發貨運費年底前維持現價；④ 關注 11/1 歐盟儲氣率、美國期中選舉後中東情勢與 11/4 歐元區通膨初值。",
+    "sources": [
+      {
+        "name": "Euronews：European gas price crosses €100 for first time since 2022 crisis（10/28）",
+        "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
+      },
+      {
+        "name": "Euronews：Europe's oil bill: EU pays €10bn more per month than in 2025（10/29）",
+        "url": "https://www.euronews.com/2026/10/29/europes-oil-bill-eu-pays-10bn-more-per-month-than-in-2025"
+      },
+      {
+        "name": "ING THINK：The Commodities Feed: European gas tops €100 as supply fears grow（10/29）",
+        "url": "https://think.ing.com/articles/the-commodities-feed-european-gas-breaks-above-eur100-mwh-as-supply-fears-grow291026/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-10-30",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/27–10/29 德國】GfK 11 月消費氣候 -30.8、購買意願再降：企業破產今年 +8% 達 2013 年來最高",
+    "summary": "10/23 日報報過歐元區消費信心 5 月來最低，本期德國數據顯示壓力擴散到家計與企業兩端：\n        ① 消費氣候（GfK／NIM，Reuters）：11 月預測值 -30.8（前 -30.6、預期 -30.9）；購買意願 -11.9（前 -10.8）、所得預期 -15.7；景氣預期回升到 2.1，儲蓄意願由 21.5 降到 17.2。NIM 的 Bürkl：燃油折扣「顯然沒帶來期待中的紓解」。\n        ② 破產（Allianz Trade 10/27）：德國企業破產 2026 年估 +8% 到 25,900 件，2013 年來最高、比疫情前高約 30%；2027 年持平，運輸物流、營建、餐旅與汽車機械最受衝擊。\n        ③ 歐元區（ING）：10 月經濟景氣指標 ESI 96.9（前 97.5），消費者更擔心個人財務，企業售價預期上升。\n        結論：德國人看好大環境、不看好自己的荷包，大額消費 Q4 仍受壓。",
+    "public_impact": "德國 GfK 與 NIM 10/28 公布 11 月消費氣候預測值 -30.8，比上月再降 0.2 點；購買意願降到 -11.9，所得預期 -15.7，景氣預期則回升到 2.1。NIM 指出消費者看好大環境，但對自己的荷包仍然懷疑，燃油折扣沒有帶來期待中的紓解。信用保險公司 Allianz Trade 預估德國企業破產 2026 年增加 8% 至約 25,900 件，為 2013 年以來最高，2027 年不見緩解，運輸物流、營建與餐旅業最受衝擊。歐元區 10 月經濟景氣指標也降到 96.9。德國站第四季大額消費仍受壓。",
+    "public_action": "① 德國站旺季主推中低單價、非分期型商品，高單價商品以優惠券降低入手門檻；② 使用德國本地物流、海外倉或退貨服務商的賣家，檢查預付費用與押金，盡量改為月結並準備備援；③ 第四季預估以購買意願為主要參考，不因景氣預期回升而上調；④ 關注 11/24 德國 Ifo 與 11/26 GfK 消費氣候。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：German consumer sentiment slips on inflation fears（10/28）",
+        "url": "https://www.investing.com/news/economic-indicators/german-consumer-sentiment-slips-on-inflation-fears-survey-shows-4977593"
+      },
+      {
+        "name": "wortfilter：Konsumklima November 2026: Kauflaune sinkt auf -30,8 Punkte（10/28）",
+        "url": "https://wortfilter.de/konsumklima-november-2026/"
+      },
+      {
+        "name": "Allianz Trade：Deutsche Insolvenzen steigen 2026 um 8 Prozent（10/27）",
+        "url": "https://www.allianz-trade.de/presse/pressemitteilungen/deutsche-insolvenzen-steigen-2026-um-8-prozent.html"
+      },
+      {
+        "name": "OnlinehändlerNews：Firmenpleiten auf 13-Jahres-Hoch – 2027 wird nicht besser（10/28）",
+        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/firmenpleiten-13-jahres-hoch-2027-nicht-besser"
+      },
+      {
+        "name": "ING THINK：Eurozone sentiment weakens in October as price expectations tick up（10/29）",
+        "url": "https://think.ing.com/snaps/eurozone-sentiment-weakened-in-october-as-price-expectations-tick-up/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-28",
     "type": "daily",
     "tags": [
