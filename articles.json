@@ -1,5 +1,195 @@
 [
   {
+    "date": "2026-11-02",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/1 起】歐盟 €2 處理費上路、按申報行收：Amazon 遠端配送把費用加進前台售價，Reuters 揭 2028 年起年收 €60 億",
+    "summary": "10/27 本報預告的處理費 11/1 正式生效，本期新增 Amazon 實際做法與執委會收入估算：\n        ① 計費方式（Euronews、AFP）：自歐盟外直寄消費者的包裹一律收，不論價值；按品項類別計，一包 10 件 T 恤收 €2，再加 2 頂帽子就是 €4。€2 是常設費用、每兩年檢討；€3 關稅為暫行措施，2028/7/1 改為一般關稅。\n        ② Amazon 做法（德國站賣家論壇，10/29）：自發貨（FBM）由物流商向賣家收取；使用 FBA 遠端配送者，Amazon 把費用直接加進商品頁、購物車與結帳顯示價，買家看到的價格會高於賣家設定價。Amazon 對 Reuters 表示，其歐盟商品 97% 由歐盟境內倉出貨。\n        ③ 規模（Reuters 獨家，10/30）：執委會文件估 2028–2034 年每年可為歐盟預算帶來 €60 億；2025 年 €150 以下包裹 58 億件、年增 26%。\n        ④ 消保提醒（BEUC）：平台若在結帳最後一步才加收，違反歐盟「總價須事先標示」的規定。\n        結論：多品項包裹的費用按行數疊加，旺季直寄模式毛利首當其衝。",
+    "public_impact": "歐盟 11 月 1 日起對所有自歐盟以外直寄消費者的包裹加收 2 歐元處理費，按申報行（品項類別）計算、不論價值，與 7 月起對 150 歐元以下包裹的 3 歐元暫行關稅疊加。2 歐元是常設費用，每兩年檢討一次；3 歐元關稅則在 2028 年 7 月 1 日改為一般關稅。Amazon 公告，使用遠端配送的 FBA 訂單會把這筆費用直接加進前台顯示價格，買家看到的價格會高於賣家設定價；自發貨訂單則由物流商向賣家收取。Reuters 取得的執委會文件估計，相關費用 2028 至 2034 年每年可帶來 60 億歐元。多品項、混裝的組合包裹費用會按行數疊加，旺季直寄模式的毛利壓力最大。",
+    "public_action": "① 從歐盟以外倉庫配送到歐盟的商品，檢查自動定價規則，底價要把每個申報行 2 歐元的加價算進去；② 直寄的組合包按品項類別數重算費用，毛利不足者改為單品銷售；③ 銷量穩定的商品評估改為先入歐盟境內倉再銷售，同時確認旺季入倉截止日；④ 不要在結帳最後一步才向買家加收費用，歐盟規定總價須事先完整標示；⑤ 觀察黑五前後低價平台的定價與補貼變化。",
+    "sources": [
+      {
+        "name": "Amazon 德國站賣家論壇：Nouveaux frais de traitement douanier de l’UE à partir du 1er novembre（10/29）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/e5f1641b-a12b-4505-beb0-5020ffccf144"
+      },
+      {
+        "name": "Reuters：EU fees that hit cheap Shein, Temu parcels could raise €6 billion, document shows（10/30，付費牆）",
+        "url": "https://www.reuters.com/business/retail-consumer/eu-levies-that-hit-shein-temu-could-add-6-billion-eu-budget-document-shows-2026-10-30"
+      },
+      {
+        "name": "Yahoo Finance UK 轉載",
+        "url": "https://uk.finance.yahoo.com/news/exclusive-eu-levies-hit-shein-112324383.html"
+      },
+      {
+        "name": "Euronews：EU to impose €2 fee on all packages entering the bloc as of 1 November（10/30）",
+        "url": "https://www.euronews.com/2026/10/30/eu-to-impose-2-fee-on-all-packages-entering-the-bloc-as-of-1-november"
+      },
+      {
+        "name": "AFP（Yahoo Finance UK）：EU's new levy on parcels kicks in（11/1）",
+        "url": "https://uk.finance.yahoo.com/news/eus-levy-parcels-kicks-011759087.html"
+      },
+      {
+        "name": "Aberdeen & Grampian Chamber of Commerce（Azets）：Profits warning to e-commerce traders（10/31）",
+        "url": "https://www.agcc.co.uk/news-article/profits-warning-to-e-commerce-traders-as-more-eu-customs-charges-in-run-up-to-crucial-christmas"
+      },
+      {
+        "name": "wortfilter：Amazon Seller News KW 44（11/1）",
+        "url": "https://wortfilter.de/amazon-seller-news-kw-44-2026"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/30】Amazon 歐洲 10 站延長聖誕退貨：11/1–12/25 購買可退到 1/31，跨境 FBA 入倉缺件寬限 30 → 45 天",
+    "summary": "Amazon 10/30 在英、德站賣家論壇公告兩項旺季調整：\n        ① 延長退貨：11/1–12/25 購買的多數商品可退到 2027/1/31，或到貨後 30 天（取較晚者）；適用英、西、德、義、法、荷、波、瑞典、比、愛爾蘭 10 站的 FBA 與 FBM 訂單。西班牙站 1/6 前購買可退到 2/6；德、義、法部分品類限到 1/15 或到貨後 14 天。\n        ② 「賣家不需動作」遭反駁（wortfilter，11/1）：德國站賣家留言指 FBA 賣家應調整撤回權說明；wortfilter 解釋，賣家頁面多寫 14 或 30 天，與實際退貨期不一致，可能招來消保團體或律師警告函。\n        ③ 跨境入倉寬限（德國站論壇英文公告）：8/1–11/30 建立的國際入倉計畫，多目的地的後續貨件到貨期限由 30 天延長為 45 天，期限內到齊免收缺件費；貨件自動關閉延到 90 天，已收費用自動退款。\n        ④ 美國站對照（Value Added Resource）：同樣 11/1 起，Amazon 首度寫明「每年適用」。\n        結論：退貨風險延到 1 月底，入倉寬限則減輕海運延誤的罰款。",
+    "public_impact": "Amazon 歐洲 10 個站點（英、西、德、義、法、荷、波、瑞典、比、愛爾蘭）2026 年 11 月 1 日至 12 月 25 日購買的多數商品，可退貨到 2027 年 1 月 31 日或到貨後 30 天（取較晚者），FBA 與自發貨訂單都適用；西班牙站 1 月 6 日前購買可退到 2 月 6 日，德、義、法部分品類限到 1 月 15 日。Amazon 表示賣家不需動作，但德國賣家社群指出，賣家頁面的撤回權說明若與實際退貨期不符，可能面臨律師警告函。另外，8 月 1 日至 11 月 30 日建立的國際 FBA 入倉計畫，後續貨件到貨期限延長為 45 天，期限內到齊免收缺件費，已收費用自動退款。",
+    "public_action": "① 用 11 至 12 月銷售額乘以去年同期退貨率，估算 1 月的退款金額，第一季補貨與廣告預算先扣掉；② 德國站賣家請法律顧問確認撤回權說明是否需要調整；③ 分批到倉的國際入倉計畫儘量在 11 月 30 日前建立，並到退款報表確認已收的缺件費是否退回；④ 西班牙站的 1 月促銷要把延長到 2 月 6 日的退貨期算進去。",
+    "sources": [
+      {
+        "name": "Amazon 英國站賣家論壇：Changes to returns window for holiday sales（10/30）",
+        "url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/18b2c703-6ef4-4f16-859f-bd33ff159ed7"
+      },
+      {
+        "name": "Amazon 德國站賣家論壇：Änderungen der Rückgabefrist für das Weihnachtsgeschäft（10/30）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/a10cd02a-9361-4cae-a97c-988815d6c6b1"
+      },
+      {
+        "name": "Amazon 德國站賣家論壇：Temporary peak season extensions for international FBA shipments（10/30）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/f25ba535-e06e-4fa3-8bb0-cb3a095fd696"
+      },
+      {
+        "name": "wortfilter：Amazon Seller News KW 44（11/1）",
+        "url": "https://wortfilter.de/amazon-seller-news-kw-44-2026"
+      },
+      {
+        "name": "Value Added Resource：Amazon Sets 2026 Holiday Return Window, Says It Will Apply Every Year（10/30）",
+        "url": "https://www.valueaddedresource.net/amazon-2026-holiday-returns/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【10/30】歐元區 Q3 GDP +0.4%、優於預期 0.2%，法國 -0.1%：10 月義大利 CPI 5.4%、法國 HICP 3.8% 創 2023 年底來新高",
+    "summary": "歐元區成長優於預期，但四大國的成長與通膨明顯分化：\n        ① GDP（Eurostat 初值）：歐元區 Q3 季增 0.4%、年增 1.3%，市場預期 0.2%（FXStreet）；EU +0.5%。西、荷各 +0.6%，德 +0.2%，義 0.0%，法 -0.1%（Bloomberg 調查預期 +0.1%）；愛爾蘭 +5.5% 拉高整體。\n        ② 10 月 CPI 初值：義大利 5.4%（預期 4.6%，2023/8 來最高，受管制能源年增 59.5%）；西班牙 4.9% 持平；法國 CPI 3.4%、HICP 3.8%；德國 2.8%、核心 2.1%，能源漲幅由 14.9% 降到 12.2%。\n        ③ 下一個數字（investingLive 行事曆）：歐元區 10 月 HICP 初值 11/4 公布，預估 4.0%（9 月 3.8%）。\n        結論：成長靠西、荷撐住，通膨壓力集中在義、西、法；德國是四國中唯一降溫的。",
+    "public_impact": "歐盟統計局初值顯示，歐元區第三季 GDP 季增 0.4%，優於市場預期的 0.2%；西班牙、荷蘭各成長 0.6%，德國 0.2%，義大利持平，法國衰退 0.1%。10 月通膨初值則四大國分化：義大利 5.4%（2023 年 8 月以來最高，受管制能源年增 59.5%）、西班牙 4.9%、法國 HICP 3.8%、德國 2.8%。歐元區 10 月 HICP 初值 11 月 4 日公布，市場預估 4.0%。對賣家而言，法國站同時面臨經濟衰退、通膨升溫與罷工，旺季需求最弱；義大利站價格敏感度上升；西班牙、荷蘭相對穩健；德國通膨回落但消費信心仍低。",
+    "public_action": "① 法國站旺季預算向中低單價商品傾斜，11 月 5 日罷工前後自發貨訂單預留配送緩衝；② 義大利站以優惠券或限時促銷取代直接降價，保留旺季後的回價空間；③ 西班牙、荷蘭站可優先分配第四季廣告預算，但留意西班牙 11 月 29 日大選前後的轉換變化；④ 追蹤 11 月 4 日歐元區通膨初值與 12 月 ECB 會議，歐元匯率波動要納入定價。",
+    "sources": [
+      {
+        "name": "Eurostat：GDP up by 0.4% in the euro area and by 0.5% in the EU（10/30）",
+        "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap"
+      },
+      {
+        "name": "INSEE：In October 2026, consumer prices should increase by 3.4% year on year（10/30）",
+        "url": "https://www.insee.fr/en/statistiques/9107975"
+      },
+      {
+        "name": "Destatis 新聞稿 No. 382（Kurzy.cz 轉載）：Inflation rate of +2.8% expected in October 2026（10/30）",
+        "url": "https://zpravy.kurzy.cz/880043-inflation-rate-of-2-8-expected-in-october-2026"
+      },
+      {
+        "name": "Euronews：Germany, France, Italy and Spain: Where was inflation highest in October?（10/30）",
+        "url": "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october"
+      },
+      {
+        "name": "Bloomberg（The Straits Times）：France economy shrinks as inflation nears three-year high（10/30）",
+        "url": "https://www.straitstimes.com/business/french-economy-unexpectedly-shrinks-in-third-quarter-as-headwinds-strengthen"
+      },
+      {
+        "name": "FXStreet：Eurozone GDP expands 0.4% in Q3, beats 0.2% estimates（10/30）",
+        "url": "https://www.fxstreet.com/news/eurozone-gdp-expands-04-in-q3-beats-02-estimates-202610301002"
+      },
+      {
+        "name": "investingLive：Week ahead: Elections, rate decisions and jobs take center stage（10/30）",
+        "url": "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【10/30–11/2】Brent 10 月漲 13.6%、12 月合約到期收 $117.64：OPEC+ 12 月不增產，海灣 3 天 10 起船舶遇襲",
+    "summary": "油價月線連四漲，10/28 本報的 $115 之後，供應端仍沒有緩解訊號：\n        ① 價格（Reuters、The Nation）：Brent 12 月合約 10/30 到期收 $117.64、盤中觸 $118，為 4 月底以來最高收盤；較活躍的 1 月合約收 $113.43。10 月 Brent +13.6%、WTI +15.2%。\n        ② OPEC+（Reuters 引述消息人士，11/1）：沙、俄等 7 國同意 12 月產量目標維持合計約 3,090 萬桶/日；沙國 9 月實際產量 830 萬桶，低於配額逾 200 萬桶，荷莫茲海峽受阻下，配額已不是限制供給的因素。\n        ③ 航運（investingLive 引 UKMTO 等，11/2）：10/31 至 11/2 波斯灣、荷莫茲與阿曼灣至少 10 起船舶遇襲；10/30 一艘油輪在荷莫茲遭小艇附掛爆裂物。CNBC 指運價大漲，讓願冒險的船東仍維持航行。\n        結論：Reuters 指市場在等 11/3 美國期中選舉後美伊衝突是否升級。",
+    "public_impact": "Brent 原油 10 月上漲 13.6%，12 月合約 10 月 30 日到期收在每桶 117.64 美元，為 4 月底以來最高收盤；較活躍的 1 月合約收 113.43 美元，兩者價差來自合約月份不同。OPEC+ 七個成員國 11 月 1 日同意 12 月產量目標維持不變，但荷莫茲海峽受阻下，沙烏地阿拉伯實際產量已低於配額逾 200 萬桶。10 月 31 日至 11 月 2 日，波斯灣、荷莫茲海峽與阿曼灣至少發生 10 起船舶遇襲事件，戰爭險與運價持續上升。對賣家而言，12 月燃油附加費與海運成本難以下降，能源價格也持續壓抑南歐消費。",
+    "public_action": "① 明年初要補貨的賣家，現在向貨代詢問鎖價報價，並確認戰爭險附加費是否另計；② 自發貨賣家確認物流商 12 月燃油附加費調整，旺季定價用 10 月實際物流成本加 5% 至 10% 做壓力測試；③ 亞洲出貨的補貨計畫多預留 1 至 2 週海運緩衝；④ 觀察 11 月 3 日美國期中選舉後的中東局勢與油價變化。",
+    "sources": [
+      {
+        "name": "Reuters：Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks（10/30，付費牆）",
+        "url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30"
+      },
+      {
+        "name": "The Nation：Brent ends October up 13.6% as Iran war risks unsettle markets（10/31）",
+        "url": "https://www.nationthailand.com/news/world/40072956"
+      },
+      {
+        "name": "House of Saud（引 Reuters）：OPEC+ December Output Targets Unchanged Amid Hormuz Closure（11/1）",
+        "url": "https://houseofsaud.com/opec-plus-december-output-unchanged-hormuz"
+      },
+      {
+        "name": "investingLive：Tanker hit by two projectiles off Saudi coast as Gulf incidents reach 10 in three days（11/2）",
+        "url": "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days"
+      },
+      {
+        "name": "CNBC：Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing（10/30）",
+        "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html"
+      },
+      {
+        "name": "AP（myMotherLode）：Somali pirates seize Iranian fishing vessel（11/1）",
+        "url": "https://mymotherlode.com/news/world/11271875/somali-pirates-seize-iranian-fishing-vessel-raising-fears-of-attacks-on-cargo-ships.html/amp"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【10/29–10/31】Pinterest 歐洲營收僅 +1%：直郵賣家撤廣告拖累 11 個百分點，德國 Shein、Temu、AliExpress Q3 銷售 -35.5%",
+    "summary": "€3 關稅實施後，直郵賣家的撤退開始出現在廣告與消費數據：\n        ① Pinterest（Q3 財報電話會，10/29）：營收 $11.74 億、+12%，低於自家指引 $11.9–12.1 億；歐洲營收 $1.93 億，固定匯率僅 +1%。CEO Bill Ready 稱跨境賣家在歐盟取消小額免稅後縮減投放，拖累歐洲成長約 11 個百分點、全球約 3 個百分點；Q4 壓力已趨穩但不預期回補，Q4 指引 +8–12%。\n        ② 德國消費端（bevh Q3 調查）：Shein、Temu、AliExpress 合計銷售年減 35.5% 至 €5.66 億，德國線上市佔由 Q2 5.3% 降到 3.1%；德國線上零售整體僅 +2.9%，低於 9 月通膨 3.3%，線上市集 +5% 成長最快。\n        ③ 各國海關（EU Perspectives 整理）：捷克 6–9 月申報件數 -81%、波蘭 7 月較 6 月 -50.1%、比利時 7 月年減 53%。\n        結論：低價直郵流量在退出，但歐洲本土零售尚未明顯受惠。",
+    "public_impact": "歐盟 7 月取消 150 歐元以下小額免稅並開徵 3 歐元關稅後，直郵賣家的撤退已反映在廣告與消費數據。Pinterest 第三季歐洲營收 1.93 億美元、固定匯率僅成長 1%，執行長表示跨境賣家縮減廣告投放，拖累歐洲成長約 11 個百分點。德國電商公會 bevh 調查顯示，Shein、Temu、AliExpress 第三季在德國合計銷售年減 35.5% 至 5.66 億歐元，市佔由 5.3% 降到 3.1%；德國線上零售整體僅成長 2.9%，低於通膨，但線上市集通路成長 5%。電子產品（-4.6%）與家具燈飾（-5.2%）衰退，藥品、藥妝、食品、服飾與鞋類成長。低價平台同時在擴大歐洲本地倉，價格競爭會轉向配送時效。",
+    "public_action": "① 電子與家居品類賣家，德國站旺季備貨與目標參考品類實際衰退幅度保守規劃；② 有品牌的賣家可趁站外廣告價格下降，以小額預算測試社群導流；③ 仍以直郵模式賣歐洲的賣家，把關稅與處理費一起試算，評估改為歐盟境內倉配送；④ 追蹤 11 月 3 日 Zalando 財報與 11 月 4 日歐元區通膨初值，判斷歐洲旺季需求。",
+    "sources": [
+      {
+        "name": "PPC Land：Cross-border sellers cut Pinterest's Europe revenue growth by 11 points（10/31）",
+        "url": "https://ppc.land/cross-border-sellers-cut-pinterests-europe-revenue-growth-by-11-points"
+      },
+      {
+        "name": "MarketBeat：What Pinterest (PINS) Said on Its Q3 Earnings Call（10/30）",
+        "url": "https://www.marketbeat.com/instant-alerts/transcript-what-pinterest-pins-said-on-its-q3-earnings-call-2026-10-30"
+      },
+      {
+        "name": "GuruFocus：Pinterest Q3 2026 Earnings Call Highlights（10/30）",
+        "url": "https://www.gurufocus.com/news/9158476/pinterest-inc-pins-q3-2026-earnings-call-highlights-record-661-million-users-and-ai-momentum-offset-by-crossborder-revenue-headwinds"
+      },
+      {
+        "name": "bevh：Nach Abschaffung der Zollfreigrenze: Asiatische Plattformen verlieren deutlich Marktanteile",
+        "url": "https://bevh.org/detail/nach-abschaffung-der-zollfreigrenze-asiatische-plattformen-verlieren-deutlich-marktanteile"
+      },
+      {
+        "name": "EU Perspectives：EU parcel duty bites as Chinese shopping platforms lose sales（10/31）",
+        "url": "https://euperspectives.eu/2026/10/eu-parcel-duty-chinese-platforms-sales-fall"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-10-30",
     "type": "daily",
     "tags": [
