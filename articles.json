@@ -1,5 +1,159 @@
 [
   {
+    "date": "2026-11-03",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/2】歐盟擬取消進口 VAT 的 €150 門檻：平台代收範圍擴及高價件，11/4 常駐代表會議準備一般立場",
+    "summary": "7 月 €3 關稅、11 月 €2 處理費之後，VAT 這一側的 €150 門檻也進入理事會表決準備：\n        ① 理事會議程（歐盟理事會，10/30 發布）：11/4 常駐代表委員會（Coreper）議程第 11 項為「遠距銷售取消 €150 門檻及海關保稅倉 VAT 規則指令」，性質為「準備一般立場」，文件編號 15122/26。\n        ② 輪值主席國草案（Law360，11/2）：愛爾蘭請成員國支持草案；取消 €150 門檻後，線上市集須代收 VAT 的進口商品範圍將擴大。\n        ③ 現行規則（KPMG，9 月）：平台視同供應商與 IOSS 只適用 €150 以下進口件；超過 €150 走一般進口 VAT，因 VAT 指令尚未修改。關稅側的 €150 免稅已在 7/1 取消。\n        ④ 審議進度（VATupdate，5/6）：理事會稅務工作小組 5/18 曾就同一指令交換意見，範圍含取消門檻與保稅倉商品的 VAT 處理。\n        結論：一般立場是成員國之間的共識，不是生效；VAT 指令須成員國一致通過，適用日期尚未公布。",
+    "public_impact": "歐盟正準備取消進口 VAT 的 150 歐元門檻。目前平台在結帳代收 VAT 與 IOSS 申報只適用 150 歐元以下的進口件，超過 150 歐元的直寄訂單由進口方或買家在入境時繳 VAT。依 10 月 30 日公布的理事會議程，常駐代表委員會 11 月 4 日將為這項指令準備一般立場；指令同時處理海關保稅倉商品的 VAT。一般立場不等於生效，VAT 指令須成員國一致通過，適用日期尚未公布。若通過，高單價直寄訂單的 VAT 將改在結帳時收取，前台售價須含 VAT；已先進口到歐盟境內倉再銷售的賣家，影響相對小。",
+    "public_action": "① 統計 150 歐元以上直寄訂單的佔比與品類，評估改制後的售價與毛利；② 直寄賣家確認 IOSS 註冊或代理安排；③ 把 3 歐元關稅、2 歐元處理費與 VAT 改制放在一起，比較直寄與境內倉的單件到岸成本；④ 使用保稅倉配送的賣家，等指令條文公開後再調整流程；⑤ 追蹤 11 月 4 日與 6 日常駐代表會議的結果。",
+    "sources": [
+      {
+        "name": "歐盟理事會：Coreper（Part 2）4 and 6 November 2026 臨時議程 15156/26（10/30）",
+        "url": "https://data.consilium.europa.eu/doc/document/ST-15156-2026-INIT/en/pdf"
+      },
+      {
+        "name": "Law360：Ireland Asks EU To Back Wider VAT Rules For Online Vendors（11/2，付費牆）",
+        "url": "https://www.law360.com/tax-authority/international/articles/2545217/ireland-asks-eu-to-back-wider-vat-rules-for-online-vendors"
+      },
+      {
+        "name": "KPMG：New EU Customs Code enters into force; platforms face new obligations（9 月）",
+        "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/09/kpmg-report-new-union-customs-code-platforms-importer-distance-sales.html"
+      },
+      {
+        "name": "VATupdate：Council to Discuss Abolition of €150 Threshold for Distance Sales（5/6）",
+        "url": "https://www.vatupdate.com/2026/05/06/council-to-discuss-abolition-of-e150-threshold-for-distance-sales-18-may-2026"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/2 Destatis】德國 9 月零售實質月減 2.0%、預期為 +0.4%：網路與郵購 -2.2%，年增仍有 4.4%",
+    "summary": "8 月的反彈沒有延續，非食品與網路通路同步下滑：\n        ① 整體（Destatis，11/2）：9 月零售實質 -2.0% MoM、名目 -1.5%；實質 YoY -2.3%、名目 +1.2%。8 月修正為 +1.2%（初值 +1.3%）。\n        ② 分項（Destatis）：非食品實質 -2.4% MoM、-2.8% YoY；食品實質 -1.4% MoM；加油站實質 YoY -9.3%、名目 +16.2%，油價推高金額、壓低用量。\n        ③ 網路與郵購（Destatis）：實質 -2.2% MoM，但 YoY 實質 +4.4%、名目 +5.7%，是唯一年增的主要分項。\n        ④ 市場反應（Sharecast、FXStreet）：市場原預期月增 0.4%、年減 1.1%；公布後歐元對英鎊回吐漲幅。\n        注意：Destatis 自 9 月起換新樣本並回溯到 1 月，今年數據可能再修正。\n        結論：名目年增、實質年減，消費者花更多錢買到更少東西；網路通路仍在吃實體的份額。",
+    "public_impact": "德國聯邦統計局 11 月 2 日公布，9 月零售實質月減 2.0%，市場原預期月增 0.4%；實質年減 2.3%，名目年增 1.2%，通膨吃掉約 3.5 個百分點的購買力。非食品實質年減 2.8%，是表現最弱的分項之一。網路與郵購實質月減 2.2%，但年增 4.4%，是唯一年增的主要分項，消費持續從實體轉向線上。德國旺季的成長較可能來自通路轉移，而非整體需求增加，價格敏感度偏高。統計局 9 月起更換樣本並回溯到 1 月，今年數據仍可能修正。",
+    "public_action": "① 德國非食品類商品的旺季預估，以網路通路年增約 4% 為上限參考，不要沿用去年增幅；② 黑五促銷優先用折價券或會員折扣，避免直接調降標價；③ 需要漲價的商品先在需求較強的國家測試，德國維持價格觀察轉換；④ 追蹤 11 月 26 日德國 GfK 消費氣候與 10 月零售數據。",
+    "sources": [
+      {
+        "name": "Destatis：Einzelhandelsumsatz im September 2026 real um 2,0 % niedriger als im Vormonat（11/2）",
+        "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_383_45212.html"
+      },
+      {
+        "name": "Sharecast：German retail sales fall by more than expected in September（11/2）",
+        "url": "https://www.sharecast.com/amp/news/international-economic/german-retail-sales-fall-by-more-than-expected-in-september--23977750.html"
+      },
+      {
+        "name": "FXStreet：Euro pares gains against British Pound after Germany's Retail Sales unexpectedly fall（11/2）",
+        "url": "https://www.fxstreet.com/news/euro-pares-gains-against-british-pound-after-germanys-retail-sales-unexpectedly-fall-in-september-202611020710"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/2–11/3】Brent 單日 -7.63% 收 $104.77、伊朗稱已獲授權和談：隔天傳美軍空襲格什姆島，亞洲早盤回升 0.5%",
+    "summary": "11/2 本報的 10 月漲 13.6% 一天內回吐大半，但隔夜又出現反轉訊號：\n        ① 價格（Reuters，經 Business Times）：Brent 跌 $8.66、-7.63% 收 $104.77，盤中低點 $103.28；WTI -7.36% 收 $96.46，跌破 $100。\n        ② 原因（Reuters、Invezz）：伊朗總統 Pezeshkian 稱最高領袖授予政府和談的「特定權限」；美國國務卿 Rubio 稱 Trump 傾向和平結束戰爭。RBC 的 Helima Croft 提醒，關鍵在最高領袖是否真的同意讓步（The Asia Business Daily）。\n        ③ 反轉風險（Reuters，經 KELO，11/3）：WSJ 報導美軍空襲伊朗格什姆島，Brent 亞洲早盤 +0.5% 到 $105.25；德黑蘭稱與美方接觸持續，但與卡達的談判「提案有修改、沒有突破」。\n        ④ 背景（Reuters）：戰事自 2 月底開始，荷姆茲海峽原本承載全球約五分之一的原油與天然氣運量；Brent 10 月收在六個月高點。\n        結論：和談是方向，不是結果；油價單日波動 7% 的環境下，運價不會跟著單日行情走。",
+    "public_impact": "Brent 原油 11 月 2 日單日下跌 7.63%，收在每桶 104.77 美元，原因是伊朗總統表示最高領袖已授權政府進行和談，伊朗與卡達調解方的談判也有草案流傳。不過 11 月 3 日亞洲早盤，市場傳出美軍空襲伊朗格什姆島，Brent 回升 0.5%。油價單日波動達 7%，和談尚未有實際結果。快遞與海運的燃油附加費多按前期油價調整，短期內不會隨單日油價下跌而調降，旺季物流成本仍應以高油價情境規劃。",
+    "public_action": "① 旺季物流預算維持原本的高油價假設，等和談有具體協議再調整；② 與貨代談明年第一季合約時，燃油附加費以月均價浮動計算，避免鎖定高價；③ 定價與物流成本用每桶 100 至 120 美元的區間做情境試算；④ 關注美國期中選舉後的中東政策與荷姆茲海峽通行狀況。",
+    "sources": [
+      {
+        "name": "Business Times（Reuters）：Oil drops 7% as Iran signals openness to peace talks（11/3）",
+        "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-drops-7-iran-signals-openness-peace-talks"
+      },
+      {
+        "name": "Journal Record（Reuters）：Oil prices fall more than 7% on hopes for Iran peace talks（11/2）",
+        "url": "https://journalrecord.com/2026/11/02/oil-prices-fall-hope-iran-peace-talks"
+      },
+      {
+        "name": "KELO（Reuters）：Oil rises after report of US strike on Iran's Qeshm Island（11/3）",
+        "url": "https://kelo.com/2026/11/02/oil-rises-after-report-of-us-strike-on-irans-qeshm-island"
+      },
+      {
+        "name": "Invezz（TradingView）：WTI crude falls below $100 as Iran peace talk hopes build（11/2）",
+        "url": "https://www.tradingview.com/news/invezz:f867c7268094b:0-oil-price-today-wti-crude-falls-below-100-as-iran-peace-talk-hopes-build"
+      },
+      {
+        "name": "The Asia Business Daily：Oil Prices Plunge 7% (Roundup)（11/3）",
+        "url": "https://www.asiae.co.kr/en/article/2026110306302278710"
+      },
+      {
+        "name": "EnergyNow：Oil Prices Plunge More Than 4% as U.S.-Iran Peace Talks Raise Hopes（11/2）",
+        "url": "https://energynow.com/2026/11/oil-prices-plunge-more-than-4-as-u-s-iran-peace-talks-raise-hopes-of-easing-middle-east-supply-disruptions"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/2 PMI 終值】歐元區 10 月製造業 52.7、兩個月低：德國 54.2、法國 49.5 跌回萎縮，投入成本漲幅 5 月來最快",
+    "summary": "製造業仍在擴張，但成本與交期壓力同步升高：\n        ① 歐元區（S&P Global，經 Investing.com、investingLive）：PMI 52.7（初值 52.4、9 月 52.9），連 9 個月擴張；產出指數 52.8（9 月 53.6），四個月低。8 國中 6 國擴張，法、義萎縮。\n        ② 德法（Firstpost）：德國 54.2（9 月 53.9），出口銷售增幅為 4 年半來第二強；法國 49.5（9 月 50.6），新訂單降幅為 2025 年 7 月來最快。\n        ③ 義西（S&P Global，經 Forex Factory）：義大利 49.4，產出跌幅為 2026 年初以來最大；西班牙擴張速度為一年多來最快。\n        ④ 供應鏈與價格（Investing.com）：供應商交期延長幅度為 6 月來最大；企業 2022 年 12 月以來首次增加投入品庫存，採購活動近 4 年半最快；投入成本漲幅為 5 月來最快、連 2 個月加速，售價大幅上調。\n        結論：工廠不缺訂單，缺的是穩定的交期與成本；歐洲本地生產的商品也在漲價。",
+    "public_impact": "S&P Global 公布歐元區 10 月製造業 PMI 終值 52.7，連續 9 個月擴張但為兩個月低點。德國 54.2 表現較強，法國 49.5、義大利 49.4 落入萎縮。值得賣家注意的是成本與供應鏈：投入成本漲幅為 5 月以來最快、連續兩個月加速，製造商大幅調高售價；供應商交期延長幅度為 6 月以來最大，企業 2022 年 12 月以來首次增加原料庫存。歐洲本地生產的商品同樣面臨漲價壓力，境內倉儲與運輸在旺季可能更吃緊；物價壓力也讓歐洲央行 12 月升息的可能性上升。",
+    "public_action": "① 有成本壓力的賣家可評估分批調價，歐洲本地競品同樣在漲；② 12 月補貨預留比平常多 1 至 2 週的歐洲境內轉運時間；③ 法國、義大利製造業轉弱，工業與企業採購類商品在這兩國的推廣可暫緩；④ 追蹤 11 月 4 日歐元區 10 月通膨初值與 12 月歐洲央行會議。",
+    "sources": [
+      {
+        "name": "Investing.com（Yahoo Finance）：Eurozone manufacturing growth holds steady in October（11/2）",
+        "url": "https://finance.yahoo.com/economy/articles/eurozone-manufacturing-growth-holds-steady-093810226.html"
+      },
+      {
+        "name": "investingLive：Eurozone manufacturing PMI holds up in October but rising price pressures give the ECB another headache（11/2）",
+        "url": "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache"
+      },
+      {
+        "name": "Firstpost：Germany expands, France contracts. What October's factory data say about Europe's economy（11/2）",
+        "url": "https://www.firstpost.com/business/germany-france-manufacturing-pmi-europe-economy-october-14057128.html"
+      },
+      {
+        "name": "Forex Factory（S&P Global）：Sharpest fall in Italian manufacturing output since start of 2026（11/2）",
+        "url": "https://www.forexfactory.com/news/1434375-sharpest-fall-in-italian-manufacturing-output-since-start"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/2 BoE 前瞻】Reuters 調查料 11/5 升息到 4.0%、2023 年 8 月來首升：Goldman 加估 2027 年 2 月再升一碼",
+    "summary": "BoE 這次落後 Fed 與 ECB，週四料跟進升息：\n        ① Reuters 調查（11/2）：經濟學家預期 Bank Rate 由 3.75% 升到 4.0%，是 2023 年 8 月以來首次升息，預估 7 比 2 通過；9 月為 6 比 3 維持。9 月 CPI 3.5%，高於 BoE 7 月預測的 3.0%。\n        ② 市場定價（Reuters、LSEG）：11/5 升息機率約 92%；貨幣市場完全計入到明年 9 月共 4 碼。ING 預期 2 月再升，但認為市場定價「看起來極端」。\n        ③ Goldman（Reuters，經 Global Banking & Finance Review）：除 11 月外，再估 2027 年 2 月升一碼，之後維持 4.25% 到明年年中，2027 Q4 起每季降息，終點 3.25%。\n        ④ MUFG（11/2）：不排除 12 月連續升息，終端利率基準 4.25%。\n        ⑤ 匯率（Reuters）：英鎊兌美元 1.3417，歐元兌英鎊 83.53 便士。\n        結論：升息幾乎已定，變數是後續幾碼；英國消費者的房貸與信用卡成本會再往上。",
+    "public_impact": "Reuters 調查顯示，英國央行預計 11 月 5 日把利率由 3.75% 調升到 4.0%，是 2023 年 8 月以來首次升息；市場定價的升息機率約 92%，並押注到明年 9 月前共升 4 碼。Goldman Sachs 預期明年 2 月再升一碼。英國 9 月 CPI 3.5%，高於央行原本的預測。升息會推高英國消費者的房貸與信貸成本，英國旺季需求可能更偏向必需品與高 CP 值商品；升息預期則支撐英鎊匯率，以英鎊收款的賣家換匯較有利，但決議當天匯率可能大幅波動。",
+    "public_action": "① 英鎊營收的換匯避開 11 月 5 日決議當天，等走勢明朗後分批進行；② 英國黑五主推商品以平價與必需品為主，高單價品搭配組合優惠；③ 留意決議的投票比數與央行對後續升息的說法；④ 追蹤 11 月 20 日英國 10 月零售數據。",
+    "sources": [
+      {
+        "name": "Reuters：Bank of England poised to raise rates but may push back on bets for more（11/2，付費牆）",
+        "url": "https://www.reuters.com/world/uk/bank-england-poised-raise-rates-may-push-back-bets-more-2026-11-02"
+      },
+      {
+        "name": "Reuters：Sterling drifts as BoE rate decision comes into focus（11/2，付費牆）",
+        "url": "https://www.reuters.com/world/uk/sterling-drifts-boe-rate-decision-comes-into-focus-2026-11-02"
+      },
+      {
+        "name": "Global Banking & Finance Review（Reuters）：Goldman Sachs sees BoE raising rate in February 2027（11/2）",
+        "url": "https://www.globalbankingandfinance.com/goldman-sachs-sees-boe-raising-rate-february-2027"
+      },
+      {
+        "name": "MUFG Research：BoE preview: Time for action（11/2）",
+        "url": "https://www.mufgresearch.com/macro/european-macro-2-november-2026"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-02",
     "type": "daily",
     "tags": [
