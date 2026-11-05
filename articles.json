@@ -1,5 +1,175 @@
 [
   {
+    "date": "2026-11-05",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/3–11/4】美國期中選舉民主黨拿下參眾兩院：Brent 單日跌逾 8% 收在 $95 附近，盤中觸及 9/4 以來低點",
+    "summary": "選舉結果被市場解讀為伊朗戰爭可能提前結束，油價三個交易日回吐 10 月大部分漲幅：\n        ① 選舉結果（Euronews，11/4）：民主黨在眾議院拿下至少 228 席（過半需 218），參議院從共和黨手中翻轉 7 席；約三分之二選民在出口民調表示關稅傷害經濟。新國會 2027/1/3 就任。\n        ② 油價（Reuters，11/4）：Brent 盤中跌 $9.27、-8.9% 到 $94.29，觸及 9/4 以來最低；Bloomberg 稱 Brent 收在 $95 附近，單日跌逾 8%。Trump 對 FT 表示目前沒有攻擊伊朗的計畫。\n        ③ 供給面未變（Reuters）：10 月波斯灣原油與成品油出口日均 1,710 萬桶，比 9 月的 1,890 萬桶還少，約為戰前四分之三；胡塞稱攻擊利雅德機場，沙國未證實。\n        ④ 關稅不受國會控制（Baker McKenzie、Euronews）：最高法院 2 月否決 IEEPA 關稅後，政府改用 301、232、122 條等授權，都不需國會批准；國會要廢關稅須推翻否決，需三分之二參議員。\n        結論：油價下跌主要來自和談預期，實體供給沒有改善；美國關稅結構短期不變。",
+    "public_impact": "美國期中選舉民主黨拿下參眾兩院，市場預期伊朗戰爭可能較快結束，Brent 原油 11 月 4 日單日跌逾 8%，收在 95 美元附近。海運與快遞的燃油附加費通常延遲一到兩個月反映油價，旺季物流成本的上限可能已過；但波斯灣 10 月出口量仍只有戰前約四分之三，供給沒有實質改善，油價仍可能因衝突升級反彈。美國關稅改用不需國會批准的法律授權，短期不會因國會改選而下降。歐元當日兌美元走強，以美元採購、歐元收款的賣家毛利小幅改善。",
+    "public_action": "① 旺季補貨的燃油附加費在 11 月下旬再跟貨代確認，不要用 10 月高點簽長約；② 不要因油價下跌提前調降售價；③ 美國線關稅成本以現行水準規劃，新國會 2027 年 1 月 3 日才就任；④ 物流成本試算改用 Brent 90 至 105 美元的區間，並追蹤和談與波斯灣出口量。",
+    "sources": [
+      {
+        "name": "Reuters（via Star-Advertiser）：Oil tumbles 9% as investors eye possible end to Iran war（11/4）",
+        "url": "https://www.staradvertiser.com/2026/11/04/breaking-news/oil-tumbles-9-as-investors-eye-possible-end-to-iran-war/"
+      },
+      {
+        "name": "Bloomberg：Oil Steadies After 8% Plunge on Hopes for End to US-Iran War（11/4，付費牆）",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5"
+      },
+      {
+        "name": "Euronews：US midterms: What Trump's defeat means for Europe and global markets（11/4）",
+        "url": "https://www.euronews.com/2026/11/04/us-midterms-what-trumps-defeat-means-for-europe-and-global-markets"
+      },
+      {
+        "name": "Baker McKenzie：How Will Democratic Control of Both Chambers Impact Trade Issues（11/4）",
+        "url": "https://sanctionsnews.bakermckenzie.com/2026-us-midterm-election-results-how-will-democratic-control-of-both-chambers-impact-trade-issues"
+      },
+      {
+        "name": "歐洲議會 D-US 代表團主席聲明（11/4）",
+        "url": "https://www.europarl.europa.eu/delegations/en/us-midterm-elections-statement-by-the-d-/product-details/20261104DPU42930"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-05",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/4】歐元區 10 月通膨 4.0%、2023 年 9 月來最高：能源 +20.8%，同日服務業 PMI 終值跌到 51.4、四個月低",
+    "summary": "通膨上升、需求轉弱同時出現，ECB 12 月升息仍是主要情境：\n        ① HICP 初值（Eurostat，via Trading Economics、AFP）：10 月 4.0%、9 月 3.8%，符合預期；能源 20.8%（9 月 18.9%）、服務 3.3%、核心持平 2.5%。\n        ② 國別（Trading Economics）：義大利 5.6%（9 月 4.2%）、法國 3.8%、西班牙 4.9%、荷蘭 3.3%；德國降到 2.8%，部分因暫時性燃油減稅。\n        ③ 服務業 PMI 終值（Econoday、Reuters）：歐元區服務業 51.4、綜合 51.7，均為四個月低、低於初值；新訂單接近停滯，就業 5 月來首度下降。法國服務業 46.2，S&P 稱抗議與公債殖利率攀升讓客戶延後決策；德國服務業 52.5、高於初值 51.7。\n        ④ 利率（CNBC、Reuters）：數據公布後市場押 12 月升息機率逾 72%；Reuters 稱 ECB 預期通膨在 2027 上半年多數時間高於 4%。\n        結論：能源推升物價，但核心與工資仍穩；Capital Economics 估 12 月可能是最後一次升息。",
+    "public_impact": "歐元區 10 月通膨初值 4.0%，是 2023 年 9 月以來最高，主要來自能源價格年增 20.8%；核心通膨持平 2.5%。國別差異大：義大利 5.6%、西班牙 4.9%、法國 3.8%，德國因暫時性燃油減稅降到 2.8%。同日公布的服務業 PMI 終值 51.4，為四個月低，新訂單接近停滯、就業轉為下降；法國服務業 46.2，處於萎縮。市場押注歐洲央行 12 月升息機率逾七成。義大利與法國消費者的價格敏感度較高，旺季促銷的效果差異會更明顯；經濟學家也提醒 1 月傳統調價月可能出現新一輪能源相關漲價。",
+    "public_action": "① 黑五促銷依站點調整力道，義大利、法國可加深折扣或疊加優惠券；② 在歐洲有倉儲或本地供應商的賣家，2027 年第一季預算預留能源相關成本上漲；③ 歐元偏強時，以美元採購的賣家可分批換匯；④ 追蹤 10 月通膨終值與 12 月歐洲央行會議。",
+    "sources": [
+      {
+        "name": "Trading Economics：Eurozone Inflation Hits Fresh Three-Year High（11/4）",
+        "url": "https://tradingeconomics.com/euro-area/inflation-cpi/news/598103"
+      },
+      {
+        "name": "CNBC：Euro zone CPI hits 4% for first time in three years（11/4）",
+        "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
+      },
+      {
+        "name": "Reuters：ECB rate hike looks nearly certain after inflation rises to three-year high（11/4）",
+        "url": "https://www.reuters.com/business/euro-zone-inflation-rises-three-year-high-2026-11-04"
+      },
+      {
+        "name": "AFP（via Daily Sabah）：Eurozone inflation climbs to 4% in October（11/4）",
+        "url": "https://www.dailysabah.com/business/economy/eurozone-inflation-climbs-to-4-in-october-on-spike-in-energy-costs"
+      },
+      {
+        "name": "Econoday（CME）：EMU PMI Composite Final（11/4）",
+        "url": "https://www.cmegroup.com/education/events/econoday/674824"
+      },
+      {
+        "name": "Reuters（via AOL）：French services sector contracts in October at fastest pace since May（11/4）",
+        "url": "https://www.aol.com/articles/french-services-sector-contracts-october-085228000.html"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-05",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/3】歐盟有條件批准京東收購 MediaMarkt 母公司 Ceconomy（€22 億）：京東倉儲物流須以同條件開放第三方 10 年",
+    "summary": "這是外國補貼條例（FSR）下第一宗經深入調查後放行的中國企業併購：\n        ① 執委會認定（歐盟執委會，11/3）：京東獲中國的優惠融資、稅收優惠與補助，這些補貼支撐了收購後要提供給 Ceconomy 的物流與技術能力，可能讓合併後企業在歐洲以激進定價壓制對手。\n        ② 承諾條件（執委會）：京東與 Ceconomy 之間的交易、含融資，須按市場條件進行；京東的倉儲物流服務、技術服務須以提供給 Ceconomy 的同等條件，開放給第三方零售商。經市場測試後條件再加強，效期 10 年，由獨立受託人監督。\n        ③ 交易規模（China Daily、Reuters via ET）：收購金額 €22 億（約 $25 億）；Ceconomy 旗下 MediaMarkt、MediaWorld、Saturn 在多個成員國經營線上與實體通路，表示公開收購的交割條件已全部滿足。\n        ④ 政治訊號（Global Times）：中方專家稱放行代表對話有用，但仍擔心 FSR 針對中國企業。\n        結論：歐洲最大 3C 家電零售商將由中國電商平台持有，交割在即。",
+    "public_impact": "歐盟執委會 11 月 3 日依外國補貼條例，有條件批准京東以約 22 億歐元收購 MediaMarkt、Saturn、MediaWorld 母公司 Ceconomy。執委會認定京東獲得的中國補貼可能讓合併企業在歐洲以激進定價壓制對手，因此要求雙方交易按市場條件進行，且京東的倉儲物流與技術服務須以同等條件開放給第三方零售商，效期 10 年。歐洲最大的 3C 家電零售商將由中國電商平台持有，德國、義大利、西班牙的 3C 與家電類目，旺季後價格與配送速度的競爭可能加劇；MediaMarkt 自有的第三方市集也可能擴大招募賣家。",
+    "public_action": "① 3C 與家電賣家把 MediaMarkt、Saturn 的同款售價列入旺季每日比價；② 若收到 MediaMarkt 市集的入駐邀約，評估通路衝突與定價一致性；③ 自建站或多通路賣家可關注京東歐洲物流對第三方開放的實際條件，作為倉配比價選項；④ 追蹤收購交割日期。",
+    "sources": [
+      {
+        "name": "歐盟執委會：Commission conditionally approves JD.com's acquisition of CECONOMY（11/3）",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2300"
+      },
+      {
+        "name": "Retail Insight Network：EU conditionally approves JD.com's Ceconomy acquisition（11/4）",
+        "url": "https://www.retail-insight-network.com/news/eu-approves-jd-com-ceconomy-acquisition"
+      },
+      {
+        "name": "Reuters（via ETTelecom）：JD.com Receives EU Approval for $2.5 Billion Ceconomy Acquisition（11/4）",
+        "url": "https://telecom.economictimes.indiatimes.com/news/devices/jd-com-wins-eu-approval-for-acquisition-of-germany-electronic-products-retailer-ceconomy/135519523"
+      },
+      {
+        "name": "China Daily：EU approves JD takeover of Germany's Ceconomy（11/5）",
+        "url": "https://global.chinadaily.com.cn/a/202611/05/WS6aeb8163e4b0aac4cf1ee3b7.html"
+      },
+      {
+        "name": "Global Times：EU approval of JD.com-Ceconomy acquisition shows dialogue works（11/4）",
+        "url": "https://www.globaltimes.cn/page/202611/1373666.shtml"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-05",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/3】Zalando Q3 GMV +7.5% 到 €45 億、合作夥伴佔比升到 33.6%：推 Zalando Extended，2027 年起 AI 代理替買家到外站結帳",
+    "summary": "歐洲最大時尚平台加速轉向平台模式，成長來自第三方與 B2B 服務：\n        ① 財報（Zalando，11/3）：集團 GMV €45.4 億、+7.5%，營收 €31.7 億、+5.1%（含 ABOUT YOU 併表；備考口徑 +6.1%、+3.3%）；調整後 EBIT €1.07 億、+10.6%，淨損 €1,800 萬。\n        ② 平台化（Zalando）：合作夥伴佔 B2C GMV 33.6%、一年升 2.9 個百分點，2028 年目標 40–50%；零售媒體營收 +近 18%、佔 B2C GMV 2%；活躍顧客 6,320 萬。\n        ③ Zalando Extended（Zalando）：把其他網店、Zalando 不自售的商品放上平台，2027 年起由 Zalando 自己的 AI 代理替顧客到合作網店結帳；首個試點夥伴是家居電商 Westwing，從大件家居開始。\n        ④ 利潤來源（Edison）：EBIT 成長全來自 B2B（ZEOS 物流、SCAYLE 軟體），B2C 調整後 EBIT 反降 16%；合作夥伴 GMV +17.8%。全年指引維持 GMV 成長 12–17% 區間下半，Q4 約佔全年 EBIT 44%。\n        結論：歐洲垂直平台正從自營零售轉向「收佣金 + 賣物流 + 賣廣告」。",
+    "public_impact": "Zalando 11 月 3 日公布第三季財報，集團商品交易總額 45.4 億歐元、年增 7.5%，調整後營業利益 1.07 億歐元、年增 10.6%，但利潤成長全部來自 ZEOS 物流與 SCAYLE 軟體等 B2B 服務，消費端利潤反而下降。第三方合作夥伴已佔消費端交易額 33.6%，2028 年目標 40% 至 50%，零售媒體營收成長近 18%。Zalando 同時推出 Zalando Extended，2027 年起由自家 AI 代理替顧客到合作網店結帳，首個試點是家居電商 Westwing。歐洲時尚與家居類目的平台正從自營轉向收佣金、賣物流與賣廣告，第三方品牌的進入管道變多，平台間的流量與費用比較也更重要。",
+    "public_action": "① 時尚、鞋包、運動與家居賣家評估 Zalando 合作夥伴計畫的佣金與物流費用，與現有通路比較；② 多通路賣家比較各平台的多通路物流服務範圍與成本；③ 旺季廣告預算提早排定，因應各平台零售媒體擴張帶來的競價上升；④ 關注 AI 代理購物對商品資料完整度的要求，先把商品標題、規格與圖片整理好。",
+    "sources": [
+      {
+        "name": "Zalando（EQS-News，Deutsche Börse）：Zalando grows profitably in Q3（11/3）",
+        "url": "https://live.deutsche-boerse.com/news/EQS-News-Zalando-grows-profitably-in-Q3-driven-by-very-strong-B2B-expansion-and-continues-innovating-through-AI-with-Zalando-Extended-c412e442-9d67-4d6a-88cd-97575f1d2a2f"
+      },
+      {
+        "name": "Zalando：Q3 2026 Earnings Call Presentation（11/3）",
+        "url": "https://corporate.zalando.com/public/media-download/zalando-se_q3-2026_ec-presentation_1.pdf?VersionId=52D7JSHkxdsdteyWdiMcaR4UsR9gytSL"
+      },
+      {
+        "name": "Edison Group：Zalando Q326 results: B2B drives profit growth（11/4）",
+        "url": "https://www.edisongroup.com/spark/zalando-xetr-zal-q326-results-b2b-drives-profit-growth-guidance-rests-on-q4"
+      },
+      {
+        "name": "RTTNews：Zalando Posts Loss In Q3, Revenue Up 5.1%（11/3）",
+        "url": "https://www.rttnews.com/3707486/zalando-posts-loss-in-q3-revenue-up-5-1-confirms-2026-guidance.aspx"
+      },
+      {
+        "name": "Investing.com：Zalando Q3 2026 slides: platform shift drives growth（11/3）",
+        "url": "https://www.investing.com/news/company-news/zalando-q3-2026-slides-platform-shift-drives-growth-pressures-margins-93CH-4994139"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-05",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/3 執委會】直寄電商件 11/1 起報關須附三種商品識別碼：商家編號、製造商型號、EAN/UPC，一件不合規可連帶查同款",
+    "summary": "€2 處理費之外，同一天生效的報關資料新規正式強制執行：\n        ① 三種識別碼（執委會稅務關務總署，11/3）：每項遠距銷售商品須申報商家識別碼（M-PID，平台或網店上的商品編號）、製造商非標準識別碼（NS-PID，型號或料號）、標準識別碼（S-PID，如 EAN、UPC、ISBN）；沒有標準碼要用豁免代碼註明。\n        ② 時程（執委會）：7/1 起自願提供、不罰；11/1 起強制並執法；2028 年 7 月 Customs Data Hub 上線後，資料要求再擴大。\n        ③ 用途（執委會）：一件商品被查出不合規或危險，海關可把結果延伸到所有類似風險商品，即使由其他賣家、其他平台銷售。\n        ④ 由誰申報（執委會、Tech Help Canada）：由申報人（IOSS 持有人、報關代理）填報，資料由平台與製造商沿供應鏈傳遞；平台與物流商可能更早拒收資料不完整的商品。\n        ⑤ 賣家端（Passport）：€150 以下遠距銷售須提供 SKU、製造商料號與 GTIN 類代碼；LinkedIn 上的 Amazon 顧問轉述，Amazon 已通知 FBM 跨境賣家此項要求。\n        結論：商品資料品質從後台問題變成通關門檻。",
+    "public_impact": "歐盟執委會 11 月 3 日公告，自 11 月 1 日起，從歐盟境外遠距銷售給消費者的商品，報關時每項商品須提供三種識別碼：平台或網店的商品編號、製造商型號或料號、以及 EAN、UPC 等國際標準碼；沒有標準碼須以豁免代碼註明。7 月起為自願提供，11 月 1 日起強制並執法，2028 年 7 月海關數據中心上線後資料要求會再擴大。識別碼讓海關能把一件不合規商品的查驗結果延伸到其他賣家、其他平台的同款商品。資料由申報人（IOSS 持有人或報關代理）填報，但需要賣家沿供應鏈提供；資料不完整的商品可能被物流商提前拒收或在通關時延誤。",
+    "public_action": "① 直寄歐洲的賣家確認每個商品都有自有 SKU、製造商型號與 EAN/UPC，沒有標準碼的確認物流商會填豁免代碼；② 跟物流商或報關代理確認系統已能接收三種識別碼；③ 同款商品若在其他平台有大量低價賣家，評估被連帶查驗的風險；④ 把 3 歐元關稅、2 歐元處理費與資料合規成本一起試算，比較直寄與先進口到歐盟境內倉的成本。",
+    "sources": [
+      {
+        "name": "歐盟執委會稅務關務總署：Product identifiers for e-commerce imports mandatory from 1 November 2026（11/3）",
+        "url": "https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en"
+      },
+      {
+        "name": "Tech Help Canada：EU customs changes add product IDs and a €2 fee to online imports（11 月）",
+        "url": "https://techhelp.ca/eu-customs-changes-product-identifiers-2-euro-fee"
+      },
+      {
+        "name": "Passport：EU €2 Handling Fee: What Ecommerce Brands Pay per Item from November 1, 2026",
+        "url": "https://passportglobal.com/blog/blog-eu-handling-fee"
+      },
+      {
+        "name": "LinkedIn（Sebastian Joseph）：Amazon FBM sellers shipping into the EU: a new customs requirement（轉述）",
+        "url": "https://www.linkedin.com/posts/seb-amazonexpert_amazon-fbm-sellers-shipping-into-the-eu-activity-7522923163802976256-oXQP"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-03",
     "type": "daily",
     "tags": [
