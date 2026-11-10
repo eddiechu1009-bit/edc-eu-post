@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/9 ECOFIN】歐盟財長通過電商 VAT 新規：IOSS 取消 €150 上限、平台代收不分金額，2028/7/1 起適用",
+    "summary": "11/3 本報的 Coreper 草案，11/9 財長會議正式達成政治協議，是歐盟海關改革的最後一塊：\n        ① IOSS 不設金額上限（理事會新聞稿）：現行 IOSS 只適用 €150 以下包裹，新規擴及所有價值的商品；也可用於從歐盟「海關倉」出貨的遠距銷售。\n        ② 平台視為供應商（理事會、Meijburg）：Data Hub 上線後，促成境外商品遠距銷售的平台，不論金額都要代收代繳 VAT，結帳價須含全部 VAT 與關稅。\n        ③ 不用 IOSS 就要在目的國登記（Meijburg）：2028/7/1 起，未走 IOSS 的境外遠距銷售，賣家或平台須在消費者所在國登記 VAT；消費稅商品仍排除。\n        ④ 時程（理事會、Meijburg）：先諮詢歐洲議會，再由理事會正式通過；適用日綁 EU Customs Data Hub 上線，若延後就跟著延後。\n        結論：境外直郵高價件從「目的國登記或 DDP 自理」轉為「平台代收」。",
+    "public_impact": "歐盟財長 11 月 9 日就電商進口 VAT 新規達成政治協議。IOSS 不再限 150 歐元以下包裹，所有價值的境外直寄商品都可用一個成員國申報；從歐盟海關倉出貨的遠距銷售也納入。促成這類銷售的平台，不論金額都要代收代繳 VAT，結帳價須含全部 VAT 與關稅。不使用 IOSS 的境外遠距銷售，2028 年 7 月 1 日起須在消費者所在國登記 VAT。新規預定 2028 年 7 月 1 日適用，但綁定歐盟海關資料中心上線，若延後就跟著延後。已把貨放在歐盟倉庫出貨的賣家屬於歐盟境內銷售，不受這次規則影響；主要影響從歐盟境外直寄消費者的賣家。",
+    "public_action": "① 先確認自己的歐盟訂單是境外直寄還是歐盟倉出貨，只有前者受影響；② 境外直寄高價商品的賣家，提早規劃含稅定價，不要假設消費者會在進口時另外繳稅；③ 目前不需要改流程，新規 2028 年 7 月才適用；④ 追蹤歐洲議會意見、理事會正式通過時間，以及平台公布的結帳與退貨 VAT 處理方式。",
+    "sources": [
+      {
+        "name": "歐盟理事會新聞稿：Council approves further VAT simplification rules for online sales（11/9）",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales"
+      },
+      {
+        "name": "Meijburg & Co（KPMG 荷蘭稅務）：EU reaches political agreement on extending distance sales, IOSS and the deemed supplier rule（11/9）",
+        "url": "https://www.meijburg.com/news/eu-reaches-political-agreement-extending-distance-sales-ioss-and-deemed-supplier-rule-imports"
+      },
+      {
+        "name": "PwC Deutschland：EU Council approves further VAT simplification rules（11/9）",
+        "url": "https://blogs.pwc.de/de/german-tax-and-legal-news/article/257716/eu-council-approves-further-vat-simplification-rules-for-online-sales"
+      },
+      {
+        "name": "INSIGHT EU Monitoring：EU finance ministers agree VAT reform（11/10）",
+        "url": "https://ieu-monitoring.com/editorial/eu-finance-ministers-agree-vat-reform-approve-italys-fiscal-flexibility-fail-on-tobacco-tax/1254398"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/5】BoE 以 8–1 升息一碼到 4%、2023 年 8 月來首升：通膨料明年中到 5%，Bailey 稱「不一定是最後一次」",
+    "summary": "11/3 本報的前瞻成真，BoE 結束 10 次會議按兵不動：\n        ① 決議（Central Banking、Financial Reporter）：MPC 8–1 通過升息 25 個基點，從 3.75% 到 4%；唯一異議的 Catherine Mann 主張一次升 50 個基點，所以九人都贊成升息。上次會議只有 3 人投升息。\n        ② 通膨（Financial Reporter）：9 月 CPI 3.5%、連三個月上升；BoE 預估明年中升到約 5% 才回落。會議紀要稱能源以外的漲價與加薪「證據有限」，但已累積足夠壓力。\n        ③ 前瞻（AP）：Bailey 說這次「不應被視為一連串升息的第一步」，但「除非中東衝突解決，也不太可能是最後一次」。美國期中選舉後油價下跌若持續，明年通膨高點可能低於 5%。\n        ④ 市場（Financial Reporter）：市場定價到 2027 年底共升 125 個基點；經濟學家多數估 2027 年初再升一碼到 4.25%。\n        結論：英國借貸成本進入上行，路徑取決於伊朗局勢與油價。",
+    "public_impact": "英格蘭銀行 11 月 5 日以 8 比 1 升息一碼到 4%，是 2023 年 8 月以來首次升息；唯一異議委員主張一次升兩碼。9 月 CPI 3.5%，英格蘭銀行預估明年中升到約 5%。總裁 Bailey 表示這次不一定是一連串升息的起點，但除非中東衝突解決，也不太可能是最後一次。市場定價到 2027 年底共升 125 個基點，經濟學家多數估 2027 年初再升一碼。英國消費者的房貸、信用卡利率與能源帳單同時上升，非必需品需求承壓；以英鎊借款備貨的賣家，旺季資金成本也會增加。",
+    "public_action": "① 英國站旺季補貨以實際銷量為準，不要超額備貨，避免 1 月滯銷同時負擔倉儲費與利息；② 推廣預算優先放在必需品與中低價位商品；③ 英鎊短期可能獲支撐，但不要把匯率當成降價空間；④ 追蹤 11 月 20 日英國 10 月官方零售數據、12 月英格蘭銀行會議與油價走勢。",
+    "sources": [
+      {
+        "name": "AP：BoE hikes rate for first time in 3 years（11/5）",
+        "url": "https://apnews.com/article/britain-economy-interest-rates-dce506792fe3b452ec4c3982147286f3"
+      },
+      {
+        "name": "Central Banking：Bank of England makes first rate hike since 2023（11/5，付費牆，只引公開導言）",
+        "url": "https://www.centralbanking.com/central-banks/monetary-policy/monetary-policy-decisions/7977775/bank-of-england-makes-first-rate-hike-since-2023"
+      },
+      {
+        "name": "Financial Reporter：Interest rates increase to 4% as all MPC members vote for a rise（11/5）",
+        "url": "https://www.financialreporter.co.uk/bank-of-england-increases-interest-rates-to-4.html"
+      },
+      {
+        "name": "Reuters：Bank of England poised to hike rates for first time in 3 years（11/5，付費牆）",
+        "url": "https://www.reuters.com/world/uk/bank-england-poised-hike-rates-first-time-3-years-2026-11-05"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/10 英國】BRC 10 月零售 +1.5%、6 月來最強，但非食品零成長：Barclays 消費信心跌到 4 月來最低",
+    "summary": "帳面成長來自食品與油錢，非必需品買氣等黑五：\n        ① BRC-KPMG（investingLive、The Grocer，10/31 止四週）：總零售年增 1.5%（9 月 1.3%），同店 +1.1%；食品 +3.2%，非食品 0%（去年同期 +0.1%）。BRC 提到政府呼籲家庭備緊急物資，帶動乾貨小增。\n        ② Barclays 刷卡（investingLive、IndexBox）：消費支出年增 2.3%，2025 年 7 月來最大；但必需品 +3.1% 主要靠燃料支出 +22.7%，非必需品 +1.9%。\n        ③ 信心（IndexBox）：Barclays 消費者對英國經濟的信心是 4 月以來最低（10/23–10/27 調查）。\n        ④ 業界說法（The Grocer、IndexBox）：KPMG 稱家庭成本高、部分消費者把購買延到黑五；BRC 執行長 Dickinson 希望「累積的需求在 11、12 月轉成支出」，但利率與能源帳單上升會推高物價。\n        結論：數字變好看主要是油價推高支出，不代表實質需求回溫。",
+    "public_impact": "英國零售業協會 10 月零售年增 1.5%，是 6 月以來最強，但食品成長 3.2%、非食品零成長。Barclays 刷卡支出年增 2.3%，不過必需品的成長主要來自燃料支出大增 22.7%；消費者對英國經濟的信心降到 4 月以來最低。業界指出部分消費者把購買延到黑色星期五。英國需求可能集中在 11 月底的促銷週，之後到聖誕節的買氣受利率與能源成本壓抑，價格敏感度偏高。",
+    "public_action": "① 英國站黑色星期五主力商品提早入倉，不要把補貨拖到 12 月；② 較大的折扣集中在黑色星期五到網路星期一，11 月上旬以小額優惠暖身；③ 定價要讓消費者有感，但先算清楚毛利底線；④ 旺季銷售預估維持保守，追蹤 11 月 20 日英國官方 10 月零售數據。",
+    "sources": [
+      {
+        "name": "investingLive：UK retail sales rise 1.5%, best since June（11/10）",
+        "url": "https://investinglive.com/news/uk-retail-sales-rise-1-5-best-since-june-but-fuel-costs-and-budget-caution-weigh-0"
+      },
+      {
+        "name": "IndexBox：UK Retail Spending Grows Modestly in October（11/10）",
+        "url": "https://www.indexbox.io/blog/uk-retail-spending-grows-modestly-in-october-brc-and-barclays-surveys-show"
+      },
+      {
+        "name": "The Grocer：Halloween boosts food sales but retail spending stalls ahead of Black Friday（11/10）",
+        "url": "https://www.thegrocer.co.uk/news/halloween-boosts-food-sales-but-retail-spending-stalls-ahead-of-black-friday/725713.article"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/4–11/9】Shein 加碼 €5 億擴建波蘭倉、年底員工破萬：機器人 6,500 台，部分歐洲訂單 48 小時到貨",
+    "summary": "€3 關稅與 €2 處理費上路後，直郵龍頭把重心移到歐盟當地倉：\n        ① 投資規模（Notes from Poland、Brussels Signal）：Shein 投資 €5 億（約 22 億茲羅提）擴建弗羅茨瓦夫附近 Magnice 物流中心，2022 年以來在波蘭累計約 €10 億；面積擴大 25% 到約 100 萬平方公尺，與 Logicor 合作。\n        ② 產能（TVP World、Notes from Poland）：新增約 2,000 個職缺，年底員工達 1 萬人；自主機器人 6,500 台，部分訂單 48 小時內送達。\n        ③ 背景（TVP World）：7/1 起 €150 以下直郵件每個品類課 €3 暫行關稅；11/1 起再加每個品類 €2 處理費，不論金額。\n        ④ 壓力（Notes from Poland）：Shein 歐洲 Q2 銷售年減 13.9% 到 $37.7 億，淨利 -67%。\n        ⑤ 在地賣家（Brussels Signal）：2025 年 4 月開放波蘭市集後，已有逾 500 個當地品牌上架。\n        結論：低價平台的歐洲模式正從「直郵」轉向「當地倉＋市集」。",
+    "public_impact": "Shein 宣布投資 5 億歐元擴建波蘭弗羅茨瓦夫附近的物流中心，2022 年以來在波蘭累計投資約 10 億歐元；年底員工將達 1 萬人、自主機器人 6,500 台，部分歐洲訂單可在 48 小時內送達。背景是歐盟 7 月起對 150 歐元以下直寄包裹每個品類課 3 歐元暫行關稅，11 月起再加每個品類 2 歐元處理費。Shein 第二季歐洲銷售年減 13.9%。低價平台正從境外直寄轉向歐盟當地倉，配送速度不再是當地倉賣家獨有的優勢，時尚、家居等低價品類的價格與速度競爭會更激烈；波蘭與中東歐的倉儲及人力資源也可能更吃緊。",
+    "public_action": "① 仍從歐盟境外直寄的賣家，用每品類 3 歐元關稅加 2 歐元處理費重算單件成本，和歐盟倉出貨比較；② 低價品類的主力商品重新比對競品價格帶，除了配送速度也要有價格理由；③ 使用波蘭或中東歐第三方倉的賣家，留意明年倉儲與尾程報價變化；④ 追蹤其他低價平台是否跟進擴建歐洲倉。",
+    "sources": [
+      {
+        "name": "Notes from Poland：Shein to invest €500 million in Polish logistics hub（11/5）",
+        "url": "https://notesfrompoland.com/2026/11/05/chinese-fashion-platform-shein-to-invest-e500-million-in-polish-logistics-hub"
+      },
+      {
+        "name": "Brussels Signal：Shein pours €500 million into Polish logistics hub（11/9）",
+        "url": "https://brusselssignal.eu/2026/11/shein-pours-e500-million-into-polish-logistics-hub-amid-eu-regulatory-scrutiny"
+      },
+      {
+        "name": "TVP World：Shein to invest €500 mln in Polish hub as EU parcel fees bite（11/4）",
+        "url": "https://tvpworld.com/96306912/magnice-shein-to-invest-500m-in-polish-logistics-hub-amid-eu-small-parcel-charges"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/9】Amazon 新設「EU 新興站點」總經理統管比、愛、荷、波、瑞五國：荷蘭、比利時、瑞典換上新國家經理",
+    "summary": "Amazon 把歐盟五個較新的站點整合在一位總經理之下：\n        ① 新職位（aboutamazon.eu、RetailDetail）：原 Amazon 瑞典負責人 Gulfem Toygar 出任新設的 EU Emerging Stores 總經理，負責比利時、愛爾蘭、荷蘭、波蘭、瑞典五國。\n        ② 三位新國家經理（aboutamazon.eu、RetailDetail）：比利時 Yannick Van Heers（原負責比荷德取貨與退貨網路策略）、荷蘭 Christianne Deregnaucourt-Lebouille（過去三年主導歐盟 Prime 會員計畫）、瑞典 Julian Tydeman（2020 年 Amazon.se 開站團隊成員）。\n        ③ 對外說法（aboutamazon.eu）：Toygar 稱人事反映新興站點的成長動能；Van Heers 的目標是讓 amazon.com.be 成為比利時企業「賣到全歐洲的跳板」。\n        ④ 交叉報導（Telecompaper）：同日報導 Tydeman 接替 Toygar 成為瑞典負責人。\n        結論：五個新興站點從各自經營改為集中管理。",
+    "public_impact": "Amazon 11 月 9 日宣布新設歐盟新興站點總經理，由原瑞典負責人 Gulfem Toygar 出任，統管比利時、愛爾蘭、荷蘭、波蘭與瑞典五國；荷蘭、比利時、瑞典同步換上新的國家經理，荷蘭新任經理過去三年主導歐盟 Prime 會員計畫。這五個站點從各自經營改為集中管理，對已在德、法、義、西、英經營的賣家來說，是評估下一步擴站的參考訊號。",
+    "public_action": "① 已在歐洲主要五站上架的賣家，可把荷蘭、瑞典、波蘭、比利時、愛爾蘭列入下一波擴站評估；② 擴站前先確認各站的語言、VAT 與配送要求；③ 留意這五站在年底旺季是否推出站點專屬的促銷或賣家計畫。",
+    "sources": [
+      {
+        "name": "About Amazon EU：Amazon announced new Country Managers in Belgium, the Netherlands and Sweden（11/9）",
+        "url": "https://www.aboutamazon.eu/news/company-news/amazon-leadership-update-belgium-sweden-netherlands"
+      },
+      {
+        "name": "RetailDetail EU：Amazon appoints new country managers in Belgium, the Netherlands and Sweden（11/9）",
+        "url": "https://www.retaildetail.eu/news/general/amazon-belgium-has-a-new-country-manager"
+      },
+      {
+        "name": "Telecompaper：Amazon creates role leading EU Emerging Stores（11/9）",
+        "url": "https://www.telecompaper.com/news/amazon-creates-role-leading-eu-emerging-stores--1588269"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-05",
     "type": "daily",
     "tags": [

@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/9 ECOFIN】歐盟財長通過電商 VAT 新規：IOSS 取消 €150 上限、平台代收不分金額，2028/7/1 起適用",
+    "summary": "11/3 本報的 Coreper 草案，11/9 財長會議正式達成政治協議，是歐盟海關改革的最後一塊：\n        ① IOSS 不設金額上限（理事會新聞稿）：現行 IOSS 只適用 €150 以下包裹，新規擴及所有價值的商品；也可用於從歐盟「海關倉」出貨的遠距銷售。\n        ② 平台視為供應商（理事會、Meijburg）：Data Hub 上線後，促成境外商品遠距銷售的平台，不論金額都要代收代繳 VAT，結帳價須含全部 VAT 與關稅。\n        ③ 不用 IOSS 就要在目的國登記（Meijburg）：2028/7/1 起，未走 IOSS 的境外遠距銷售，賣家或平台須在消費者所在國登記 VAT；消費稅商品仍排除。\n        ④ 時程（理事會、Meijburg）：先諮詢歐洲議會，再由理事會正式通過；適用日綁 EU Customs Data Hub 上線，若延後就跟著延後。\n        結論：境外直郵高價件從「目的國登記或 DDP 自理」轉為「平台代收」。",
+    "public_impact": "歐盟財長 11 月 9 日就電商進口 VAT 新規達成政治協議。IOSS 不再限 150 歐元以下包裹，所有價值的境外直寄商品都可用一個成員國申報；從歐盟海關倉出貨的遠距銷售也納入。促成這類銷售的平台，不論金額都要代收代繳 VAT，結帳價須含全部 VAT 與關稅。不使用 IOSS 的境外遠距銷售，2028 年 7 月 1 日起須在消費者所在國登記 VAT。新規預定 2028 年 7 月 1 日適用，但綁定歐盟海關資料中心上線，若延後就跟著延後。已把貨放在歐盟倉庫出貨的賣家屬於歐盟境內銷售，不受這次規則影響；主要影響從歐盟境外直寄消費者的賣家。",
+    "public_action": "① 先確認自己的歐盟訂單是境外直寄還是歐盟倉出貨，只有前者受影響；② 境外直寄高價商品的賣家，提早規劃含稅定價，不要假設消費者會在進口時另外繳稅；③ 目前不需要改流程，新規 2028 年 7 月才適用；④ 追蹤歐洲議會意見、理事會正式通過時間，以及平台公布的結帳與退貨 VAT 處理方式。",
+    "sources": [
+      {
+        "name": "歐盟理事會新聞稿：Council approves further VAT simplification rules for online sales（11/9）",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales"
+      },
+      {
+        "name": "Meijburg & Co（KPMG 荷蘭稅務）：EU reaches political agreement on extending distance sales, IOSS and the deemed supplier rule（11/9）",
+        "url": "https://www.meijburg.com/news/eu-reaches-political-agreement-extending-distance-sales-ioss-and-deemed-supplier-rule-imports"
+      },
+      {
+        "name": "PwC Deutschland：EU Council approves further VAT simplification rules（11/9）",
+        "url": "https://blogs.pwc.de/de/german-tax-and-legal-news/article/257716/eu-council-approves-further-vat-simplification-rules-for-online-sales"
+      },
+      {
+        "name": "INSIGHT EU Monitoring：EU finance ministers agree VAT reform（11/10）",
+        "url": "https://ieu-monitoring.com/editorial/eu-finance-ministers-agree-vat-reform-approve-italys-fiscal-flexibility-fail-on-tobacco-tax/1254398"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/5】BoE 以 8–1 升息一碼到 4%、2023 年 8 月來首升：通膨料明年中到 5%，Bailey 稱「不一定是最後一次」",
+    "summary": "11/3 本報的前瞻成真，BoE 結束 10 次會議按兵不動：\n        ① 決議（Central Banking、Financial Reporter）：MPC 8–1 通過升息 25 個基點，從 3.75% 到 4%；唯一異議的 Catherine Mann 主張一次升 50 個基點，所以九人都贊成升息。上次會議只有 3 人投升息。\n        ② 通膨（Financial Reporter）：9 月 CPI 3.5%、連三個月上升；BoE 預估明年中升到約 5% 才回落。會議紀要稱能源以外的漲價與加薪「證據有限」，但已累積足夠壓力。\n        ③ 前瞻（AP）：Bailey 說這次「不應被視為一連串升息的第一步」，但「除非中東衝突解決，也不太可能是最後一次」。美國期中選舉後油價下跌若持續，明年通膨高點可能低於 5%。\n        ④ 市場（Financial Reporter）：市場定價到 2027 年底共升 125 個基點；經濟學家多數估 2027 年初再升一碼到 4.25%。\n        結論：英國借貸成本進入上行，路徑取決於伊朗局勢與油價。",
+    "public_impact": "英格蘭銀行 11 月 5 日以 8 比 1 升息一碼到 4%，是 2023 年 8 月以來首次升息；唯一異議委員主張一次升兩碼。9 月 CPI 3.5%，英格蘭銀行預估明年中升到約 5%。總裁 Bailey 表示這次不一定是一連串升息的起點，但除非中東衝突解決，也不太可能是最後一次。市場定價到 2027 年底共升 125 個基點，經濟學家多數估 2027 年初再升一碼。英國消費者的房貸、信用卡利率與能源帳單同時上升，非必需品需求承壓；以英鎊借款備貨的賣家，旺季資金成本也會增加。",
+    "public_action": "① 英國站旺季補貨以實際銷量為準，不要超額備貨，避免 1 月滯銷同時負擔倉儲費與利息；② 推廣預算優先放在必需品與中低價位商品；③ 英鎊短期可能獲支撐，但不要把匯率當成降價空間；④ 追蹤 11 月 20 日英國 10 月官方零售數據、12 月英格蘭銀行會議與油價走勢。",
+    "sources": [
+      {
+        "name": "AP：BoE hikes rate for first time in 3 years（11/5）",
+        "url": "https://apnews.com/article/britain-economy-interest-rates-dce506792fe3b452ec4c3982147286f3"
+      },
+      {
+        "name": "Central Banking：Bank of England makes first rate hike since 2023（11/5，付費牆，只引公開導言）",
+        "url": "https://www.centralbanking.com/central-banks/monetary-policy/monetary-policy-decisions/7977775/bank-of-england-makes-first-rate-hike-since-2023"
+      },
+      {
+        "name": "Financial Reporter：Interest rates increase to 4% as all MPC members vote for a rise（11/5）",
+        "url": "https://www.financialreporter.co.uk/bank-of-england-increases-interest-rates-to-4.html"
+      },
+      {
+        "name": "Reuters：Bank of England poised to hike rates for first time in 3 years（11/5，付費牆）",
+        "url": "https://www.reuters.com/world/uk/bank-england-poised-hike-rates-first-time-3-years-2026-11-05"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/10 英國】BRC 10 月零售 +1.5%、6 月來最強，但非食品零成長：Barclays 消費信心跌到 4 月來最低",
+    "summary": "帳面成長來自食品與油錢，非必需品買氣等黑五：\n        ① BRC-KPMG（investingLive、The Grocer，10/31 止四週）：總零售年增 1.5%（9 月 1.3%），同店 +1.1%；食品 +3.2%，非食品 0%（去年同期 +0.1%）。BRC 提到政府呼籲家庭備緊急物資，帶動乾貨小增。\n        ② Barclays 刷卡（investingLive、IndexBox）：消費支出年增 2.3%，2025 年 7 月來最大；但必需品 +3.1% 主要靠燃料支出 +22.7%，非必需品 +1.9%。\n        ③ 信心（IndexBox）：Barclays 消費者對英國經濟的信心是 4 月以來最低（10/23–10/27 調查）。\n        ④ 業界說法（The Grocer、IndexBox）：KPMG 稱家庭成本高、部分消費者把購買延到黑五；BRC 執行長 Dickinson 希望「累積的需求在 11、12 月轉成支出」，但利率與能源帳單上升會推高物價。\n        結論：數字變好看主要是油價推高支出，不代表實質需求回溫。",
+    "public_impact": "英國零售業協會 10 月零售年增 1.5%，是 6 月以來最強，但食品成長 3.2%、非食品零成長。Barclays 刷卡支出年增 2.3%，不過必需品的成長主要來自燃料支出大增 22.7%；消費者對英國經濟的信心降到 4 月以來最低。業界指出部分消費者把購買延到黑色星期五。英國需求可能集中在 11 月底的促銷週，之後到聖誕節的買氣受利率與能源成本壓抑，價格敏感度偏高。",
+    "public_action": "① 英國站黑色星期五主力商品提早入倉，不要把補貨拖到 12 月；② 較大的折扣集中在黑色星期五到網路星期一，11 月上旬以小額優惠暖身；③ 定價要讓消費者有感，但先算清楚毛利底線；④ 旺季銷售預估維持保守，追蹤 11 月 20 日英國官方 10 月零售數據。",
+    "sources": [
+      {
+        "name": "investingLive：UK retail sales rise 1.5%, best since June（11/10）",
+        "url": "https://investinglive.com/news/uk-retail-sales-rise-1-5-best-since-june-but-fuel-costs-and-budget-caution-weigh-0"
+      },
+      {
+        "name": "IndexBox：UK Retail Spending Grows Modestly in October（11/10）",
+        "url": "https://www.indexbox.io/blog/uk-retail-spending-grows-modestly-in-october-brc-and-barclays-surveys-show"
+      },
+      {
+        "name": "The Grocer：Halloween boosts food sales but retail spending stalls ahead of Black Friday（11/10）",
+        "url": "https://www.thegrocer.co.uk/news/halloween-boosts-food-sales-but-retail-spending-stalls-ahead-of-black-friday/725713.article"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/4–11/9】Shein 加碼 €5 億擴建波蘭倉、年底員工破萬：機器人 6,500 台，部分歐洲訂單 48 小時到貨",
+    "summary": "€3 關稅與 €2 處理費上路後，直郵龍頭把重心移到歐盟當地倉：\n        ① 投資規模（Notes from Poland、Brussels Signal）：Shein 投資 €5 億（約 22 億茲羅提）擴建弗羅茨瓦夫附近 Magnice 物流中心，2022 年以來在波蘭累計約 €10 億；面積擴大 25% 到約 100 萬平方公尺，與 Logicor 合作。\n        ② 產能（TVP World、Notes from Poland）：新增約 2,000 個職缺，年底員工達 1 萬人；自主機器人 6,500 台，部分訂單 48 小時內送達。\n        ③ 背景（TVP World）：7/1 起 €150 以下直郵件每個品類課 €3 暫行關稅；11/1 起再加每個品類 €2 處理費，不論金額。\n        ④ 壓力（Notes from Poland）：Shein 歐洲 Q2 銷售年減 13.9% 到 $37.7 億，淨利 -67%。\n        ⑤ 在地賣家（Brussels Signal）：2025 年 4 月開放波蘭市集後，已有逾 500 個當地品牌上架。\n        結論：低價平台的歐洲模式正從「直郵」轉向「當地倉＋市集」。",
+    "public_impact": "Shein 宣布投資 5 億歐元擴建波蘭弗羅茨瓦夫附近的物流中心，2022 年以來在波蘭累計投資約 10 億歐元；年底員工將達 1 萬人、自主機器人 6,500 台，部分歐洲訂單可在 48 小時內送達。背景是歐盟 7 月起對 150 歐元以下直寄包裹每個品類課 3 歐元暫行關稅，11 月起再加每個品類 2 歐元處理費。Shein 第二季歐洲銷售年減 13.9%。低價平台正從境外直寄轉向歐盟當地倉，配送速度不再是當地倉賣家獨有的優勢，時尚、家居等低價品類的價格與速度競爭會更激烈；波蘭與中東歐的倉儲及人力資源也可能更吃緊。",
+    "public_action": "① 仍從歐盟境外直寄的賣家，用每品類 3 歐元關稅加 2 歐元處理費重算單件成本，和歐盟倉出貨比較；② 低價品類的主力商品重新比對競品價格帶，除了配送速度也要有價格理由；③ 使用波蘭或中東歐第三方倉的賣家，留意明年倉儲與尾程報價變化；④ 追蹤其他低價平台是否跟進擴建歐洲倉。",
+    "sources": [
+      {
+        "name": "Notes from Poland：Shein to invest €500 million in Polish logistics hub（11/5）",
+        "url": "https://notesfrompoland.com/2026/11/05/chinese-fashion-platform-shein-to-invest-e500-million-in-polish-logistics-hub"
+      },
+      {
+        "name": "Brussels Signal：Shein pours €500 million into Polish logistics hub（11/9）",
+        "url": "https://brusselssignal.eu/2026/11/shein-pours-e500-million-into-polish-logistics-hub-amid-eu-regulatory-scrutiny"
+      },
+      {
+        "name": "TVP World：Shein to invest €500 mln in Polish hub as EU parcel fees bite（11/4）",
+        "url": "https://tvpworld.com/96306912/magnice-shein-to-invest-500m-in-polish-logistics-hub-amid-eu-small-parcel-charges"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/9】Amazon 新設「EU 新興站點」總經理統管比、愛、荷、波、瑞五國：荷蘭、比利時、瑞典換上新國家經理",
+    "summary": "Amazon 把歐盟五個較新的站點整合在一位總經理之下：\n        ① 新職位（aboutamazon.eu、RetailDetail）：原 Amazon 瑞典負責人 Gulfem Toygar 出任新設的 EU Emerging Stores 總經理，負責比利時、愛爾蘭、荷蘭、波蘭、瑞典五國。\n        ② 三位新國家經理（aboutamazon.eu、RetailDetail）：比利時 Yannick Van Heers（原負責比荷德取貨與退貨網路策略）、荷蘭 Christianne Deregnaucourt-Lebouille（過去三年主導歐盟 Prime 會員計畫）、瑞典 Julian Tydeman（2020 年 Amazon.se 開站團隊成員）。\n        ③ 對外說法（aboutamazon.eu）：Toygar 稱人事反映新興站點的成長動能；Van Heers 的目標是讓 amazon.com.be 成為比利時企業「賣到全歐洲的跳板」。\n        ④ 交叉報導（Telecompaper）：同日報導 Tydeman 接替 Toygar 成為瑞典負責人。\n        結論：五個新興站點從各自經營改為集中管理。",
+    "public_impact": "Amazon 11 月 9 日宣布新設歐盟新興站點總經理，由原瑞典負責人 Gulfem Toygar 出任，統管比利時、愛爾蘭、荷蘭、波蘭與瑞典五國；荷蘭、比利時、瑞典同步換上新的國家經理，荷蘭新任經理過去三年主導歐盟 Prime 會員計畫。這五個站點從各自經營改為集中管理，對已在德、法、義、西、英經營的賣家來說，是評估下一步擴站的參考訊號。",
+    "public_action": "① 已在歐洲主要五站上架的賣家，可把荷蘭、瑞典、波蘭、比利時、愛爾蘭列入下一波擴站評估；② 擴站前先確認各站的語言、VAT 與配送要求；③ 留意這五站在年底旺季是否推出站點專屬的促銷或賣家計畫。",
+    "sources": [
+      {
+        "name": "About Amazon EU：Amazon announced new Country Managers in Belgium, the Netherlands and Sweden（11/9）",
+        "url": "https://www.aboutamazon.eu/news/company-news/amazon-leadership-update-belgium-sweden-netherlands"
+      },
+      {
+        "name": "RetailDetail EU：Amazon appoints new country managers in Belgium, the Netherlands and Sweden（11/9）",
+        "url": "https://www.retaildetail.eu/news/general/amazon-belgium-has-a-new-country-manager"
+      },
+      {
+        "name": "Telecompaper：Amazon creates role leading EU Emerging Stores（11/9）",
+        "url": "https://www.telecompaper.com/news/amazon-creates-role-leading-eu-emerging-stores--1588269"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-05",
     "type": "daily",
     "tags": [
@@ -2273,590 +2411,6 @@
       {
         "name": "Euronews：EU paid €7.9bn for Russian Arctic LNG amid record imports（10/9）",
         "url": "https://www.euronews.com/2026/10/09/eu-paid-79bn-for-russian-arctic-lng-amid-record-imports"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-10-09",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/8】德國政府上修今年成長到 1.3%（4 月 0.5%）、明年通膨 3.0%：同日 8 月出口月減 0.8%、對美 -6.3%",
-    "summary": "同一天兩組德國數字方向相反：\n        ① 政府預測（Reuters、Euronews）：經濟部把 2026 年 GDP 成長從 4 月的 0.5% 上修到 1.3%，2027 年從 0.9% 上修到 1.1%，2028 年 0.6%，與主要研究所一致。通膨預估 2026 年 2.7%、2027 年 3.0%；實質家庭消費只 +0.3%、+0.5%。部長 Reiche 稱經濟「比春季預期更穩」，動能來自國防與基建支出及 AI 設備需求。\n        ② 8 月貿易（Destatis）：出口 €1,376 億、月減 0.8%（年增 6.2%），連兩個月下滑；進口月增 0.9%。對美出口月減 6.3%；自中國進口 €168 億、月增 11.0%。1–8 月自中進口年增 10.1%，對中出口 -12.9%。\n        ③ ING：「貿易是德國韌性失守的地方」，河川低水位可能拖累 7–8 月出口。\n        結論：成長靠政府支出撐，消費仍弱，中國貨持續流入。",
-    "public_impact": "德國經濟部 10 月 8 日把 2026 年經濟成長預測從 0.5% 上修到 1.3%，但同時預估 2027 年通膨升到 3.0%、今年實質家庭消費只成長 0.3%，成長動能主要來自國防、基建支出與出口。同日公布的 8 月貿易數據顯示，出口月減 0.8%、對美出口月減 6.3%，自中國進口則月增 11%，前八月自中進口年增 10.1%。對消費品賣家而言，德國旺季需求仍以價格敏感為主；中國製商品持續增加，同品類價格競爭會延續。工業零組件與設備類的企業採購需求相對較強。",
-    "public_action": "① 德國旺季備貨以近期大促實績為依據，不因成長預測上修而額外加量；② 檢查主力商品在德國站的競品來源，若中國賣家占比上升，考慮組合包或強化規格差異；③ 工業零組件、工具類賣家可評估企業採購通路，設定階梯價並備妥增值稅發票；④ 留意 10 月 13 日德國 9 月 CPI 終值與 10 月 20 日 ZEW 景氣調查。",
-    "sources": [
-      {
-        "name": "Destatis：Exports, August 2026（10/8）",
-        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_356_51.html"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：German government raises growth forecasts（10/8）",
-        "url": "https://www.investing.com/news/economic-indicators/german-government-raises-growth-forecasts-for-2026-and-2027-4938363"
-      },
-      {
-        "name": "Euronews：Germany lifts GDP forecast（10/8）",
-        "url": "https://www.euronews.com/2026/10/08/germany-lifts-gdp-forecast-as-economy-withstands-iran-war"
-      },
-      {
-        "name": "ING THINK：German exports weakened further over the summer（10/8）",
-        "url": "https://think.ing.com/snaps/german-trade-in-august-2026/"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-10-09",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/8】ECB 紀要不給前瞻指引、Reuters 調查 70/73 預期 10/29 按兵：OECD 估義西法英實質薪資將下滑",
-    "summary": "升息路徑與家庭購買力同日有新訊號：\n        ① ECB 紀要（ING、Reuters）：9/9–10 會議全員支持升 25bp，存款利率到 2.50%，所有委員認為通膨風險偏上；但有委員認為能源衝擊「本質上是政治驅動」、可能很快消退。溝通維持中性，不預設後續路徑。ING 認為債市殖利率上升已等於多升一碼，10 月不會討論升息。\n        ② Reuters 調查（10/5–8，73 位經濟學家）：70 位預期 10/29 維持 2.50%，64 位預期 12 月再升 25bp；2026 年通膨預估上修到 3.0%、2027 年 2.6%。\n        ③ OECD 就業展望（Euronews）：以 2026 Q1 為基準，實質薪資義大利 Q3 -1.9%、英國 Q4 -1.6%、西班牙到 2027 年底仍 -0.7%、法國 Q2 -0.5%；只有德國上升，2027 年底 +1.7%。\n        結論：利率暫停一次，但南歐與英國家庭購買力在縮。",
-    "public_impact": "ECB 10 月 8 日公布的 9 月會議紀要顯示，委員全員支持升息一碼、存款利率到 2.50%，但溝通維持中性、不預設後續路徑。Reuters 同日調查 73 位經濟學家，70 位預期 10 月 29 日按兵不動，64 位預期 12 月再升息。OECD 就業展望則預估，以今年第一季為基準，義大利實質薪資第三季跌 1.9%、英國第四季跌 1.6%、西班牙到 2027 年底仍低 0.7%，只有德國回升。南歐與英國消費者的價格敏感度會更高；歐元缺乏利率支撐，以美元或新台幣計成本的賣家毛利仍受壓。",
-    "public_action": "① 規劃義大利、西班牙市場時，主力價格帶與客單價假設應低於德國，可多用組合包與多件優惠；② 第四季毛利以歐元兌美元 1.11 至 1.13 試算，大促後調價依此重算；③ 英國旺季廣告預算可等 10 月 28 日預算案後再定；④ 留意 10 月 16 日歐元區 9 月通膨終值與 10 月 29 日 ECB 會議。",
-    "sources": [
-      {
-        "name": "ING THINK：ECB's September minutes reveal full support for 25bp rate hike（10/8）",
-        "url": "https://think.ing.com/snaps/ecb-minutes-sep26-meeting/"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：ECB to hike rates again in December: Reuters poll（10/8）",
-        "url": "https://www.investing.com/news/economy-news/ecb-to-hike-rates-again-in-december-as-inflation-almost-doubles-2-target-reuters-poll-4938304"
-      },
-      {
-        "name": "Euronews：Real wages set to fall in major European economies, except Germany（10/8）",
-        "url": "https://www.euronews.com/2026/10/08/real-wages-set-to-fall-in-major-european-economies-except-germany"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Euro skids toward fifth weekly fall（10/9）",
-        "url": "https://www.investing.com/news/economy-news/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows-4940078"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-10-09",
-    "type": "daily",
-    "tags": [
-      "貿易"
-    ],
-    "title": "【10/8】Šefčovič 北京會談最後一天：44 個歐洲產業公會聯名要求動用貿易工具，人行同日反駁人民幣低估",
-    "summary": "10/8 日報報的是會談開始；新進展是業界與盟友加壓、中方表態：\n        ① 產業公會（Reuters）：金屬、化工、汽車零件等 44 個歐洲產業公會聯名，要求會員國充分動用貿易防衛工具、審查整條價值鏈而非單一產品、增加執委會人力加速處理申訴，並避免傷及英國、挪威、瑞士。\n        ② 人民銀行（Reuters）：聲明稱「不需要也無意」靠匯率貶值取得貿易優勢；人民幣今年對美元約升 4%。德國總理 Merz 先前稱人民幣低估 25–30%。\n        ③ 產能聲明（Investing.com）：歐盟與十多個 G20 國家 10/7 簽聯合聲明，承諾就產能過剩交換資訊；美國貿易代表 Greer 稱歐盟會員國「一致」認為需要進一步措施。\n        ④ 談判（Euronews、Reuters）：Reuters 稱訪問到 10/9 結束，歐方要求中方限制單一產業對歐出口，「最可能是油電混合車」；截至發稿無結果。\n        結論：下週峰會前，壓力從政府擴大到產業與盟友。",
-    "public_impact": "歐盟貿易執委 Šefčovič 的北京會談進入最後一天，歐方要求中方限制特定產業對歐出口。10 月 8 日，44 個歐洲產業公會聯名要求會員國充分動用貿易防衛工具，並改為審查整條價值鏈而非單一產品；歐盟也與十多個 G20 國家簽署產能過剩的資訊交換聲明。中國人民銀行同日發聲明，否認以匯率貶值取得貿易優勢。若「價值鏈審查」被採納，零組件與中間財也可能被納入，成品在中國以外組裝、但關鍵零件來自中國的商品，原產地與成本風險都會上升。",
-    "public_action": "① 盤點主力商品的關鍵零件來源與原產地判定方式，中國零件占比高者準備替代供應商；② 對歐洲企業買家溝通時，可說明供應鏈分散的現況，但不宜對關稅結果做承諾；③ 留意會談結果與 10 月 15 至 16 日歐盟峰會的對中決議。",
-    "sources": [
-      {
-        "name": "Reuters（Investing.com 轉載）：European industry groups call for urgent EU action on China trade（10/8）",
-        "url": "https://www.investing.com/news/economic-indicators/european-industry-groups-call-for-urgent-eu-action-on-china-trade-4939861"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：China defends yuan policy（10/8）",
-        "url": "https://www.investing.com/news/economy-news/china-has-no-need-or-intention-to-weakenyuan-for-trade-edge-central-bank-says-4938641"
-      },
-      {
-        "name": "Investing.com：US trade chief says EU nations united on tackling Asia capacity（10/8）",
-        "url": "https://www.investing.com/news/economy-news/us-trade-chief-says-eu-nations-united-on-tackling-asia-capacity-93CH-4939686"
-      },
-      {
-        "name": "Euronews：EU-China talks enter critical phase（10/8）",
-        "url": "https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-10-09",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【10/8】美軍備戰消息加颶風減產，Brent 漲 4.1% 收 $104.28、柴油價差 $81：Trump 稱選前不攻擊伊朗，10/9 回落",
-    "summary": "10/8 日報報的是 IEA 加速釋儲；隔天油價反彈，抵銷釋儲效果：\n        ① 原油（Reuters）：Brent 收 $104.28（+4.1%），盤中漲逾 $5、創 9/29 以來高點；WTI 收 $91.49（+3.6%）。觸發點是美媒報導五角大廈要求中央司令部完成恢復「大規模作戰」準備（Euronews），加上颶風 Isaias 使美國墨西哥灣約 130 萬桶／日（62.9%）停產。\n        ② 柴油（Investing.com）：16:26 GMT 低硫柴油對 Brent 溢價 $81.16／桶，單日 +$2.45；德國仍未公布釋儲細節。\n        ③ 回落（Reuters）：Trump 稱與伊朗談判「有成效」、11/3 期中選舉前不攻擊；10/9 02:20 GMT Brent 跌到 $103.53。伊朗提議 7 天內重開荷莫茲海峽，正審閱美方回覆。\n        ④ 中國（Reuters）：10 月恢復成品油出口，核准約 370 萬噸。\n        結論：油價隨政治訊號單日擺 4%，柴油價差續擴大。",
-    "public_impact": "10 月 8 日美媒報導五角大廈要求完成恢復對伊朗大規模作戰的準備，加上颶風使美國墨西哥灣約 130 萬桶／日產量停產，Brent 原油單日漲 4.1% 收在每桶 104.28 美元；歐洲柴油對原油溢價擴大到每桶 81.16 美元。川普隨後表示 11 月 3 日期中選舉前不會攻擊伊朗，10 月 9 日亞洲早盤 Brent 回落到 103.53 美元。原油回落但柴油價差仍在擴大，歐洲卡車與快遞的燃油成本沒有下降，11 月燃油附加費下調機會不大；選後的風險也尚未解除。",
-    "public_action": "① 第四季物流成本以 Brent 每桶 100 至 110 美元試算，不因短線回落而下修；② 自發貨賣家留意物流商 11 月燃油附加費公告，必要時調整免運門檻；③ 旺季後的補貨報價，盡量取得美國期中選舉後的報價有效期；④ 留意 10 月 14 至 15 日 IEA 理事會的釋儲進度。",
-    "sources": [
-      {
-        "name": "Reuters（Investing.com 轉載）：Oil rises 4% on revived Middle East worries, Hurricane Isaias（10/8）",
-        "url": "https://www.investing.com/news/commodities-news/oil-jumps-as-middle-east-supply-concerns-persist-amid-shipping-attacks-4938452"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Oil falls as Trump comments on Iran talks（10/9）",
-        "url": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：China to resume October fuel exports（10/9）",
-        "url": "https://www.investing.com/news/commodities-news/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say-4940140"
-      },
-      {
-        "name": "Euronews：Oil tops $105 as Trump weighs return to Iran combat operations（10/8）",
-        "url": "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war"
-      },
-      {
-        "name": "Investing.com：European diesel margins climb（10/8）",
-        "url": "https://www.investing.com/news/commodities-news/european-diesel-margins-climb-on-middle-east-supply-worries-93CH-4939602"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-10-09",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【10/7 德媒・執委會指引已出】EU 強迫勞動產品禁令 2027/12/14 適用：不新增一般申報義務，德國主管機關仍未指定",
-    "summary": "距適用還有 14 個月，執委會工具已上線，德國執法端還沒到位：\n        ① 規則（執委會）：條例 (EU) 2024/3015 於 2024/11/19 通過，2027/12/14 起禁止以強迫勞動生產的產品在歐盟銷售或出口，不分企業規模。如何防範由企業自行決定；調查時企業可能要說明如何處理供應鏈風險，確認違反就必須遵守處分。\n        ② 工具（執委會）：單一入口網站與準備工具包 2026/6/30 上線，含風險資料庫（查高風險產品與地區）與中小企業檢核表；指引已發布。\n        ③ 德國（OnlinehändlerNews）：除特定嫌疑案件外，沒有新的一般申報義務。會員國原應在 2025/12/14 前指定主管機關，德國至今未定，人選在 BAFA 與海關 FKS 之間；主管機關可要求企業提供資料、下令下架或禁止上市。HDE 批評與供應鏈法、生態設計規則協調不足。\n        結論：不用新申報，但被查時要拿得出供應鏈紀錄。",
-    "public_impact": "歐盟強迫勞動產品禁令（條例 (EU) 2024/3015）將於 2027 年 12 月 14 日起適用，禁止以強迫勞動生產的產品在歐盟銷售或出口，不分企業規模。執委會已於 2026 年 6 月 30 日上線單一入口網站，含高風險產品與地區的資料庫、中小企業檢核表，指引也已發布。除特定嫌疑案件外，沒有新的一般申報義務；但主管機關調查時，業者可能要說明如何處理供應鏈風險，確認違反須下架。德國尚未指定主管機關。原料或半成品來自高風險地區的賣家，需要的供應商聲明與採購紀錄往往要回溯多層，宜提早整理。",
-    "public_action": "① 先用執委會單一入口網站的風險資料庫，查詢主力品類與原料產地是否屬高風險；② 2027 年第二季前整理一級供應商聲明與原料產地紀錄，可與產品安全、毀林條例的供應鏈文件一併管理；③ 目前沒有新的申報義務，不需提交新文件，重點是被查時能提出紀錄；④ 留意德國主管機關的指定進度。",
-    "sources": [
-      {
-        "name": "European Commission：Forced Labour Regulation（官方頁）",
-        "url": "https://single-market-economy.ec.europa.eu/single-market/goods/forced-labour-regulation_en"
-      },
-      {
-        "name": "OnlinehändlerNews：EU-Zwangsarbeitsverordnung: Neue Prüfpflichten für Händler?（10/7）",
-        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/eu-zwangsarbeitsverordnung-pruefpflichten-haendler"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-10-08",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【10/7 IFH Köln】Amazon 占德國線上零售 63%、第三方賣家 46.1%：德國營收 €691 億年增 5%，Temu＋SHEIN 增約 €10 億",
-    "summary": "德國研究機構 IFH Köln 與 General Evidence 10/7 發布 Amazon 德國市場研究（2025 年數據）：\n        ① 市占（IFH）：含 Marketplace 約占德國線上零售 63%，其中第三方賣家 46.1%、Amazon 自營 17.2%。\n        ② 線上線下合計（Ecommerce News 轉述）：17% 的消費直接流向 Amazon，另 24% 受其搜尋、比價或曝光影響，合計 41%，依品類差異大。\n        ③ 規模與客群：德國營收約 €691 億，年增約 €32 億（+5%）；德國網購者 97% 在 Amazon 買過，59% 有 Prime，39% 為重度用戶。\n        ④ 競爭：Otto＋Zalando 合計增約 €14 億，Temu＋SHEIN 增約 €10 億；每 8 名消費者有 1 人已把部分購買轉到 Temu、SHEIN 或 AliExpress。\n        ⑤ 食品：FMCG 線上占比僅 4.9%、整體市場近 €3,000 億；需求最高的是保健食品、飲料與茶、零食、調味醬料。\n        方法：1,002 人代表性線上調查，加上消費者有償提供的 Amazon 訂單資料；調查期間未公布。作者 Heinick：「Amazon 沒有退場，變的是市場動態。」",
-    "public_impact": "德國研究機構 IFH Köln 10 月 7 日發布的研究顯示，Amazon 含第三方市集約占德國線上零售 63%，其中第三方賣家就占 46.1%；德國網購者有 97% 在 Amazon 買過、59% 是 Prime 會員，2025 年德國營收約 691 億歐元、年增 5%。Temu 與 SHEIN 合計一年增加約 10 億歐元，絕對值仍小，但每 8 名消費者有 1 人已把部分購買轉到中國平台，主因是價格。低單價、規格同質的品類最容易被分流。食品與日用品線上滲透率只有 4.9%，保健食品、茶飲、零食、醬料是需求最高的品類，但上架需符合德文標示與食品法規。",
-    "public_action": "① 評估德國市場時，可用第三方賣家占 46.1% 與 97% 網購者觸及率估算潛在客群；② 低於 20 歐元且規格同質的商品，旺季前檢查排名與轉換率，必要時改為組合包或強化規格差異；③ 食品、茶飲與保健品賣家，先確認有歐盟進口商並備妥德文標示，再規劃德國上架；④ 研究原文含品類別市占，選品前可先查閱。",
-    "sources": [
-      {
-        "name": "IFH Köln：新聞稿〈Neue Dynamik im Amazon-Markt〉（10/7）",
-        "url": "https://www.ifhkoeln.de/neue-dynamik-im-amazon-markt-wachsender-wettbewerb-potenziale-im-lebensmittelmarkt/"
-      },
-      {
-        "name": "IFH Köln：研究 PDF（10/7）",
-        "url": "https://www.ifhkoeln.de/wp-content/uploads/2026/10/261007_Neue_Dynamik_im_Amazon_Markt.pdf"
-      },
-      {
-        "name": "Ecommerce News Europe：Amazon holds 63% of German online retail（10/7）",
-        "url": "https://ecommercenews.eu/amazon-holds-63-of-german-online-retail/"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-10-08",
-    "type": "daily",
-    "tags": [
-      "貿易"
-    ],
-    "title": "【10/7–10/8】Šefčovič 抵京談配額、歐洲議會 454 票通過對中強硬決議：對中逆差每天 €10 億，下週峰會前要成果",
-    "summary": "10/6 日報報的是德法提案；10/7 的進展是談判開始、議會表態：\n        ① 訪京（Euronews）：貿易執委 Šefčovič 10/7 出發，與商務部長王文濤談兩天。歐盟 6 月啟動談判，要中方 10 月拿出「具體」成果，核心是接受特定產品進口配額；北京已拒絕電動車「自願出口限制」。SCMP 稱歐方只求先有一個小規模「概念驗證」安排。\n        ② 逆差（Euronews）：歐盟對中貿易逆差創紀錄，約每天 €10 億，所有會員國對中皆逆差。\n        ③ 歐洲議會（Euronews、SCMP）：決議以 454 票贊成、86 反對、110 棄權通過，稱雙邊關係「到了關鍵點」，要求中方若以關鍵原材料施壓，考慮動用反脅迫工具（ACI）。\n        ④ 中方（Global Times）：稱歐盟「一邊要讓步、一邊築壁壘」；中國學者表示措施若嚴重損害中方利益「不會接受」。中方 10/3 已對歐盟產對硝基甲苯啟動反傾銷調查。\n        結論：Šefčovič 警告，談不出結果將引發要求「更嚴厲措施」的政治浪潮。",
-    "public_impact": "歐盟貿易執委 Šefčovič 10 月 7 日起赴北京與中國商務部長會談兩天，歐盟要求中方在 10 月拿出具體成果，核心是接受特定產品進口配額，北京已拒絕電動車自願出口限制。歐盟對中貿易逆差約每天 10 億歐元。歐洲議會同日以 454 票通過決議，要求在中方以關鍵原材料施壓時考慮動用反脅迫工具；中方則已於 10 月 3 日對歐盟化學品啟動反傾銷調查。若談判沒有結果，下週歐盟峰會可能推進更嚴厲的措施。關稅與配額看的是商品原產地，不是賣家公司的註冊地。",
-    "public_action": "① 盤點歐洲庫存中原產地為中國的商品占比，評估若有新配額或關稅時的成本衝擊；② 非中國原產的商品，可在對歐洲企業買家的溝通中強調供應鏈分散的價值；③ 電子與電動工具類賣家，明年第一季備貨預留零件交期緩衝；④ 留意 10 月 15 至 16 日歐盟峰會的對中決議。",
-    "sources": [
-      {
-        "name": "Euronews：EU trade chief heads to Beijing（10/7）",
-        "url": "https://www.euronews.com/2026/10/07/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports"
-      },
-      {
-        "name": "Euronews：MEPs urge tougher action against China（10/7）",
-        "url": "https://www.euronews.com/2026/10/07/meps-urge-tougher-action-against-china-as-tensions-hit-critical-point"
-      },
-      {
-        "name": "SCMP：European Parliament hardens line on China（10/7）",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3370075/no-more-dumping-no-more-spying-european-parliament-hardens-line-china"
-      },
-      {
-        "name": "Global Times：EU's 'contradictory approach' risks eroding trust（10/7）",
-        "url": "https://www.globaltimes.cn/page/202610/1371779.shtml"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-10-08",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【10/7】IEA 會員國同意加速釋儲、柴油優先，法國釋出 1,000 萬桶柴油：歐洲柴油價差單日反擴大逾 10%",
-    "summary": "10/7 日報寫細節延到 10/14–15；10/7 IEA 先做了決定，但市場不買單：\n        ① IEA（官方聲明）：3 月集體行動已釋出約 3.25 億桶，部分國家超額；已承諾未釋出約 1 億桶，同意「盡快」完成，可行時優先釋出柴油。會員國仍有約 11 億桶公共緊急儲備，含逾 2 億桶柴油；下週理事會再檢視。\n        ② 法國（Investing.com）：總理 Lecornu 宣布釋出 1,000 萬桶柴油給國內通路商，預期每公升降 €0.12–0.18；未給開始日期。\n        ③ 價差（Investing.com）：17:25 GMT 低硫柴油期貨對 Brent 溢價 $75.23／桶，單日 +$7.08。Brent 12 月合約 19:41 GMT 報 $100.91（+0.7%）。\n        ④ 運價（ING）：原油油輪平均日收益 10 月初逾 $50 萬，約 2025 年均的 10 倍；沙國運原油到鹿特丹每桶從約 $2 升到逾 $35。ING 估運價加柴油價差可讓泵價每公升多 $0.50 以上。\n        結論：1 億桶是 3 月承諾的尾數，不是新增量。",
-    "public_impact": "IEA 會員國 10 月 7 日同意加速完成 3 月啟動的釋儲行動，剩下約 1 億桶已承諾未釋出的量會盡快釋出，並在可行時優先柴油；法國同日宣布釋出 1,000 萬桶柴油，預期每公升降 0.12 至 0.18 歐元。但這 1 億桶是 3 月承諾的尾數而非新增量，歐洲柴油期貨對 Brent 的價差當天反而擴大逾 10%，到每桶 75 美元。ING 指出原油油輪運價約為 2025 年平均的 10 倍。歐洲第四季的燃油附加費仍沒有回落的條件，自行出貨的賣家受影響最直接。",
-    "public_action": "① 第四季毛利試算維持 Brent 每桶 100 至 105 美元的情境，不假設燃油附加費回落；② 自行出貨的高周轉商品，可評估在 10 月底前改送平台倉，鎖定年內的配送費率；③ 法國市場的末端配送成本可能略降，但時程未定，不宜提前反映在售價；④ 留意下週 IEA 理事會與柴油價差走勢。",
-    "sources": [
-      {
-        "name": "IEA：Statement on meeting of IEA Member governments（10/7）",
-        "url": "https://www.iea.org/news/statement-by-iea-executive-director-on-meeting-of-iea-member-governments-on-7-october-2026"
-      },
-      {
-        "name": "Investing.com：France to release 10m barrels of diesel（10/7）",
-        "url": "https://www.investing.com/news/economy-news/france-to-release-10m-barrels-of-diesel-from-reserves-to-lower-fuel-prices-4937284"
-      },
-      {
-        "name": "Investing.com：European diesel margins climb over 10%（10/7）",
-        "url": "https://www.investing.com/news/commodities-news/european-diesel-margins-climb-over-10-on-stock-release-talks-93CH-4937490"
-      },
-      {
-        "name": "Investing.com：Oil up in choppy trade（10/7）",
-        "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-supply-jitters-persist-4935465"
-      },
-      {
-        "name": "ING THINK：Record-breaking tanker rates（10/7）",
-        "url": "https://think.ing.com/articles/record-breaking-tanker-rates-pile-pressure-on-high-fuel-prices/"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-10-08",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/7】英國 30 年期公債殖利率 6.036% 創 1998 年來新高、法國 10 年期 4.91%：歐元投機空單創紀錄 30.1 萬口",
-    "summary": "10/6 日報寫歐元跌到 $1.116；10/7 的進展是債市賣壓擴散到英國，歐元空單創紀錄：\n        ① 英國（Reuters）：30 年期殖利率盤中升 13bp 到 6.036%，1998 年 1 月以來最高，刷新 10/1 紀錄；10 年期升 10bp 到 5.48%。財相 Healey 10/28 提出首份預算，BofA 估本年度與 2027/28 各多借 £150 億。\n        ② 法國（Investing.com 引 WSJ、Bloomberg）：10 年期 OAT 10 月初升到 4.91%，2002 年來最高。財長 Lescure 稱「合理的做法是縮短年期」，但只會邊際調整；財政部隨後稱不改發債策略。\n        ③ 歐元（Euronews）：CFTC 截至 9/29 當週投機空單 301,439 口，紀錄新高、約 €380 億。ING 稱債市壓力若加劇，EUR/USD 可能測 1.110 甚至 1.100；Danske 稱 12 個月目標 1.12 已提前達成。\n        ④ 利差：Euronews 稱法德 10 年期利差 10/2 收在 1.4 個百分點以上；ING 10/7 稱已收窄到 125bp。\n        結論：空單擁擠，歐元雙向波動都會放大。",
-    "public_impact": "歐洲債市賣壓 10 月 7 日擴散到英國，30 年期公債殖利率盤中升到 6.036%，創 1998 年以來新高；法國 10 年期公債殖利率 10 月初升到 4.91%，為 2002 年以來最高。美國 CFTC 數據顯示，截至 9 月 29 日當週歐元投機空單達 301,439 口，創紀錄新高。歐元從 1 月的 1.20 美元以上跌到約 1.116 美元，以美元或新台幣計算成本的賣家，歐洲營收換算後縮水約 7%。但空單擁擠也代表若法國預算達成共識或能源轉便宜，歐元可能急彈，雙向波動都會放大。英國 10 月 28 日預算案前，消費者的借貸成本正在上升。",
-    "public_action": "① 第四季定價用歐元兌美元 1.10、1.12、1.15 三種情境試算，不單押一個數字；② 歐元收入在旺季前分 2 至 3 批換匯，避免集中在單一時點；③ 英國旺季備貨保守規劃，等 10 月 28 日預算案後再決定是否追加；④ 留意 10 月 29 日 ECB 會議與月底法國評等檢視。",
-    "sources": [
-      {
-        "name": "Reuters（Investing.com 轉載）：UK 30-year gilt yields hit 28-year high（10/7）",
-        "url": "https://www.investing.com/news/economy-news/uk-30year-gilt-yields-hit-28year-high-in-global-selloff-4937055"
-      },
-      {
-        "name": "Investing.com：France weighs pivot to short-term debt（10/7）",
-        "url": "https://www.investing.com/news/economy-news/france-weighs-pivot-to-shortterm-debt-as-historic-bond-selloff-accelerates-4937157"
-      },
-      {
-        "name": "Euronews：Record bets against the euro（10/7）",
-        "url": "https://www.euronews.com/2026/10/07/record-bets-against-the-euro-how-low-could-it-fall-amid-frances-fiscal-crisis-and-europes-"
-      },
-      {
-        "name": "ING THINK：FX Daily（10/7）",
-        "url": "https://think.ing.com/articles/fx-daily-fed-minutes-shouldnt-rock-the-boat/"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-10-08",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/7 Destatis】德國 8 月工業生產月增 2.0%、遠優於共識 0.5%：營建 +9.3% 撐盤，汽車 -5.4%、能源密集 -0.5%",
-    "summary": "10/7 日報報 8 月製造業訂單 -10.6%；同月產出反而大增：\n        ① 總量（Destatis）：8 月工業生產月增 2.0%、年增 2.3%；7 月下修到 -1.2%。6–8 月比前三個月 +0.4%。共識為 +0.5%（Trading Economics）。\n        ② 撐盤的是營建與機械：營建 +9.3%（專業施工與裝修 +13.1%）、機械設備 +5.3%。\n        ③ 拖累項：汽車 -5.4%，Destatis 引 VDA 稱部分因工廠假期今年集中在 8 月；能源密集產業 -0.5%，三個月 -2.9%、年減 2.1%。\n        ④ 核心工業：扣除能源與營建月增 0.6%、年減 0.4%；資本財 +1.2%、消費財 +0.6%、中間財 -0.2%。\n        ⑤ ING 解讀（Brzeski）：「韌性延續」，8 月熱浪與乾旱衝擊小於擔心；庫存上升可能是企業為供應鏈中斷囤貨，而非準備擴產。風險是中東衝突、油價、利率與天然氣價格。\n        結論：增幅主要來自營建，核心工業仍是年減。",
-    "public_impact": "德國聯邦統計局 10 月 7 日公布 8 月工業生產月增 2.0%，遠優於市場預期的 0.5%，但增幅主要來自營建（+9.3%）與機械設備（+5.3%），消費財只增 0.6%，汽車則減 5.4%；扣除能源與營建後的核心工業仍比去年同期少 0.4%。同月製造業訂單大減 10.6%，德國消費信心也在下滑，因此這份數據不代表第四季消費會轉強。營建與裝修活動回升，工具、五金與居家修繕類的企業採購需求可能延續；ING 也指出企業正在為供應鏈中斷囤貨。",
-    "public_action": "① 德國第四季消費預測不因工業生產數據上修，仍以訂單與消費信心為主要依據；② 工具、五金與居家修繕類賣家，可評估開拓德國企業採購通路並提供數量折扣；③ 留意 10 月 13 日德國 9 月 CPI 終值與 10 月 20 日 ZEW 景氣調查。",
-    "sources": [
-      {
-        "name": "Destatis：新聞稿 355，8 月工業生產 +2.0%（10/7）",
-        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_355_421.html"
-      },
-      {
-        "name": "Trading Economics：德國經濟日曆（共識值）",
-        "url": "https://tradingeconomics.com/germany/calendar"
-      },
-      {
-        "name": "ING THINK：German industry picked up steam in August（10/7）",
-        "url": "https://think.ing.com/snaps/german-industrial-production-aug26/"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-10-07",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【10/6】IEA 延到 10/14–15 敲定柴油釋儲細節、EIA 上修 Q4 Brent 到 $105：義大利柴油減稅同日歸零",
-    "summary": "10/5 日報寫到 G7 釋儲 1 億桶；10/6 的進展是細節延後、預測上修：\n        ① 釋儲細節未定（Reuters）：知情人士稱 IEA 理事會 10/14–15 才敲定，原油與柴油比例、參與國都未公布。Vitol 執行長 Hardy 稱宣布「不夠透明」，要看未來兩週的標售才知道油從哪裡出。\n        ② EIA 上修（EIA 10 月 STEO）：Q4 Brent 預測 $105，比 9 月高 $14；2026 年均 $96、2027 年 $84（原 $74）。理由是沙國東西管線遇襲、全球庫存持續下降與柴油市場吃緊；預測未計入 G7 釋儲。\n        ③ 油價（Reuters）：Brent 10/6 收 $100.58，+0.3%。\n        ④ 義大利（Euronews）：柴油消費稅減免 10/6 起全數取消，3 月以來首次沒有燃油減稅；Eni 柴油限價 €2.19／公升。卡車業者公會 Assotir 不排除全行業罷工，未給日期。\n        結論：釋儲實際量要到 10 月下旬才明朗，Q4 運費仍在高檔。",
-    "public_impact": "G7 上週同意釋出 1 億桶柴油與原油儲備，但 IEA 要到 10 月 14 至 15 日理事會才敲定原油與柴油的比例與參與國，貿易商 Vitol 認為宣布不夠透明，要看未來兩週的標售才知道實際量。美國 EIA 10 月 6 日把第四季 Brent 預測上修 14 美元到每桶 105 美元，理由包括全球庫存持續下降與柴油吃緊，且未計入 G7 釋儲；Brent 當天收 100.58 美元。義大利柴油消費稅減免同日全數取消，卡車業者公會不排除罷工。歐洲第四季運費與燃油附加費仍會維持高檔，義大利的公路配送短期有中斷風險。",
-    "public_action": "① 第四季毛利試算維持 Brent 每桶 100 至 105 美元的情境，不假設燃油附加費回落；② 義大利旺季庫存盡量在 10 月底前完成入倉，並準備由其他國家倉庫調撥的備案；③ 自行出貨的賣家，在 Black Friday 前向物流商確認 11 月燃油附加費，必要時調整免運門檻；④ 留意 10 月 14 至 15 日 IEA 理事會與義大利卡車業罷工動向。",
-    "sources": [
-      {
-        "name": "Reuters（Investing.com 轉載）：IEA 10/14–15 決定柴油釋儲細節（10/6）",
-        "url": "https://www.investing.com/news/commodities-news/iea-to-decide-details-of-g7-diesel-and-oil-stocks-release-on-october-1415-sources-say-4934649"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Brent 收 $100.58（10/6）",
-        "url": "https://www.investing.com/news/commodities-news/oil-prices-stable-as-market-weighs-supply-risks-rising-middle-east-exports-4935024"
-      },
-      {
-        "name": "EIA：Short-Term Energy Outlook 2026 年 10 月版（10/6）",
-        "url": "https://www.eia.gov/outlooks/steo/"
-      },
-      {
-        "name": "Euronews：義大利減稅結束、柴油上漲、卡車業威脅罷工（10/6）",
-        "url": "https://www.euronews.com/2026/10/06/fuel-prices-in-italy-tax-cuts-end-diesel-rises-and-hauliers-threaten-strikes"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-10-07",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/5–10/6】歐元區 8 月零售量 +0.1%、非食品 +0.5%：德國 HDE 10 月消費晴雨表跌到 93.51，聖誕預期轉弱",
-    "summary": "8 月零售止跌，但德國消費者對 Q4 的預期轉差：\n        ① 歐元區零售（Eurostat 10/6）：8 月零售量月增 +0.1%、年增 +0.8%，7 月為 -0.6%。非食品（不含燃料）月增 +0.5%、年增 +1.7%；燃料 -1.9%。\n        ② 五國（Eurostat）：德國月增 +1.3%（7 月 -3.2%）但年減 0.4%；法國 -1.1%；義大利 +0.1%；西班牙 +0.3%；荷蘭 +0.7%、年增 1.9%。\n        ③ HDE 消費晴雨表（HDE、wortfilter）：10 月 93.51，比 9 月跌 1.19 點，與去年同期差距從 1.27 擴大到 3.01 點；購買意願明顯低於去年，所得預期下滑。指數反映未來三個月，涵蓋 Black Week 與聖誕。HDE 稱聖誕業績預期「轉弱」，主因能源與油價。\n        結論：非食品需求還在，德國消費者對旺季的預期卻在下修。",
-    "public_impact": "Eurostat 10 月 6 日公布，歐元區 8 月零售量月增 0.1%、年增 0.8%，7 月為下跌 0.6%；非食品（不含燃料）月增 0.5%、年增 1.7%，燃料下跌 1.9%。德國月增 1.3% 但年減 0.4%，法國月減 1.1%，荷蘭年增 1.9% 最強。德國零售公會 HDE 10 月消費晴雨表跌 1.19 點到 93.51，與去年同期的差距擴大到 3.01 點，購買意願明顯低於去年、所得預期下滑；該指數反映未來三個月，HDE 表示聖誕業績預期轉弱，主因是能源與燃油價格。非食品需求仍在，但德國消費者在旺季會更重視價格。",
-    "public_action": "① 德國旺季備貨以去年同期銷量為上限，避免 1 月庫存積壓；② 旺季主推低單價品項與組合包，大件商品優先用優惠券而非大幅降價；③ 現金流計畫納入 1 月退貨與 12 月 VAT 申報，旺季營收不等於旺季現金；④ 留意 11 月 2 日 HDE 晴雨表與 11 月 6 日歐元區 9 月零售數據。",
-    "sources": [
-      {
-        "name": "Eurostat：Volume of retail trade up by 0.1%（10/6）",
-        "url": "https://ec.europa.eu/eurostat/product?code=4-06102026-ap"
-      },
-      {
-        "name": "HDE：10 月消費晴雨表新聞稿（10/5）",
-        "url": "https://einzelhandel.de/presse/aktuellemeldungen/15372-hde-konsumbarometer-im-oktober-verbraucherstimmung-verschlechtert-sich-deutlich"
-      },
-      {
-        "name": "wortfilter：HDE 晴雨表 93.51、Q4 沒有救援（10/5）",
-        "url": "https://wortfilter.de/hde-konsumbarometer-oktober-2026/"
-      },
-      {
-        "name": "OnlinehändlerNews：消費意願低迷，零售擔心聖誕檔期（10/6）",
-        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/kauflaune-haendler-bangen-weihnachtsgeschaeft"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-10-07",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【10/5–10/6 德國兩判決】跟賣既有 listing 要為他人改的內容負責；Amazon 因 Impressum 信箱拒收信敗訴",
-    "summary": "兩則判決都在講：平台上的法律責任，最後落在賣家自己身上：\n        ① 跟賣責任（LG Limburg 5 O 25/25，4/30 判決，OnlinehändlerNews 10/5 報導）：賣家跟賣 Amazon 既有商品頁販售足貼，頁面有「排毒」等未經證實的健康宣稱，遭公會警告。賣家稱文案來自供應商、自己無法修改，法院仍判賣家敗訴：以自己名義在無法完全控制內容的頁面上架，就要預期第三方修改。\n        ② Impressum 信箱（KG Berlin 5 UKl 1/26，8/11 判決，vzbv 10/2 公布）：Amazon 法定資訊頁的 email 自動回覆「不接受來信」並要人登入帳號，vzbv 提告；Amazon 未出庭，缺席判決已確定。法院認定依 §5 DDG，email 必須能真正溝通，客服頁或帳號訊息不能取代。\n        ③ 罰則（wortfilter）：Impressum 資訊錯誤最高罰 €5 萬；公會可發警告函並請求費用，競爭對手則不行。\n        結論：德國的警告函風險不分平台、不分規模。",
-    "public_impact": "德國兩則判決在 10 月 5 至 6 日被法務媒體報導。林堡地方法院（5 O 25/25）判決，在 Amazon 既有商品頁跟賣足貼的賣家，即使健康宣稱是供應商或第三方寫的、自己無法修改，仍要為頁面內容負責，因為以自己名義在無法完全控制的頁面上架，就要預期第三方修改。柏林高等法院（5 UKl 1/26）則判 Amazon 法定資訊頁的 email 不收信違法，依數位服務法第 5 條，email 必須能真正溝通，客服頁不能取代；Impressum 資訊錯誤最高可罰 5 萬歐元。兩者對所有在德國銷售的賣家都適用。",
-    "public_action": "① 盤點在德國跟賣、且頁面含健康或功效宣稱的商品，定期截圖存證，發現未經證實的宣稱先回報修改或暫停販售；② 從外部信箱寄測試信到自己公開的聯絡 email，確認不會退信或只回導向式自動回覆，休假期間也有人處理；③ 收到德國警告函時，先諮詢德國律師再決定是否簽署不作為聲明。",
-    "sources": [
-      {
-        "name": "OnlinehändlerNews：別人改了商品描述，誰負責？LG Limburg（10/5）",
-        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/haftet-anderes-produktbeschreibung-aendert"
-      },
-      {
-        "name": "OnlinehändlerNews：信寄不進去，Amazon 敗訴（10/5）",
-        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/mails-laufen-leere-amazon-gericht"
-      },
-      {
-        "name": "vzbv：Amazon Impressum 的 email 不能是死信箱（10/2）",
-        "url": "https://www.vzbv.de/urteile/urteil-e-mail-im-amazon-impressum-darf-kein-toter-briefkasten-sein"
-      },
-      {
-        "name": "wortfilter：KG Berlin 判 Amazon Impressum email 違法（10/6）",
-        "url": "https://wortfilter.de/e-mail-adresse-im-impressum-kg-berlin-amazon/"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-10-07",
-    "type": "daily",
-    "tags": [
-      "稅務"
-    ],
-    "title": "【10/6 草案曝光】德國擬 2027 年 7 月開徵塑膠包裝稅：製造商與進口商繳，2028 年起年稅收約 €15 億",
-    "summary": "德國要把繳給歐盟的塑膠費，轉成向產業課的稅：\n        ① 草案（OnlinehändlerNews 引 dpa；EUWID）：《塑膠包裝稅法》草案由 dpa 取得，依據執政聯盟 7 月的政府決議，仍在部會協調、須經聯邦議院；預計 2027 年 7 月上路。\n        ② 範圍：塑膠包裝、膜、封口、蓋子與膠囊；複合包裝塑膠占比超過 5% 即課稅；再生塑膠可申請豁免。稅率未公布。\n        ③ 誰繳：包裝的製造商與進口商，在德國生產、進口或帶入時課徵；零售與網店不直接負擔，但自己從國外帶入包裝的就成為納稅人。\n        ④ 規模（引 Spiegel）：應稅量約每年 300 萬噸，稅收 2027 年 €8.05 億、2028 年起約 €15 億，用來抵德國向歐盟繳的每公斤 €0.80 塑膠費。\n        ⑤ 反應：Plastics Europe 稱是「國家稅務實驗」，包裝業公會 IK 反對，環團 DUH 支持但要擴及紙與鋁。\n        結論：稅率未定，但「帶入即課稅」會碰到跨境賣家。",
-    "public_impact": "德國《塑膠包裝稅法》草案 10 月 6 日由 dpa 取得並被多家媒體報導，預計 2027 年 7 月上路，仍在部會協調、須經聯邦議院通過。課稅範圍包括塑膠包裝、膜、封口、蓋子與膠囊，複合包裝塑膠占比超過 5% 即課稅，再生塑膠可申請豁免，稅率尚未公布。納稅人是包裝的製造商與進口商，在德國生產、進口或帶入時課徵；零售商與網店不直接負擔，但自己從國外帶入包裝的就成為納稅人。依 Spiegel 引述，稅收 2027 年約 8.05 億歐元、2028 年起每年約 15 億歐元。從海外發貨到德國倉庫的賣家，隨貨進口的塑膠包裝可能落入課稅範圍。",
-    "public_action": "① 先算每件商品的塑膠包裝重量，可暫以歐盟塑膠費每公斤 0.80 歐元做敏感度試算（非實際稅率）；② 新品開發時評估改用紙材或再生塑膠，但環保團體主張擴及紙與鋁，換材質不保證免稅；③ 目前仍是草案，持續留意內閣決議、稅率與是否設小型進口商門檻。",
-    "sources": [
-      {
-        "name": "OnlinehändlerNews：2027 年新包裝稅，製造商與進口商要為塑膠付費（10/6）",
-        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/neue-verpackungssteuer-2027-hersteller-importeure-kunststoff-zahlen"
-      },
-      {
-        "name": "EUWID Recycling：塑膠稅為聯邦帶來數十億、產業批評（10/6，付費牆）",
-        "url": "https://www.euwid-recycling.de/news/wirtschaft/plastiksteuer-milliarden-fuer-den-bund-kritik-aus-der-wirtschaft-061026/"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-10-07",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/6 Destatis】德國 8 月製造業訂單月減 10.6%、遠遜共識 -1%：扣除大型訂單僅 -0.1%，消費品 -7.3%",
-    "summary": "數字很難看，但主要是 7 月大單回吐：\n        ① 總量（Destatis）：8 月實質訂單月減 10.6%，Reuters 調查共識 -1.0%；年增 +2.7%。扣除大型訂單僅 -0.1%。\n        ② 原因（Destatis）：其他運輸設備（飛機、船、火車、軍用車）-61.5%，7 月曾因大單 +129.4%；跌幅「幾乎全部」來自這一項。\n        ③ 分項（Destatis）：國內 -17.3%、國外 -5.4%；資本財 -15.3%、中間財 -2.6%、消費品 -7.3%。三個月比較總量 +1.3%，扣除大單 -2.6%。\n        ④ 經濟學家（Reuters）：DIHK 稱扣除大單後訂單「幾個月來原地踏步」；Commerzbank 預期 Q4 隨政府訂單回升；Deutsche Bank 稱積壓訂單約 9 個月、創紀錄。\n        結論：德國工業沒有崩，但也沒有帶動內需的力道。",
-    "public_impact": "德國聯邦統計局 10 月 6 日公布，8 月製造業實質訂單月減 10.6%，遠低於路透調查的 -1.0%，年增 2.7%；扣除大型訂單僅減 0.1%。跌幅幾乎全部來自飛機、船舶等其他運輸設備的 -61.5%，7 月曾因大單成長 129.4%。分項中消費品訂單減 7.3%、資本財減 15.3%；扣除大單的三個月比較為 -2.6%。經濟學家指出積壓訂單約 9 個月、創紀錄，預期第四季隨政府訂單回升，但扣除大單後訂單已原地踏步數月。德國工業沒有崩，但也難以帶動家庭所得與內需。",
-    "public_action": "① 德國第四季業績預估不宜因景氣調查回升而上修，以消費者信心與零售數據為準；② 工業耗材、辦公用品與維修類賣家，可針對企業採購設定數量折扣；③ 留意消費品訂單是否連續下滑，作為明年上半年備貨的參考。",
-    "sources": [
-      {
-        "name": "Destatis：新聞稿 354，8 月製造業訂單 -10.6%（10/6）",
-        "url": "https://www.destatis.de/EN/Press/2026/10/PE26_354_421.html"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：德國工業訂單因大單枯竭重挫（10/6）",
-        "url": "https://www.investing.com/news/economic-indicators/german-industrial-orders-fall-more-than-expected-in-august-4933414"
-      },
-      {
-        "name": "OnlinehändlerNews：消費意願低迷（含訂單數據與 Union Investment 評論，10/6）",
-        "url": "https://ohn.haendlerbund.de/themen/unternehmen-maerkte/kauflaune-haendler-bangen-weihnachtsgeschaeft"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-10-06",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/5】法國財政拖累歐元盤中跌到 $1.116、17 個月新低：法德利差上週近 160bp，四週累跌 3.1%",
-    "summary": "10/5 日報寫到法國公債殖利率創 24 年新高；週一壓力傳到匯市：\n        ① 匯價（Reuters）：EUR/USD 10/5 盤中跌 0.8% 至 $1.116，2025 年 5 月以來最低，收在 $1.1211；上週為連續第四週下跌，累計 -3.1%。歐元對英鎊、瑞郎、日圓同步走弱。\n        ② 利差（Reuters、ING）：法德 10 年期利差上週五近 160bp，2011 年債務危機以來最寬；週一收斂到約 134–136bp，9 月初還不到 90bp。BofA 估利差每擴大 10bp，EUR/USD 約跌 0.4%。\n        ③ 原因（Reuters、ING）：2027 年預算案在分裂國會難以過關，市場擔心 2027 年大選前減赤落空；ING 稱 Moody's 本月稍晚的檢視可能拿掉法國在三大評等機構僅剩的 AA。\n        ④ 政治面擴散（Euronews）：西班牙總理 Sánchez 10/5 宣布 11/29 提前大選。ING 維持 EUR/USD 目標 1.11–1.12，不排除測試 1.10。\n        結論：歐元弱勢的主因從利率轉為財政風險。",
-    "public_impact": "法國財政疑慮在十月五日延燒到匯市，歐元兌美元盤中下跌百分之零點八至一點一一六，為二〇二五年五月以來最低，上週已是連續第四週下跌、累計百分之三點一。法德十年期公債利差上週五接近一百六十個基點，為二〇一一年歐債危機以來最寬，週一收斂到約一百三十五。主因是二〇二七年預算案難以在分裂的國會過關。ING 指出評等機構穆迪本月稍晚的檢視，可能讓法國失去最後一個 AA 評等；西班牙也宣布十一月二十九日提前大選。以歐元收款、以美元或其他貨幣計算成本的賣家，旺季營收換匯後會縮水。",
-    "public_action": "① 第四季毛利試算把歐元兌美元假設下修到一點一一，並準備一點一零的壓力情境；② 旺季回款可分批換匯，避免集中在單一低點；③ 匯差超過百分之三的品項，可在大促結束後評估小幅調整售價；④ 留意十月下旬法國評等、十月二十九日歐洲央行會議與十一月二十九日西班牙大選。",
-    "sources": [
-      {
-        "name": "Reuters（Investing.com 轉載）：歐元因法國債務疑慮跌至 17 個月低點（10/5）",
-        "url": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot-4930983"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：法國公債傳染疑慮撼動歐元、BofA 利差敏感度（10/5）",
-        "url": "https://www.investing.com/news/economy-news/french-bond-contagion-fears-are-rattling-the-euro-4932638"
-      },
-      {
-        "name": "ING THINK：FX Daily – Euro repriced for fiscal woes（10/5）",
-        "url": "https://think.ing.com/articles/fx-daily-euro-repriced-for-fiscal-woes/"
-      },
-      {
-        "name": "ING THINK：Rates Spark – OAT/Bund 利差 134bp、Moody's 檢視（10/5）",
-        "url": "https://think.ing.com/articles/rates-spark-repricing-the-ecb-path/"
-      },
-      {
-        "name": "Euronews：西班牙 Sánchez 宣布 11/29 提前大選（10/5）",
-        "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-10-06",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【10/1 判決・10/5 德媒跟進】德國聯邦最高法院判 Prime 2022 年漲價條款無效：Amazon 暫時恢復老會員舊價",
-    "summary": "德國消保團體告了四年的 Prime 漲價案，終審定讞：\n        ① 判決（BGH 新聞稿 184/2026、LTO）：BGH 第三民事庭 10/1 判決（III ZR 205/25），維持杜塞道夫地院與高院見解：會費調整條款依 §307 BGB 不透明而無效。條款同時寫「可拒絕變更」與「可免費退訂」，客戶無法判斷拒絕後是退訂還是續用舊價。\n        ② 漲多少（LTO、OnlinehändlerNews）：2022 年 9 月年費 €69 → €89.90、月費 €7.99 → €8.99，Amazon 未取得明確同意。原告為 NRW 消保中心。\n        ③ Amazon 怎麼做（LTO、OnlinehändlerNews 10/5）：Amazon 表示不同意判決，但對 2022/9/15 前加入且持續未變更的會員暫時恢復舊價，下次扣款前通知。\n        ④ 退款未決（LTO）：BGH 未判是否退還溢付，要個別請求；消保中心 2025 年 12 月起在漢姆高院提團體訴訟，約 14.5 萬人登記。\n        結論：德國法院對定型化條款的透明度要求很嚴。",
-    "public_impact": "德國聯邦最高法院十月一日判決，Amazon 在二〇二二年九月把 Prime 年費從六十九歐元調到八十九點九歐元、月費從七點九九調到八點九九時所依據的條款不透明而無效，原因是條款同時寫可以拒絕變更、又寫可以免費退訂，消費者無法判斷拒絕後是退訂還是續用舊價。Amazon 表示不同意，但會對二〇二二年九月十五日前加入且未變更方案的會員暫時恢復舊價。是否退還溢付款尚未判決，消保團體的團體訴訟已有約十四點五萬人登記。對平台賣家的費用沒有直接影響，但顯示德國法院對定型化條款的透明度要求很嚴。",
-    "public_action": "① 這是會員與平台之間的消費者訴訟，不影響賣家費用；② 在德國經營獨立網站、訂閱制或會員方案的賣家，檢查價格調整條款是否清楚寫明消費者拒絕漲價的後果；③ 避免同時寫「可拒絕變更」與「可退訂」卻不說明兩者關係，以免被認定條款無效或收到警告函。",
-    "sources": [
-      {
-        "name": "Bundesgerichtshof：新聞稿 184/2026，III ZR 205/25（10/1）",
-        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html?nn=373478"
-      },
-      {
-        "name": "LTO：BGH 判 Amazon Prime 漲價條款無效、Amazon 回應與團體訴訟（10/1）",
-        "url": "https://www.lto.de/recht/nachrichten/n/bgh-iiizr20525-amazon-prime-preiserhoehung-agb"
-      },
-      {
-        "name": "OnlinehändlerNews：Prime 漲價違法（10/5）",
-        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/prime-amazons-preiserhoehung-rechtswidrig"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-10-06",
-    "type": "daily",
-    "tags": [
-      "貿易"
-    ],
-    "title": "【10/5】德法聯名提議「反向多數決」對中貿易工具：10/8 Šefčovič 訪京、10/15–16 峰會討論",
-    "summary": "10/1 日報寫到德法「傳擬」聯手要歐版 301；10/5 正式送出：\n        ① 提案（Euronews、Reuters）：馬克宏與梅爾茨 10/5 致函 von der Leyen 並附政策文件，要求新設「系統性反應」工具，對造成市場扭曲的國家限制單一市場准入，手段可包括關稅、授權與智財限制。名義上不點名，實際針對中國。\n        ② 怎麼運作：執委會提案後，除非成員國條件多數反對，否則生效；德方官員稱可在數天內啟動。範圍從單一產品到整個產業，涵蓋補貼與匯率。另要求加快反傾銷、反補貼調查並以產業為單位。\n        ③ 時程：新工具仍需成員國與歐洲議會通過。Šefčovič 10/8–10/9 訪京，歐盟峰會 10/15–10/16 討論。\n        ④ 背景（Euronews）：歐盟對中逆差約每天 €10 億；中國商務部 10/3 對歐盟對硝基甲苯發起反傾銷調查。\n        結論：歐盟對中貿易防衛的門檻正在降低。",
-    "public_impact": "法國總統馬克宏與德國總理梅爾茨十月五日聯名致函歐盟執委會主席，提議新設一套對造成市場扭曲國家的反應工具，可限制其進入歐盟單一市場，手段包括關稅、授權與智財限制。名義上不針對特定國家，外界普遍認為對象是中國。機制採反向多數決，除非成員國以條件多數反對，否則執委會的措施即生效。文件也要求以整個產業為單位加快反傾銷調查。新工具仍需成員國與歐洲議會通過，歐盟貿易執委十月八日至九日訪問北京，峰會十月十五至十六日討論。對在中國生產的賣家，未來部分品類的關稅風險可能從個案擴大到整個產業。",
-    "public_action": "① 盤點主力商品的原產地，了解中國製商品的占比；② 目前仍是提案，不需要立即調整定價或供應鏈；③ 在台灣或其他地區生產的賣家，可留意若中國製同類商品被課稅後的價格競爭變化；④ 留意十月八日至九日北京會談與十月十五至十六日歐盟峰會的結論。",
-    "sources": [
-      {
-        "name": "Euronews：德法同意對中新貿易工具（10/5）",
-        "url": "https://www.euronews.com/2026/10/05/germany-and-france-agree-new-trade-tool-to-counter-china"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：德法提議新的歐盟快速貿易反應工具（10/5）",
-        "url": "https://www.investing.com/news/economy-news/france-germany-propose-new-rapid-eu-trade-response-tool-4932514"
-      },
-      {
-        "name": "Euronews：中國在北京會談前對歐盟發起反傾銷調查（10/3）",
-        "url": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-10-06",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/5】歐元區 9 月綜合 PMI 53.1 創三年半新高、8 月 PPI 年增 8.2%：Lane 稱「需求破壞」可減少升息",
-    "summary": "同一天三個訊號：需求強、出廠價高，但 ECB 首席經濟學家偏鴿：\n        ① PMI 終值（S&P Global，Reuters、Trading Economics）：綜合 53.1（8 月 52.0），2023 年 4 月以來最高，符合共識；服務業 53.0。新訂單 41 個月最快、海外訂單四年半最快；投入與產出價格四個月最快。S&P 的 Williamson 稱相當於季增 0.4%。\n        ② PPI（Eurostat）：8 月月增 1.9%、年增 8.2%（共識 8.1%）；能源年增 21.0%，扣除能源只 3.4%，耐久消費品 3.4%、非耐久 -0.8%。義大利 13.5%、西班牙 13.2%，德、法約 4.6–4.8%。\n        ③ ECB（Reuters）：Lane 稱能源、財政退場與長端利率上升的「需求破壞」可能減少所需升息幅度；Nagel 稱尚無二輪效應。ING：9 月底以來市場已移除 30bp 升息預期。\n        結論：成本壓力集中在能源，ECB 升息路徑正在下修。",
-    "public_impact": "十月五日公布的歐元區九月綜合採購經理人指數終值五十三點一，為二〇二三年四月以來最高，新訂單成長為四十一個月來最快，海外訂單為四年半來最快。歐盟統計局同日公布八月工業生產者價格年增百分之八點二，但幾乎都來自能源的百分之二十一；扣除能源只漲三點四，非耐久消費品甚至年減零點八。義大利與西班牙年增都超過百分之十三。歐洲央行首席經濟學家 Lane 表示，能源成本與長期利率上升抑制需求，可能減少所需的升息幅度，市場自九月底已下修升息預期。需求仍在擴張，但一般消費品沒有漲價空間。",
-    "public_action": "① 第四季需求面可維持原本的預估，不必因通膨數字大幅下修；② 一般消費品的歐洲本地競品出廠價沒有上漲，定價宜以守價為主；③ 南歐站留意物流與倉儲報價可能因能源成本調升；④ 留意十月八日歐洲央行會議紀要與十月二十九日利率決議。",
-    "sources": [
-      {
-        "name": "Eurostat：Industrial producer prices up by 1.9%（8 月 PPI，含分項與會員國全表，10/5）",
-        "url": "https://ec.europa.eu/eurostat/product?code=4-05102026-ap"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：歐元區 PMI 創三年半新高（10/5）",
-        "url": "https://www.investing.com/news/economy-news/euro-zone-business-growth-hits-over-312year-high-despite-inflation-worries-pmi-shows-4931193"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Lane 稱成長拖累可能減少 ECB 行動需求、Nagel 談二輪效應（10/5）",
-        "url": "https://www.investing.com/news/economy-news/ecbs-lane-recent-energy-price-surge-a-drag-on-growth-may-limit-need-for-ecb-action-4931191"
-      },
-      {
-        "name": "Trading Economics：PMI 與 PPI 實際值 vs 共識（10/5）",
-        "url": "https://tradingeconomics.com/euro-area/calendar"
-      },
-      {
-        "name": "ING THINK：9 月底以來市場移除 30bp ECB 升息預期（10/5）",
-        "url": "https://think.ing.com/articles/fx-daily-euro-repriced-for-fiscal-woes/"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-10-06",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【9/29 ECDB・10/5 跟進】TikTok Shop 歐洲 GMV 65% 在英國、德國僅 9%：10/19 擴大 EU 與英國互賣",
-    "summary": "第一份 TikTok Shop 歐洲分國 GMV 估算：\n        ① 規模（ECDB 9/29、Ecommerce News Europe 10/5）：2025 年歐洲 GMV 約 €40.7 億；英國 65%（約 €26.3 億，2021 年上線），西班牙 14%（約 €5.7 億），法國、德國各 9%（約 €3.6、3.5 億），義大利 4%。ECDB 估 2026 年各國約翻倍，英國近 €50 億；未說明估算方法。\n        ② 英國賣家賣 EU（ChannelX 9/7）：「Sell Across EU」10/19 上線，9/21 起邀請制試行，可賣德義法西波荷比捷奧希葡匈 12 國；需在英國站正常營運、近 30 天有銷售、帳戶無高風險紀錄。\n        ③ EU 賣家賣英國（TikTok Shop 官方賣家大學 8/26）：比德西法愛義荷波 8 國賣家可申請；只能 Ship by Seller，2 個工作天內出貨、7 個工作天內交寄；要有英國退貨地址，否則退件轉 TikTok 倉並收處理費。\n        結論：TikTok Shop 在歐盟主要市場仍小，跨境靠賣家自發貨。",
-    "public_impact": "德國研究機構 ECDB 估計，TikTok Shop 二〇二五年歐洲交易額約四十點七億歐元，其中英國占百分之六十五、約二十六點三億，西班牙百分之十四，法國與德國各約百分之九，義大利百分之四；預估二〇二六年各國約成長一倍，但未公開估算方法。TikTok Shop 的「Sell Across EU」預計十月十九日上線，英國賣家可銷售到十二個歐盟國家；歐盟八國賣家也可申請銷售到英國，但只能由賣家自行出貨，須在兩個工作天內出貨、七個工作天內交寄，並準備英國退貨地址。對多數賣家而言，TikTok Shop 在歐盟主要市場仍屬早期，跨境營運的配送與退貨責任都在賣家身上。",
-    "public_action": "① 評估 TikTok Shop 時，歐盟市場以補充曝光看待，英國才是主要市場；② 申請歐盟與英國互賣前，先確認自有承運商的時效能否達到兩個與七個工作天的要求；③ 準備英國退貨地址，避免退件轉入平台倉並被收取處理費；④ 引用交易額數據時註明為研究機構估算。",
-    "sources": [
-      {
-        "name": "ECDB：The UK Generates Two of Every Three Euros TikTok Shop Makes in Europe（9/29）",
-        "url": "https://ecdb.com/blog/the-uk-is-tiktok-shop-s-most-important-market/5265"
-      },
-      {
-        "name": "Ecommerce News Europe：TikTok Shop 英國規模仍遠大於歐洲其他國家（10/5）",
-        "url": "https://ecommercenews.eu/tiktok-shop-still-much-bigger-in-the-uk-than-elsewhere-in-europe/"
-      },
-      {
-        "name": "Ecommerce News Europe：TikTok Shop 開放 EU 與英國跨境銷售（9/7）",
-        "url": "https://ecommercenews.eu/tiktok-shop-opens-cross-border-sales-between-eu-and-uk/"
-      },
-      {
-        "name": "ChannelX：TikTok Shop Sell Across EU 10/19 上線（9/7）",
-        "url": "https://channelx.world/2026/09/tiktok-shop-sell-across-eu-launches-19th-october-2026/"
-      },
-      {
-        "name": "TikTok Shop 賣家大學：[For EU sellers] Sell to UK（8/26）",
-        "url": "https://seller-ie.tiktok.com/university/essay?knowledge_id=4159761564534548"
       }
     ],
     "color": "#0891b2"
