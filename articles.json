@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-11-11",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/9–11/11】Brent 跌回 $90–92、十週低點：川普稱再空襲伊朗「不太可能」，較 10 月底高點跌逾 20%",
+    "summary": "11/5 本報的 $95 是期中選舉後的單日急跌，本期新進展是和談預期讓油價再下一階：\n        ① 價格（Euronews，11/10）：11/9 Brent 跌近 6%，11/10 早盤再跌 1.31% 到 $91.36、10:30 一度約 $90；WTI 約 $84.7–85.5。\n        ② 和談訊號（Euronews）：川普 11/9 會見卡達總理後稱有「正面進展」，再空襲「不太可能」，但仍「上膛待命」。\n        ③ 位置（Trading Economics，11/11）：Brent 回升 0.9% 到 $92.31，接近十週低點，較 10 月底高點跌逾 20%，但仍比一年前高 47.2%；中東原油出貨已接近戰前水準，伊朗則要求先解除制裁與海上封鎖。\n        ④ 外溢（ING，11/10）：美國汽油跌破 $4／加侖、7 月中以來首見；美國 10 月 CPI 月增 0.4% 仍高於預期，市場全額押 12 月 Fed 升息一碼。\n        結論：能源成本見頂回落，但價位仍高、和談尚未成局。",
+    "public_impact": "國際油價 11 月 9 日至 11 日因美伊和談預期續跌，Brent 回到每桶 90 至 92 美元，接近十週低點，較 10 月底高點跌逾 20%。但油價仍比一年前高約 47%，伊朗也要求先解除制裁才願和談，局勢未定。燃油附加費通常落後 1 至 2 個月才反映，12 月到明年 1 月的運費可能小幅回落，但不太可能回到戰前水準。美國 10 月通膨高於預期，市場押注聯準會 12 月升息，歐洲央行 12 月也被預期升息，歐元兌美元方向不明。",
+    "public_action": "① Q4 售價維持原規劃，不要因油價下跌就降價，等物流商實際調整燃油附加費後再評估；② 2027 年物流預算用 90 至 100 美元為基準，另備 110 美元以上與 80 美元兩個情境；③ 以美元進貨、歐元收款的賣家，12 月央行會議前後匯率可能波動，大額結匯可分批；④ 追蹤美伊是否正式開談、歐元區與德國 11 月消費信心數據。",
+    "sources": [
+      {
+        "name": "Euronews：Oil prices continue to fall on hopes of US-Iran peace deal talks（11/10）",
+        "url": "https://www.euronews.com/2026/11/10/oil-prices-continue-to-fall-on-hopes-of-us-iran-peace-deal-talks"
+      },
+      {
+        "name": "Euronews：Stocks rally as investors snap up tech shares at lower prices（11/10）",
+        "url": "https://www.euronews.com/2026/11/10/european-stocks-rise-as-tech-rally-spreads-and-oil-prices-fall"
+      },
+      {
+        "name": "Trading Economics：Brent crude oil（11/11 更新）",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "name": "ING THINK：Hotter US inflation strengthens the case for a December Fed hike（11/10）",
+        "url": "https://think.ing.com/articles/us-cpi-october-2026/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/10 中國海關】10 月出口 +35.2%、對歐 +24.3%：前 10 月對歐順差 $3,107 億，年增約 29%",
+    "summary": "中國出口持續外溢到歐洲，歐盟的配額工具正在增加：\n        ① 總量（中國海關總署，經 Euronews）：10 月出口年增 35.2% 到 $4,123 億，進口 +41.6% 到 $3,071 億；前 10 月順差 $1.04 兆，已破 $1 兆。\n        ② 對歐（Euronews、ING）：10 月對歐盟出口 +24.3%；前 10 月對歐順差 $3,107 億，去年同期 $2,416 億。\n        ③ 品項（ING）：家電出口增速從 9 月 31.7% 降到 20.9%，汽車從 62.0% 降到 37.6%；半導體 +137.1%、高科技 +66.6%。SCMP 報導 10 月電動車出口 +145%、連兩月創新高。\n        ④ 政策（ING、Euronews、SCMP）：歐盟對中國油電混合車進口配額 12 月生效；各國正討論化學品、塑膠、工業機械配額；中國駐歐盟大使蔡潤 11/6 警告會反制。\n        結論：消費品出口增速放緩，但對歐量能仍大，貿易摩擦擴及更多品類。",
+    "public_impact": "中國海關 11 月 10 日公布，10 月出口年增 35.2%，對歐盟出口增 24.3%；前 10 月中國對歐盟貿易順差達 3,107 億美元，高於去年同期的 2,416 億美元。家電出口增速從 9 月的 31.7% 放緩到 20.9%，但仍維持兩成成長。歐盟對中國油電混合車的進口配額預定 12 月生效，各國也在討論化學品、塑膠、工業機械的配額，中國駐歐盟大使已警告會反制。目前配額集中在工業品，對電商消費品的直接影響有限，但家電、家居、3C 配件在歐洲市場的價格競爭不會減輕。",
+    "public_action": "① 家電、家居、3C 配件賣家，進場前先看目標站點同品類的價格帶與競爭者結構，避開純價格戰品項；② 把 CE、GPSR 文件、原產地與保固條款整理好，作為商品頁的差異化賣點；③ 追蹤 11 月 18 至 19 日 APEC 美中元首會面、12 月歐盟混合車配額生效，以及其他品類配額清單。",
+    "sources": [
+      {
+        "name": "Euronews：China's trade surplus surpasses $1 trillion as AI boom powers exports（11/10）",
+        "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
+      },
+      {
+        "name": "ING THINK：Chinese trade continues to ride the global AI boom（11/10）",
+        "url": "https://think.ing.com/snaps/tech-trade-drives-another-month-of-strong-trade-growth-for-china/"
+      },
+      {
+        "name": "SCMP：China's EV exports surge 145% as Iran war drives up overseas demand（11/10）",
+        "url": "https://www.scmp.com/business/china-evs/article/3373912/chinas-ev-exports-surge-145-iran-war-drives-overseas-demand"
+      },
+      {
+        "name": "SCMP：EU-China truce under strain as both sides brace for potential trade war（11/6）",
+        "url": "https://www.scmp.com/news/china/article/3373493/eu-china-trade-truce-under-strain-both-sides-brace-potential-trade-war"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/9–11/10】Bol Q3 第三方銷售 €7.87 億、+7.9%，自營僅 +0.7%：賣家數三年少 17% 到 43,095 家",
+    "summary": "荷比最大電商平台的成長已轉由第三方賣家撐，但賣家數在縮：\n        ① Q3 數字（Ahold Delhaize Q3 財報）：第三方線上銷售 €7.87 億、其他線上銷售（含 Bol 自營、Etos、Gall & Gall）€7.73 億；Ecommerce News 計算前者 +7.9%、後者 +0.7%。\n        ② 前 9 月（Ecommerce News）：第三方 +7.6%、自營 +1.3%；第三方已連五季成長快過自營，今年起金額也較大。非生鮮線上銷售前 9 月 +4.4%，去年同期 +8.7%，增速近乎腰斬。\n        ③ 賣家數（Ecommerce News、RetailDetail）：2023 年中高峰約 52,000 家，2026/6/30 為 43,095 家，少 17%；Bol 已對歐盟以外賣家開放並主動招募。\n        ④ 原因（Ahold Delhaize）：消費者轉買較便宜商品，8 月物流夥伴 Ceva 遭網攻影響出貨；10 月集團網攻 Bol 未受影響。\n        結論：Bol 的成長靠更少、更大的賣家撐起。",
+    "public_impact": "荷比最大電商平台 Bol 的母公司 Ahold Delhaize 公布第三季財報，第三方賣家線上銷售達 7.87 億歐元、年增 7.9%，Bol 自營等其他線上銷售僅增 0.7%。前 9 個月非生鮮線上銷售成長 4.4%，去年同期為 8.7%，增速近乎減半；財報指出荷比消費者轉買較便宜商品。Bol 的賣家數從 2023 年中約 5.2 萬家降到 2026 年 6 月底的 43,095 家，減少 17%，同時已對歐盟以外賣家開放並主動招募。荷比市場整體放緩、消費降級，中價位商品的轉換率可能受壓，但平台更依賴有規模的第三方賣家。",
+    "public_action": "① 已在德國等主要站點經營的賣家，可把荷蘭、比利時當加開市場，而非主攻市場；② 進荷比市場優先評估平價、實用型品類，中高價品牌商品要先測轉換率；③ 若同時評估多個平台，比較多國覆蓋方式、物流與退貨規則，不只看佣金；④ 追蹤 Ahold Delhaize 明年 2 月全年財報中的 Bol 數字。",
+    "sources": [
+      {
+        "name": "Ahold Delhaize：Q3 2026 Interim Report（PDF）",
+        "url": "https://newsroom.aholddelhaize.com/download/4f6e8375-fb5c-47c7-9c10-429ac311709c/aholddelhaizeq32026interimreport.pdf"
+      },
+      {
+        "name": "Ecommerce News Europe：Partner sales on Bol continue growing（11/9）",
+        "url": "https://ecommercenews.eu/partner-sales-on-bol-continue-growing/"
+      },
+      {
+        "name": "Ecommerce News NL：Bol ziet partnerverkopen doorgroeien",
+        "url": "https://www.ecommercenews.nl/bol-ziet-partnerverkopen-doorgroeien/"
+      },
+      {
+        "name": "RetailDetail：Bol is growing mainly thanks to its sales partners, but their numbers are shrinking（11/10，付費牆）",
+        "url": "https://www.retaildetail.eu/news/general/bol-is-growing-mainly-thanks-to-its-sales-partners-but-their-numbers-are-shrinking/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/9 ECDB】歐盟買家向境外平台的花費 46.2% 是服飾、3C 第二：2025 年境外花費 €551 億，九成流向三大中國平台",
+    "summary": "歐盟消費者向境外買的東西，和在境內買的品類結構差很多：\n        ① 品類結構（ECDB）：歐盟 27 國向第三國零售商的線上花費中，服飾佔 46.2%，但服飾在整體線上花費僅佔 18.7%，約 2.5 倍；3C 為第二大，家具家居 10.2%、個人護理 9.5%、休閒嗜好 9.5%、DIY 4.9%、生鮮 0.2%。\n        ② 原因（ECDB）：服飾輕、小、不易壞，跨境運費低；3C 靠價差，以平價替代品牌機。\n        ③ 規模（Ecommerce News 引 ECDB）：2025 年歐盟消費者在境外零售商的實體商品花費 €551 億，佔線上總花費 13.1%；其中 €497 億流向 Temu、AliExpress、Shein，比重逾九成。\n        ④ 後續（Ecommerce News）：歐盟以小包費用抑制中國包裹，平台改在歐洲設倉。\n        結論：境外直購以「輕、便宜、耐摔」品類為主，受小包新費用衝擊最大的也是這些品類。",
+    "public_impact": "數據商 ECDB 估算，歐盟 27 國消費者向歐盟以外零售商的線上花費中，服飾佔 46.2%，約是服飾在整體線上花費佔比 18.7% 的 2.5 倍；3C 為第二大，家具家居 10.2%、個人護理 9.5%。2025 年歐盟消費者在境外零售商的實體商品花費約 551 億歐元，其中 497 億歐元流向 Temu、AliExpress、Shein。服飾與小型 3C 配件輕、便宜、耐運送，是跨境直購主力，也是歐盟按件收取的 3 歐元關稅與 2 歐元處理費衝擊最大的品類。3C 買家重視價差，但對保固、插頭規格與合規也有疑慮。",
+    "public_action": "① 服飾與小型 3C 配件賣家，重算直寄每件成本，評估改由歐盟倉出貨；② 3C 賣家在商品頁清楚標示歐規插頭、CE 標示、保固期與歐盟境內退貨方式，降低買家疑慮；③ 家居賣家可評估歐洲市場，體積與運費問題可用當地倉解決；④ 引用這組數字時註明為 ECDB 2025 年估算，不是官方統計。",
+    "sources": [
+      {
+        "name": "ECDB：Cross-Border E-Commerce in Europe: Top Categories from Third Countries",
+        "url": "https://ecdb.com/blog/eu-online-spending-at-third-country-retailers/5276"
+      },
+      {
+        "name": "Ecommerce News Europe：Almost half of EU online spending abroad goes to fashion（11/9）",
+        "url": "https://ecommercenews.eu/almost-half-of-eu-online-spending-abroad-goes-to-fashion/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/9 法國】最低工資 SMIC 提前到 12/1 調升 1.6%、月增 €24 淨額：CGT 號召 11/17 再罷工",
+    "summary": "法國政府在社會協商會議後提前調薪，並搭配企業減稅：\n        ① SMIC（Euronews、Le Monde）：總理 Lecornu 11/9 宣布最低工資 12/1 起調升 1.6%，原定 2027/1/1，提前一個月；淨額約 €1,502／月、增 €24。Lecornu 稱是「20 年來第二大漲幅」，工會質疑。\n        ② 企業配套（Euronews）：加班所得 €10,000 內免所得稅、雇主大眾運輸補貼免社會提撥、「價值分享獎金」免稅；約 100 個產業將各自展開薪資談判。\n        ③ 工會反應（Euronews、Le Monde）：CFDT 原要求每月多 €100、CGT 約 €150；CGT 號召 11/17 全國罷工與示威，CFDT、CFTC、FO 則先觀望產業談判結果。\n        結論：法國薪資與勞動成本上行，社會抗議在黑五前仍未平息。",
+    "public_impact": "法國總理 Lecornu 11 月 9 日宣布，最低工資 SMIC 從 12 月 1 日起調升 1.6%，比原定的 2027 年 1 月 1 日提前一個月，淨額約每月 1,502 歐元。政府同時推出加班所得在 1 萬歐元內免所得稅等企業配套，約 100 個產業將各自談判薪資。工會認為幅度不足，CGT 號召 11 月 17 日全國罷工與示威，其他工會先觀望。法國倉儲與配送屬人工密集產業，2027 年當地物流報價可能上調；11 月 17 日罷工是否影響運輸尚未明朗，距黑色星期五約 10 天。",
+    "public_action": "① 法國站有大量黑五訂單的賣家，11 月 17 日前完成補貨入倉；② 使用法國當地物流商的賣家，2027 年合約預留人工成本調升空間；③ 追蹤 11 月 13 日法國 10 月通膨終值、11 月 17 日罷工範圍，以及 12 月 1 日最低工資生效後的產業薪資談判。",
+    "sources": [
+      {
+        "name": "Euronews：Lecornu announces €24 monthly rise in minimum wage and tax breaks for firms（11/9）",
+        "url": "https://www.euronews.com/2026/11/09/lecornu-announces-24-monthly-rise-in-minimum-wage-and-tax-breaks-for-firms"
+      },
+      {
+        "name": "Euronews 法文版：Hausse du Smic de 24 euros par mois（11/9）",
+        "url": "https://fr.euronews.com/2026/11/09/hausse-du-smic-de-16-des-decembre-mesures-pour-les-entreprises-les-annonces-de-lecornu"
+      },
+      {
+        "name": "Le Monde（AFP）：Le gouvernement annonce une hausse de 1,6 % du smic à partir du 1er décembre（11/9）",
+        "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/09/hausse-du-smic-le-gouvernement-annonce-une-revalorisation-de-1-6-a-partir-du-1-decembre-la-cgt-denonce-des-miettes_6808660_1656968.html"
+      },
+      {
+        "name": "Le Monde：Le gouvernement ébrèche l'unité syndicale avec ses mesures sur le smic（11/10，付費牆）",
+        "url": "https://www.lemonde.fr/politique/article/2026/11/10/conference-sociale-le-gouvernement-ebreche-l-unite-syndicale-avec-ses-mesures-sur-le-smic_6808798_823448.html"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-10",
     "type": "daily",
     "tags": [
