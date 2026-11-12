@@ -1,5 +1,155 @@
 [
   {
+    "date": "2026-11-12",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/11 執委會】提《數位公平法》DFA：禁「只剩 2 件」等黑暗模式、訂閱要好退，跨國案件罰款最高全球營收 6%",
+    "summary": "歐盟 20 年來最大的消費者保護改革正式提案，電商頁面設計與促銷話術都被納入：\n        ① DFA 內容（執委會，11/11）：禁止黑暗模式，例如假稱「快賣完」逼買；價格要清楚透明，虛擬排隊要即時顯示現價與最高可能價；可關閉成癮設計；網紅業配要揭露；限制針對未成年人的個人化廣告與定價；訂閱要好取消，免費試用轉付費前要提醒。\n        ② 執法改革（Euronews）：同步修訂消費者保護合作規則（CPC），執委會可直接調查跨國大案並開罰，最高全球年營收 6%；非歐盟企業須在歐盟指定法定代表；客服須能找到真人。Politico 指罰則適用於影響逾三分之二歐盟人口的案件。\n        ③ 適用範圍（Politico）：DSA 只管大平台，DFA 適用所有在線上對歐盟消費者銷售的企業，也涵蓋 AI 代理購物。\n        ④ 各方反應：消費者組織 BEUC 支持；遊戲業稱「將重創產業」；DOT Europe 認為與現行法規重複。\n        結論：仍需歐洲議會與理事會審議，生效日未定，但頁面設計合規已成歐盟下一個執法重點。",
+    "public_impact": "歐盟執委會 11 月 11 日提出《數位公平法》（DFA），禁止「快賣完了」這類不實的急迫性話術等黑暗模式，要求價格透明、訂閱容易取消、免費試用轉付費前提醒、網紅業配須揭露，並限制針對未成年人的個人化廣告與定價。同步修訂的消費者保護合作規則讓執委會可直接調查跨國大案，罰款最高達全球年營收 6%，非歐盟企業須在歐盟指定法定代表。DFA 適用所有對歐盟消費者線上銷售的企業，不限大平台。提案仍需歐洲議會與理事會審議，生效日未定。",
+    "public_action": "① 盤點商品頁的急迫性用語，「限量」「最後幾件」「倒數」須與實際庫存與活動期間一致；② 與網紅合作的品牌統一標示廣告或贊助內容；③ 已委託歐盟 GPSR 負責人的非歐盟賣家，先整理服務商與合約範圍，條文細節公布後確認法定代表要求；④ 追蹤歐洲議會與理事會的審議進度。",
+    "sources": [
+      {
+        "name": "European Commission：Making your online experience fairer（11/11）",
+        "url": "https://commission.europa.eu/news-and-media/news/making-your-online-experience-fairer-2026-11-11_en"
+      },
+      {
+        "name": "Euronews：EU targets subscription traps, addictive design and hidden fees with new digital rules（11/11）",
+        "url": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules"
+      },
+      {
+        "name": "POLITICO：Brussels takes on the evils of online commerce（11/10）",
+        "url": "https://www.politico.eu/article/brussels-takes-on-the-evils-of-online-commerce-digital-fairness-act-commission/"
+      },
+      {
+        "name": "POLITICO：European gaming firms say new EU consumer rules will ‘cripple’ the industry（11/11）",
+        "url": "https://www.politico.eu/article/european-gaming-firms-say-new-eu-consumer-rules-will-cripple-the-industry-digital-fairness-act/"
+      },
+      {
+        "name": "BEUC：EU's plan to tackle manipulative digital practices will benefit consumers（11/10）",
+        "url": "https://www.beuc.eu/press-releases/eus-plan-tackle-manipulative-digital-practices-will-benefit-consumers"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/10–11/11】Amazon 英德黑五週定檔 11/19–11/30：英國同步上線 Alexa for Shopping，免 Prime 可用",
+    "summary": "黑五檔期距今剩一週，英國站同時換上新的 AI 購物入口：\n        ① 檔期（About Amazon UK／DE，11/10）：英、德 Black Friday Week 皆為 11/19–11/30，德國站 11/19 00:01 開始；Amazon 裝置 11/16 起先開打。官方稱逾百萬件優惠、最高 45% off，Prime 會員每日兩波 Epic Prime Deals。Independent 11/10 報導同一檔期，但寫「最高 60% off」，與官方口徑不同。\n        ② Alexa for Shopping 英國上線（About Amazon UK，11/11）：結合 Rufus 與 Alexa+，在搜尋結果與商品頁頂端顯示 AI 摘要、可並排比較商品、查看最長 365 天價格歷史，登入即可用、不需 Prime。價格提醒與排程動作「未來數週到數月」推出。Independent 11/6 報導美國版剛新增逾 100 項功能。\n        ③ 無人機配送（About Amazon UK、Retail Gazette）：Prime Air 取得英國 CAA 全球首張 SAIL 4 授權，Darlington 可配送戶數從約 600 增至約 8,000，限 2.2kg 以下。\n        結論：黑五買家會先看到 AI 摘要與價格歷史，Listing 內容與定價紀錄都會被放大檢視。",
+    "public_impact": "Amazon 英國與德國站的 Black Friday Week 定檔 11 月 19 日至 30 日，官方稱逾百萬件優惠、最高 45% 折扣，Amazon 自家裝置 11 月 16 日起先行。英國站 11 月 11 日同步上線 Alexa for Shopping，在搜尋結果與商品頁頂端顯示 AI 摘要、可並排比較商品、查看最長 365 天價格歷史，所有登入用戶免 Prime 即可使用。買家比價更方便，活動前調高原價再打折的做法更容易被識破，商品資訊不完整的頁面在 AI 比較中也較吃虧。",
+    "public_action": "① 黑五折扣以近 30 天實際售價為基準，不要在活動前調高原價；② 優先補齊主力商品的屬性欄位、尺寸規格與常見問題，讓 AI 摘要抓到正確資訊；③ 11 月 16 日前確認可售庫存天數，庫存不足的商品降低廣告預算避免斷貨；④ 英德兩站分開檢視庫存與定價。",
+    "sources": [
+      {
+        "name": "About Amazon UK：Amazon's Black Friday Week 2026（11/10 更新）",
+        "url": "https://www.aboutamazon.co.uk/news/retail/black-friday-everything-you-need-to-know"
+      },
+      {
+        "name": "About Amazon DE：Amazon Black Friday Woche 2026",
+        "url": "https://www.aboutamazon.de/news/amazon-prime-und-shopping/amazon-black-friday"
+      },
+      {
+        "name": "About Amazon UK：Meet Alexa for Shopping（11/11）",
+        "url": "https://www.aboutamazon.co.uk/news/retail/meet-alexa-for-shopping-your-personalised-ai-assistant-on-amazon"
+      },
+      {
+        "name": "About Amazon UK：Prime Air secures the world's first SAIL 4 approval（11/10）",
+        "url": "https://www.aboutamazon.co.uk/news/innovation/prime-air-secures-sail-4-approval-uk-civil-aviation-authority"
+      },
+      {
+        "name": "The Independent：Amazon Black Friday 2026: Dates confirmed（11/10）",
+        "url": "https://www.independent.co.uk/extras/indybest/black-friday/amazon-black-friday-deals-2026-b3071535.html"
+      },
+      {
+        "name": "The Independent：Amazon supercharges Alexa as your personal shopper（11/6）",
+        "url": "https://www.independent.co.uk/us/money/amazon-alexa-update-personal-shopper-b3080526.html"
+      },
+      {
+        "name": "Retail Gazette：Amazon expands UK drone deliveries to 8,000 households（11/11）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/amazon-expands-uk-drone-deliveries-to-8000-households-after-landmark-approval/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/11 ISTAT】義大利 2026 年 GDP 估 +0.9%、2027 年 +0.6%：消費成長降到 1.0%，通膨平減指數升到 3.3%",
+    "summary": "義大利官方統計局同日發布展望與 9 月工業生產，兩份數據都指向消費品走弱：\n        ① 展望（ISTAT，11/11）：2026、2027 年 GDP 估 +0.9%、+0.6%，主要靠內需。家庭消費 +1.0%、+0.6%，低於 2025 年的 +1.2%，原因是物價大漲而名目薪資成長大致持平。家庭支出平減指數由 2025 年 1.5% 升到 2026 年 3.3%，2027 年 2.8%；失業率 6.0%、5.9%。\n        ② 9 月工業生產（ISTAT）：月增 1.2%、年減 0.1%，Q3 季減 0.4%。\n        ③ 結構（ING，11/11）：資本財 +1.3%、中間財 +1.2%，消費品 -0.2%、能源 -1.4%。年比看，消費品 -3.0%、紡織服飾皮革 -4.5%、化學品 -8.3%；ING 判斷能源成本仍極高，Q4 生產大致持平。\n        結論：義大利通膨（10 月 CPI 5.4%）正在吃掉消費力，2027 年更弱。",
+    "public_impact": "義大利國家統計局 11 月 11 日預估 2026、2027 年 GDP 成長 0.9%、0.6%，家庭消費成長放緩到 1.0%、0.6%，原因是物價大漲而薪資成長大致持平；家庭支出平減指數由 2025 年的 1.5% 升到 2026 年的 3.3%。同日公布的 9 月工業生產月增 1.2%，但第三季季減 0.4%，消費品年減 3.0%、紡織服飾皮革年減 4.5%。義大利消費者購買力受通膨壓縮，旺季買氣可能往低單價、折扣深的商品集中。",
+    "public_action": "① 義大利站黑五主推入門款與低單價商品，高單價商品可用優惠券保留毛利彈性；② 2027 年義大利市場的備貨與預算以消費持平為基準情境，另備正負 1% 的情境；③ 追蹤義大利 10 月通膨終值、11 月消費者信心與 10 月工業生產。",
+    "sources": [
+      {
+        "name": "ISTAT：Note on the performance and outlook of the Italian economy – Years 2026-2027（11/11）",
+        "url": "https://www.istat.it/en/press-release/note-on-the-performance-and-outlook-of-the-italian-economy-years-2026-2027-2/"
+      },
+      {
+        "name": "ISTAT：Industrial production – September 2026（11/11）",
+        "url": "https://www.istat.it/en/press-release/industrial-production-september-2026/"
+      },
+      {
+        "name": "ING THINK：Italian industry rebounds in September, but a recovery remains elusive（11/11）",
+        "url": "https://think.ing.com/snaps/italian-industry-rebounds-in-september-but-a-recovery-remains-elusive/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/11 西班牙】14 年來首次全國大罷工、工會稱 400 萬人參與：港口受影響，11/29 提前大選落在黑五週",
+    "summary": "11/11 本報關鍵日期列的西班牙大罷工已登場，影響集中在工業與港口：\n        ① 規模（Euronews，11/11）：UGT、CCOO 聯合發起 24 小時罷工，訴求房價、薪資與生活成本，是 2012 年以來首次全國大罷工。工會稱動員約 400 萬名勞工；馬德里警方估遊行約 12 萬人。\n        ② 產業影響（Euronews）：工會承認參與度不均，集中在重工業、港口與沿海樞紐；雇主團體 CEOE 稱多數商業部門幾乎未受干擾。\n        ③ 衝突（Euronews、The Guardian）：巴塞隆納、馬德里晚間爆發衝突，巴塞隆納有商店櫥窗被砸、疑遭洗劫，全日共 20 人被捕。\n        ④ 政治（The Guardian）：11/29 提前大選，人民黨與極右派 Vox 已形成右翼聯盟。\n        結論：單日罷工對物流衝擊有限，但大選結果與住房、薪資議題會影響 2027 年西班牙消費與稅制。",
+    "public_impact": "西班牙 11 月 11 日舉行 2012 年以來首次全國大罷工，由兩大工會發起，訴求房價、薪資與生活成本，工會稱約 400 萬名勞工參與。參與集中在重工業、港口與沿海樞紐，雇主團體則稱多數商業部門幾乎未受影響。巴塞隆納與馬德里晚間發生衝突，全日 20 人被捕。西班牙 11 月 29 日提前大選，正好落在 Black Friday 週末與 Cyber Monday 之間。單日罷工對物流衝擊有限，但港口到港貨櫃可能延誤，法國 11 月 17 日也有罷工。",
+    "public_action": "① 11 月 9 日至 14 日有西班牙港口到港貨櫃的賣家，向貨代確認卸櫃與入倉時程；② 西班牙站黑五週的廣告預算按日拆分，觀察選舉前後的廣告成本再調整；③ 旺季期間把多國輪流罷工列入配送風險，追蹤法國 11 月 17 日罷工與西班牙大選結果。",
+    "sources": [
+      {
+        "name": "Euronews：Spain: 120,000 brave rain to demand affordable housing and better wages（11/11）",
+        "url": "https://www.euronews.com/video/2026/11/11/spain-120000-brave-rain-to-demand-affordable-housing-and-better-wages"
+      },
+      {
+        "name": "Euronews：Spain: Clashes erupt in Barcelona after peaceful general strike march（11/11）",
+        "url": "https://www.euronews.com/video/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march"
+      },
+      {
+        "name": "The Guardian：Police clash with protesters during Spain's general strike（11/11）",
+        "url": "https://www.theguardian.com/world/video/2026/nov/11/police-clash-with-protesters-during-spains-general-strike-video"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/9 英國】Comet 以純第三方電器市集重返、上線即 2,500 家賣家（單一來源）：OnBuy 經營，目標 £10 億規模",
+    "summary": "英國老牌電器零售品牌以平台模式復活，正趕在聖誕檔期招募賣家：\n        ① 上線（Retail Gazette，11/10）：Comet 11/9 重新上線，投資 £1,000 萬，涵蓋電視、手機、電腦、遊戲與家電，上線即有逾 100 萬件商品、2,500 家賣家。\n        ② 模式：由 OnBuy 經營（2025 年 5 月收購 Comet 品牌），平台不持有庫存，全由第三方零售商與品牌銷售，目前持續招募聖誕檔期賣家；不重開門市，但在洽談與零售商合作的門市取貨。\n        ③ 目標：執行長 Cas Paton 稱要做到 £10 億規模。Comet 2012 年倒閉時關閉 236 家門市、約 7,000 人失業。\n        ④ 市場背景（Retail Gazette，11/11）：Worldpanel 數據顯示英國雜貨通膨在截至 11/1 的四週升到 2.6%，10 月雜貨銷售年增 2.2%。\n        結論：只有 Retail Gazette 一家報導，規模與賣家條件待其他來源確認。",
+    "public_impact": "英國老牌電器零售品牌 Comet 11 月 9 日以純第三方市集模式重新上線，由 OnBuy 經營，投資 1,000 萬英鎊，上線即有逾 100 萬件商品、2,500 家賣家，涵蓋電視、手機、電腦、遊戲與家電，目前持續招募聖誕檔期賣家，目標做到 10 億英鎊規模。這是英國 3C 家電品類的新銷售通路，但流量從零起步，目前只有單一媒體報導，賣家條件與物流方案尚未公開。",
+    "public_action": "① 評估新通路時，比較流量、轉換、物流履約與退貨成本，不只看佣金率；② 黑五到聖誕檔期庫存以既有通路為優先，新平台可留到 1 月淡季小量測試；③ 等平台公布賣家條件與物流方案後再決定是否投入。",
+    "sources": [
+      {
+        "name": "Retail Gazette：Comet returns as online marketplace following £10m investment（11/10）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/comet-returns-as-online-marketplace-following-10m-investment/"
+      },
+      {
+        "name": "Retail Gazette：Sales of bottled water and tinned food surge after government stockpiling advice（11/11）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/sales-of-bottled-water-and-tinned-food-surge-after-government-stockpiling-advice/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-11",
     "type": "daily",
     "tags": [
