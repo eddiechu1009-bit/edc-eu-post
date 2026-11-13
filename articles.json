@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-11-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/12 Reuters 調查】71 位經濟學家全數預期 ECB 12 月升息到 2.75%：25 人看 2027 年 Q1 再升，通膨預估上修到 3.1%",
+    "summary": "12 月升息已近乎定案，市場分歧轉到「升完之後還有沒有」：\n        ① 調查結果（Reuters，11/10–11/12 調查）：71 位經濟學家全數預期 ECB 12 月把存款利率升到 2.75%，這會是今年 6 月、9 月之後第三次升息，利率將高於 ECB 估計的中性區間 1.75%–2.50%。46 人認為 2.75% 是本輪高點，25 人預期 2027 年第一季再升一次；市場則定價到明年底再升 2–3 次。\n        ② 預測上修（Reuters、FXStreet）：通膨預估 2026 年平均 3.1%、2027 年 2.8%（上月為 3.0%、2.6%），至少到 2027 年 Q2 維持在目標兩倍左右；核心通膨 10 月 2.2%，預估本季平均 2.6%、下季 2.8%。成長預估同步上修到 2026 年 1.1%、2027 年 1.3%。\n        ③ 官員表態（Reuters，11/10）：首席經濟學家 Lane 接受 Bloomberg 訪問時說，若 12 月資訊與現在相同，「升息是審慎的做法」，並稱「通膨高峰還沒到」。\n        ④ 風險：Nordea 指油價近幾週跌逾 20% 有誤導性，天然氣庫存偏低，冷冬可能讓氣價再飆；Wellington Management 認為工會會要求加薪追回約 2% 的實質所得損失。\n        結論：融資成本在旺季後仍會往上，2027 年上半年是否再升取決於冬季能源價格。",
+    "public_impact": "Reuters 11 月 10 日至 12 日調查的 71 位經濟學家全數預期，歐洲央行 12 月將存款利率升到 2.75%，為今年第三次升息，其中 25 人預期 2027 年第一季再升一次。經濟學家把 2026、2027 年通膨預估上修到 3.1% 與 2.8%，至少到 2027 年第二季維持在 2% 目標的兩倍左右。對賣家而言，存貨融資與週轉成本會在旺季後繼續上升；消費者實質所得受壓，2027 年上半年非必需品類的需求可能更依賴促銷。冬季天然氣價格是是否再升息的主要變數。",
+    "public_action": "① 黑五後補貨量大的賣家，用較高的利率重算第一季融資成本，避免過量囤貨；② 進入新站點時先以小批量試水，降低資金占用；③ 2027 年報價做匯率壓力測試，不要假設歐元持續走強；④ 追蹤 12 月歐洲央行會議、歐元區 11 月通膨初值與冬季天然氣價格。",
+    "sources": [
+      {
+        "name": "Reuters：ECB set for last rate hike in December but inflation risks keep door open for one more（11/12）",
+        "url": "https://www.reuters.com/world/ecb-set-last-rate-hike-december-inflation-risks-keep-door-open-one-more-2026-11-12"
+      },
+      {
+        "name": "FXStreet：Economists agree: ECB will hike rates to 2.75% in December（11/12）",
+        "url": "https://www.fxstreet.com/news/economists-agree-ecb-will-hike-rates-to-275-in-december-reuters-poll-shows-202611121202"
+      },
+      {
+        "name": "Reuters via Yahoo Finance：ECB may need to hike in Dec, chief economist says（11/10）",
+        "url": "https://finance.yahoo.com/economy/policy/articles/ecb-may-hike-dec-chief-085849872.html"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/12】€2 處理費上路兩週：匈牙利調查三分之二網購族已改變習慣、29% 停用亞洲平台，中國商務部要求歐盟評估影響",
+    "summary": "進展：11/1 處理費上路後，首批消費者行為數據與中方正式回應出爐：\n        ① 匈牙利 Ipsos 調查（Hungary Today／MTI，11/12；物流商 DODO 委託，10/26–10/30 訪問 1,000 人）：7/1 €3 關稅上路後，三分之二受訪者改變網購習慣，29% 完全停用亞洲網店、33% 減少下單、5% 縮減品類；29% 改向匈牙利本地網店買、21% 改向其他歐盟國網店。56% 知道 11/1 起每個申報品項加收 €2，21% 不清楚細節。匈牙利稅關 NAV 10/14 也說非歐盟小包數量下降。\n        ② 馬爾他街訪（Times of Malta，11/12）：消費者反映 Shein 褲子從約 €9 漲到近 €20；年輕族群說「多 €5 不會不買」，但價格再漲就不划算。報導指 €3 與 €2 合計每件最多 €5。\n        ③ 中方回應（Digital Watch Observatory 引 Reuters，11/12）：中國商務部發言人 11/5 表示「密切關注」，敦促歐盟審慎評估新收費對跨境電商的影響。\n        ④ 平台端旁證（Investing.com，11/12）：波蘭 Allegro 說 7/1 海關新規後，中國電商平台的流量競價需求下降，讓 Q3 波蘭行銷支出減少 5.3%（見第 4 則）。\n        結論：需求轉向歐盟境內賣家的跡象開始在中東歐出現，但調查樣本只限匈牙利。",
+    "public_impact": "匈牙利 Ipsos 10 月底調查 1,000 名網購族，三分之二因歐盟 7 月起對 €150 以下非歐盟小包課 €3 關稅而改變習慣，29% 完全停用亞洲網店，29% 改向匈牙利本地網店、21% 改向其他歐盟國網店；11 月 1 日起每個申報品項另收 €2 處理費。中國商務部表示密切關注，敦促歐盟評估影響。波蘭電商平台 Allegro 也說中國平台的廣告競價需求下降。已在歐盟境內備貨的賣家，與直郵低價商品的價差正在縮小，廣告成本也可能下降。調查樣本只限匈牙利。",
+    "public_action": "① 仍以直郵為主的非歐盟賣家，試算 €3 關稅加 €2／品項處理費後的到手價，評估改為歐盟倉出貨；② 已在德國等站點銷售的賣家，可評估把中東歐市場納入配送範圍；③ 黑五期間比較廣告點擊成本與去年同期，若下降可調整預算；④ 追蹤其他中東歐國家的消費者調查與海關小包數據。",
+    "sources": [
+      {
+        "name": "Hungary Today（MTI）：Online Shoppers Turn Away from Asian Retailers Following EU Customs Changes（11/12）",
+        "url": "https://hungarytoday.hu/hungarians-turn-away-from-asian-online-stores-following-eu-customs-changes"
+      },
+      {
+        "name": "Times of Malta：Temu and Shein shoppers face new fees. Will they stop buying?（11/12）",
+        "url": "https://timesofmalta.com/article/shoppers-continue-buying-temu-shein.1136900"
+      },
+      {
+        "name": "Digital Watch Observatory：China urges EU to assess new charges on 'low-value' imports（11/12）",
+        "url": "https://dig.watch/updates/china-eu-import-charges-ecommerce"
+      },
+      {
+        "name": "Investing.com：Allegro shares gain 4% as Q3 profit rises（11/12）",
+        "url": "https://www.investing.com/news/earnings/allegro-raises-fy-profit-outlook-on-inpost-deal-faster-polish-sales-growth-5020466"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/12】京東完成收購 MediaMarkt 母公司 Ceconomy（$25 億）：目標歐洲 3C 線上第一，承諾全歐隔日到、Uber 90 分鐘到貨",
+    "summary": "進展：11/3 歐盟有條件批准後，交易 11/12 正式交割，雙方首度說明整合方向：\n        ① 交割與目標（Reuters，11/12）：京東以約 $25 億收購 Ceconomy 的交易 11/12 完成。京東國際（JD Worldwide）CEO Jack Li 說「要打造歐洲領先的 3C 零售平台」；京東在歐洲現有逾 60 個物流中心，計畫再擴。\n        ② 服務承諾（Reuters）：Ceconomy CEO Remko Rijnders 表示，將提供全歐隔日到貨、透過 Uber 90 分鐘到貨、門市 30 分鐘取貨，並稱「沒有競爭者做得到」；京東歐洲線上平台 Joybuy 的顧客未來可使用 MediaMarkt／Saturn 在 11 國逾 1,000 家門市。\n        ③ 股權與條件（Global Brands Magazine、PPC Land）：京東每股出價 €4.60 現金，取得 59.8%，創辦家族的 Convergenta 保留約 25.35%；Ceconomy 2024/25 財年營收 €231 億、線上占 26%。歐盟條件為期 10 年：京東與 Ceconomy 間交易須按市場條件，倉儲物流與技術服務須以相同條件開放給其他零售商，由獨立受託人監督。\n        ④ 未涵蓋事項（PPC Land）：公開的條件文件未提零售媒體廣告、顧客資料共享與 Ceconomy 自有第三方市集規則。\n        結論：歐洲 3C 通路從此多了一個有中國物流底子、又有千家門市的對手。",
+    "public_impact": "京東以約 25 億美元收購 MediaMarkt、Saturn 母公司 Ceconomy 的交易於 11 月 12 日完成，目標是成為歐洲領先的 3C 線上零售平台，並規劃全歐隔日到貨、Uber 90 分鐘到貨與門市 30 分鐘取貨。Ceconomy 在 11 國有逾 1,000 家門市，2024/25 財年營收 231 億歐元。歐盟的批准條件為期 10 年，京東須以相同條件把倉儲物流與技術服務開放給其他零售商。歐洲 3C 消費者對到貨速度的期待將提高，3C 賣家在多個市場的價格與配送競爭會更激烈。",
+    "public_action": "① 3C 賣家檢查各國的平均到貨天數，到貨偏慢的市場評估多國備貨；② 品牌方留意 MediaMarkt 與 Joybuy 市集的進駐條件，比較通路差異；③ 旺季期間追蹤 MediaMarkt 同款商品價格，及早調整定價；④ 追蹤京東對外開放物流服務的報價與範圍。",
+    "sources": [
+      {
+        "name": "Reuters：JD.com seeks to lead Europe's online electronics retail with Ceconomy deal（11/12）",
+        "url": "https://www.reuters.com/business/retail-consumer/jdcom-seeks-lead-europes-online-electronics-retail-with-ceconomy-deal-2026-11-12"
+      },
+      {
+        "name": "PPC Land：JD.com wins EU approval to buy MediaMarkt owner on 10-year conditions（11/12）",
+        "url": "https://ppc.land/jd-com-wins-eu-approval-to-buy-mediamarkt-owner-on-10-year-conditions"
+      },
+      {
+        "name": "Global Brands Magazine：MediaMarkt Takeover: JD.com's €4.60 Europe Bet",
+        "url": "https://www.globalbrandsmagazine.com/jd-mediamarkt-takeover"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/12】Allegro Q3 GMV +17.8%、國際站 +101.7%：上調全年 GMV 成長到 15–16%，Q4 前五週波蘭 +16%",
+    "summary": "中東歐最大電商平台旺季前加速，與 11/11 本報 Bol 自營停滯形成對比：\n        ① Q3 成績（Investing.com，11/12）：集團 GMV +17.8%、調整後 EBITDA +22.9% 到 PLN 11.3 億；波蘭 GMV +14.7%、國際站（捷克、斯洛伐克、匈牙利）GMV +101.7% 到 PLN 12.1 億，國際虧損收窄 10.5%。波蘭廣告收入 +34.3% 到 PLN 4.53 億；波蘭抽成率從 12.98% 降到 12.54%。\n        ② 行銷費下降原因（Investing.com）：波蘭行銷支出 -5.3%，公司歸因於 7/1 歐盟海關新規後，中國電商平台的流量競價需求下降。\n        ③ Q4 與全年展望（法說會逐字稿）：Q4 前五週波蘭 GMV 約 +16%、國際約 +100%、集團約 +17%；全年集團 GMV 成長上調到 15–16%（原 13–15%），營收 17–18%；與 InPost 簽新框架協議、價格追溯全年，貢獻波蘭 EBITDA 約 PLN 2.7–2.8 億。\n        ④ 旺季布局（法說會）：11 月最高 30 期零利率分期、匈牙利推出對 25 家網店的最低價保證，捷克置物櫃配送開到 12/24。\n        結論：中東歐電商在直郵退潮後成長最快，本地平台正在吃下轉單。",
+    "public_impact": "波蘭電商平台 Allegro 第三季集團 GMV 成長 17.8%，波蘭本地成長 14.7%，捷克、斯洛伐克、匈牙利的國際業務 GMV 翻倍到 12.1 億茲羅提。公司說歐盟 7 月海關新規後，中國電商平台的流量競價需求下降，波蘭行銷支出因此減少 5.3%。Allegro 把全年集團 GMV 成長預估上調到 15–16%，第四季前五週波蘭 GMV 約成長 16%。中東歐是直郵退潮後成長最快的市場之一，本地平台以低抽成、零利率分期與置物櫃配送鞏固買家，進入這些市場的賣家要面對更高的價格與配送標準。",
+    "public_action": "① 已在波蘭銷售的賣家，比對主要平台上同款商品的價格與配送天數；② 計畫擴展中東歐的賣家，可把波蘭、捷克等市場的需求成長納入評估；③ 旺季期間留意本地平台的分期與促銷活動對轉換率的影響；④ 追蹤 Allegro 第四季財報與當地物流商費率變化。",
+    "sources": [
+      {
+        "name": "Investing.com：Allegro shares gain 4% as Q3 profit rises, FY earnings outlook raised（11/12）",
+        "url": "https://www.investing.com/news/earnings/allegro-raises-fy-profit-outlook-on-inpost-deal-faster-polish-sales-growth-5020466"
+      },
+      {
+        "name": "Yahoo Finance：Allegro.eu Q3 FY2026 earnings call transcript（11/12）",
+        "url": "https://finance.yahoo.com/quote/ALEGF/earnings/ALEGF-Q3-2026-earnings_call-543249.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/12 ONS】英國 Q3 GDP +0.7%、近十年最快（疫情除外）：AI 投資帶動，但 9 月零售量下滑，12 月升息仍在桌上",
+    "summary": "成長數字亮眼，但消費端撐不起來：\n        ① GDP（CNBC 引 ONS，11/12）：Q3 季增 0.7%、年增 1.9%，Q2 為 0.5%、Q1 0.6%；服務業 +0.9%，其中資訊通訊業 +2.1%，ONS 指與 AI、雲端相關；生產 +0.1%、營建 -0.7%。9 月單月 +0.2%，優於持平預期。\n        ② BoE 預測（Yahoo Finance UK、IndexBox）：BoE 已把 2026 年成長預估上調到 1.6%，高於預算責任辦公室（OBR）10 月預算後的 1.2%；成長部分來自 AI 基礎建設投資與預算的短期財政刺激。\n        ③ 消費面（Yahoo Finance UK、IndexBox）：9 月零售量下滑，預算案前消費信心出現 2020 年 4 月以來最大單月跌幅；9 月通膨 3.5%，BoE 預估 2027 年中可能到 5% 左右。\n        ④ 利率（CNBC）：ICAEW 首席經濟學家 Thiru 認為數據讓「12 月升息穩穩留在桌上」；J.P. Morgan Personal Investing 提醒預算前的緊張與中東戰事會壓抑後續幾季。\n        結論：英國總體成長靠企業投資撐著，家庭消費在升息與高能源價格下偏弱。",
+    "public_impact": "英國國家統計局公布第三季 GDP 季增 0.7%，是疫情以外近十年最快，主要由資訊通訊業與 AI、雲端相關投資帶動；英國央行已把 2026 年成長預估上調到 1.6%。但 9 月零售量下滑，消費信心在預算案前出現 2020 年 4 月以來最大單月跌幅，9 月通膨 3.5%，英國央行預估 2027 年中可能到 5% 左右，市場認為 12 月仍可能升息。對英國站賣家而言，總體成長沒有傳到家庭支出，旺季需求可能集中在深折扣與必需品；企業採購 IT 與辦公用品的需求相對穩定。",
+    "public_action": "① 英國站黑五預算集中在低單價、高折扣的引流商品，高單價商品以組合或分期提高轉換；② 3C、網通、辦公類賣家可加強對企業買家的數量折扣與發票設定；③ 2027 年初英國補貨保守估算，等 12 月英國央行決議後再調整；④ 追蹤 11 月 20 日英國 10 月零售數據與 12 月英國央行會議。",
+    "sources": [
+      {
+        "name": "CNBC：UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'（11/12）",
+        "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
+      },
+      {
+        "name": "Yahoo Finance UK（ADVFN）：FTSE 100 Approaches Record High as UK Economy Grows 0.7% in Third Quarter（11/12）",
+        "url": "https://uk.finance.yahoo.com/news/ftse-100-approaches-record-high-093611886.html"
+      },
+      {
+        "name": "IndexBox：UK GDP Grew 0.7% in Q3 2026, Matching Forecasts as BoE Upgrades Outlook（11/12）",
+        "url": "https://www.indexbox.io/blog/uk-economy-grows-07-in-q3-2026-beating-forecasts"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-12",
     "type": "daily",
     "tags": [
