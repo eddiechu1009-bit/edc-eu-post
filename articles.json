@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-16",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/12】Amazon 歐盟八站旺季 Prime 配送門檻暫調：11/15–2027/1/9 生效，德法西準時率須 ≥92%",
+    "summary": "旺季 Prime 資格改看另一套配送速度分布，11/15 起已生效：\n        ① 範圍（Seller Central 德國站論壇公告）：FBA、FBM 與 Amazon 自營商品，涵蓋德、法、西、荷、波、瑞、比、愛八站，英國、義大利不在名單；期間 2026/11/15–2027/1/9，1/10 恢復一般標準。Amazon 說明旺季配送量大，賣家與物流商可能延誤。\n        ② 標準尺寸與低價商品：德國境內須 10% 一天內、35% 兩天內、65% 四天內送達；其他七站境內 25% 兩天、65% 四天；跨境 5% 三天、15% 四天、35% 六天內。\n        ③ 大件：特大件境內 5% 五天、15% 六天內；超大件境內 10% 三天、30% 四天、45% 十天內。\n        ④ 準時送達率（OnlinehändlerNews，11/12）：所有品類德法西須 ≥92%，荷波瑞比愛 ≥90%；成績看「Prime 由賣家配送」儀表板與 FBA「Prime 資格」庫存報告。\n        結論：跨境配送有獨立門檻，從德國出貨到其他站的訂單要分開看。",
+    "public_impact": "Amazon 在德、法、西、荷、波、瑞、比、愛八個歐洲站，自 2026 年 11 月 15 日至 2027 年 1 月 9 日暫時調整 Prime 資格的配送要求，適用於 FBA、FBM 與自營商品。標準尺寸商品在德國境內須 65% 在四天內送達，其他七站境內須 25% 兩天、65% 四天內，跨境配送須 35% 在六天內送達；準時送達率德法西須至少 92%，其他五站至少 90%。英國與義大利不在名單內。黑五與聖誕檔期都在這段期間，自行配送 Prime 訂單的賣家最需要注意準時率。",
+    "public_action": "① 自行配送 Prime 訂單的賣家每週檢查配送表現，準時率接近門檻時就調整承運商或處理時間；② 從德國出貨到其他歐洲站的賣家，分開檢視跨境訂單的送達天數；③ FBA 賣家確認黑五主力商品仍具 Prime 資格；④ 2027 年 1 月 10 日起恢復一般標準，屆時重新檢視表現。",
+    "sources": [
+      {
+        "name": "Amazon Seller Central DE 賣家論壇：Anforderungen des Seller Prime-Programms für die Hauptsaison angepasst",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/38988a0d-1f10-430c-947e-f8647a9c740c"
+      },
+      {
+        "name": "OnlinehändlerNews：Prime-Berechtigung im Weihnachtsgeschäft: Diese Lieferquoten gelten bis 9. Januar（11/12）",
+        "url": "https://ohn.haendlerbund.de/amazon/marktplatz/prime-berechtigung-weihnachtsgeschaeft-lieferquoten-bis-9-januar"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/20 生效】歐盟消費信貸新指令 CCD II：先買後付全面納管，賣家自製分期廣告須加風險警語",
+    "summary": "距生效剩 4 天，短期、零利率的先買後付（BNPL）首度成為正式消費信貸：\n        ① 法規（PayPal 德國商家說明）：CCD II（指令 (EU) 2023/2225）取代 2008 年舊指令，原則上自 2026/11/20 起適用於當日以後簽訂的信貸契約，實際範圍依各國轉換立法；PayPal 列出法、西、義、德、奧的受影響產品。\n        ② 德國細節（OnlinehändlerNews，11/13）：€200 以下小額與零利率延後付款的豁免取消，每筆都要做信用評估；信貸契約另有 14 天撤回權，撤回信貸可能連帶解除買賣契約，賣家要收回商品並與支付商協調退款。\n        ③ 廣告責任在賣家（Klarna 德國行銷規範）：自製廣告提到「30 天後付款」「分 3 期」，11/20 起須在旁加同等醒目的風險警語；寫「零利率」或分期金額者另須附完整代表性範例。Klarna 會自動稽核商家網站，違規可能被停用。\n        ④ 不變的部分：信用評估與契約文件由 PayPal、Klarna 負責，技術串接多半不用改。\n        結論：影響集中在獨立站與站外廣告的分期文案。",
+    "public_impact": "歐盟修訂後的消費信貸指令（CCD II）原則上自 2026 年 11 月 20 日起適用，短期、零利率的先買後付服務首度納入消費信貸規範，德國取消 €200 以下小額信貸的豁免，每筆交易都要做信用評估，信貸契約也另有 14 天撤回權，可能連帶解除買賣契約。信用評估與契約文件由 PayPal、Klarna 等支付商負責，但賣家自製的分期或延後付款廣告須加上風險警語，提到零利率或分期金額者還要附完整範例。生效日落在黑五檔期中，有歐洲獨立站的品牌受影響最大。",
+    "public_action": "① 11 月 19 日前檢查獨立站與社群廣告中「0%」「分期」「30 天後付款」等字眼，改用支付商核准的文案與警語；② 結帳頁不要預選先買後付，並測試分期被拒時能改用其他付款方式；③ 更新退貨流程，處理消費者只撤回信貸的情況；④ 法、西、義、奧等國的轉換立法進度不同，以支付商當地公告為準。",
+    "sources": [
+      {
+        "name": "PayPal DE：Buy Now, Pay Later (BNPL) und die neue Verbraucherkreditrichtlinie (CCD II)",
+        "url": "https://www.paypal.com/de/cshelp/article/buy-now-pay-later-bnpl-und-die-neue-verbraucherkreditrichtlinie-ccd-ii--help1405"
+      },
+      {
+        "name": "OnlinehändlerNews：BNPL-Regulierung: Das ändert sich für deinen Shop（11/13）",
+        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/bnpl-checkliste"
+      },
+      {
+        "name": "Klarna Docs：Partner marketing legal guidelines - Germany",
+        "url": "https://docs.klarna.com/acquirer/klarna/resources/marketing-tools/partner-marketing-legal-guidelines/germany/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/13 Eurostat】歐盟 9 月貿易逆差 €168 億、去年同期為順差：自中國進口 +12.2%，對美出口 −10.6%",
+    "summary": "能源推高進口、對美出口下滑，歐盟前三季由順差轉為逆差：\n        ① 歐盟（Eurostat，11/13）：9 月對外貿易逆差 €168 億，去年同期為順差 €114 億；進口年增 17.9% 到 €2,569 億，出口 +4.7%。1–9 月累計逆差 €832 億，去年同期為順差 €855 億。\n        ② 夥伴與品項：自中國進口 €582 億、+12.2%，對中逆差擴大到 €417 億；對美出口 −10.6% 到 €477 億；能源進口 +51.3%。\n        ③ 歐元區（Eurostat、Trading Economics）：9 月逆差 €103 億，市場預期 €45 億；進口 €2,830 億為史上第三高。\n        ④ 成長（Eurostat 第二次估計）：歐元區 Q3 GDP 季增 0.4%，年增由 1.2% 上修到 1.3%（FXStreet），就業持平；法國 −0.1%、義大利 0.0%，西班牙 +0.6%、波蘭 +0.8%。\n        結論：逆差主因是能源，但中國商品流入也在加速，貿易防衛壓力會升高。",
+    "public_impact": "Eurostat 11 月 13 日公布，歐盟 9 月對外貿易逆差 €168 億，去年同期為順差 €114 億，進口年增 17.9%，主因是能源進口增加 51.3%；自中國進口 €582 億、年增 12.2%，對美出口則減少 10.6%。歐元區第三季 GDP 季增 0.4%，法國負成長、義大利持平，西班牙與波蘭維持強勁。中國商品流入加速，代表家居、3C 配件等品類的價格競爭會延續，歐盟對中國商品採取貿易防衛措施的壓力也會升高；各國成長分化，也影響賣家的站點優先順序。",
+    "public_action": "① 黑五期間記錄同款競品的價格與評論數變化，作為明年第一季定價依據；② 在中國生產的商品，先整理原產地證明與商品分類編號，因應可能的配額或調查；③ 評估新市場時參考各國成長差異，西班牙、波蘭成長較強；④ 追蹤 12 月 7 日第三季 GDP 第三次估計與 12 月 16 日 10 月貿易數據。",
+    "sources": [
+      {
+        "name": "Eurostat：Euro area international trade in goods deficit €10.3 bn（11/13）",
+        "url": "https://ec.europa.eu/eurostat/product?code=6-13112026-bp"
+      },
+      {
+        "name": "Eurostat：GDP up by 0.4% and employment stable in the euro area（11/13）",
+        "url": "https://ec.europa.eu/eurostat/product?code=2-13112026-ap"
+      },
+      {
+        "name": "Trading Economics：Eurozone Trade Gap Larger than Expected（11/13）",
+        "url": "https://tradingeconomics.com/euro-area/balance-of-trade/news/601103"
+      },
+      {
+        "name": "FXStreet：EUR/USD Weekly Forecast（11/13）",
+        "url": "https://www.fxstreet.com/analysis/eur-usd-weekly-forecast-hawkish-fed-likely-to-push-the-us-dollar-even-higher-202611131523"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/13】IEA：歐洲柴油仍比戰前貴 77%、約 $180／桶；德國 10 月批發價 +8.8%，DHL 明年櫃台寄件最多貴 €2",
+    "summary": "原油回落沒有傳到柴油，運輸與進貨成本壓力延續到明年：\n        ① IEA 11 月石油市場報告（11/13）：北海 Dated 原油從 10/8 高點 $136 跌 32% 到約 $93，但歐洲柴油同期只跌 11%，約 $180／桶、比戰前高 77%。IEA 稱柴油短缺仍是市場「最主要的擔憂」，俄羅斯能源設施持續遭攻擊；全球供給 10 月升到每日 1.054 億桶，自伊朗戰爭以來首度超過需求（Euronews）。\n        ② 德國批發價（Destatis，11/13）：10 月年增 8.8%，2023 年 2 月以來最高；礦物油製品 +47.6%、化學品 +18.6%、電腦與周邊設備 +13.4%。\n        ③ DHL 2027 年價格（wortfilter，11/15）：1/1 起線上與櫃台分開定價，櫃台最多貴 €2；10 kg 以上包裹線上 +€1；小包重量上限由 2 kg 降到 1 kg。價格仍待聯邦網路局核准。\n        結論：油價下跌不等於運費下跌，2027 年物流預算不宜下修。",
+    "public_impact": "國際能源署 11 月 13 日報告指出，北海原油從 10 月初高點 $136 跌到約 $93，但歐洲柴油同期只跌 11%，約每桶 $180，仍比戰前高 77%，柴油短缺仍是市場最大擔憂。德國 10 月批發價年增 8.8%，為 2023 年 2 月以來最高，電腦與周邊設備上漲 13.4%。DHL 也公布 2027 年價格，櫃台寄件最多貴 €2，小包重量上限由 2 公斤降到 1 公斤，仍待主管機關核准。油價下跌並未帶動陸運成本下降，自行配送與在歐洲採購的成本壓力會延續到明年。",
+    "public_action": "① 2027 年物流預算以柴油價格為基準，不要因原油下跌就下修；② 盤點以 DHL 小包寄送、重量 1 到 2 公斤的商品，試算改用其他包裝或倉儲配送的成本；③ 3C 類賣家可參考批發價漲幅調整明年報價；④ 追蹤 12 月國際能源署報告與 DHL 新價格核准進度。",
+    "sources": [
+      {
+        "name": "IEA：Oil Market Report - November 2026（11/13）",
+        "url": "https://www.iea.org/reports/oil-market-report-november-2026"
+      },
+      {
+        "name": "Euronews：European diesel prices stay high as global oil supply overtakes demand, IEA says（11/13）",
+        "url": "https://www.euronews.com/2026/11/13/european-diesel-prices-stay-high-as-global-oil-supply-overtakes-demand-iea-says"
+      },
+      {
+        "name": "Destatis：Wholesale prices in October 2026: +8.8% on October 2025（11/13）",
+        "url": "https://www.destatis.de/EN/Press/2026/11/PE26_396_61281.html"
+      },
+      {
+        "name": "wortfilter：DHL Paketpreise 2027: In der Filiale bis zu 2 Euro teurer（11/15）",
+        "url": "https://wortfilter.de/dhl-paketpreise-2027/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/13】歐元跌到 1.10 附近、2025 年春以來最低：Fed 升息預期升溫，ECB 總裁人選與法國財政添變數",
+    "summary": "美元因 Fed 鷹派走強，歐元逼近 1.10 關卡：\n        ① 匯價（FXStreet，11/13）：EUR/USD 週五最低 1.1043，為 2025 年 4 月以來低點，週線自 2025 年 3 月以來首度跌破 200 週均線。Trading Economics 報 11/16 為 1.1020，一個月跌 1.72%、一年跌 4.93%；EUR/CNY 一年跌 10.77%。\n        ② 美方：美國 10 月 CPI 月增 0.4%，高於預期 0.3%；Fed 理事 Waller 稱 12 月升息 2 碼不能排除。\n        ③ 歐方：法國 10 年期公債殖利率逾 5%；ECB 首席經濟學家 Lane 稱 12 月升息是「審慎」做法。\n        ④ ECB 總裁人選（Euronews，11/13）：候選人為西班牙 De Cos 與荷蘭 Knot，西班牙《國家報》稱法德接近共識由 De Cos 出線；Costa 擬在 11/26 峰會開始諮詢歐洲議會與 ECB 管理委員會，另兩個執委職缺提名期限 11/18。\n        結論：12 月美歐都可能升息，但 Fed 力道預期更大，歐元短期偏弱。",
+    "public_impact": "歐元兌美元 11 月 13 日最低跌到 1.1043，為 2025 年 4 月以來低點，11 月 16 日約 1.1020，一年下跌 4.93%；歐元兌人民幣一年下跌 10.77%。美國 10 月通膨高於預期，Fed 官員表示 12 月升息 2 碼不能排除，美元走強；歐洲則有法國公債殖利率逾 5% 與歐洲央行總裁人選兩項變數。以美元或台幣計成本、以歐元收款的賣家，同樣營收換回的金額減少約 5%；以人民幣計成本的賣家受影響更大，部分低價商品可能漲價。",
+    "public_action": "① 歐元回款量大的賣家可分批換匯，避免集中在單一時點；② 2027 年報價用較弱的歐元匯率試算毛利，不要假設歐元回升；③ 黑五後觀察競品是否因匯率調漲售價；④ 追蹤 11 月 26 日歐盟峰會的歐洲央行總裁人選，以及 12 月美歐央行會議。",
+    "sources": [
+      {
+        "name": "FXStreet：EUR/USD Weekly Forecast: Hawkish Fed likely to push the US Dollar even higher（11/13）",
+        "url": "https://www.fxstreet.com/analysis/eur-usd-weekly-forecast-hawkish-fed-likely-to-push-the-us-dollar-even-higher-202611131523"
+      },
+      {
+        "name": "Trading Economics：Euro US Dollar Exchange Rate（11/16）",
+        "url": "https://tradingeconomics.com/euro-area/currency"
+      },
+      {
+        "name": "Euronews：France and Germany near deal on De Cos for ECB top job（11/13）",
+        "url": "https://www.euronews.com/2026/11/13/france-and-germany-near-deal-on-de-cos-for-ecb-top-job-as-eu-confirms-two-candidates"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-13",
     "type": "daily",
     "tags": [
