@@ -1,5 +1,101 @@
 [
   {
+    "date": "2026-11-17",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/16】Amazon Haul「分散式配送」上線歐洲五站：FBA 商品可被自動跨刊到低價商店，只能整帳號退出",
+    "summary": "Haul 不再只是中國直郵低價店，FBA 商品也會被放進去：\n        ① 範圍（Ecommerce News Europe，11/16）：Haul 分散式配送（Distributed Fulfillment）已在英、德、法、義、西上線，也就是 Haul 去年在歐洲開站的五國。Amazon 可自行挑選當地倉的 FBA 商品，同時在主站與 Haul 商店販售；Haul 商品多數低於 €20。\n        ② 費用與控制權：賣家仍是登記賣方，配送費與佣金與一般 FBA 相同。賣家可在 Seller Central 查哪些商品被加入，但不能逐一加減，只能整個帳號退出。\n        ③ 美國先例（Marketplace Pulse，11/12）：Amazon.com 約 18.4 萬名、約 40% 的活躍賣家已有商品在 Haul，多數是被跨刊而非自行報名；各賣家熱門 Haul 商品的中位價 $9.98。Amazon 11/9 宣布美國站 Haul 商品會出現在一般搜尋結果，Haul 商品兩年成長 25 倍到逾 1,000 萬件。\n        結論：歐洲站是否也開放搜尋整合，報導指出目前仍不明。",
+    "public_impact": "Amazon Haul 分散式配送已在英、德、法、義、西五個歐洲站上線。Amazon 可自行挑選當地倉庫的 FBA 商品，同時在主站與 Haul 低價商店販售，Haul 商品多數低於 €20。賣家仍是登記賣方，佣金與配送費與一般 FBA 相同；賣家可在後台查詢哪些商品被加入，但不能逐一調整，只能整個帳號退出。美國站已有約 40% 活躍賣家的商品在 Haul，且 Haul 商品已進入一般搜尋結果；歐洲站是否跟進仍不明。低單價品類賣家在黑五前後最可能受到影響。",
+    "public_action": "① 到後台查詢哪些商品已被加入 Haul，先了解範圍；② 黑五期間先觀察被加入商品的銷量變化，不急著退出；③ 有品牌定位考量的賣家，把低價曝光帶來的流量與品牌形象一起評估，再決定是否整個帳號退出；④ 留意歐洲站是否開放 Haul 商品進入一般搜尋，屆時重新檢視低單價商品定價。",
+    "sources": [
+      {
+        "name": "Ecommerce News Europe：Amazon Haul Distributed Fulfillment available in Europe（11/16）",
+        "url": "https://ecommercenews.eu/amazon-haul-distributed-fulfillment-available-in-europe/"
+      },
+      {
+        "name": "Marketplace Pulse：Amazon Has Put Four in Ten Sellers on Haul（11/12）",
+        "url": "https://www.marketplacepulse.com/articles/amazon-has-put-four-in-ten-sellers-on-haul"
+      },
+      {
+        "name": "About Amazon：Amazon Haul's early Haul-iday deals event（11/9，美國站）",
+        "url": "https://www.aboutamazon.com/news/retail/amazon-haul-sale-ultra-low-price-deals"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/16】英歐 11/20 峰會前夕：英相 Burnham 稱「脫歐沒有成功」，預計簽農食品檢疫、碳市場、青年交流三項協議",
+    "summary": "英歐關係重設進入簽約週，但範圍集中在食品與碳市場：\n        ① Burnham 演講（Reuters，11/15–11/16）：英國首相在倫敦市長晚宴的外交政策演講稱「我們得到的脫歐沒有成功，失去的比得到的多」，並要開啟對英歐長期關係的全國討論；但週五協議仍守住不回關稅同盟、單一市場、人員自由移動三條紅線，這些紅線約束工黨到 2029 年大選。\n        ② 談判內容（Guardian 直播，11/16 英歐議會夥伴大會）：歐盟貿易執委 Šefčovič 希望週五在動植物檢疫（SPS）、碳排交易系統連結、青年交流三方面達成協議；英國參與歐盟電力內部市場須分擔凝聚基金，本週談不完。英方 EU 關係部長 Falconer 說協議後會提主法案實施，並看好英國汽車業取得「Made in Europe」限制的豁免。\n        ③ 供應鏈：峰會也將討論如何保護雙方共同的供應鏈。\n        結論：議程沒有一般消費品通關簡化，英國與歐盟仍是兩套關務。",
+    "public_impact": "英國首相 Burnham 11/16 演講稱脫歐「沒有成功」，英歐將在 11/20 布魯塞爾峰會簽署動植物檢疫、碳排交易系統連結與青年交流三項協議。但英國仍不回關稅同盟、單一市場與人員自由移動，這三條紅線到 2029 年大選前都有效。對多數消費品賣家而言，英國與歐盟之間仍需分開報關、分開庫存與 VAT，短期沒有變化；食品相關品類若協議簽成，英歐之間的檢疫文件可能減少，需等協議文本確認範圍。",
+    "public_action": "① 同時經營英國與歐盟的賣家，維持兩套庫存與 VAT 註冊規劃，不因新聞提前調整；② 食品、保健食品類賣家在峰會後查閱協議文本，確認檢疫簡化涵蓋的品類；③ 留意英國後續提出的實施法案時程；④ 英歐長期關係的討論可列為 2029 年後佈局的觀察項目。",
+    "sources": [
+      {
+        "name": "Reuters：UK PM Burnham ready to confront 'obvious truth' of Brexit's costs（11/15）",
+        "url": "https://www.reuters.com/world/uk/uk-pm-burnham-ready-confront-obvious-truth-brexits-costs-2026-11-15/"
+      },
+      {
+        "name": "The Guardian 政治直播：Falconer 與 Šefčovič 在英歐議會夥伴大會發言（11/16）",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/16 Eurostat】歐元區 9 月工業生產月增 0.2%、年減 1.5%：市場改押 ECB 到 2027 年底升息三次，歐元跌到 19 個月低點",
+    "summary": "進展：11/13 是經濟學家調查一致押 12 月升息，這週市場定價再往上加：\n        ① 工業生產（Eurostat，11/16）：9 月歐元區月增 0.2%（8 月 −0.5%）、年減 1.5%；耐久消費品月增 1.3%、年增 1.6%，非耐久消費品年減 7.5%。德國月增 1.3%、義大利 +1.2%、西班牙 +0.9%、法國 −0.5%；荷蘭年增 8.8%。\n        ② 利率定價（Reuters，11/16）：歐元短期利率遠期反映 12 月升息一碼、2027 年再升兩次；德國 2 年期殖利率升到 3.14%，10 年期一度到 3.399%、三週半高。法德 10 年利差 155 基點，低於 10 月底的 177 基點。\n        ③ 匯率（Reuters，11/17）：美元指數升到 103.66、2025/4/2 以來最高，歐元跌到 $1.0985、19 個月低點；市場視 Fed 12 月升息為定局。\n        結論：工業小幅回穩但年減擴大，利率和匯率兩邊都對歐元營收不利。",
+    "public_impact": "Eurostat 11/16 公布歐元區 9 月工業生產月增 0.2%、年減 1.5%，德、義、西回升，法國下滑。市場定價已反映 ECB 12 月升息一碼、2027 年再升兩次；美元指數升到 2025 年 4 月以來最高，歐元跌到 $1.0985、19 個月低點。以美元採購、歐元售價的賣家毛利受到擠壓，黑五到聖誕的歐元營收換回美元會比年初規劃少；利率上升也可能讓高單價、常用分期付款的品類在年底需求轉弱。",
+    "public_action": "① 以 EUR/USD 1.10 重新計算旺季主力商品毛利，毛利不足的商品調整折扣深度；② 大額歐元收入分批結匯，避免集中在單一時點；③ 家電、家具等高單價品類以黑五實際銷量修正 12 月備貨；④ 關注 11/20 歐元區消費信心、11/24 德國 Ifo 與 12 月 ECB 會議。",
+    "sources": [
+      {
+        "name": "Eurostat：Industrial production up by 0.2% in the euro area and by 0.5% in the EU（11/16）",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/4-16112026-ap"
+      },
+      {
+        "name": "Reuters：Euro zone yields edge up as traders bet on three ECB hikes by late 2027（11/16）",
+        "url": "https://www.reuters.com/markets/europe/euro-zone-yields-rise-traders-bet-three-ecb-hikes-by-late-2027-2026-11-16/"
+      },
+      {
+        "name": "Reuters：US dollar hits 19-month peak on Fed hike bets（11/17）",
+        "url": "https://www.reuters.com/world/africa/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-2026-11-17/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-17",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/16】英鎊連五跌到 $1.317、BoE 年底前升息機率 92%：NielsenIQ 稱 38% 英國消費者改買較便宜品牌",
+    "summary": "英國旺季前同時出現匯率走弱、升息預期與消費降級：\n        ① 匯率與利率（Reuters，11/16–11/17）：英鎊連五個交易日下跌、5 月以來最長跌勢，11/17 亞洲盤到 $1.3172；兌歐元持平在 83.42 便士。LSEG 數據顯示市場押 BoE 年底前再升息的機率 92%，到 2027 年 12 月累計近四碼。ING 策略師 Pesole 認為市場押太多次升息。\n        ② 數據週：英國官方就業數據 11/17、通膨 11/18 公布。\n        ③ 消費降級（Retail Gazette，11/16）：NielsenIQ 指 38% 英國消費者過去一年改買較低價品牌，線上購買平價替代香水（dupe）年增 17%；YPulse 調查 13–39 歲英國消費者 44% 過去一年買過 dupe。另有 Savvy Marketing 調查指近 80% 仍願為覺得值得的偶爾奢侈品多付錢。\n        結論：黑五前英國買家對價格更敏感，英鎊走弱也讓英鎊回款換回美元變少。",
+    "public_impact": "英鎊 11/16 起連五個交易日下跌，11/17 到 $1.3172，市場押英國央行年底前再升息的機率達 92%。NielsenIQ 指 38% 英國消費者過去一年改買較低價品牌，線上平價替代香水購買年增 17%；但也有調查顯示近 80% 消費者仍願為覺得值得的商品多付錢。對英國站賣家而言，旺季買家更看重性價比，中價位、規格扎實的商品有機會；同時英鎊走弱讓以美元計算成本的賣家毛利變薄。以「名牌平替」行銷則有商標與侵權風險。",
+    "public_action": "① 英國站商品文案強調規格、保固、材質等可驗證的優勢，避免使用其他品牌名稱做比較；② 以 GBP/USD 1.31 重新計算主力商品毛利；③ 關注 11/18 英國 10 月 CPI、11/20 10 月零售與 12 月英國央行會議；④ 旺季折扣優先放在性價比定位清楚的商品。",
+    "sources": [
+      {
+        "name": "Reuters：Sterling poised for fifth daily drop as dollar rally continues（11/16）",
+        "url": "https://www.reuters.com/world/uk/sterling-poised-fifth-daily-drop-dollar-rally-continues-2026-11-16/"
+      },
+      {
+        "name": "Retail Gazette：Christmas 'dupes' boom as shoppers turn to cut-price luxury alternatives（11/16）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/christmas-dupes-boom-as-shoppers-turn-to-cut-price-luxury-alternatives/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
     "date": "2026-11-16",
     "type": "daily",
     "tags": [
