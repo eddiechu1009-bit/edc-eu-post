@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-11-18",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/17】執委會初步認定 Temu 違反 DSA：商品安全檢查無效、處罰只關店不罰賣家，最高可罰全球營收 6%",
+    "summary": "5 月罰的是「沒評估風險」，這次指的是「沒擋住違規商品」：\n        ① 三項初步認定（執委會新聞稿，11/17）：Temu 只要求極少比例商品提交測試報告，交了也常沒檢查；玩具、電子、化妝品雖列為高風險，實體抽查卻沒有優先處理，抽查結果也沒追蹤；人工審核人力沒有跟著上架量成長。\n        ② 處罰制度：處罰落在單一店鋪而非背後的賣家，同一賣家可經營多家店，關一家還能用其他店繼續賣；賣家可累積大量嚴重違規（含抽檢不合格）才會被停店。\n        ③ 前案與下一步（Reuters、Euronews）：Temu 5 月已因未做好風險評估被罰 €2 億，10 月執委會接受其改善計畫。這次若定案，罰款最高可達全球年營收 6%。Temu 表示不同意初步認定，會書面答辯，並「有信心達成友好解決」。\n        結論：歐盟對平台的要求已從「有沒有規則」走到「規則有沒有用、有沒有罰到人」。",
+    "public_impact": "歐盟執委會 11/17 初步認定 Temu 違反數位服務法（DSA），指其要求賣家提交測試報告的商品比例極低、玩具電子化妝品等高風險品類沒有優先抽查、處罰只關單一店鋪而非背後賣家。若定案，最高可罰全球年營收 6%；Temu 5 月已因風險評估不足被罰 €2 億。這代表歐盟對大型平台的要求已從「有沒有規則」進一步到「是否實際檢查商品安全、是否罰到賣家本人」，同樣的標準可能延伸到其他大型平台，高風險品類賣家被要求補文件的機會將增加。",
+    "public_action": "① 玩具、電子、化妝品等高風險品類，主力商品先備齊測試報告、符合性聲明與 GPSR 歐盟負責人資料；② 經營多個店鋪或品牌的賣家，留意監管會追到賣家實體，任一店鋪違規都可能牽連；③ 持續關注 Temu 答辯與最終決定，作為歐盟對平台執法尺度的參考。",
+    "sources": [
+      {
+        "name": "European Commission：Commission preliminarily finds Temu in breach of the Digital Services Act（11/17）",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2463"
+      },
+      {
+        "name": "Reuters：EU charges Temu for not doing enough to stop illegal product sales（11/17）",
+        "url": "https://www.reuters.com/legal/litigation/eu-preliminarily-finds-temu-breaches-regulation-failing-tackle-illegal-good-2026-11-17/"
+      },
+      {
+        "name": "Euronews：EU preliminarily finds Temu broke rules on illegal and unsafe products（11/17）",
+        "url": "https://www.euronews.com/2026/11/17/eu-preliminarily-finds-temu-broke-rules-on-illegal-and-unsafe-products"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/17 執委會】秋季預測：歐盟今年成長上修到 1.4%，通膨 3.3%、明年 3.2%；西班牙 2.6% 領先，法國 0.4%",
+    "summary": "成長比春季好，但通膨也比春季高、而且更久：\n        ① 成長（執委會秋季預測，11/17）：歐盟 2026 年 GDP 成長 1.4%（春季估 1.1%）、2027 年 1.4%、2028 年 1.5%；歐元區 1.2%、1.2%、1.3%。主要靠出口回升，歐洲企業供應 AI 資料中心與電網的電力、冷卻與晶片設備。\n        ② 通膨：歐盟 2026 年 3.3%、2027 年 3.2%（春季估明年 2.4%），預計年底到明年初峰值超過 4%，2028 年才回到 2.3%；食品通膨從今年略高於 2% 升到明年約 3%。\n        ③ 消費與國別（Euronews）：民間消費成長今年 1.3%、明年 1.1%；扣除通膨後實質薪資今明兩年只成長 0.6%，西、義等八國今年實質薪資下降。四大經濟體中西班牙 2.6%、德國 1.3%、義大利 1.0%、法國 0.4%。\n        ④ 下修可能：預測截點為 10/29，之後油氣價格已跌約 20%；執委會估若持續，明年通膨可再低約 0.25 個百分點。\n        結論：明年消費者實質購買力仍偏緊，價格敏感度不會很快退。",
+    "public_impact": "歐盟執委會 11/17 秋季預測把歐盟今年經濟成長上修到 1.4%（春季估 1.1%），但通膨今年 3.3%、明年 3.2%，比春季預估高出許多，峰值可能在年底到明年初超過 4%。民間消費成長明年降到 1.1%，扣除通膨後實質薪資今明兩年僅成長 0.6%。國別差異明顯：西班牙 2.6%、德國 1.3%、義大利 1.0%、法國 0.4%。執委會也指出，截點後油氣價格已回落約 20%，明年通膨有下修空間。整體而言，明年歐洲消費者仍偏重價格，各國市場表現差距擴大。",
+    "public_action": "① 2027 年歐洲各站預算依國別成長差異分配，西班牙、德國可積極，法國保守；② 明年漲價以分批、組合包或規格調整為主，避免一次大幅調價；③ 留意 11/18 歐元區 10 月通膨終值與下週各國預算評估，作為匯率與需求判斷依據。",
+    "sources": [
+      {
+        "name": "European Commission：Autumn 2026 Economic Forecast shows continued growth amid higher inflation（11/17）",
+        "url": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en"
+      },
+      {
+        "name": "Euronews：EU economy beats expectations but energy shock keeps inflation higher for longer（11/17）",
+        "url": "https://www.euronews.com/2026/11/17/eu-economy-beats-expectations-but-energy-shock-keeps-inflation-higher-for-longer"
+      },
+      {
+        "name": "Reuters：EU says Italy could be freed from deficit disciplinary steps in 2027（11/17）",
+        "url": "https://www.reuters.com/markets/europe/eu-says-italy-could-be-freed-deficit-disciplinary-steps-2027-2026-11-17/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/17 ONS】英國 Q3 薪資增幅降到 3.6%、職缺 69 萬創 2021 年來新低：失業率 4.6%，12 月升息機率仍約 90%",
+    "summary": "就業數據好壞參半，沒有改變 12 月升息的押注：\n        ① 薪資（ONS，11/17）：7–9 月總薪資年增 3.6%（前期 3.8%），2020 年以來最低；不含獎金 3.5%，民間部門 3.1%。以 CPI 平減，實質總薪資只成長 0.6%。\n        ② 職缺：8–10 月職缺降到 69 萬，季減 2.2 萬，是疫情以外 2014 年以來最低；1–9 人小企業職缺降到 7.3 萬。ONS 指小企業因人力與營運成本上升而暫緩招募。\n        ③ 失業與市場（Reuters）：失業率意外降到 4.6%（預期 4.7%），但 ONS 提醒部分反映樣本輪替；受薪人數 10 月初估年減 9.5 萬。市場仍定價約 90% 機率 12 月升息，2027 年再升兩到三次；FTSE 100 當天跌 1.8%，八個月來最大單日跌幅。\n        結論：英國消費者收入成長放緩、利率還在往上，旺季消費撐不了太強。",
+    "public_impact": "英國統計局 11/17 公布，7–9 月總薪資年增 3.6%，為 2020 年以來最低，扣除通膨後實質成長僅 0.6%；8–10 月職缺降到 69 萬，是疫情以外 2014 年以來最低，小企業因成本上升而暫緩招募。失業率意外降到 4.6%，但市場仍預期 12 月英國央行升息機率約 90%。英國消費者收入成長放緩、利率上升，黑五與聖誕旺季需求預計偏向折扣與平價商品。",
+    "public_action": "① 英國站黑五期間主力商品至少安排一檔折扣或優惠券；② 旺季後補貨依實際銷量估算，不要直接套用去年成長率；③ 關注英國 10 月通膨（11/18）、10 月零售（11/20）與 12/15 就業數據，判斷英國央行 12 月動向與英鎊走勢。",
+    "sources": [
+      {
+        "name": "ONS：Labour market overview, UK: November 2026（11/17）",
+        "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/november2026"
+      },
+      {
+        "name": "Reuters：UK pay growth slows as job vacancies hit lowest since 2021（11/17）",
+        "url": "https://www.reuters.com/world/uk/uk-wage-growth-slows-35-three-months-september-2026-11-17/"
+      },
+      {
+        "name": "Reuters：UK's FTSE 100 logs worst day in eight months（11/17）",
+        "url": "https://www.reuters.com/world/uk/uk-stocks-fall-investors-edge-ahead-of-nvidia-results-uk-data-keeps-rate-bets-2026-11-17/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/17】德國支持西班牙 de Cos 接任 ECB 總裁、改爭首席經濟學家：Lagarde 2/7 提前卸任，今天提名截止",
+    "summary": "ECB 三個執委席次同時換人，德國的選擇讓總裁人選幾乎底定：\n        ① 德國表態（Reuters，11/17）：德國財政部表示要為普林斯頓教授 Markus Brunnermeier 爭取 ECB 首席經濟學家，知情人士稱柏林將支持前西班牙央行總裁 Pablo Hernández de Cos 出任總裁。依南北平衡慣例，德國拿首席經濟學家等於讓出總裁，荷蘭前央行總裁 Knot 機會下降。\n        ② 時程：Lagarde 將在 2/7 提前卸任，Schnabel 1 月初離任；法國預計拿第三席，可能提名女性人選。各國提名期限為 11/18（Euronews 11/13 報導亦指此截止日）。\n        ③ 政策解讀：市場仍定價 ECB 到明年底升息兩到三次。Mizuho 認為 de Cos 上任「邊際上略偏鴿」，但他以凝聚共識見長，另外兩席人選對利率方向同樣重要。\n        結論：總裁換人不會改變明年的升息路徑，但對法國等高債國的公債利差是安定訊號。",
+    "public_impact": "德國 11/17 表態爭取 ECB 首席經濟學家職位，並支持西班牙的 de Cos 出任 ECB 總裁，現任總裁 Lagarde 將於 2/7 提前卸任。市場解讀 de Cos 邊際上略偏鴿，但預期他會延續現有的漸進升息路徑，市場仍預期 ECB 到明年底再升息兩到三次。歐元對美元目前在 19 個月低點附近，以美元或台幣成本計價的賣家，歐洲站毛利仍受匯率壓縮。",
+    "public_action": "① 2027 年第一季歐洲站定價，匯率假設保守估計，不以今年高點為準；② 關注 ECB 執委人選名單與 12 月利率會議，作為歐元走勢判斷依據；③ 歐元收入比重高的賣家，可評估分批換匯降低單一時點風險。",
+    "sources": [
+      {
+        "name": "Reuters：Spain's de Cos moves closer to ECB top job with Germany's backing（11/17）",
+        "url": "https://www.reuters.com/world/europe/germany-propose-economist-brunnermeier-ecb-board-ministry-says-2026-11-17/"
+      },
+      {
+        "name": "Euronews：France and Germany near deal on De Cos for ECB top job（11/13，背景）",
+        "url": "https://www.euronews.com/2026/11/13/france-and-germany-near-deal-on-de-cos-for-ecb-top-job-as-eu-confirms-two-candidates"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
     "date": "2026-11-17",
     "type": "daily",
     "tags": [
