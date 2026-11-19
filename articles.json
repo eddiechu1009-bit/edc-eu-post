@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-11-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/18 ONS】英國 10 月 CPI 3.6%、一年來最高，但核心 2.8% 與服務 3.7% 持平：市場下修 12 月升息押注",
+    "summary": "漲的是商品和油，服務沒再升：\n        ① 官方數據（ONS，11/18）：CPI 年增 3.6%（9 月 3.5%），月增 0.5%；含自有住房成本的 CPIH 3.7%。最大推升來自運輸、特別是車用燃料，餐廳與旅館部分抵銷。商品 CPI 年增從 3.2% 升到 3.5%，服務 3.7% 持平，核心 CPI 2.8% 持平。\n        ② 市場解讀（Reuters）：服務 3.7% 低於 Reuters 調查預期的 3.8%；食品與非酒精飲料一年只漲 0.9%，2021 年 9 月以來最小。投資人因此下修 BoE 12 月再升息的押注。Deutsche Bank 英國首席經濟學家 Raja 說數據給 BoE「喘息空間」，但超市價格戰還能壓住漲價多久不確定。\n        ③ BoE 回應（Reuters 引述 BoE 聲明）：中東衝突推升能源價格，已在管道中的成本壓力會讓通膨到明年年中前再往上。總裁 Bailey 指月初國際能源價格回落，來不及阻止 1 月起受管制家庭能源帳單約 20% 的漲幅。BoE 本月初才把利率從 3.75% 升到 4.0%。\n        ④ 匯率（Reuters）：英鎊兌美元跌到一個月低點；英鎊今年對美元跌 2.3%，歐元跌 6.6%，歐元兌英鎊接近 2025 年 3 月低點。\n        結論：價格壓力集中在實體商品與能源，1 月家庭能源帳單還要再漲一次。",
+    "public_impact": "英國 10 月 CPI 年增 3.6%，為一年來最高，主要由車用燃料推升；商品通膨從 3.2% 升到 3.5%，但服務 3.7% 與核心 2.8% 持平，食品只漲 0.9%，市場因此下修英國央行 12 月升息的押注。英國央行表示通膨到明年年中前還會上升，1 月起家庭能源帳單約上漲 20%。對英國站賣家而言，Black Friday 檔期消費者對一般商品更比價，2027 年第一季可支配所得也會受能源帳單擠壓。英鎊今年對美元跌 2.3%，比歐元的 6.6% 跌幅小。",
+    "public_action": "① Black Friday 至 Cyber Monday 期間定期檢查主力商品的促銷轉換，轉換偏低時及早調整折扣；② 季節性庫存盡量在 12 月中前去化，避開 1 月能源帳單上漲後的消費緊縮；③ 以目前英鎊匯率重算英國站毛利，與歐元區站點比較後再分配第一季預算；④ 關注 11/20 英國 10 月零售與 12/16 英國 11 月 CPI。",
+    "sources": [
+      {
+        "name": "ONS：Consumer price inflation, UK: October 2026（11/18）",
+        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+      },
+      {
+        "name": "Reuters：UK inflation rises to one-year high but markets trim rate hike bets（11/18）",
+        "url": "https://www.reuters.com/world/uk/uk-inflation-rose-36-october-2026-11-18/"
+      },
+      {
+        "name": "Reuters：BoE, in new statement on CPI data, says inflation to rise further（11/18）",
+        "url": "https://www.reuters.com/world/uk/boe-new-statement-cpi-data-says-inflation-rise-further-2026-11-18/"
+      },
+      {
+        "name": "Reuters：Sterling slips to one-month low versus dollar（11/18）",
+        "url": "https://www.reuters.com/world/uk/sterling-slips-one-month-low-versus-dollar-after-uk-core-inflation-steadies-2026-11-18/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/18 UOKiK】波蘭罰 Allegro 近 5,500 萬茲羅提：「每 10 件包裹種一棵樹」被認定漂綠，宣稱的樹逾半沒種",
+    "summary": "監管機關這次不是挑廣告用詞，是拿宣稱和實際機制逐項對帳：\n        ① 兩項處分（UOKiK，11/18）：Allegro 宣傳「選 Allegro One 取件、每集滿 10 件就種一棵樹」。第一項罰 2,985.2 萬茲羅提，因為暗示集滿 10 件就會種一棵新樹；第二項罰 2,487.6 萬茲羅提，因為沒有充分告知附加條件：一年內要集滿 10 件，2024 年 1 月起還要在期限內替樹填寫「獻詞」。合計 5,472.8 萬茲羅提（Reuters 換算約 $1,370 萬）。\n        ② 實際機制：種樹數量是 Allegro 依前一年自己的預測先排好的；部分樹在消費者集件前就已種下、事後才「指派」給消費者；UOKiK 主席 Chróstny 說，數百萬棵、超過 Allegro 宣稱數量一半的樹根本沒種。填獻詞的功能在 2024/3/6–11/25 之間累計停用 264 天，且未告知消費者。\n        ③ 法律狀態（Reuters、UOKiK）：決定尚未確定，Allegro 可在一個月內向華沙法院上訴。UOKiK 指出，波蘭直接規範漂綠的國內法 2027/9/27 生效，但現行不公平商業行為法已經禁止誤導性的環保宣稱。\n        結論：環保宣稱的檢驗標準是「真實、具體、可驗證」，促銷附帶的條件也要一開始講清楚。",
+    "public_impact": "波蘭消費者保護局（UOKiK）11/18 以漂綠為由對 Allegro 開罰合計 5,472.8 萬茲羅提（約 1,370 萬美元）。Allegro 宣傳「每集滿 10 件包裹就種一棵樹」，但實際種樹數量是依前一年預測先排定，部分樹事後才指派給消費者，超過宣稱一半的樹沒有種；附加條件（一年內集滿、須填寫獻詞）也沒有充分告知，填寫功能曾累計停用 264 天。這代表歐盟成員國對環保宣稱的檢驗標準是真實、具體、可驗證，附條件的促銷也必須把條件講清楚。決定尚未確定，Allegro 可上訴。",
+    "public_action": "① 檢查商品頁的「環保」「可分解」「碳中和」「每買一件種一棵樹」等宣稱，沒有認證或證據就改寫或移除；② 促銷活動的門檻、期限與排除品項，直接寫在商品頁或促銷說明；③ 關注 Allegro 是否上訴，以及波蘭 2027/9/27 漂綠專法生效後的執法方向。",
+    "sources": [
+      {
+        "name": "UOKiK：Las obietnic, lecz drzew brakuje. Prezes UOKiK nakłada za greenwashing blisko 55 mln zł kary na Allegro（11/18，波蘭文）",
+        "url": "https://uokik.gov.pl/las-obietnic-lecz-drzew-brakuje-prezes-uokik-naklada-za-greenwashing-blisko-55-mln-zl-kary-na-allegro"
+      },
+      {
+        "name": "Reuters：Polish watchdog fines Allegro $13.7 million over unfulfilled tree-planting pledge（11/18）",
+        "url": "https://www.reuters.com/business/retail-consumer/polish-watchdog-fines-allegro-137-million-over-unfulfilled-tree-planting-pledge-2026-11-18/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/18】ECB 11/25 將議銀行準備率 1%→2%（Reuters 獨家）：歐元區 10 月通膨終值確認 4.0%，義大利跳到 5.6%",
+    "summary": "進展：10 月 4.0% 的初值（11/5 已報）今天確認，新的是 ECB 收緊工具從利率擴到準備金：\n        ① 準備率（Reuters 獨家，四位消息人士，11/18）：ECB 理事會 11/25 將討論把銀行最低準備率從 1% 提高到 2%（2012 年才從 2% 降到 1%），決定可能延到 12/17 政策會議。多數總裁支持，副總裁 Vujcic 與首席經濟學家 Lane 也支持。主要目的是減少央行利息支出，Reuters 估每年至少省 €44 億，同時收回部分過剩流動性。存款利率料從 2.5% 升到明年 3–3.25%。ECB 發言人不予置評。\n        ② 通膨終值（Eurostat，11/18）：歐元區 10 月 4.0%，與初值相同（9 月 3.8%、去年同期 2.1%）；能源年增 21.0%、服務 3.3%、非能源工業品 1.2%，不含能源食品菸酒的核心 2.6%。EU5：義大利 4.2% → 5.6%、西班牙 4.9%、法國 3.7%、荷蘭 3.3%、德國 3.3% → 2.9%。\n        ③ 同日其他訊號：ECB 半年度金融穩定報告點名法國，負債佔 GDP 119%、赤字 5.5% 為歐元區最高，ECB 表示市場應協助約束、不急著出手（Reuters）；德國內閣正式提名 Princeton 教授 Brunnermeier 角逐 ECB 首席經濟學家，最快 2027 年中接替 Lane（tagesschau）。\n        結論：通膨確認在 4%，ECB 在升息之外多一個收緊選項，政策方向偏緊。",
+    "public_impact": "Reuters 11/18 引述四位消息人士，歐洲央行理事會將於 11/25 討論把銀行最低準備率從 1% 提高到 2%，決定可能延到 12/17，存款利率則預期從 2.5% 升到明年 3–3.25%，歐洲在地融資成本可能上升。Eurostat 同日確認歐元區 10 月通膨 4.0%，能源年增 21.0%；五大市場中義大利從 4.2% 升到 5.6%、西班牙 4.9%、法國 3.7%、荷蘭 3.3%，德國回落到 2.9%。歐元今年對美元跌 6.6%，以美元進貨、歐元收款的賣家毛利受壓。",
+    "public_action": "① 義大利站物價跳升，定期比對主力商品的競品價格再決定跟漲或用折價券；② 第一季定價試算改用較保守的歐元匯率假設，毛利在低檔匯率仍為正的商品再加碼備貨；③ 關注 11/25 歐洲央行理事會、12/17 歐洲央行政策會議與 12/17 歐元區 11 月通膨。",
+    "sources": [
+      {
+        "name": "Reuters：EXCLUSIVE: ECB to discuss raising reserve requirement next week, sources say（11/18）",
+        "url": "https://www.reuters.com/business/finance/ecb-discuss-raising-reserve-requirement-next-week-sources-say-2026-11-18/"
+      },
+      {
+        "name": "Eurostat：Annual inflation up to 4.0% in the euro area（11/18）",
+        "url": "https://ec.europa.eu/eurostat/product?code=2-18112026-ap"
+      },
+      {
+        "name": "Reuters：Markets should help discipline France over high debt, ECB says（11/18）",
+        "url": "https://www.reuters.com/legal/transactional/markets-should-help-discipline-france-over-high-debt-ecb-says-2026-11-18/"
+      },
+      {
+        "name": "tagesschau：Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert（11/18，德文）",
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html"
+      },
+      {
+        "name": "Reuters：European Markets（EUR/USD 報價，11/19）",
+        "url": "https://www.reuters.com/markets/europe/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/18 德國】聯合政府定案 2027/1/1 起電力稅降到歐盟下限、限時油價上限：HDE 調查 63% 消費者購物必看價格",
+    "summary": "德國消費者手頭緊、但願意在折扣日花錢，減稅要到 1 月才有感：\n        ① 減稅定案（tagesschau，11/18）：聯合政府委員會談了八小時，決定 2027/1/1 起把家戶與企業的電力稅從每度 2.05 歐分降到歐盟最低的 0.1 歐分，先實施一年，年成本約 €54 億；要延長得在 2028 年預算找到財源。另同意限時的油價上限。比價網 Verivox 估三口之家（年用電 4,000 度）每月省 €7.75，全體家戶一年約省 €30 億。\n        ② 消費者財務（HDE 委託 YouGov，1,600 多人，11/18）：37% 說過去兩年財務變差；63% 購物時一定要看價格，低收入族群超過四分之三；60% 說大額採購很難負擔；未來 12 個月只有 25% 預期變好、30% 預期變差。\n        ③ 折扣日預測（HDE 委託 IFH Köln，約 1,000 名網購者，11/16）：Black Friday 加 Cyber Monday 營收估 €62 億、年增近 6%，創新高；2025 年是首次下滑。51% 打算在 Black Friday 撿便宜，其中 €19 億用在聖誕採購。Black Friday 為 11/27、Cyber Monday 為 11/30。\n        結論：需求集中到折扣日，平日價格敏感度高，大額商品最難賣。",
+    "public_impact": "德國聯合政府 11/18 決定自 2027/1/1 起把電力稅從每度 2.05 歐分降到歐盟最低的 0.1 歐分，先實施一年，並同意限時的油價上限；比價網估三口之家每月約省 €7.75，對消費的拉抬有限，但用電大的企業與倉儲業者受益較多。德國零售業公會（HDE）同日公布的調查顯示，63% 消費者購物一定看價格、60% 認為大額採購難負擔；另一份調查則預估 Black Friday 加 Cyber Monday 營收 €62 億、年增近 6% 創新高。德國需求集中在折扣日，高單價商品轉換壓力最大。",
+    "public_action": "① Black Friday 至 Cyber Monday 期間確認主力商品都有促銷或折價券；② €200 以上的高單價商品優先用折價券或組合包，保留檔期後回到原價的空間；③ 關注 11/24 德國 Ifo 與 11/26 GfK 消費氣候，以及油價上限細節對自配送成本的影響。",
+    "sources": [
+      {
+        "name": "tagesschau：Stromsteuersenkung und Spritpreisdeckel - vorerst（11/18，德文）",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html"
+      },
+      {
+        "name": "tagesschau：Was die Entlastungen im Alltag bringen könnten（11/18，德文）",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html"
+      },
+      {
+        "name": "HDE：Aktuelle HDE-Umfrage zur Verbraucherstimmung（11/18，德文）",
+        "url": "https://einzelhandel.de/presse/aktuellemeldungen/15439-aktuelle-hde-umfrage-zur-verbraucherstimmung-zwei-drittel-muessen-immer-auf-den-preis-schauen"
+      },
+      {
+        "name": "HDE：Black Friday und Cyber Monday: HDE rechnet mit Umsatz von 6,2 Milliarden Euro（11/16，德文）",
+        "url": "https://einzelhandel.de/presse/aktuellemeldungen/15435-black-friday-und-cyber-monday-hde-rechnet-zu-aktionstagen-mit-umsatz-von-6-2-milliarden-euro"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/18 生效】歐盟碳邊境稅 CBAM 2027/1/1 起擴及挪威、冰島：50 噸免申報門檻改為三地合併計算",
+    "summary": "對多數 B2C 賣家影響小，但鋼鋁製品進口商要把兩邊數量加總：\n        ① 擴大範圍（執委會稅務總署，11/18）：歐洲經濟區聯合委員會第 283/2026 號決定 11/18 生效，2027/1/1 起進口到挪威、冰島的 CBAM 商品，比照進口歐盟的方式適用；列支敦斯登不納入。CBAM 在歐盟已於 2026/1/1 進入正式期。\n        ② 門檻合併：電力與氫一律適用；鋁、鋼鐵、肥料、水泥四類，年度累計超過 50 噸才適用。這個門檻改為歐盟＋挪威＋冰島合併計算。\n        ③ 實務程序：挪威、冰島的進口商超過門檻，須成為授權 CBAM 申報人，2027/3/31 前申請可享部分彈性；三地授權互相承認，挪冰不再被視為第三國。挪威、冰島用 TIN 而非 EORI，挪冰業者進口到歐盟須另申請 EORI，歐盟業者進口到挪冰須申請 TIN。挪冰認可的查核機構 12/1 起登記。\n        結論：CBAM 範圍從歐盟 27 國擴成 29 國，門檻跟著合併，原本各自低於 50 噸的進口商可能合起來超過。",
+    "public_impact": "歐盟碳邊境調整機制（CBAM）因歐洲經濟區聯合委員會決定 11/18 生效，自 2027/1/1 起擴及挪威與冰島，列支敦斯登不納入。鋁、鋼鐵、肥料、水泥四類的 50 噸年度門檻改為歐盟加挪威、冰島合併計算，原本在各地都低於門檻的進口商，合併後可能超過。挪威、冰島進口商超過門檻須成為授權申報人，2027/3/31 前申請可享部分彈性；兩地使用 TIN 而非 EORI，跨區進口需另外申請對應識別碼。一般消費品賣家受影響有限，鋼鋁製品進口商需重新試算。",
+    "public_action": "① 五金、工具、金屬家具類賣家，請報關行或稅務代理確認主力商品的 CN 碼是否屬 CBAM 範圍；② 把 2027 年預估進口歐盟與挪威、冰島的總重量和 50 噸門檻比較；③ 在挪威、冰島有進口實體者，於 2027/3/31 前提出授權申請，並準備 EORI 與 TIN 兩套識別碼。",
+    "sources": [
+      {
+        "name": "European Commission（DG TAXUD）：Extension of CBAM to Iceland and Norway（11/18）",
+        "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
+      },
+      {
+        "name": "EFTA：EEA Joint Committee Decision No 283/2026（法律文件）",
+        "url": "https://www.efta.int/sites/default/files/documents/legal-texts/eea/other-legal-documents/adopted-joint-committee-decisions/2026%20-%20English/283-2026.pdf"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-18",
     "type": "daily",
     "tags": [
