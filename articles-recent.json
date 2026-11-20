@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-11-20",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/18】DPD 與 GLS 合併德國包裹業務：年送 7 億件、營收逾 €40 億，DPD 品牌將退出德國",
+    "summary": "德國包裹市場收斂成「DHL＋一家大型挑戰者」：\n        ① 交易內容（GLS／Geopost 新聞稿，11/18）：GLS 集團與 La Poste 旗下 Geopost 將把兩家的德國包裹業務併入合資公司，合計年營收逾 €40 億、年送 7 億件以上，用 GLS 品牌營運，交割後數年內投資逾 €5 億。交易仍待員工代表知會與主管機關核准；交割前兩家維持獨立，合約與服務不變。\n        ② 持股與規模（dpa）：GLS 母公司持股 80%、Geopost 20%；新公司約 150 個據點、1.5 萬名員工。對照 DHL 去年在德國營收 €82 億、送 20 億件。\n        ③ 市場位置（Ecommerce News）：兩家合計市占估約 20%，DHL 逾 40%，Amazon Logistics 估 15–25%。DPD 品牌在德國 50 年後退場，但在英、法、荷、比等近 20 國照常營運。兩家共用的 inboxx 包裹櫃，2030 年底前要從約 1.6 萬點擴到 2.5 萬點。\n        結論：德國自配賣家可選的大型物流商少一家，2027 年運費議價要提早準備。",
+    "public_impact": "GLS 集團與 Geopost（DPD 母公司）11/18 宣布合併德國包裹業務，新公司以 GLS 品牌營運，年營收逾 40 億歐元、年送 7 億件以上，GLS 方持股 80%。兩家合計德國市占估約 20%，市場龍頭 DHL 逾 40%。交易仍待主管機關核准，交割前合約與服務不變；DPD 在德國以外近 20 國照常營運。對德國自行配送的賣家而言，大型包裹商選擇減少，加上 DHL 2027 年 1 月起調整價格，明年運費比價與議價空間將收窄。",
+    "public_action": "① 12 月中前向至少三家德國物流商取得 2027 年報價，與現行合約比較；② 與 DPD 或 GLS 簽約者，確認合約到期日與控制權變更條款；③ 以新報價重算自行配送成本，評估高單量商品改用平台倉儲配送是否更划算；④ 關注合併案審查進度與 2027 年 1 月 DHL 新價格。",
+    "sources": [
+      {
+        "name": "GLS Group：GLS Group and Geopost plan to create a new leader in German parcel delivery（11/18）",
+        "url": "https://gls-group.com/EU/en/newsroom/gls-geopost-planned-joint-venture-germany/"
+      },
+      {
+        "name": "dpa（Yahoo Finance 轉載）：Parcel delivery service GLS merges with rival DPD（11/18）",
+        "url": "https://finance.yahoo.com/small-business/articles/parcel-delivery-gls-merges-rival-161835563.html"
+      },
+      {
+        "name": "Ecommerce News：DPD and GLS joint venture to reshape German parcel market（11/19）",
+        "url": "https://ecommercenews.eu/dpd-and-gls-joint-venture-to-reshape-german-parcel-market/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/19 CMA】英國「滴漏定價」執法升溫：Viagogo 收暫定違法通知、再立案 3 家，標價未含運費也在範圍",
+    "summary": "英國新消費者法上路一年半，CMA 開始自己認定、自己開罰：\n        ① Viagogo（CMA，11/19）：CMA 暫定認定 Viagogo 三個網站把稅金與訂票手續費放到結帳後段才加上，沒有一開始顯示總價，已發出暫定違法通知（PIN）。這是 CMA 依《數位市場、競爭與消費者法》（DMCCA）直接執法、且業者未尋求和解而走到 PIN 階段的第一案。認定仍屬暫定，Viagogo 表示會持續配合（Reuters）。\n        ② 再立案 3 家（CMA，11/18）：健身房 Bannatyne、旅遊業者 Secret Escapes 與 Caledonian Travel 因同類問題被調查。CMA 一年來已對 23 家業者立案，累計罰款逾 £1,200 萬、退款 £230 萬；違法最高可罰全球營收 10%。\n        ③ 運費（CMA 公開信，11/2）：若購買必須付運費，從廣告、商品頁、購物車到結帳，每個出現價格的地方都要顯示含最低必付運費的總價；線上市集與比價網站同樣適用。\n        結論：Black Friday 前，「標價不含必付費用」在英國已是執法目標。",
+    "public_impact": "英國競爭及市場管理局（CMA）11/19 暫定認定票券轉售平台 Viagogo 在結帳後段才加上稅金與手續費，已發出暫定違法通知；11/18 另對健身房與兩家旅遊業者立案調查同類「滴漏定價」問題。CMA 依 2025 年 4 月上路的新消費者法，一年來已對 23 家業者立案，可直接罰款最高全球營收 10%。CMA 11/2 的公開信也提醒，若購買必須付運費，廣告、商品頁、購物車與結帳頁的價格都要包含最低必付運費，線上市集與比價網站同樣適用。認定仍屬暫定，Viagogo 可回應。",
+    "public_action": "① Black Friday 前檢查英國站運費設定，避免「低標價、高運費」的組合；② 經營英國獨立站或站外廣告者，對照 CMA 價格透明指引（CMA209）檢查標價；③ 促銷廣告與社群貼文一律標示含稅、含必付運費的總價；④ 關注 Viagogo 案最終決定與 CMA 後續立案對象。",
+    "sources": [
+      {
+        "name": "CMA：CMA provisionally finds that viagogo may have broken the law on hidden fees（11/19）",
+        "url": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees"
+      },
+      {
+        "name": "CMA：Travel and leisure businesses investigated over pricing practices（11/18）",
+        "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices"
+      },
+      {
+        "name": "CMA：Open letter to online retailers: including mandatory delivery fees in the total price（11/2）",
+        "url": "https://www.gov.uk/government/publications/online-retailers-including-mandatory-delivery-fees-in-the-total-price/open-letter-to-online-retailers-including-mandatory-delivery-fees-in-the-total-price"
+      },
+      {
+        "name": "Reuters：UK's CMA says Viagogo may have broken the law on hidden ticket fees（11/19）",
+        "url": "https://www.reuters.com/world/uk/uks-cma-says-viagogo-may-have-broken-law-hidden-ticket-fees-2026-11-19/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/19】Temu 母公司 PDD 第三季營收持平、交易服務收入 −12%：阿里國際電商營收 −8%，歸因歐盟海關改革",
+    "summary": "中國跨境平台的財報開始反映歐盟小包新規：\n        ① PDD（PDD 財報，11/19）：Q3 總營收 RMB 1,083 億，與去年同期持平；交易服務收入 RMB 485 億、−12%，線上行銷服務收入 +12%（PDD 未拆分 Temu）。銷售與行銷費用從 RMB 303 億降到 253 億，非 GAAP 淨利 RMB 310 億。共同執行長陳磊說全球業務正在「適應變動的貿易與監管環境」，將持續投資供應鏈。\n        ② 市場解讀（Reuters）：營收低於分析師預估的 RMB 1,159.7 億，但獲利優於預期，股價盤前漲逾 6%。WPIC 執行長 Cooke 說，歐洲是 Temu 的關鍵市場，「歐盟新關稅正在傷害銷售」。歐盟自 7 月起對低價小包課 €3，執委會 11/17 也初步認定 Temu 違反 DSA。\n        ③ 阿里巴巴（Reuters）：同日財報顯示國際電商營收 −8%，主要因歐盟海關改革後 AliExpress 收入下降。\n        結論：兩大中國平台同季在歐洲受壓，€3 小包關稅的影響開始出現在財報。",
+    "public_impact": "Temu 母公司 PDD 11/19 公布第三季財報，總營收 1,083 億人民幣與去年持平，交易服務收入下降 12%，銷售與行銷費用從 303 億降到 253 億人民幣；營收低於市場預期。路透引述分析師指出，歐盟新關稅正在影響 Temu 在歐洲的銷售。同日阿里巴巴國際電商營收下降 8%，主要因歐盟海關改革後 AliExpress 收入下滑。歐盟自 7 月起對低價小包課徵每件 3 歐元，執委會 11/17 也初步認定 Temu 違反數位服務法。直郵低價模式在歐洲的成本優勢正在縮小，但平台持續投資供應鏈，未來競爭可能轉向在地倉儲。",
+    "public_action": "① Black Friday 檔期觀察低單價品類的價格競爭，若直郵同類商品減少，可評估減少降價幅度以保毛利；② 在歐洲有本地庫存的賣家，把合規與到貨速度當作差異化重點；③ 留意中國平台是否加速在歐洲設立本地倉，提前準備商品與品牌差異。",
+    "sources": [
+      {
+        "name": "PDD Holdings：Third Quarter 2026 Unaudited Financial Results（11/19）",
+        "url": "https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-third-quarter-2026-unaudited-financial"
+      },
+      {
+        "name": "Reuters：Temu owner PDD beats third-quarter profit estimates as marketing spending falls（11/19）",
+        "url": "https://www.reuters.com/business/retail-consumer/temu-owner-pdd-misses-third-quarter-revenue-estimates-2026-11-19/"
+      },
+      {
+        "name": "Reuters：Alibaba tops revenue estimates on AI cloud growth（11/19）",
+        "url": "https://www.reuters.com/business/retail-consumer/chinas-alibaba-beats-quarterly-revenue-estimates-2026-11-19/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/20】IG Metall 八年來首度全天罷工、協約涵蓋 370 萬人：VW 要求 2027–2028 零加薪，德國購買力受壓",
+    "summary": "德國製造業勞資衝突升級，薪資結果會影響明年消費：\n        ① 24 小時罷工（Reuters 11/19、tagesschau 11/20）：IG Metall 今天在數百家鋼鐵、汽車與機械業者發動全天警告性罷工，BMW 與 Audi 巴伐利亞車廠預計停工一整天，這是工會八年來首度使用 24 小時罷工，下週初還有行動。產業協約涵蓋約 370 萬人，第三輪談判沒有交集。\n        ② 雙方條件（Reuters）：工會要求加薪 5%並保障工作與廠區；資方提出 2027 年 7 月一次性發放年薪 1%、2028 年 7 月加薪 1.3%，工會稱實質等於減薪。\n        ③ VW 另案（tagesschau）：VW 在約 13 萬人適用的廠內協約要求 2027、2028 年零加薪，取消每月 €167 津貼與相當月薪 27.5% 的額外給付，工時可依產能調整、不補薪；談判 11/24 在 Emden 開始，12/31 和平義務結束後可罷工。VW 另計畫再裁 1.2 萬人。\n        結論：德國汽車業薪資停滯加裁員，2027 年上半年消費動能偏弱。",
+    "public_impact": "德國金屬業工會 IG Metall 11/20 在全國數百家鋼鐵、汽車與機械業者發動 24 小時警告性罷工，為八年來首次，產業協約涵蓋約 370 萬人。工會要求加薪 5%，資方提出 2027 年 7 月一次性發放年薪 1%、2028 年 7 月加薪 1.3%。福斯汽車另在廠內協約談判要求 2027、2028 年零加薪並計畫再裁 1.2 萬人，談判 11/24 開始。這次罷工不影響物流與零售，但汽車業薪資停滯與裁員，可能讓德國 2027 年上半年消費動能偏弱。",
+    "public_action": "① 德國站非必需品類的 2027 年第一季補貨量保守估計，等 1 月實際數據再追加；② 汽車零配件與工業耗材賣家，提前確認德國客戶的採購計畫；③ 關注 11/24 德國 Ifo 指數、11/26 德國 GfK 消費氣候與福斯汽車薪資談判。",
+    "sources": [
+      {
+        "name": "Reuters：German auto, steel workers to strike as IG Metall union presses pay demands（11/19）",
+        "url": "https://www.reuters.com/business/world-at-work/union-calls-nationwide-24-hour-strikes-german-auto-steel-sectors-2026-11-19/"
+      },
+      {
+        "name": "tagesschau：IG Metall startet 24-Stunden-Warnstreiks（11/20，德文）",
+        "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
+      },
+      {
+        "name": "tagesschau：Volkswagen will Nullrunden für zwei Jahre（11/19，德文）",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/20 GfK】英國 11 月消費者信心回升 2 點到 −22：大額購買意願 +5 點，個人財務評估轉差（單一來源）",
+    "summary": "10 月重挫後小幅回穩，但消費者對自己的荷包更保守：\n        ① 指數（Reuters 引述 GfK，11/20）：GfK 消費者信心指數 11 月升 2 點到 −22，符合 Reuters 調查預期；10 月曾大跌 11 點到 −24，為疫情以來最大跌幅。\n        ② 分項：升幅最大的是大額購買意願，+5 點到 −17（10 月為兩年低點）；對整體經濟現況與前景的評估改善，但對個人財務狀況的評估小幅轉差。GfK 消費洞察總監 Bellamy 說，這應能讓零售商在 Black Friday 與聖誕檔期前放心「仍有人願意花錢」。調查期間 10/29–11/13，樣本 2,009 人。\n        ③ 匯率與利率（Reuters）：BoE 本月初三年多來首度升息，預估通膨 2027 年年中接近 5%。英鎊兌歐元 11/18 觸及 20 個月高點（歐元跌到 83.20 便士），11/19 回到 83.65 便士；英鎊兌美元 $1.315。\n        結論：英國消費者願意在檔期出手買大件，但會挑折扣，不會隨意加購。",
+    "public_impact": "英國 GfK 消費者信心指數 11 月回升 2 點到 −22，10 月曾大跌 11 點到 −24。升幅最大的是大額購買意願，回升 5 點到 −17；消費者對整體經濟的評估改善，但對個人財務狀況的評估小幅轉差。英國央行本月初升息，預估通膨 2027 年年中接近 5%。英鎊兌歐元 11/18 觸及 20 個月高點。對英國站賣家而言，高單價品類在 Black Friday 檔期有機會，但消費者仍會挑折扣；以歐元進貨的賣家，英國站換算毛利相對有利。本則數據目前僅取得路透單一來源。",
+    "public_action": "① Black Friday 前確認英國站高單價主力商品的促銷價具競爭力；② 以目前歐元兌英鎊匯率重算英國站與歐元區站點毛利，再分配第一季預算；③ 關注英國 10 月零售數據、12/16 英國 11 月 CPI 與 12 月英國央行會議。",
+    "sources": [
+      {
+        "name": "Reuters：UK GfK consumer sentiment edges up after October slump（11/20）",
+        "url": "https://www.reuters.com/world/uk/uk-gfk-consumer-sentiment-edges-up-after-october-slump-2026-11-20/"
+      },
+      {
+        "name": "Reuters：Sterling drops from 20-month high versus euro（11/19）",
+        "url": "https://www.reuters.com/world/uk/sterling-drops-20-month-high-versus-euro-2026-11-19/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-19",
     "type": "daily",
     "tags": [
