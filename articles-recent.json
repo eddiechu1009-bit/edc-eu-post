@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/23】Amazon.de 自配訂單交期改由系統計算：2027/4/1 起取消手動運輸時間，賣家回報頁面顯示最長 10 天",
+    "summary": "自配賣家的交期主導權，正從賣家轉到 Amazon：\n        ① 規則（wortfilter，11/23）：Amazon 8 月底起通知自配（FBM）賣家，把運費模板改為「配送設定自動化」（SSA），由系統依最近倉庫、物流商數據與已知延誤計算運輸時間，稱平均準 30%。2027/4/1 前可逐一模板開關，之後標準配送全面自動、不再有手動運輸時間。\n        ② 賣家回報（Amazon 德國賣家論壇）：時尚賣家 11/20 出貨、11/23 送達，頁面卻顯示 11/27，部分商品顯示 10 天，訂單明顯減少。Amazon 版主回覆，交期可能因物流商延誤調整，也「可能正常運作」。\n        ③ 準時率（wortfilter）：自配準時率門檻 90% 改按件數計，一筆 14 件訂單晚一天，準時率掉到 62%；自動處理時間、SSA、Buy Shipping 三者都開，延誤才不計入。\n        結論：聖誕檔期前，自配賣家頁面交期可能比實際慢，直接影響轉換。",
+    "public_impact": "德國賣家媒體 wortfilter 11/23 報導，Amazon 自 8 月底起通知自行配送的賣家，把運費模板改為「配送設定自動化」，由系統依倉庫位置、物流商數據與延誤狀況計算運輸時間；2027 年 4 月 1 日前賣家可逐一模板開關，之後標準配送將全面改為自動、不再提供手動運輸時間。多位賣家在 Amazon 德國賣家論壇回報，頁面顯示的交期比實際送達慢數天、最長達 10 天，訂單因此減少；Amazon 版主回覆交期可能因物流商延誤而調整。另據報導，自行配送的準時率門檻 90% 改以件數計算，一筆多件訂單延誤就可能讓準時率大幅下滑。聖誕檔期前，自行配送賣家頁面交期偏長會直接影響轉換。",
+    "public_action": "① 11 月底前逐一檢查德國站運費模板，確認自動化設定、出貨地址與物流商資料正確，海外倉出貨者尤其要留意；② 用訂單報告比對頁面交期與實際送達日，差距明顯的商品附訂單資料向平台反映；③ 需要處理時間的客製化商品，另建只含標準配送的模板；④ 單量大的商品評估在 12 月前改用平台倉儲配送；⑤ 留意 12 月中旬頁面是否提早顯示「聖誕前無法送達」。",
+    "sources": [
+      {
+        "name": "wortfilter：Amazon Lieferzeiten: 10 Tage im Angebot, Ware nach 3 Tagen da（11/23，德文）",
+        "url": "https://wortfilter.de/amazon-lieferzeiten-ssa/"
+      },
+      {
+        "name": "Amazon 德國賣家論壇：Lieferzeit in Angebotsanzeige wird länger als angegebenes Lieferdatum angegeben（含 Amazon 版主回覆，德文）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/81c54ce4-bf64-4801-9468-89f1bf3997e1"
+      },
+      {
+        "name": "Amazon 德國賣家論壇：FBM Bearbeitungszeit（德文）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/aa20ccf0-0518-4ed7-b67b-d4b5b6b7e07b"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/20】英歐峰會簽三項協議：取消食品出口健康證書、碳市場連結豁免 CBAM，英方估每年 £170 億",
+    "summary": "進展：11/17 報的峰會議程正式落地，脫歐十年後第一份實質「重設」：\n        ① 食品檢疫 SPS（英國政府，11/20）：英歐間食品、農產與植物的查驗及多數文件取消，每張最高 £200 的出口健康證書廢除，英方估 2040 年前每年最多貢獻 £51 億。\n        ② 碳市場連結：兩邊排放交易體系連結，英國 £65 億出口（含鋼、鋁）豁免歐盟碳邊境稅 CBAM。\n        ③ 青年交流：18–31 歲可在對方境內生活、工作、就學最多 3 年，有名額上限（ING 稱最多 10 萬人）。三項合計英方估 2040 年前 GDP 最多 +0.5%，約每年 £170 億。\n        ④ 反應：英國零售協會 BRC 稱食品協議是「大勝」，但要求至少 18 個月過渡期；ING 認為市場已預期，英鎊不會因此走強。\n        結論：受惠最直接的是食品與鋼鋁業；公布內容未涉及一般消費品的海關或 VAT。",
+    "public_impact": "英國與歐盟 11/20 在布魯塞爾峰會簽署三項協議：一是食品與植物檢疫協議，取消多數查驗與文件，每張最高 200 英鎊的出口健康證書廢除；二是連結雙方碳排放交易體系，英國約 65 億英鎊的鋼鋁等出口豁免歐盟碳邊境稅；三是青年交流計畫，18 至 31 歲可在對方境內生活與工作最多 3 年。英國政府估三項協議到 2040 年可讓 GDP 最多增加 0.5%，約每年 170 億英鎊。英國零售協會稱食品協議是重大利多，但要求至少 18 個月過渡期。公布的協議範圍不含一般消費品的海關申報、增值稅或產品法規互認，英歐雙站賣家的現行流程暫無變化。",
+    "public_action": "① 英歐雙站賣家維持現行的兩地增值稅、庫存與標示安排，不因本次協議提前調整；② 食品、寵物食品與植物類賣家，關注檢疫協議的實施時程與過渡期，再評估英歐互相出貨；③ 含鋼鋁的工具、五金類商品從英國出口歐盟者，留意碳邊境稅豁免細則；④ 關注協議法律文本與後續國會程序。",
+    "sources": [
+      {
+        "name": "英國政府：Prime Minister secures deal with EU ... worth up to £17 billion per year（11/20）",
+        "url": "https://www.gov.uk/government/news/costs-cut-prime-minister-secures-deal-with-eu-to-cut-costs-keep-prices-down-and-create-opportunities-for-young-people-worth-up-to-17-billion-per-year"
+      },
+      {
+        "name": "英國政府：PM speech at UK-EU Summit（11/20）",
+        "url": "https://www.gov.uk/government/speeches/pm-speech-at-uk-eu-summit-20-november-2026"
+      },
+      {
+        "name": "Euronews：EU and UK strike post-Brexit reset deal（11/20）",
+        "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland"
+      },
+      {
+        "name": "BRC：BRC responds to UK-EU deal on SPS（11/20）",
+        "url": "https://www.brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/brc-responds-to-uk-eu-deal-on-sps/"
+      },
+      {
+        "name": "ING THINK：FX Daily（11/20）",
+        "url": "https://think.ing.com/articles/fx-daily-will-closer-eu-ties-help-the-pound/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/20 ONS】英國 10 月零售量月增 0.7%、優於預期：網購金額年增 9.7%，政府緊急準備宣導帶動囤貨",
+    "summary": "英國黃金季開局比預期好，錢持續流向線上：\n        ① 總量（ONS，11/20）：10 月零售量 +0.7% 月增，9 月下修為 −0.6%；年增 2.3%，近三個月 +0.4%。\n        ② 原因（ONS）：政府 10/22 推出「Be Ready」緊急準備宣導後，超市罐頭、保久乳等長效食品買氣上升；非食品店 +1.1%，天氣轉涼帶動服飾，運動用品、遊戲與玩具店也上升。\n        ③ 線上（ONS）：網購金額月增 1.5%、年增 9.7%，占零售 29.2%（9 月 29.1%）。\n        ④ 業界（Retail Gazette）：數據優於經濟學家預期。Deloitte 稱黃金季開局「令人安心」；PwC 說暴風雨與期中假期客流弱，把消費推向線上；Alvarez & Marsal 警告 Black Friday 要在折扣與毛利間取捨。\n        結論：英國站旺季需求不弱，但比的是折扣下的毛利。",
+    "public_impact": "英國國家統計局 11/20 公布，10 月零售量月增 0.7%，優於市場預期，9 月下修為減少 0.6%；年增 2.3%。英國政府 10/22 推出緊急準備宣導後，超市長效食品買氣上升；天氣轉涼帶動服飾，運動用品、遊戲與玩具店也成長。網購金額月增 1.5%、年增 9.7%，占零售 29.2%。業界分析指出黃金季開局不錯，但消費者等待折扣，Black Friday 期間賣家要在折扣與毛利間取捨。對英國站賣家而言，線上需求成長明顯高於整體零售，玩具與遊戲類的聖誕採購可能比往年更早開始。",
+    "public_action": "① 英國站玩具、遊戲、運動用品賣家在 Black Friday 前檢查主力商品庫存，避免旺季中段斷貨；② 促銷定價先算清扣除平台費用與廣告後的毛利，設定底價；③ 關注 12 月初英國零售協會 11 月數據與 12/18 英國 11 月零售數據。",
+    "sources": [
+      {
+        "name": "ONS：Retail sales, Great Britain: October 2026（11/20）",
+        "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026"
+      },
+      {
+        "name": "Retail Gazette：Retail sales bounce back as shoppers stock up on emergency supplies（11/20）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/retail-sales-bounce-back-as-shoppers-stock-up-on-emergency-supplies/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/20–11/23】伊朗宣稱控制荷莫茲、油價仍三週連跌：Brent 約 $92，Goldman 估 2027 年均 $88、柴油 $150",
+    "summary": "進展：11/11 報 Brent 跌回 $90–92 後，週末衝突升級，但市場更在意供給回升：\n        ① 衝突（Investing.com，11/21–11/22）：伊朗稱攻擊巴林美軍雷達，11/22 宣稱由德黑蘭控制荷莫茲海峽、船隻須與伊方協商通行；UKMTO 稱兩艘駛離海峽的油輪 11/21 在阿曼外海被不明物體擊中。川普稱若談判無果，傾向新年後恢復攻擊。\n        ② 價格（Reuters、Investing.com）：Brent 11/20 收 $92.57、週跌近 4%，連三週下跌，11 月累跌約 20%；11/23 早盤再跌 0.8% 到 $91.85。Reuters 稱經海峽的原油出貨已大致回到戰前水準，IEA 估 Q4 全球供給過剩約 200 萬桶／日。\n        ③ 預測（Investing.com 引述 Goldman）：2027 年 Brent 均價 $88、年底 $78；美國批發柴油 2027 年均 $150／桶，煉油產能成長慢，燃料價格「高檔更久」。\n        結論：原油在跌、柴油仍貴，運費下修空間有限。",
+    "public_impact": "伊朗週末宣稱控制荷莫茲海峽、要求船隻須與伊方協商通行，並稱攻擊巴林美軍設施；英國海事貿易組織通報兩艘油輪 11/21 在阿曼外海遭擊中。但油價仍下跌：布蘭特原油 11/20 收在每桶 92.57 美元，連續三週下跌、11 月累跌約 20%，11/23 早盤再跌到 91.85 美元。路透報導經海峽的原油出貨已大致恢復，國際能源總署估第四季全球供給過剩約每日 200 萬桶。高盛預估 2027 年布蘭特均價 88 美元，但柴油因煉油產能成長慢將維持高檔。對賣家而言，原油下跌不等於物流成本下降，卡車與末端配送仍受柴油價格支撐。",
+    "public_action": "① 編列 2027 年歐洲物流預算時，末端與卡車運費以持平或小幅上升估算，不因原油下跌下修；② 第一季海運報價確認燃油附加費的計算基準，原油下跌時依公式要求調降；③ 關注 11/29 OPEC+ 會議、美伊談判進展與 1 月後是否恢復軍事行動。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday（11/20）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-5040518"
+      },
+      {
+        "name": "Investing.com：Iran asserts control over Hormuz as strikes on Bahrain, Saudi Arabia escalate（11/22）",
+        "url": "https://www.investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802"
+      },
+      {
+        "name": "Investing.com：Iran claims strikes on U.S. radars in Bahrain; Saudi downs missile（11/21）",
+        "url": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277"
+      },
+      {
+        "name": "Investing.com：Oil falls as robust Gulf exports offset Iran escalation, supply glut risks（11/23）",
+        "url": "https://www.investing.com/news/commodities-news/oil-falls-as-robust-gulf-exports-offset-iran-escalation-supply-glut-risks-5044220"
+      },
+      {
+        "name": "Investing.com：Goldman is out with its 2027 forecast for Brent oil prices（11/21）",
+        "url": "https://www.investing.com/news/commodities-news/goldman-is-out-with-its-2027-forecast-for-brent-oil-prices-5043425"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/22】西班牙大選前一週四份民調：PP 皆領先、PP＋Vox 估 190–210 席過半，投票日在黑五週",
+    "summary": "西班牙政權可能右轉，選後組閣與 2027 預算是觀察點：\n        ① 四份民調（Euronews，11/22）：Ipsos、Data10、GAD3、Hamalgama Métrica 都顯示人民黨（PP）第一，PP 與極右 Vox 合計 190–210 席，超過 176 席過半門檻；執政 PSOE 98–119 席。PP 與 PSOE 差距 0.5–6.4 個百分點，各家落差大。\n        ② Ipsos（La Vanguardia，11/22）：PP 30.3%、127 席，PSOE 29.8%、119 席，Vox 17.9%、63 席；11/13–11/20 訪問 1,999 人，56% 支持換政府，多數希望新政府優先處理住房。\n        ③ 辯論（Euronews，11/20）：Feijóo 攻擊貪腐與住房，稱「有工作也不保證過得下去」；Sánchez 以經濟成長與就業辯護。\n        結論：投票日 11/29 是週日，緊接 11/30 Cyber Monday；政策影響要到 2027 年才看得出來。",
+    "public_impact": "西班牙 11/29 提前大選前一週，Ipsos、Data10、GAD3、Hamalgama Métrica 四份民調都顯示人民黨領先，人民黨與極右 Vox 合計估 190 至 210 席，超過 176 席過半門檻；執政的社會勞工黨估 98 至 119 席，兩大黨差距在各家民調中落差很大。Ipsos 調查顯示 56% 受訪者支持換政府，多數希望新政府優先處理住房問題。投票日是週日，緊接 Cyber Monday，對黑五檔期的消費影響有限；選後組閣與 2027 年預算、住房與勞動政策方向，才是影響明年西班牙消費的觀察點。",
+    "public_action": "① 西班牙站黑五檔期的促銷與廣告按原計畫執行；② 選後關注組閣進度與 2027 年預算案，再評估明年西班牙站的備貨與定價；③ 留意住房與勞動相關政策對消費者可支配所得的影響。",
+    "sources": [
+      {
+        "name": "Euronews：Polls put Spain's PP ahead of PSOE a week before 29 November election（11/22）",
+        "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election"
+      },
+      {
+        "name": "La Vanguardia：La derecha suma mayoría absoluta mientras el PSOE se acerca al PP（11/22，西文）",
+        "url": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html"
+      },
+      {
+        "name": "Euronews：Spanish PM Sánchez defends his government（11/20）",
+        "url": "https://www.euronews.com/2026/11/20/spanish-pm-sanchez-defends-his-government-as-one-of-the-cleanest-in-the-history-of-democra"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-20",
     "type": "daily",
     "tags": [
@@ -2259,302 +2401,6 @@
       {
         "name": "Reuters（Investing.com 轉載）：Strong CBI retail sales buck downbeat UK consumer trend（10/26）",
         "url": "https://www.investing.com/news/economic-indicators/strong-cbi-retail-sales-buck-downbeat-uk-consumer-trend-4972138"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-10-23",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【10/22】Amazon 德國中小賣家 2025 年業績逾 €200 億、出口 €59 億：比利時同日簽約，目標 2030 年底累計出口 €20 億",
-    "summary": "10/22 日報報過 Amazon 德國 €160 億投資，本期是同週發布的賣家端數據，重點在出口成長放緩：\n        ① 德國 KMU Report 2026（Amazon 德國，涵蓋 2025 年）：逾 4 萬家德國中小企業在 Amazon 賣出逾 7.5 億件、業績逾 €200 億（首度揭露，未給精確值）；出口 €59 億、約佔三分之一，前五大出口市場為法、奧、義、美、西；逾 80% 中小賣家有跨國銷售。\n        ② 成長放緩（Ecommerce News）：出口 2019 年 €27.5 億、2024 年 €57 億，2025 年只多數億歐元；賣家數「逾 4 萬」與 2021 年相同，該媒體指去年 Amazon 報的是約 4.7 萬。\n        ③ Amazon 訴求：Seller Services 總監 Schöberl 呼籲「少一點官僚」，報告點名歐盟統一規則、資料只報一次、全數位流程；並列出 9 月 Accelerate 發表的單一 listing 跨國管理、跨站拓展總覽等工具。\n        ④ 比利時 Export Pledge（Amazon 歐洲、RetailDetail）：Amazon、比利時電商公會 Becom 與聯邦政府簽 MoU，目標 2030 年底中小企業累計出口逾 €20 億；2025 年出口逾 €4 億，其中逾 €1.9 億銷往其他歐盟國；比利時賣家可免費使用 12 個月 Amazon Quick Plus，申請到 12/31。\n        結論：德國本地賣家的出口佔比已到三成，但成長幾乎停住，歐盟本地供給沒有擴張。",
-    "public_impact": "Amazon 10 月公布的德國中小企業報告顯示，2025 年逾 4 萬家德國中小企業在 Amazon 的業績逾 200 億歐元，出口 59 億歐元、約佔三分之一，前五大出口市場為法國、奧地利、義大利、美國與西班牙。不過出口 2024 年已達 57 億歐元，2025 年成長有限，賣家家數也與 2021 年相當。比利時同日由 Amazon、電商公會 Becom 與聯邦政府簽署合作備忘錄，目標 2030 年底累計出口逾 20 億歐元，2025 年約 4 億歐元。歐洲本地中小賣家的跨國擴張正在放緩，對非歐盟跨境賣家而言，法國、義大利、西班牙等站的本地新供給有限。",
-    "public_action": "① 已在德國站銷售的賣家，可評估擴站到法國、義大利、西班牙，先看所在品類前 20 名的賣家來源，判斷本地競爭強度；② 多國銷售時，listing 翻譯、幣別與合規標示要逐站確認；③ 比利時市場規模較小，可排在多國擴站的後段。",
-    "sources": [
-      {
-        "name": "Amazon 德國：KMU Report 2026",
-        "url": "https://www.aboutamazon.de/news/unser-beitrag-fuer-unternehmer-innen/amazon-kmu-report"
-      },
-      {
-        "name": "Ecommerce News：German SMEs generate over 20 billion euros in sales on Amazon（10/22）",
-        "url": "https://ecommercenews.eu/german-smes-generate-over-20-billion-euros-in-sales-on-amazon/"
-      },
-      {
-        "name": "Amazon 歐洲：Amazon plans to help Belgian businesses achieve more than €2 billion in export sales（10/22）",
-        "url": "https://www.aboutamazon.eu/news/company-news/amazon-export-pledge-2030-belgium"
-      },
-      {
-        "name": "RetailDetail：How Amazon plans to help Belgian entrepreneurs generate 2 billion euros in export revenue（10/22，付費牆）",
-        "url": "https://www.retaildetail.eu/news/general/how-amazon-plans-to-help-belgian-entrepreneurs-generate-2-billion-euros-in-export-revenue/"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-10-23",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【10/22】胡塞連襲沙國能源設施，Brent 單日 +4% 收逾 $113、5 月 4 日來最高：TTF 破 €90，2022 年 12 月來新高",
-    "summary": "10/19 日報報 Brent $109.86 後週一回落，本期進展是再度突破、並帶動歐洲天然氣創新高：\n        ① 攻擊（Investing.com、Reuters）：胡塞稱 48 小時內四度攻擊沙國，目標含利雅德國防部、Aramco 延布設施與兩座機場；無人機擊中 Shaybah 油田附近與 Dammam 機場，Aramco 下令撤離宰赫蘭總部，美國國務院令駐沙非必要人員撤離。\n        ② 油價（ING、Reuters）：ICE Brent 10/22 收漲 4%、略高於 $113，為 5 月 4 日來最高；10/23 亞洲早盤 $112.96 小跌 0.2%，Brent 走向連三週上漲。\n        ③ 天然氣（ING、Investing.com）：TTF 收漲 3%、逾 €90/MWh，2022 年 12 月來最高；歐盟儲氣約 74–75% 疑已見頂，10 月底歷史平均約 86%。\n        ④ 研判（ING）：ING 原估 Q4 Brent 均價 $80「看來達不到」，即使不再升級，風險溢價也會留在價格裡；LNG 冬季大半可能缺席歐洲市場。\n        結論：能源成本在旺季前又上一階，燃油附加費沒有下修空間。",
-    "public_impact": "葉門胡塞組織 10 月 21 至 22 日連續攻擊沙烏地阿拉伯能源設施與機場，ICE Brent 10 月 22 日收漲 4%、略高於每桶 113 美元，為 5 月 4 日以來最高；歐洲 TTF 天然氣收漲 3%、突破每百萬瓦時 90 歐元，為 2022 年 12 月以來最高，歐盟儲氣率約 74–75%，低於 10 月底歷史平均約 86%。ING 表示原估第四季 Brent 均價 80 美元已難達成。海空運與末端配送的燃油附加費多按月調整，第四季物流成本難以下修；歐洲本地生產的能源密集商品成本也持續上升。",
-    "public_action": "① 第四季成本試算以每桶 110–115 美元為基準，重算頭程與配送成本；② 旺季前的入倉盡量一次完成，避免 11 月燃油附加費調升後再補貨；③ 歐洲本地競品因能源成本漲價時，可評估維持售價以爭取市佔；④ 留意荷莫茲海峽航運、11 月 1 日 OPEC+ 會議與歐盟儲氣率變化。",
-    "sources": [
-      {
-        "name": "ING：The Commodities Feed: Brent builds geopolitical premium as Gulf risks rise（10/23）",
-        "url": "https://think.ing.com/articles/the-commodities-feed-brent-risk-premium-builds-with-fears-of-re-escalation/"
-      },
-      {
-        "name": "ING：The Commodities Feed: Attacks on Saudi Arabia fan oil supply worries（10/22）",
-        "url": "https://think.ing.com/articles/the-commodities-feed-oil-supply-risks-outweigh-elevated-oil-flows221026/"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia（10/23）",
-        "url": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907"
-      },
-      {
-        "name": "Investing.com：Brent hits over 5-month high as Houthi attacks boost supply disruption fears（10/22）",
-        "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479"
-      },
-      {
-        "name": "Investing.com：European gas at 2022 peaks as Houthi strikes trigger U.S. evacuation order（10/22）",
-        "url": "https://www.investing.com/news/commodities-news/european-gas-at-2022-peaks-as-houthi-strikes-trigger-us-evacuation-order-4964751"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-10-23",
-    "type": "daily",
-    "tags": [
-      "物流"
-    ],
-    "title": "【10/21–10/22 義大利】南部卡車司機抗議油價封路逾一週：超市斷貨、兩座機場缺航空燃油，政府撥逾 €10 億補助",
-    "summary": "油價上漲已直接造成義大利南部陸運中斷，10/22 部分地區先解除：\n        ① 封路範圍（ANSA、Euronews）：抗議從 10/21 前一週開始，集中在卡拉布里亞、坎帕尼亞、普利亞；A1 米蘭–拿坡里、A30 卡塞塔–薩萊諾高速公路部分路段一度封閉，商店與物流中心進不了貨，超市生鮮斷貨。\n        ② 連鎖影響：Crotone、Reggio Calabria 機場航空燃油用罄；坎帕尼亞與普利亞的工業協會稱會員企業「瀕臨崩潰」；抗議 10/22 已擴散到亞得里亞海漁船停港。\n        ③ 政府回應（Euronews、ANSA）：經濟部長 Urso 稱補助逾 €10 億，其中 €4.348 億補貼柴油成本、約 €5.9 億用於車隊汰換，已有逾 3.2 萬件申請；警方已查證 1,339 人、移送 71 人、開罰 242 件；Meloni 10/22 稱「這不是抗議，是恐嚇」，將依安全法令追究封路刑責。油價彈性上限納入燃料法令，參議院已通過、待眾議院。\n        ④ 現況（ANSA，10/22）：卡拉布里亞卡車司機暫停抗議，生鮮開始回到貨架；部分司機先前表示至少抗議到 10/27 交通部會議。\n        結論：義大利南部末端配送這週不穩，10/27 會議前仍可能反覆。",
-    "public_impact": "義大利南部卡車司機自 10 月中旬起抗議柴油價格、封鎖道路，卡拉布里亞、坎帕尼亞、普利亞的商店與物流中心一度無法進貨，A1 與 A30 高速公路部分路段封閉，Crotone 與 Reggio Calabria 機場航空燃油用罄。政府宣布逾 10 億歐元補助，並將依法追究封路刑責；卡拉布里亞司機 10 月 22 日暫停抗議，但部分司機表示至少抗議到 10 月 27 日交通部會議。寄往義大利南部的包裹本週末端配送可能延遲，自行出貨的賣家準時到貨率與取消率會受影響。",
-    "public_action": "① 自行出貨到義大利的賣家，本週把處理時間延長 1–2 天；② 遇延遲時保留物流商的延誤證明，日後申訴績效指標時使用；③ 義大利熱賣品可優先使用平台倉儲配送；④ 留意 10 月 27 日交通部會議與燃料法令進度，以及 11 月 11 日西班牙全國大罷工。",
-    "sources": [
-      {
-        "name": "Euronews：Italy's truckers' protests leave supermarket shelves empty and airports without fuel（10/22）",
-        "url": "https://www.euronews.com/2026/10/22/italys-truckers-protests-leave-supermarket-shelves-empty-and-airports-without-fuel"
-      },
-      {
-        "name": "ANSA：Trucker protests have companies on brink of collapse - industry associations（10/21）",
-        "url": "https://www.ansa.it/english/news/business/2026/10/21/trucker-protests-have-companies-on-brink-of-collapse-industry-associations_2d01c3e7-589d-4def-a22d-c3df423e4f4d.html"
-      },
-      {
-        "name": "ANSA：Truckers suspend protest in Calabria, fruit and veg start returning to shelves（10/22）",
-        "url": "https://www.ansa.it/english/news/2026/10/22/truckers-suspend-protest-in-calabria-fruit-and-veg-start-returning-to-shelves_ec9f766c-06be-4b9b-adc3-5b0cf12cfe77.html"
-      },
-      {
-        "name": "ANSA：Meloni announces aid for truckers, says intimidation won't be tolerated（10/22）",
-        "url": "https://www.ansa.it/english/news/politics/2026/10/22/meloni-announces-aid-for-truckers-says-intimidation-wont-be-tolerated_16750afd-4797-40ec-be83-9ff33374e3ab.html"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-10-23",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/22 執委會】歐元區 10 月消費信心 -17.9、遜於預期 -17.0：月減 1.1 點、5 月來最低，EU 為 -17.3",
-    "summary": "BFCM 前最後一份消費信心快報，買氣繼續往下：\n        ① 數字（執委會 DG ECFIN，10/22）：歐元區 flash 消費信心 -17.9，較 9 月下降 1.1 點；EU 為 -17.3，下降 1.2 點，兩者「進一步低於長期平均」。調查期間 10/1–10/21。\n        ② 對照預期（Reuters）：Reuters 調查經濟學家預期 -17.0，實際差 0.9 點。\n        ③ 歷史位置（Trading Economics）：5 月以來最低；1985 年以來平均約 -9.5，紀錄低點為 2022 年 9 月的 -27.5。Trading Economics 歸因於油價、通膨與利率前景。\n        ④ 修正：9 月值因重新納入義大利資料下修為 -16.8，義大利 8 月到 9 月有調查方法斷層。\n        結論：能源價格、通膨 3.8% 與升息預期一起壓住消費者，旺季需求偏保守。",
-    "public_impact": "歐盟執委會 10 月 22 日公布，歐元區 10 月消費信心快報為 -17.9，較 9 月下降 1.1 點，歐盟為 -17.3，皆進一步低於長期平均；Reuters 調查預期為 -17.0。依 Trading Economics，這是 5 月以來最低，1985 年以來平均約 -9.5。油價、通膨與利率前景是主要壓力。Black Friday 與年末旺季前，歐洲消費者的價格敏感度偏高，需求可能集中在折扣檔期與必需品，非必需的高單價商品轉換率可能低於去年。",
-    "public_action": "① 旺季備貨以去年同期銷量為上限，高單價品類以補貨追量，不提前加碼；② 折扣檔期的優惠券與會員折扣盡早設定；③ 必需品與低單價商品的旺季預估可維持，非必需品類保守看待；④ 留意 10 月 29 日執委會完整版調查與各國拆解。",
-    "sources": [
-      {
-        "name": "European Commission DG ECFIN：Flash Consumer Confidence Indicator（10/22，PDF）",
-        "url": "https://economy-finance.ec.europa.eu/document/download/1e455a38-643d-44ad-81dd-e71f6c17d3a1_en?filename=Flash_consumer_2026_10_en.pdf"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Euro zone consumer confidence falls to -17.9 in October（10/22）",
-        "url": "https://www.investing.com/news/economic-indicators/euro-zone-consumer-confidence-falls-to-179-in-october-4966691"
-      },
-      {
-        "name": "Trading Economics：Euro Area Consumer Confidence",
-        "url": "https://tradingeconomics.com/euro-area/consumer-confidence"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-10-23",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【10/21 執委會】依 DSA 正式調查 Booking.com：假房源、釣魚詐騙與付費加權排序未標廣告，最高可罰全球營收 6%",
-    "summary": "執委會首次對 Booking 啟動 DSA 程序，調查方向也適用其他大型平台：\n        ① 三個調查面向（執委會新聞稿，10/21）：一是假房源、冒名詐騙與不合規房源的風險評估與下架；二是訂房與房客資料分享給業者、站內訊息系統被用於釣魚詐騙的風險；三是業者付較高佣金換取的「加權排序」是否清楚標示為廣告，以及使用者能否看到誰付費、為何看到。\n        ② 法源：DSA 第 34、35 條（超大型平台的系統性風險評估與降低）與第 26(1) 條（廣告須可清楚辨識）。\n        ③ 背景（heise、OnlinehändlerNews）：Booking 自稱 2026 年詐騙嘗試增加 500%，4 月曾發生資料外洩；執委會 2025 年 9 月曾要求 Booking 等大型平台提供詐騙資料。\n        ④ 程序（Euronews、heise）：違規屬實最高可罰全球年營收 6%；調查無法定期限，Booking 可提承諾方案，EU 官員稱離罰款「還很遠」；Booking 稱全力配合。\n        結論：執委會對平台詐騙的執法，重點放在站內訊息與付費排序的透明度。",
-    "public_impact": "歐盟執委會 10 月 21 日依《數位服務法》（DSA）對 Booking.com 啟動正式調查，三個面向為假房源與冒名詐騙的風險評估與下架、訂房資料與站內訊息被用於釣魚詐騙的風險，以及付費換取的加權排序是否清楚標示為廣告。法源為 DSA 第 34、35 條與第 26(1) 條，違規屬實最高可罰全球年營收 6%。這些標準同樣適用其他超大型平台，包括電商平台。對賣家而言，冒充平台的釣魚信件與帳號盜用在旺季前通常增加，站外廣告的標示也會以相同標準被檢視。",
-    "public_action": "① 收到帳號停權或驗證通知時，只從平台後台確認，不點信件中的連結登入，並開啟兩步驟驗證；② 透過網紅或聯盟行銷導流時，貼文以當地語言清楚標示廣告；③ 留意執委會對 Booking 案的後續決定，以及是否擴及其他平台。",
-    "sources": [
-      {
-        "name": "European Commission：Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act（10/21，PDF）",
-        "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2223/IP_26_2223_EN.pdf"
-      },
-      {
-        "name": "heise online：DSA: EU-Kommission leitet Verfahren gegen Booking.com ein（10/21）",
-        "url": "https://www.heise.de/news/DSA-EU-Kommission-leitet-Verfahren-gegen-Booking-com-ein-11495527.html"
-      },
-      {
-        "name": "Euronews：EU probes Booking.com over fake listings and phishing scams（10/21）",
-        "url": "https://www.euronews.com/2026/10/21/eu-probes-whether-bookingcom-is-doing-enough-to-tackle-fake-listings-and-phishing-scams"
-      },
-      {
-        "name": "OnlinehändlerNews：Booking.com im Visier: EU wirft Plattform laxen Betrugsschutz vor（10/22）",
-        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/bookingcom-im-visier-eu-wirft-plattform-laxen-betrugsschutz-vor"
-      }
-    ],
-    "color": "#0891b2"
-  },
-  {
-    "date": "2026-10-22",
-    "type": "daily",
-    "tags": [
-      "合規"
-    ],
-    "title": "【10/20 歐洲議會】616 票通過暫停 EPR 授權代表義務，但只限歐盟境內小微企業：非歐盟賣家照舊要指派",
-    "summary": "10/19 日報報過大會辯論，本期進展是表決結果：議會版比執委會原案窄很多。\n        ① 表決（歐洲議會，10/20 中午）：電池與包裝廢棄物案 616 票贊成、9 票反對、39 票棄權；紡織、鞋類、電子電器與一次性塑膠案 612 比 8、39 票棄權，屬 Environmental Omnibus。\n        ② 適用對象（歐洲議會、Neue Verpackung）：只暫停歐盟境內小型與微型企業的授權代表義務，即員工少於 50 人、營業額或資產不超過 €1,000 萬；中大型企業與歐盟以外製造商不適用，另有防拆分條款。\n        ③ 期限：最晚到 2035/1/1，或循環經濟法上路後提前結束；生產者登記、包裝量申報、EPR 費用照舊。\n        ④ 下一步（OnlinehändlerNews、Neue Verpackung）：理事會還要先定立場，才能開始三方協商，修法生效前現行規定繼續有效；據 OHN，成員國 2025 年 12 月曾否決執委會的暫停提議。\n        結論：議會版本對台灣賣家沒有減負，授權代表合約要續。",
-    "public_impact": "歐洲議會 10 月 20 日以 616 票贊成、9 票反對、39 票棄權，通過電池與包裝廢棄物規則的簡化立場，另一案涵蓋紡織、鞋類、電子電器與一次性塑膠。議會版只暫停歐盟境內小型與微型企業（員工少於 50 人、營業額或資產不超過 1,000 萬歐元）在各國指派授權代表的義務，中大型企業與歐盟以外的製造商不適用，最晚到 2035 年 1 月 1 日。生產者登記、包裝量申報與 EPR 費用不受影響。理事會尚未定立場，修法生效前現行規定繼續有效。對歐盟以外的跨境賣家而言，這次表決不會減少任何義務。",
-    "public_action": "① 歐盟以外的公司不要因為新聞解除授權代表合約；② 確認各國包裝與電池的生產者登記、申報與 EPR 費用持續繳交；③ 多國銷售的成本試算中，授權代表費用仍列為每國固定成本；④ 留意理事會立場與後續三方協商結果。",
-    "sources": [
-      {
-        "name": "European Parliament：Waste: MEPs back simplified rules for small businesses（10/20）",
-        "url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48256/waste-meps-back-simplified-rules-for-small-businesses"
-      },
-      {
-        "name": "European Parliament：EP TODAY, Tuesday 20 October 2026",
-        "url": "https://www.europarl.europa.eu/news/en/press-room/20261018IPR48246/ep-today"
-      },
-      {
-        "name": "OnlinehändlerNews：EU-Parlament will Aussetzung von Bevollmächtigten-Pflicht für kleine Händler（10/21）",
-        "url": "https://ohn.haendlerbund.de/recht/politik-gesetze/eu-parlament-aussetzung-bevollmaechtigten-pflicht-kleine-haendler"
-      },
-      {
-        "name": "Neue Verpackung：PPWR: Erleichterung bei der erweiterten Herstellerverantwortung（10/21）",
-        "url": "https://www.neue-verpackung.de/markt/ppwr-erleichterung-bei-der-erweiterten-herstellerverantwortung/2755569"
-      }
-    ],
-    "color": "#0369a1"
-  },
-  {
-    "date": "2026-10-22",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【10/13 起】Amazon 自發貨運費模板被自動改成 €0：未改用按件或按重模板者遭遷移，官方稱「照設計運作」",
-    "summary": "FBM 賣家運費設定被平台改動，低單價商品每單賠運費：\n        ① 現象（sellerforum.de，10/14 起）：有賣家回報 10/13 中午「Standardvorlage Amazon」運費由 €3.90 變 €0；另一位 4 個模板中 2 個被改，出現「KG」重量單位與「滿件免運」新欄位，Premium 運費也變 €0；也有人回報 Amazon.co.uk 的英國運費變 €0。\n        ② 原因（OnlinehändlerNews，10/21）：Amazon 已取消按訂單金額計算的運費模式，未在期限前改成按件或按重的模板會被自動遷移；論壇版主回覆技術團隊查過，系統「照設計運作」。論壇有賣家指此與 8/24 起改為按重計費的通知有關，OHN 未證實。\n        ③ 後果（OHN）：低價商品每單虧損；有賣家改休假模式或手動取消訂單，又因取消率上升收到警告。\n        ④ 爭點（OHN）：歐盟 P2B 規章要求平台事先以易懂方式通知條款變更；Amazon 有預告遷移，但沒寫到可能變成 €0 或重新開啟已關閉的國際配送選項。\n        結論：這是規則遷移造成的設定變動，不是系統故障。",
-    "public_impact": "據德國電商媒體 OnlinehändlerNews 與賣家論壇回報，10 月中旬起部分在 Amazon 自行出貨的賣家發現運費模板被改成 0 歐元，有人的標準運費由 3.90 歐元變成 0，也有英國站運費歸零與已關閉的國際配送選項被重新開啟的回報。原因是 Amazon 已取消按訂單金額計算運費的模式，未改用按件或按重模板的設定會被自動遷移；平台回覆系統照設計運作。低單價商品每單都在賠運費，而取消訂單又會影響帳號的取消率指標。歐盟 P2B 規章要求平台事先清楚通知條款變更，但這次通知是否涵蓋 0 運費的結果仍有爭議。",
-    "public_action": "① 立即檢查每個運費模板與配送等級的費率，留意重量單位、滿件免運欄位與 0 元費率；② 確認已關閉的國際配送選項沒有被重新開啟；③ 已成立的訂單優先出貨，避免大量取消影響帳號指標；④ 把受影響的訂單編號與運費差額整理成清單，以書面向平台申請補償；⑤ 歐洲其他站點也一併檢查。",
-    "sources": [
-      {
-        "name": "OnlinehändlerNews：Ungewollter Gratisversand: Amazon setzt Versandtarife auf null（10/21）",
-        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/ungewollter-gratisversand-amazon"
-      },
-      {
-        "name": "sellerforum.de：Versandvorlage „Standardvorlage Amazon“ ist auf 0€ gerutscht（10/14–10/15）",
-        "url": "https://www.sellerforum.de/forum/thread/67196-versandvorlage-standardvorlage-amazon-ist-auf-0-gerutscht/?postID=840536"
-      }
-    ],
-    "color": "#dc2626"
-  },
-  {
-    "date": "2026-10-22",
-    "type": "daily",
-    "tags": [
-      "平台"
-    ],
-    "title": "【10/20 柏林】Amazon 宣布 2027 年在德國投資逾 €160 億：AWS 法蘭克福 €48 億，物流 6 站升級、新增 3,000 職缺",
-    "summary": "德國政府「Invest in Germany Summit」上，Amazon 公布明年的德國投資計畫：\n        ① 總額（Amazon 新聞稿）：2027 年計畫投資逾 €160 億；2010 年以來在德累計逾 €1,000 億、常設職位逾 4 萬個。\n        ② 雲端與 AI：€48 億擴建 AWS 歐洲（法蘭克福）區域，是唯一揭露金額的項目；柏林設第二座機器人與 AI 實驗室。\n        ③ 物流：Bad Hersfeld、Dortmund、Werne 三站 2027 年完成現代化並導入機器人，Koblenz、Pforzheim、Rheinberg 延續到 2028 年；Zweibrücken 已啟用、Könnern 興建中；物流項目預計新增逾 3,000 個職缺。\n        ④ 其他：Amazon Leo 衛星網路向 Arianespace 訂 24 次發射；Prime Video 2027 年底前在德逾 15 部新製作。\n        ⑤ 反應（OnlinehändlerNews、RetailDetail）：經濟部長 Reiche 稱是「對德國的信任票」；IW 所長 Hüther 提醒企業選址看能否賺錢，不看峰會。\n        結論：投資重心在雲端，物流以升級既有站點為主。",
-    "public_impact": "Amazon 10 月 20 日在德國政府主辦的投資峰會上宣布，2027 年計畫在德國投資逾 160 億歐元，其中 48 億歐元擴建法蘭克福的 AWS 雲端區域。物流方面，Bad Hersfeld、Dortmund、Werne 三個站點 2027 年完成現代化並導入機器人，Koblenz、Pforzheim、Rheinberg 延續到 2028 年，Zweibrücken 已啟用、Könnern 興建中，預計新增逾 3,000 個物流職缺。官方未公布物流投資金額或倉容數字。對在德國銷售的跨境賣家，這代表當地配送網絡會持續升級，但入倉條件與費用仍以平台實際公告為準。",
-    "public_action": "① 以德國為主要市場的賣家，可把當地物流網絡持續升級列為長期佈局的參考；② 入倉限制與費用仍以平台公告為準，不要假設明年倉容一定放寬；③ 規劃 2027 年德國補貨時程時，留意新站點啟用後配送節點可能調整。",
-    "sources": [
-      {
-        "name": "Amazon 新聞稿：Invest in Germany Summit: Amazon kündigt 16 Milliarden Euro Investitionen für 2027 in Deutschland an（10/20）",
-        "url": "https://press.aboutamazon.com/de/2026/10/invest-in-germany-summit-amazon-kuendigt-16-milliarden-euro-investitionen-fuer-2027-in-deutschland-an"
-      },
-      {
-        "name": "OnlinehändlerNews：Amazon kündigt Milliarden-Investitionen für Deutschland an（10/21）",
-        "url": "https://ohn.haendlerbund.de/amazon/konzern/amazon-kuendigt-milliarden-investitionen-deutschland"
-      },
-      {
-        "name": "RetailDetail：Amazon invests 16.9 billion euros in German AI, cloud computing, and satellite internet（10/20）",
-        "url": "https://www.retaildetail.eu/news/general/amazon-is-investing-16-9-billion-euros-in-german-ai-cloud-computing-and-satellite-internet/"
-      }
-    ],
-    "color": "#ea580c"
-  },
-  {
-    "date": "2026-10-22",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/21 法國】10 年期公債殖利率觸及 5.002%、2002 年來最高：Carrefour 因暴動下修全年財測，股價重挫逾 11%",
-    "summary": "10/19 日報報過法國示威，本期進展是債市與零售業開始反映成本：\n        ① 債市（Reuters，10/21）：法國 10 年期殖利率 09:14 GMT 觸及 5.002%，24 年新高；對德利差約 150–157bp，接近 2011 年水準。ING 指利差由上週五 137bp 擴大到 10/20 的 153bp。\n        ② Carrefour（Reuters、Investing.com）：下修 2026 年財測，經常性營業利益率增幅由 25bp 降到 0–15bp，調整後 EPS 由高個位數成長降到持平或小增，自由現金流改為小幅下滑；約 50 家店受損，削減法國資本支出 €1 億；股價跌逾 11%。Q3 法國同店 +1.2%，電商 +18%。\n        ③ 損失（ING，10/21）：法國商會統計截至 10/20 逾 2,000 家企業直接受影響；Morningstar 初估保險損失最高 €12 億。10/24、10/31 還有示威，11/5 全國罷工。\n        ④ 成長（ING）：法國 GDP 估 2026 年 0.3%、2027 年 0.6%，動盪延續恐更弱。\n        結論：示威成本已經進到零售業財測。",
-    "public_impact": "法國 10 年期公債殖利率 10 月 21 日盤中觸及 5.002%，為 2002 年以來最高，對德國利差約 150 至 157 個基點。法國最大零售商之一 Carrefour 同日因各地暴動、洗劫與宵禁影響門市營運，下修 2026 年營業利益率、每股盈餘與自由現金流目標，約 50 家門市受損，股價重挫逾 11%；不過其電商第三季成長 18%。據 ING 引述法國商會，截至 10 月 20 日逾 2,000 家企業直接受影響，10 月 24 日、31 日還有示威，11 月 5 日全國罷工。ING 預估法國 2026 年成長僅 0.3%。法國第四季消費偏弱，大件與非必需品受影響最大。",
-    "public_action": "① 法國站第四季銷售預估保守處理，大件與非必需品類優先下修；② 11 月 5 日全國罷工前後，自行出貨的訂單預留配送緩衝；③ 黑五檔期的促銷預算可偏重其他歐洲站點，法國以維持曝光為主；④ 留意 10 月 23 日 Moody's 評等檢視與 10 月 30 日法國第三季 GDP 初值。",
-    "sources": [
-      {
-        "name": "Reuters（Investing.com 轉載）：French 10-year bond yields hit 5%, highest since 2002（10/21）",
-        "url": "https://www.investing.com/news/economy-news/french-10year-bond-yields-hit-5-highest-since-2002-4962104"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：French bonds lead euro zone yields higher（10/21）",
-        "url": "https://www.investing.com/news/economy-news/french-bondslead-euro-zone-yields-higher-4962106"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：Carrefour shares tumble 11% as France events force guidance cut（10/21）",
-        "url": "https://www.investing.com/news/earnings/carrefour-shares-tumble-11-as-france-events-force-guidance-cut-4961797"
-      },
-      {
-        "name": "Investing.com：Why is Carrefour stock plunging today?（10/21）",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-carrefour-stock-plunging-today-93CH-4961875"
-      },
-      {
-        "name": "ING THINK：France's unrest adds to an already toxic economic mix（10/21）",
-        "url": "https://think.ing.com/articles/frances-unrest-adds-to-an-already-toxic-economic-mix/"
-      },
-      {
-        "name": "ING THINK：Rates Spark: Welcome to the 5% club（10/21）",
-        "url": "https://think.ing.com/articles/rates-spark-welcome-to-the-5-club/"
-      }
-    ],
-    "color": "#7c3aed"
-  },
-  {
-    "date": "2026-10-22",
-    "type": "daily",
-    "tags": [
-      "總經"
-    ],
-    "title": "【10/21 ONS】英國 9 月 CPI 3.5%、高於預期 3.4%：車用燃料 +29.8%，市場押 BoE 11/5 升息到 4%",
-    "summary": "英國通膨連續上行，10/28 預算案與 11/5 BoE 會議前壓力加大：\n        ① CPI（ONS，10/21）：9 月 3.5%（8 月 3.1%、Reuters 調查預期 3.4%），月增 0.4%；核心 2.8%、服務 3.7%、商品 3.2%。\n        ② 燃料（ONS）：車用燃料年增 29.8%（8 月 23.0%），汽油每公升 169.5p、柴油 192.5p，皆為 2022 年中以來最高；食品 1.3% 持平。\n        ③ 上游與財政（Reuters、Investing.com）：出廠價格 +4.6%、投入成本 +8.3%（預期 7.2%）；9 月公共借款 £245 億，高於預期 £239 億，公共債務破 £3 兆。\n        ④ 利率（Reuters、ING）：市場預期 BoE 11/5 升息到 4%，為三年多來首次；ING 估冬季通膨高點約 4%，並稱尚未看到第二輪效應，Capital Economics 估明年高點約 4.2%。\n        結論：燃料推升通膨，升息與緊縮預算都在旺季前。",
-    "public_impact": "英國國家統計局 10 月 21 日公布，9 月消費者物價年增 3.5%，高於 8 月的 3.1% 與市場預期的 3.4%；核心通膨 2.8%、服務 3.7%。主因是車用燃料年增 29.8%，汽油每公升 169.5 便士、柴油 192.5 便士，都是 2022 年中以來最高。同日公布 9 月公共借款 245 億英鎊，高於預期。市場預期英格蘭銀行 11 月 5 日升息到 4%，10 月 28 日預算案也可能偏緊。英國站第四季非必需品需求偏保守，境內配送成本隨柴油價格上升。",
-    "public_action": "① 英國站第四季銷售預估以非必需品持平或小幅下修為基準；② 自行出貨的賣家檢查運費設定，柴油高價下避免壓低運費；③ 留意 10 月 28 日預算案與 11 月 5 日英格蘭銀行利率決議；④ 以英鎊收款的賣家留意升息對匯率的影響，分批換匯。",
-    "sources": [
-      {
-        "name": "ONS：Consumer price inflation, UK: September 2026（10/21）",
-        "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
-      },
-      {
-        "name": "Reuters（Investing.com 轉載）：UK inflation and borrowing climb before Healey's first budget（10/21）",
-        "url": "https://www.investing.com/news/economy-news/uk-inflation-picks-up-more-than-expected-to-35-in-september-4961639"
-      },
-      {
-        "name": "Investing.com：Analysts expect BoE hike as UK September inflation rises on fuel prices（10/21）",
-        "url": "https://www.investing.com/news/economy-news/uk-inflation-hits-35-in-september-on-fuel-costs-boe-hike-seen-in-november-4962322"
-      },
-      {
-        "name": "ING THINK：UK inflation is up, but there's still no sign of second-round effects（10/21）",
-        "url": "https://think.ing.com/snaps/uk-inflation-is-up-but-theres-still-no-sign-of-second-round-effects/"
       }
     ],
     "color": "#0891b2"

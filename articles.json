@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/23】Amazon.de 自配訂單交期改由系統計算：2027/4/1 起取消手動運輸時間，賣家回報頁面顯示最長 10 天",
+    "summary": "自配賣家的交期主導權，正從賣家轉到 Amazon：\n        ① 規則（wortfilter，11/23）：Amazon 8 月底起通知自配（FBM）賣家，把運費模板改為「配送設定自動化」（SSA），由系統依最近倉庫、物流商數據與已知延誤計算運輸時間，稱平均準 30%。2027/4/1 前可逐一模板開關，之後標準配送全面自動、不再有手動運輸時間。\n        ② 賣家回報（Amazon 德國賣家論壇）：時尚賣家 11/20 出貨、11/23 送達，頁面卻顯示 11/27，部分商品顯示 10 天，訂單明顯減少。Amazon 版主回覆，交期可能因物流商延誤調整，也「可能正常運作」。\n        ③ 準時率（wortfilter）：自配準時率門檻 90% 改按件數計，一筆 14 件訂單晚一天，準時率掉到 62%；自動處理時間、SSA、Buy Shipping 三者都開，延誤才不計入。\n        結論：聖誕檔期前，自配賣家頁面交期可能比實際慢，直接影響轉換。",
+    "public_impact": "德國賣家媒體 wortfilter 11/23 報導，Amazon 自 8 月底起通知自行配送的賣家，把運費模板改為「配送設定自動化」，由系統依倉庫位置、物流商數據與延誤狀況計算運輸時間；2027 年 4 月 1 日前賣家可逐一模板開關，之後標準配送將全面改為自動、不再提供手動運輸時間。多位賣家在 Amazon 德國賣家論壇回報，頁面顯示的交期比實際送達慢數天、最長達 10 天，訂單因此減少；Amazon 版主回覆交期可能因物流商延誤而調整。另據報導，自行配送的準時率門檻 90% 改以件數計算，一筆多件訂單延誤就可能讓準時率大幅下滑。聖誕檔期前，自行配送賣家頁面交期偏長會直接影響轉換。",
+    "public_action": "① 11 月底前逐一檢查德國站運費模板，確認自動化設定、出貨地址與物流商資料正確，海外倉出貨者尤其要留意；② 用訂單報告比對頁面交期與實際送達日，差距明顯的商品附訂單資料向平台反映；③ 需要處理時間的客製化商品，另建只含標準配送的模板；④ 單量大的商品評估在 12 月前改用平台倉儲配送；⑤ 留意 12 月中旬頁面是否提早顯示「聖誕前無法送達」。",
+    "sources": [
+      {
+        "name": "wortfilter：Amazon Lieferzeiten: 10 Tage im Angebot, Ware nach 3 Tagen da（11/23，德文）",
+        "url": "https://wortfilter.de/amazon-lieferzeiten-ssa/"
+      },
+      {
+        "name": "Amazon 德國賣家論壇：Lieferzeit in Angebotsanzeige wird länger als angegebenes Lieferdatum angegeben（含 Amazon 版主回覆，德文）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/81c54ce4-bf64-4801-9468-89f1bf3997e1"
+      },
+      {
+        "name": "Amazon 德國賣家論壇：FBM Bearbeitungszeit（德文）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/aa20ccf0-0518-4ed7-b67b-d4b5b6b7e07b"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/20】英歐峰會簽三項協議：取消食品出口健康證書、碳市場連結豁免 CBAM，英方估每年 £170 億",
+    "summary": "進展：11/17 報的峰會議程正式落地，脫歐十年後第一份實質「重設」：\n        ① 食品檢疫 SPS（英國政府，11/20）：英歐間食品、農產與植物的查驗及多數文件取消，每張最高 £200 的出口健康證書廢除，英方估 2040 年前每年最多貢獻 £51 億。\n        ② 碳市場連結：兩邊排放交易體系連結，英國 £65 億出口（含鋼、鋁）豁免歐盟碳邊境稅 CBAM。\n        ③ 青年交流：18–31 歲可在對方境內生活、工作、就學最多 3 年，有名額上限（ING 稱最多 10 萬人）。三項合計英方估 2040 年前 GDP 最多 +0.5%，約每年 £170 億。\n        ④ 反應：英國零售協會 BRC 稱食品協議是「大勝」，但要求至少 18 個月過渡期；ING 認為市場已預期，英鎊不會因此走強。\n        結論：受惠最直接的是食品與鋼鋁業；公布內容未涉及一般消費品的海關或 VAT。",
+    "public_impact": "英國與歐盟 11/20 在布魯塞爾峰會簽署三項協議：一是食品與植物檢疫協議，取消多數查驗與文件，每張最高 200 英鎊的出口健康證書廢除；二是連結雙方碳排放交易體系，英國約 65 億英鎊的鋼鋁等出口豁免歐盟碳邊境稅；三是青年交流計畫，18 至 31 歲可在對方境內生活與工作最多 3 年。英國政府估三項協議到 2040 年可讓 GDP 最多增加 0.5%，約每年 170 億英鎊。英國零售協會稱食品協議是重大利多，但要求至少 18 個月過渡期。公布的協議範圍不含一般消費品的海關申報、增值稅或產品法規互認，英歐雙站賣家的現行流程暫無變化。",
+    "public_action": "① 英歐雙站賣家維持現行的兩地增值稅、庫存與標示安排，不因本次協議提前調整；② 食品、寵物食品與植物類賣家，關注檢疫協議的實施時程與過渡期，再評估英歐互相出貨；③ 含鋼鋁的工具、五金類商品從英國出口歐盟者，留意碳邊境稅豁免細則；④ 關注協議法律文本與後續國會程序。",
+    "sources": [
+      {
+        "name": "英國政府：Prime Minister secures deal with EU ... worth up to £17 billion per year（11/20）",
+        "url": "https://www.gov.uk/government/news/costs-cut-prime-minister-secures-deal-with-eu-to-cut-costs-keep-prices-down-and-create-opportunities-for-young-people-worth-up-to-17-billion-per-year"
+      },
+      {
+        "name": "英國政府：PM speech at UK-EU Summit（11/20）",
+        "url": "https://www.gov.uk/government/speeches/pm-speech-at-uk-eu-summit-20-november-2026"
+      },
+      {
+        "name": "Euronews：EU and UK strike post-Brexit reset deal（11/20）",
+        "url": "https://www.euronews.com/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland"
+      },
+      {
+        "name": "BRC：BRC responds to UK-EU deal on SPS（11/20）",
+        "url": "https://www.brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/brc-responds-to-uk-eu-deal-on-sps/"
+      },
+      {
+        "name": "ING THINK：FX Daily（11/20）",
+        "url": "https://think.ing.com/articles/fx-daily-will-closer-eu-ties-help-the-pound/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/20 ONS】英國 10 月零售量月增 0.7%、優於預期：網購金額年增 9.7%，政府緊急準備宣導帶動囤貨",
+    "summary": "英國黃金季開局比預期好，錢持續流向線上：\n        ① 總量（ONS，11/20）：10 月零售量 +0.7% 月增，9 月下修為 −0.6%；年增 2.3%，近三個月 +0.4%。\n        ② 原因（ONS）：政府 10/22 推出「Be Ready」緊急準備宣導後，超市罐頭、保久乳等長效食品買氣上升；非食品店 +1.1%，天氣轉涼帶動服飾，運動用品、遊戲與玩具店也上升。\n        ③ 線上（ONS）：網購金額月增 1.5%、年增 9.7%，占零售 29.2%（9 月 29.1%）。\n        ④ 業界（Retail Gazette）：數據優於經濟學家預期。Deloitte 稱黃金季開局「令人安心」；PwC 說暴風雨與期中假期客流弱，把消費推向線上；Alvarez & Marsal 警告 Black Friday 要在折扣與毛利間取捨。\n        結論：英國站旺季需求不弱，但比的是折扣下的毛利。",
+    "public_impact": "英國國家統計局 11/20 公布，10 月零售量月增 0.7%，優於市場預期，9 月下修為減少 0.6%；年增 2.3%。英國政府 10/22 推出緊急準備宣導後，超市長效食品買氣上升；天氣轉涼帶動服飾，運動用品、遊戲與玩具店也成長。網購金額月增 1.5%、年增 9.7%，占零售 29.2%。業界分析指出黃金季開局不錯，但消費者等待折扣，Black Friday 期間賣家要在折扣與毛利間取捨。對英國站賣家而言，線上需求成長明顯高於整體零售，玩具與遊戲類的聖誕採購可能比往年更早開始。",
+    "public_action": "① 英國站玩具、遊戲、運動用品賣家在 Black Friday 前檢查主力商品庫存，避免旺季中段斷貨；② 促銷定價先算清扣除平台費用與廣告後的毛利，設定底價；③ 關注 12 月初英國零售協會 11 月數據與 12/18 英國 11 月零售數據。",
+    "sources": [
+      {
+        "name": "ONS：Retail sales, Great Britain: October 2026（11/20）",
+        "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026"
+      },
+      {
+        "name": "Retail Gazette：Retail sales bounce back as shoppers stock up on emergency supplies（11/20）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/retail-sales-bounce-back-as-shoppers-stock-up-on-emergency-supplies/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/20–11/23】伊朗宣稱控制荷莫茲、油價仍三週連跌：Brent 約 $92，Goldman 估 2027 年均 $88、柴油 $150",
+    "summary": "進展：11/11 報 Brent 跌回 $90–92 後，週末衝突升級，但市場更在意供給回升：\n        ① 衝突（Investing.com，11/21–11/22）：伊朗稱攻擊巴林美軍雷達，11/22 宣稱由德黑蘭控制荷莫茲海峽、船隻須與伊方協商通行；UKMTO 稱兩艘駛離海峽的油輪 11/21 在阿曼外海被不明物體擊中。川普稱若談判無果，傾向新年後恢復攻擊。\n        ② 價格（Reuters、Investing.com）：Brent 11/20 收 $92.57、週跌近 4%，連三週下跌，11 月累跌約 20%；11/23 早盤再跌 0.8% 到 $91.85。Reuters 稱經海峽的原油出貨已大致回到戰前水準，IEA 估 Q4 全球供給過剩約 200 萬桶／日。\n        ③ 預測（Investing.com 引述 Goldman）：2027 年 Brent 均價 $88、年底 $78；美國批發柴油 2027 年均 $150／桶，煉油產能成長慢，燃料價格「高檔更久」。\n        結論：原油在跌、柴油仍貴，運費下修空間有限。",
+    "public_impact": "伊朗週末宣稱控制荷莫茲海峽、要求船隻須與伊方協商通行，並稱攻擊巴林美軍設施；英國海事貿易組織通報兩艘油輪 11/21 在阿曼外海遭擊中。但油價仍下跌：布蘭特原油 11/20 收在每桶 92.57 美元，連續三週下跌、11 月累跌約 20%，11/23 早盤再跌到 91.85 美元。路透報導經海峽的原油出貨已大致恢復，國際能源總署估第四季全球供給過剩約每日 200 萬桶。高盛預估 2027 年布蘭特均價 88 美元，但柴油因煉油產能成長慢將維持高檔。對賣家而言，原油下跌不等於物流成本下降，卡車與末端配送仍受柴油價格支撐。",
+    "public_action": "① 編列 2027 年歐洲物流預算時，末端與卡車運費以持平或小幅上升估算，不因原油下跌下修；② 第一季海運報價確認燃油附加費的計算基準，原油下跌時依公式要求調降；③ 關注 11/29 OPEC+ 會議、美伊談判進展與 1 月後是否恢復軍事行動。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday（11/20）",
+        "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns-5040518"
+      },
+      {
+        "name": "Investing.com：Iran asserts control over Hormuz as strikes on Bahrain, Saudi Arabia escalate（11/22）",
+        "url": "https://www.investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802"
+      },
+      {
+        "name": "Investing.com：Iran claims strikes on U.S. radars in Bahrain; Saudi downs missile（11/21）",
+        "url": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277"
+      },
+      {
+        "name": "Investing.com：Oil falls as robust Gulf exports offset Iran escalation, supply glut risks（11/23）",
+        "url": "https://www.investing.com/news/commodities-news/oil-falls-as-robust-gulf-exports-offset-iran-escalation-supply-glut-risks-5044220"
+      },
+      {
+        "name": "Investing.com：Goldman is out with its 2027 forecast for Brent oil prices（11/21）",
+        "url": "https://www.investing.com/news/commodities-news/goldman-is-out-with-its-2027-forecast-for-brent-oil-prices-5043425"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/22】西班牙大選前一週四份民調：PP 皆領先、PP＋Vox 估 190–210 席過半，投票日在黑五週",
+    "summary": "西班牙政權可能右轉，選後組閣與 2027 預算是觀察點：\n        ① 四份民調（Euronews，11/22）：Ipsos、Data10、GAD3、Hamalgama Métrica 都顯示人民黨（PP）第一，PP 與極右 Vox 合計 190–210 席，超過 176 席過半門檻；執政 PSOE 98–119 席。PP 與 PSOE 差距 0.5–6.4 個百分點，各家落差大。\n        ② Ipsos（La Vanguardia，11/22）：PP 30.3%、127 席，PSOE 29.8%、119 席，Vox 17.9%、63 席；11/13–11/20 訪問 1,999 人，56% 支持換政府，多數希望新政府優先處理住房。\n        ③ 辯論（Euronews，11/20）：Feijóo 攻擊貪腐與住房，稱「有工作也不保證過得下去」；Sánchez 以經濟成長與就業辯護。\n        結論：投票日 11/29 是週日，緊接 11/30 Cyber Monday；政策影響要到 2027 年才看得出來。",
+    "public_impact": "西班牙 11/29 提前大選前一週，Ipsos、Data10、GAD3、Hamalgama Métrica 四份民調都顯示人民黨領先，人民黨與極右 Vox 合計估 190 至 210 席，超過 176 席過半門檻；執政的社會勞工黨估 98 至 119 席，兩大黨差距在各家民調中落差很大。Ipsos 調查顯示 56% 受訪者支持換政府，多數希望新政府優先處理住房問題。投票日是週日，緊接 Cyber Monday，對黑五檔期的消費影響有限；選後組閣與 2027 年預算、住房與勞動政策方向，才是影響明年西班牙消費的觀察點。",
+    "public_action": "① 西班牙站黑五檔期的促銷與廣告按原計畫執行；② 選後關注組閣進度與 2027 年預算案，再評估明年西班牙站的備貨與定價；③ 留意住房與勞動相關政策對消費者可支配所得的影響。",
+    "sources": [
+      {
+        "name": "Euronews：Polls put Spain's PP ahead of PSOE a week before 29 November election（11/22）",
+        "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election"
+      },
+      {
+        "name": "La Vanguardia：La derecha suma mayoría absoluta mientras el PSOE se acerca al PP（11/22，西文）",
+        "url": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html"
+      },
+      {
+        "name": "Euronews：Spanish PM Sánchez defends his government（11/20）",
+        "url": "https://www.euronews.com/2026/11/20/spanish-pm-sanchez-defends-his-government-as-one-of-the-cleanest-in-the-history-of-democra"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-20",
     "type": "daily",
     "tags": [
