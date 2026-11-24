@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-11-24",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/23】Google Merchant Center 新增：sale 價期間不應超過 30 天，11/1 起跑的聖誕檔期達 54 天",
+    "summary": "Black Friday 前 4 天，Google 悄悄加了一條 sale 價期限：\n        ① 新規定（Google 說明頁）：「About sale price annotations」英文版在 Requirements 下新增一句，sale 價（sale_price）期間「不應超過 30 天」，才會被認定為暫時降價。適用免費商品資訊、購物廣告與在地庫存廣告。\n        ② 語氣與範圍（wortfilter，11/23）：用的是「should」不是「must」，沒寫第 31 天會怎樣，也沒標修改日期；德文版說明頁（wortfilter 11/22 查閱）沒有這句。\n        ③ 不變的硬規則：折扣須大於 5%、小於 90%；原價須在過去 200 天中有 30 天有效。\n        ④ 檔期換算（wortfilter）：11/1 到 12/24 是 54 天，超過建議 24 天；從 Black Friday（11/27）開始則是 28 天。\n        結論：長檔期折扣在 Google 上可能拿不到「特價」標示，影響站外導流的點擊率。",
+    "public_impact": "Google Merchant Center「About sale price annotations」英文說明頁新增一句：sale 價期間不應超過 30 天，才會被認定為暫時降價，適用免費商品資訊、購物廣告與在地庫存廣告。德國賣家媒體 wortfilter 11/23 指出，這句用的是「should」，沒有說明第 31 天會如何處理，也沒有標示修改日期，德文版說明頁尚未出現。原有規則不變：折扣須大於 5%、小於 90%，原價須在過去 200 天中有 30 天有效。以聖誕檔期為例，11/1 到 12/24 共 54 天，從 Black Friday（11/27）開始則是 28 天。長檔期折扣可能拿不到劃線價與 Sale 標章，影響站外廣告點擊率。這條規則只適用 Google 渠道，與各電商平台站內促銷規則不同。",
+    "public_action": "① 檢查商品 feed 是否為 sale 價設定起訖日期（sale_price_effective_date），未設定則 sale 價立即生效且沒有結束日；② 11 月初就開跑的檔期，考慮從 Black Friday 起重新計算，或拆成兩段並讓原價單獨生效幾天；③ 確認原價在過去 200 天中至少有 30 天有效、折扣在 5%–90% 之間；④ 12 月起留意 Merchant Center 商品狀態與 Sale 標章是否消失。",
+    "sources": [
+      {
+        "name": "Google Merchant Center Help：About sale price annotations（英文版，含 30 天新句）",
+        "url": "https://support.google.com/merchants/answer/9017019?hl=en"
+      },
+      {
+        "name": "wortfilter：Sale-Preis im Merchant Center: Google will höchstens 30 Tage（11/23，德文）",
+        "url": "https://wortfilter.de/sale-preis-merchant-center-30-tage/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "tags": [
+      "物流"
+    ],
+    "title": "【11/20–11/23】德國郵政 2027 新格式：Maxibrief 限高 5cm→3cm、€2.90→€5.00，eBay 要求賣家年底前改運費設定",
+    "summary": "進展：11/16 本報已報 DHL 櫃台寄件漲價，本期新增 eBay 正式通知賣家與信件格式細節：\n        ① eBay 通知（eBay.de 社群公告 11/20；OHN 11/23）：要賣家在 2027/1/1 前檢查四件事：運送選項是否還存在、重量尺寸、運費、國際信件與包裹變動。\n        ② 國內信件（Deutsche Post 官方頁）：Maxibrief 可到 2kg，但高度從 5cm 降到 3cm，價格 €2.90→€5.00；Großbrief 高度 2→3cm、重量到 1kg，€1.80→€2.35；標準信 €0.95→€1.15。超過 3cm 會退回寄件人或由收件人補郵資。\n        ③ 3–5cm 商品：可改用 Warensendung（仍 5cm，€2.70→€3.10，標準 4 個工作天），或改寄 Päckchen（限 1kg，新增追蹤與 €20 賠償）。\n        ④ 國際信件：Maxibrief International 取消，新增 Midibrief（€3.80，500g）；Großbrief International €3.30→€6.80。OHN 指出國內信件仍可寄商品，國際信件依萬國郵政規定本來就不能寄商品。\n        結論：德國小件自配的最低成本選項一月起消失。",
+    "public_impact": "eBay 德國站 11/20 通知賣家，Deutsche Post／DHL 自 2027 年 1 月 1 日起調整多項寄件產品，要求賣家事先檢查運送選項、重量尺寸、運費與國際寄件設定。依 Deutsche Post 官方頁面，國內 Maxibrief 重量上限提高到 2kg，但高度從 5cm 降到 3cm，價格由 €2.90 調到 €5.00；Großbrief 高度放寬到 3cm、重量 1kg，價格 €1.80 調到 €2.35；超過 3cm 的信件會被退回或由收件人補郵資。3 到 5cm 的商品可改用 Warensendung（€3.10，標準 4 個工作天）或 Päckchen（限 1kg，含追蹤）。國際寄件方面，Maxibrief International 取消，新增 Midibrief International。在德國以信件寄送小件商品的賣家，一月起物流成本或交期都會上升。",
+    "public_action": "① 盤點厚度 3 到 5cm、重量 2kg 以下、目前用信件寄送的商品；② 年底前決定改用 Warensendung、Päckchen 或包裹，並同步更新各平台的運費與處理時間；③ 以新價格重算每單毛利，評估是否改用平台倉儲配送；④ 留意 Deutsche Post 是否在 1 月 1 日前發布新版國內信件條款，以及 2028 年的包裹調價。",
+    "sources": [
+      {
+        "name": "Deutsche Post：Porto 2027: Neue Preise & Formate für Briefe und Pakete（官方價目與格式表，德文）",
+        "url": "https://www.deutschepost.de/de/a/aenderungen2027.html"
+      },
+      {
+        "name": "eBay.de Community：DHL und Deutsche Post: Änderungen bei Versandprodukten und Preisen ab 1. Januar 2027（11/20，德文）",
+        "url": "https://community.ebay.de/forum/ebay-news-44/topic/dhl-und-deutsche-post-%C3%A4nderungen-bei-versandprodukten-und-preisen-ab-1-januar-2027-15325/"
+      },
+      {
+        "name": "OnlinehändlerNews：Neue DHL-Konditionen: Ebay fordert Händler zur Anpassung der Angebote auf（11/23，德文）",
+        "url": "https://ohn.haendlerbund.de/themen/marktplaetze/neue-dhl-konditionen-ebay-haendler-anpassung-angebote"
+      },
+      {
+        "name": "OnlinehändlerNews：Warenversand im Brief verboten?（11/23，德文）",
+        "url": "https://ohn.haendlerbund.de/recht/rechtsfragen/warenversand-brief-verboten"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/23 PMI】歐元區 11 月綜合 PMI 持平 51.7：德國 55.0 創 2022 年 3 月來新高，法國 46.2 低於預期",
+    "summary": "歐元區整體穩住，但德法差距是六年來最大：\n        ① 歐元區（Reuters，11/23）：S&P Global 綜合 PMI 初值 51.7，與 10 月持平、略低於預期 51.9，連五個月擴張。服務業 51.2 是五個月低點，製造業升到 52.9。S&P 經濟學家 Williamson 估第四季成長約 0.3%。\n        ② 德國（Investing.com）：綜合 PMI 由 53.4 升到 55.0，2022 年 3 月以來最高；製造業產出 57.4 是 63 個月高點，服務業 54.0 是 13 個月高點。\n        ③ 法國（Trading Economics）：綜合 PMI 由 46.6 降到 46.2，預期 48.1，是 5 月以來最快萎縮；國內需求疲弱，企業對明年的看法是 2012 年以來最悲觀（疫情月份除外）。\n        ④ 價格與信心：投入成本漲幅降到三個月低點，售價漲幅是 8 月以來最慢；企業對未來一年信心降到 5 月以來最低。\n        結論：ING 認為歐元區今年不會衰退，法國是唯一例外。",
+    "public_impact": "S&P Global 11/23 公布，歐元區 11 月綜合 PMI 初值 51.7，與上月持平、略低於預期 51.9，連續第五個月擴張，S&P 估第四季成長約 0.3%。德國綜合 PMI 由 53.4 升到 55.0，是 2022 年 3 月以來最高，服務業需求是一年多來最強；法國則由 46.6 降到 46.2，低於預期 48.1，國內需求疲弱，企業對明年看法是 2012 年以來最悲觀（疫情月份除外）。投入成本與售價漲幅都降到近幾個月低點。對賣家而言，德國旺季消費條件較好，法國需求偏弱；價格壓力趨緩，但成本仍在高檔。",
+    "public_action": "① 多國銷售的賣家，12 月廣告與促銷預算可向德國傾斜，再依實際轉換每週調整；② 法國庫存以 4 到 6 週銷量為上限，避免旺季後滯銷；③ 價格壓力趨緩，不必急著漲價，但促銷深度要守住毛利；④ 留意 11/24 德國 Ifo、11/27 法國 11 月 CPI 初值與 12/17 ECB 會議。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Euro zone growth holds steady but France's deepening downturn clouds outlook（11/23）",
+        "url": "https://www.investing.com/news/economic-indicators/euro-zone-growth-holds-steady-but-frances-deepening-downturn-clouds-outlook-pmi-shows-5044744"
+      },
+      {
+        "name": "Investing.com：Germany's composite PMI reaches 56-month high in November（11/23）",
+        "url": "https://www.investing.com/news/economic-indicators/germanys-composite-pmi-reaches-56month-high-in-november-93CH-5044674"
+      },
+      {
+        "name": "Trading Economics：France Composite PMI（11 月初值）",
+        "url": "https://tradingeconomics.com/france/composite-pmi"
+      },
+      {
+        "name": "ING THINK：Eurozone growth maintains its pace as France weakens further（11/23）",
+        "url": "https://think.ing.com/snaps/eurozone-growth-maintains-pace-while-france-weakens-further/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/23 ECDB】歐洲線上市集排名：Amazon GMV $2,661 億居首、高於後四名總和，Temu 成長 35.5% 升到第 4",
+    "summary": "德國數據商 ECDB 估算 2026 年歐洲（含俄羅斯）線上市集 GMV：\n        ① 前三名（ECDB）：Amazon $2,661 億，約是第二名 Wildberries（$869 億）的三倍，也高於第 2–5 名合計 $2,411 億；第三名 Ozon $563 億。\n        ② 中國平台：Temu $539 億 排第 4，成長 35.5% 為前十最快；AliExpress $439 億第 5。Shein 歐洲營收大減，跌出前十（Ecommerce News）。\n        ③ 老牌掉隊：eBay $346 億第 6，成長僅 2.9%，2023 年還是第 2。Amazon 成長 10.6%。\n        ④ 歐洲本土：Allegro 第 7、Zalando 第 8，Vinted 首次進榜，後段四家 GMV 在 $147–198 億之間。\n        結論：Amazon 領先地位穩固，第二梯隊由俄羅斯與中國平台主導，成長最快的是低價跨境平台。",
+    "public_impact": "德國電商數據商 ECDB 估算 2026 年歐洲（含俄羅斯）線上市集 GMV，Amazon 以 2,661 億美元居首，約為第二名 Wildberries（869 億美元）的三倍，也高於第二到第五名合計。Temu 以 539 億美元排第四，成長 35.5% 為前十名最快；AliExpress 第五；eBay 排第六，成長僅 2.9%。Allegro、Zalando 分居第七、第八，Vinted 首次進入前十，Shein 則因歐洲營收大減跌出前十。數字為 ECDB 依交易、流量與財報資料的估算值，以美元計。對賣家而言，歐洲市集集中度高，低價跨境平台仍在快速成長，價格競爭不會因關稅措施立即消失。",
+    "public_action": "① 評估歐洲通路時，以各平台規模與成長率排序投入優先順序，並注意排名含俄羅斯市場；② 與低價跨境平台重疊度高的品類，以品牌、品質、配送時效與評價做差異化，不要只拚價格；③ 只在單一平台經營歐洲的賣家，可評估分散到第二個通路；④ 留意低價平台下半年受歐盟關稅與處理費影響後的實際表現。",
+    "sources": [
+      {
+        "name": "ECDB：Top Online Marketplaces in Europe: GMV, Revenue & Market Share（研究原文）",
+        "url": "https://ecdb.com/blog/top-5-biggest-online-marketplaces-in-europe/3044"
+      },
+      {
+        "name": "Ecommerce News Europe：Allegro and Zalando climb European top 10（11/23）",
+        "url": "https://ecommercenews.eu/allegro-and-zalando-climb-european-top-10/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/20–11/23】海牙法院禁止 BYD Ti7 在歐盟販售：認定抄襲 Land Rover Defender 歐盟設計，禁令及於 27 國",
+    "summary": "一個國家法院的設計權禁令，就能讓商品在整個歐盟下架：\n        ① 判決（Reuters，11/20）：海牙地方法院在假處分程序中認定，BYD 七人座 SUV Ti7 侵害 Jaguar Land Rover（JLR）Defender 的歐盟設計權，禁止在歐盟販售；禁令於判決一週後生效。\n        ② 範圍（electrive，11/23）：禁止進口、製造、販售、倉儲與交貨，對象包括 10 家 BYD 歐洲子公司，含匈牙利 Szeged 新廠。Euronews 指出，商品跨歐盟銷售時，一國法院的智財判決可適用全歐盟。\n        ③ 英國不在內：法院對 BYD 英國子公司沒有管轄權，也駁回 JLR 依英國設計權的主張，Ti7 仍預計 2027 年 1 月在英國交車。\n        ④ 後續：BYD 表示將上訴；JLR 須在 6 個月內提起本案訴訟，否則 BYD 可依荷蘭法主張禁令失效。BYD 港股 11/23 收跌 1.9%。\n        結論：歐盟設計權的跨國效力，對做「相似款」的賣家是實質風險。",
+    "public_impact": "荷蘭海牙地方法院 11/20 在假處分程序中認定，BYD 的 Ti7 SUV 侵害 Jaguar Land Rover Defender 的歐盟設計權，禁止 BYD 在歐盟進口、製造、販售、倉儲與交貨 Ti7，對象涵蓋 10 家 BYD 歐洲子公司與匈牙利新廠。商品跨歐盟銷售時，單一國家法院的智財判決可適用全歐盟。判決不及於英國，Ti7 仍預計 2027 年 1 月在英國交車。BYD 表示將上訴，JLR 須在 6 個月內提起本案訴訟。對跨境賣家而言，外觀與知名品牌高度相似的商品，可能因單一國家的禁令在整個歐盟下架；英國與歐盟的設計權需分開評估。",
+    "public_action": "① 新品外觀若接近知名品牌，進入歐盟市場前先查詢 EUIPO 設計資料庫；② 自有原創設計可申請歐盟註冊設計，一次涵蓋 27 國，英國需另外申請；③ 外觀爭議風險較高的商品，避免庫存集中在單一倉庫；④ 留意 BYD 上訴結果與本案訴訟進度。",
+    "sources": [
+      {
+        "name": "Reuters（Investing.com 轉載）：Dutch court bars Chinese SUV in Europe over resemblance to Land Rover Defender（11/20）",
+        "url": "https://www.investing.com/news/stock-market-news/dutch-court-bars-chinese-suv-in-europe-over-resemblance-to-land-rover-defender-5042739"
+      },
+      {
+        "name": "Euronews：Dutch court bans BYD model from EU over likeness to Land Rover's Defender（11/23）",
+        "url": "https://www.euronews.com/2026/11/23/dutch-court-bans-byd-model-from-eu-over-likeness-to-land-rovers-defender"
+      },
+      {
+        "name": "electrive：Court deems BYD Ti7 too similar to JLR Defender（11/23）",
+        "url": "https://www.electrive.com/2026/11/23/court-deems-byd-ti7-too-similar-to-jlr-defender/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-23",
     "type": "daily",
     "tags": [
