@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-11-25",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/24 執委會】Mind the Gap 2026：歐盟 VAT 合規缺口約 €1,250 億、占應繳 9.5%，點名數位申報與預填申報表",
+    "summary": "執委會 11/24 發布年度稅收缺口報告，VAT 是最大的一塊：\n        ① 缺口規模（執委會）：歐盟每年稅收合規缺口逾 €2,000 億；其中 VAT 在 2023 年約 €1,250 億，占應繳 VAT 的 9.5%，各國差異很大；公司稅缺口近 €500 億。\n        ② 工具（VAT 管理報告）：數位申報、線上收銀機、預填 VAT 申報表等，用來提高交易可追溯性、減少錯誤；並推動「compliance by design」，把稅務合規直接嵌進企業交易流程。\n        ③ 跨境：打擊跨境 VAT 詐欺要靠各國更緊密合作、更高品質的資料與更整合的交易監控；欠稅追討也要加強跨境互助。\n        ④ 解讀（VATupdate，11/24）：方向是更數位、資料驅動、接近即時的 VAT 查核，企業發票、主檔與交易資料的一致性會被放大檢視。\n        結論：不是新稅，但查核會更依賴資料比對。",
+    "public_impact": "歐盟執委會 11/24 發布 2026 年版 Mind the Gap 報告，估計歐盟每年稅收合規缺口逾 2,000 億歐元，其中 VAT 在 2023 年約 1,250 億歐元，占應繳 VAT 的 9.5%，各國差異很大。報告把數位申報、線上收銀機、預填 VAT 申報表列為提高交易可追溯性的工具，並推動把稅務合規嵌入企業交易流程；打擊跨境 VAT 詐欺則要靠各國更緊密合作、更高品質的資料與交易監控，欠稅追討也要加強跨境互助。這不是新稅，但對賣家而言，平台銷售資料、OSS 申報與各國本地申報之間的一致性會被更嚴格比對。",
+    "public_action": "① 有多國倉庫存的賣家，確認每個庫存所在國都已註冊 VAT；② 每季把平台 VAT 報表與稅務代理的實際申報數對帳一次，差異先釐清原因；③ 檢查發票、商品主檔與交易資料是否一致；④ 留意執委會後續公布的各國國別數據與 ViDA 各階段實施時程。",
+    "sources": [
+      {
+        "name": "European Commission DG TAXUD：Publication of the Mind the Gap Communication（11/24）",
+        "url": "https://taxation-customs.ec.europa.eu/news/publication-mind-gap-communication-2026-11-24_en"
+      },
+      {
+        "name": "VATupdate：EU VAT Gap Reached Approximately €125 Billion as Commission Calls for Faster Digitalisation（11/24）",
+        "url": "https://www.vatupdate.com/2026/11/24/eu-vat-gap-reached-approximately-e125-billion-as-commission-calls-for-faster-digitalisation/"
+      },
+      {
+        "name": "European Commission：Mind the Gap Report 專頁（含 ViDA 說明）",
+        "url": "https://taxation-customs.ec.europa.eu/taxation/vat/fight-against-vat-fraud/mind-gap-report_en"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/17–11/23】英國 Black Friday 折扣受檢：ASA 再用 AI 監測降價廣告，比價站稱 2,300 件「特價」先前更便宜",
+    "summary": "Black Friday 前三天，英國廣告監管機關先把標準講清楚：\n        ① ASA 表態（ASA 定價專案小組，Retail Gazette 專文 11/17）：今年 Black Friday 前後會再用 AI「Active Ad Monitoring」系統抓取含降價、省多少的線上廣告；被調查時，廣告主須提出價格歷史，證明參考價真實、折扣是真的。\n        ② 去年前例（ASA 裁決）：John Lewis、Debenhams、Boots 的 Black Friday 廣告被禁。John Lewis 一則 ASUS 筆電「省 £450」廣告，降價前以 £1,099 賣了 47 天，但 3 月到 11 月售價在 £749.99–£1,099.99 間變動，仍被認定違反 CAP Code 誤導、舉證與價格條款。\n        ③ 比價數據（Vouchernaut，Retail Gazette 11/23）：追蹤 98 家英國零售商、33.8 萬件商品，11 月以來降價 ≥5% 且 ≥£1 的有 55,007 件，其中 2,300 件（4.2%）在促銷前 24 天曾賣得更便宜。\n        結論：英國看的是「平常賣多少」，不是「曾經標過多少」。",
+    "public_impact": "英國廣告標準局（ASA）定價專案小組表示，今年 Black Friday 前後會再用 AI 監測系統抓取含降價與節省金額的線上廣告，被調查的廣告主須提出價格歷史，證明參考價真實、折扣確實存在。去年 John Lewis、Debenhams、Boots 的 Black Friday 廣告因無法證明節省金額而被禁；其中一則筆電廣告的原價已維持 47 天，但因前幾個月售價波動大，仍被認定違規。比價平台 Vouchernaut 追蹤 98 家英國零售商後發現，11 月以來降價的 55,007 件商品中，有 2,300 件在促銷前 24 天曾賣得更便宜。對在英國投放社群或展示廣告的賣家而言，折扣說法要能用實際售價紀錄支撐。",
+    "public_action": "① 檢查英國站外廣告素材，凡標示節省金額或折扣百分比的，備妥參考價的銷售期間與成交紀錄；② Black Friday 前不要先調高售價再降價；③ 保留促銷期間的售價與訂單報表，以備舉證；④ 多國投放的素材分站檢查，德國等歐盟國家另有 30 天最低價標示規則。",
+    "sources": [
+      {
+        "name": "Retail Gazette（ASA 定價專案小組撰文）：The real deal: Black Friday back under the ASA's microscope（11/17）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/black-friday-asa/"
+      },
+      {
+        "name": "ASA Ruling on John Lewis plc（去年 Black Friday 廣告裁決）",
+        "url": "https://www.asa.org.uk/rulings/john-lewis-plc-a26-1326172-john-lewis-plc.html"
+      },
+      {
+        "name": "Retail Gazette：Black Friday price check finds 2,300 deals were cheaper before the sales（11/23）",
+        "url": "https://www.retailgazette.co.uk/blog/2026/11/black-friday-price-check-finds-2300-deals-were-cheaper-before-the-sales/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/24 公報】歐盟混合車進口配額 12/1 起實施 200 天：中國首年 35 萬輛、英國 19 萬輛，另立案調查玻纖複材",
+    "summary": "進展：10 月歐中混合車協議 11/24 在官方公報落地，配額擴及所有主要出口國：\n        ① 配額（歐盟官方公報；Guardian，11/24）：暫行防衛措施自 12/1 起實施 200 天，中國免關稅進口首年上限 35 萬輛（200 天約 19.1 萬輛）；日本 31 萬、土耳其 23 萬、南韓 10.5 萬、英國 19 萬，墨西哥、摩洛哥、塞爾維亞、美國也適用。\n        ② 背景（官方公報數據）：中國電動車進口由 2020 年 2.1 萬輛增到 2024 年 43.8 萬輛；課稅後明顯轉向混合車，中國混合車全球出口由 2023 年 19.1 萬輛增到 2025 年 112.4 萬輛。\n        ③ 新調查（Euronews，11/23）：執委會另對複合樹脂與玻璃纖維進口啟動防衛調查，為期 9–11 個月，可能設配額或關稅，適用所有貿易夥伴；原因是中國生產移到第三國規避既有關稅。\n        ④ 英國：英國輸歐電動車 2027/1/1 起將被課 10% 關稅（脫歐協定原產地規則），英方仍在爭取。\n        結論：歐盟防衛措施改成對所有來源國一體適用，移到第三國生產的規避空間變小。",
+    "public_impact": "歐盟 11/24 在官方公報公布混合動力車進口暫行防衛措施，自 12 月 1 日起實施 200 天，中國免關稅進口首年上限 35 萬輛，日本、土耳其、南韓、英國等主要出口國也各有配額。公報數據顯示，中國電動車對歐出口在課稅後轉向混合車，中國混合車全球出口由 2023 年 19.1 萬輛增至 2025 年 112.4 萬輛。執委會 11/23 另對複合樹脂與玻璃纖維進口啟動防衛調查，為期 9 到 11 個月，可能設配額或關稅並適用所有貿易夥伴，原因是生產移往第三國規避既有關稅。對賣家而言，歐盟防衛措施正改為對所有來源國一體適用，並擴及上游材料，原產地文件的重要性提高。",
+    "public_action": "① 產品含玻璃纖維或複合樹脂、且原料自中國進歐盟加工的賣家，先評估調查結束後的成本情境；② 備妥原產地證明與零組件來源資料，因應海關查詢；③ 留意 12 月 1 日配額實施後的執行情況，以及歐中明年初會談是否擴大到其他品類。",
+    "sources": [
+      {
+        "name": "EUR-Lex：Commission Implementing Regulation (EU) 2026/2614（混合車暫行防衛措施，官方公報）",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202602614"
+      },
+      {
+        "name": "The Guardian：EU to impose cap on Chinese hybrid EV imports next month（11/24）",
+        "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk"
+      },
+      {
+        "name": "Euronews：EU targets Chinese imports in fresh trade defence investigation（11/23）",
+        "url": "https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/24】市集搶做跨平台後勤：eBay 徵才揭露要把物流與驗證賣給對手，OnBuy 與 Octopia 一次串接三個市集",
+    "summary": "兩則消息指向同一方向：平台開始賣後勤與通路串接，不只賣流量。\n        ① eBay（Value Added Resource 11/16、11/23 更新；wortfilter 11/24）：eBay 在班加羅爾、多倫多的徵才啟事寫明，eBay Shipping 要從市集功能變成「可重複使用的全球平台」，目標客戶含子公司、外部市集、物流平台與多通路賣家；驗證服務先從子公司 Depop 開始。eBay 未公布價格與時程，也未正式證實。\n        ② 現有基礎：合資的 Orange Connex 已向其他平台賣家提供 SpeedPAK，2026 年第一季在德國上線；eBay 稱至 2026 年 7 月已驗證逾 2,000 萬件商品。\n        ③ OnBuy × Octopia（OnBuy 新聞稿；Ecommerce News，11/24）：Cdiscount 旗下 Octopia 的合格賣家，可用單一串接進入 OnBuy、easyShop、Comet，觸及英法德義西荷比葡芬 9 國；經 Octopia 的 OnBuy 訂單 90% 為跨境。\n        結論：多通路賣家的後勤選項變多，與 Amazon MCF 正面競爭。",
+    "public_impact": "美國賣家媒體 Value Added Resource 與德國 wortfilter 報導，eBay 最新徵才啟事顯示，公司打算把物流（eBay Shipping）與商品驗證服務對外提供，目標客戶包括子公司、外部市集、物流平台與多通路賣家，驗證服務先從子公司 Depop 開始；eBay 尚未公布價格與時程，也未正式證實。同日，OnBuy 與 Cdiscount 旗下的 Octopia 宣布擴大合作，Octopia 網絡中的合格賣家可用單一串接進入 OnBuy、easyShop 與 Comet，觸及歐洲 9 國，透過此合作的訂單有九成是跨境。對多通路賣家而言，跨平台出貨與上架串接的選項正在增加。",
+    "public_action": "① 多通路經營的賣家，把各平台的跨通路出貨服務費用與自行配送成本並列比較；② 評估新通路時，限時免月費之外，也要比較實際流量、費率與退貨規則；③ eBay 對外物流服務仍待官方證實，先觀察價格與上線國家再做決定。",
+    "sources": [
+      {
+        "name": "Value Added Resource：eBay Looks To Monetize Shipping & Authentication Across Subsidiaries, Rival Marketplaces（11/16，11/23 更新）",
+        "url": "https://www.valueaddedresource.net/ebay-shipping-authentication-as-a-service/"
+      },
+      {
+        "name": "wortfilter：eBay Versand für Rivalen: Stellenanzeigen verraten den Plan（11/24，德文）",
+        "url": "https://wortfilter.de/ebay-versand-konkurrenz/"
+      },
+      {
+        "name": "Ecommerce News Europe：Onbuy and Octopia expand partnership（11/24）",
+        "url": "https://ecommercenews.eu/onbuy-and-octopia-expand-partnership/"
+      },
+      {
+        "name": "OnBuy 新聞稿：OnBuy and Octopia expand partnership to accelerate cross-border growth across Europe（11/24，PDF）",
+        "url": "https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/73165/assets/863805/-7db04f0587d3fe2497073ecbe1850727.pdf"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/24】德國 11 月 ifo 升到 90.6、連七個月上升；英國 CBI 零售銷量 25 個月來首度成長，但網購仍萎縮",
+    "summary": "旺季前德英兩大市場的景氣調查同步改善，但力道不寬：\n        ① 德國 ifo（ifo，11/24）：商業景氣指數由 10 月 90.1 升到 90.6，現況與預期都改善；ifo 稱復甦「缺乏廣度」。ING 指出這是連續第 7 個月上升、三年多來最高，估德國今年成長約 1.3%、明年 1–1.5%。\n        ② 英國 CBI（CBI，11/24）：零售銷量年比差值由 −10% 轉為 +9%，連 25 個月下滑後首度成長；但 12 月預期只有 +1%，與季節常態相比 −12%。\n        ③ 網購與價格（CBI）：網路零售銷量差值 −16%（10 月 −39%），12 月預期 −17%；售價漲幅差值 +23%，是 2024 年 5 月以來最慢。\n        結論：德國延續 11/24 本報 PMI 的強勢，英國零售止跌，但線上仍弱。",
+    "public_impact": "德國 ifo 研究所 11/24 公布，11 月商業景氣指數由 90.1 升到 90.6，企業對現況與未來預期都更樂觀，ifo 認為復甦仍缺乏廣度；ING 指出這是連續第七個月上升、三年多來最高，估德國今年成長約 1.3%。同日英國工業聯合會（CBI）調查顯示，零售銷量年比差值由 −10% 轉為 +9%，是連續 25 個月下滑後首度成長，但 12 月預期僅 +1%，且相對季節常態偏弱；網路零售差值為 −16%，售價漲幅是 2024 年 5 月以來最慢。對賣家而言，德國旺季需求較強，英國零售止跌但線上仍弱、漲價空間有限。CBI 數字為受訪業者回報的增減差值，不是銷售金額。",
+    "public_action": "① 多國銷售的賣家，12 月預算可續向德國傾斜，再依實際轉換每週調整；② 英國 12 月補貨以 11 月實際銷量為上限，避免旺季後滯銷；③ 英國零售漲價放緩，旺季不宜靠漲價補毛利；④ 留意 12/17 德國 ifo 與 12/18 英國 11 月官方零售數據。",
+    "sources": [
+      {
+        "name": "ifo Institute：ifo Business Climate Rises (November 2026)",
+        "url": "https://www.ifo.de/en/survey/ifo-business-climate-index-germany"
+      },
+      {
+        "name": "ING THINK：Unbreakable, German business confidence continues to improve（11/24）",
+        "url": "https://think.ing.com/snaps/german-ifo-nov26/"
+      },
+      {
+        "name": "CBI：Retail sales rise for the first time in over two years in the run-up to the festive period（11/24）",
+        "url": "https://www.cbi.org.uk/media-centre/articles/retail-sales-rise-for-the-first-time-in-over-two-years-in-the-run-up-to-the-festive-period-cbi-distributive-trades-survey/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-24",
     "type": "daily",
     "tags": [
