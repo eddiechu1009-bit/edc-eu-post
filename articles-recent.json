@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-11-26",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/24–11/25】Amazon 歐洲五站自配退貨新規：12/10 起預付標籤退貨遺失或被拒收，系統自動退款給買家",
+    "summary": "Amazon 在德國賣家論壇公告，自配（FBM）退貨流程 12/10 起改為自動退款：\n        ① 範圍（Amazon 賣家論壇公告）：使用 Amazon 預付退貨標籤（APRL）的自配訂單，英國、德國、法國、義大利、西班牙五站適用，2026/12/10 起生效。\n        ② 退貨途中遺失：Amazon 自動退款給買家；若退件由 Amazon 營運或委託的承運商運送，賣家可提出 SAFE-T 索賠，其他承運商則須自行向承運商求償，不在 Amazon 補償範圍。\n        ③ 賣家拒收退件：同樣自動退款給買家，賣家不需手動處理；Amazon 建議收下退件，因為收下才保有索賠資格，商品損壞、與描述不符或詐欺可在 60 天內提 SAFE-T。賣家也可對特定條件或 SKU 設定「免退貨退款」。\n        ④ 賣家反應（OnlinehändlerNews、sellerforum.de，11/24–11/25）：多數持保留態度，擔心有人在 Packstation 掃描空包裹標籤就被判「遺失」，且 SAFE-T 多半不利賣家；也有人認為退件途中遺失極少見。Amazon 未說明這類案件的發生頻率。\n        結論：退款決定權從賣家移到系統，拒收退件不再是有效的自保手段。",
+    "public_impact": "Amazon 宣布自 2026 年 12 月 10 日起，英國、德國、法國、義大利、西班牙站的自配訂單，若使用 Amazon 預付退貨標籤寄回的退件在途中遺失，或被賣家拒收，系統會自動退款給買家。退件若由 Amazon 營運或委託的承運商運送，賣家可提出 SAFE-T 索賠；其他承運商則須自行求償。拒收退件會失去索賠資格，收下後若發現損壞、與描述不符或詐欺，可在 60 天內提出索賠。從海外直送或使用第三方海外倉的賣家，退件常走非合作承運商，遺失成本會更直接落在賣家身上。生效日正值年底退貨高峰。",
+    "public_action": "① 確認自配訂單的退貨設定是否使用 Amazon 預付標籤，以及退件實際由哪家承運商運送；② 12 月 10 日起不要拒收預付標籤退件，收下後檢查並保留開箱紀錄，必要時 60 天內提出索賠；③ 低單價、退回運費偏高的商品，可評估設定免退貨退款；④ 生效後定期查看自配退貨報告中的自動退款筆數，異常偏高時檢討物流方式。",
+    "sources": [
+      {
+        "name": "Amazon Seller Forums（DE）：Automatisierte Rückerstattungen für verlorene oder abgelehnte Rücksendungen … starten am 10. Dezember",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/8f829e3d-093b-44a3-ae69-5ea9d23d6d55"
+      },
+      {
+        "name": "OnlinehändlerNews：Amazon verschärft Retourenprozess für FBM-Händler（11/25）",
+        "url": "https://ohn.haendlerbund.de/amazon/marktplatz/amazon-verschaerft-retourenprozess-fbm-haendler-automatische-erstattung"
+      },
+      {
+        "name": "sellerforum.de：賣家討論串（11/24–11/25）",
+        "url": "https://www.sellerforum.de/forum/thread/67301-aktualisierung-bez%C3%BCglich-verlorener-oder-abgelehnter-r%C3%BCcksendungen-am-10-dezembe/"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "tags": [
+      "貿易"
+    ],
+    "title": "【11/25 USTR】美國擬對 14 個經濟體加徵 301「產能過剩」關稅：歐盟、台灣、日韓最高 15%，越南 35%",
+    "summary": "8 個月的 301 調查結案，美國把關稅工具換成新的法源：\n        ① 認定（USTR，11/25）：中國、歐盟、台灣、日本、韓國、越南、印度等 14 個經濟體的產業政策造成結構性產能過剩、損害美國商業；墨西哥、挪威暫未認定。\n        ② 擬議稅率（USTR）：歐盟所有商品 15%、台灣、日本、韓國、瑞士最高 15%，皆扣除最惠國稅率與既有 301 關稅計算，並有豁免清單；中國最高 20%、越南 35%、印度 25%、新加坡 20%，其餘最高 18%。\n        ③ 時程：書面意見與聽證申請 2027/1/5 截止，1/25 起舉行聽證；USTR 未公布生效日（Euronews）。\n        ④ 歐盟回應（Euronews）：草案另列談判不滿意時最高 20% 的選項；已受 232 條款課稅的汽車、鋼鋁、專利藥、半導體豁免。執委會發言人 Olof Gill 稱「強烈反對歐洲是產能過剩來源的前提」。\n        ⑤ 解讀（ING，11/25）：9 月美國整體有效關稅率 6.8%，自中國約 21%、自歐盟 6.6%；Reuters 報導美方預期會遵守與歐盟議定的 15% 上限。\n        結論：IEEPA 關稅被判違法後，美國改用 301 重建關稅牆，稅率大致對齊既有協議。",
+    "public_impact": "美國貿易代表署 11 月 25 日認定 14 個經濟體的產業政策造成結構性產能過剩，並提議加徵 301 關稅：歐盟所有商品 15%，台灣、日本、韓國、瑞士最高 15%，皆扣除最惠國稅率與既有 301 關稅計算並設有豁免；中國最高 20%、越南 35%、印度 25%。書面意見 2027 年 1 月 5 日截止，1 月 25 日起聽證，生效日未定。台灣被點名的產業以電子、半導體與通訊為主。若較高稅率落地，部分原本銷往美國的亞洲商品可能轉向歐洲，歐洲站部分品類的價格競爭可能加劇。",
+    "public_action": "① 美國營收占比高的賣家，重新評估 2027 年的市場配置，把歐洲列入分散風險的選項；② 計算成本時依官方文件的「最高稅率、扣除既有關稅」口徑，不要直接疊加；③ 3C 周邊、小家電等品類，留意歐洲站新進競品與降價動態；④ 追蹤 1 月 5 日意見截止、1 月 25 日聽證與正式公告的豁免清單。",
+    "sources": [
+      {
+        "name": "USTR：Determinations and Proposed Actions in 14 Section 301 Investigations（11/25）",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+      },
+      {
+        "name": "Euronews：US proposes new tariffs on 14 major trading partners, the EU included（11/25）",
+        "url": "https://www.euronews.com/2026/11/25/us-proposes-new-tariffs-on-14-major-trading-partners-the-eu-included"
+      },
+      {
+        "name": "ING THINK：The US tariff wall keeps changing, but it isn't coming down（11/25）",
+        "url": "https://think.ing.com/articles/the-us-tariff-wall-keeps-changing-but-it-isnt-coming-down/"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "tags": [
+      "稅務"
+    ],
+    "title": "【11/25 個案】德國賣家換稅局、VAT 號暫時查不到：Amazon 黑五週停用帳號，論壇管理員稱無法提前解封",
+    "summary": "一個德國賣家的帳號停用案，說明 VAT 號驗證沒有緩衝期：\n        ① 案情（Amazon 德國賣家論壇、wortfilter，11/25）：賣家換了主管稅局，新稅局把 VAT 號與新稅號連結前，德國聯邦中央稅務局（BZSt）查詢回傳錯誤，Amazon 因此停用帳號；OSS 申報也要重新設定。賣家稱 eBay 給了 7 天寬限，Amazon 沒有。\n        ② 法源（IHK München）：依德國增值稅法 §25e，2021/7/1 起平台只有在交貨當下取得 BZSt 確認的有效 VAT 號，才能免除替賣家負擔未繳稅款的連帶責任。\n        ③ Amazon 回覆（論壇管理員）：無法解封、加速審查或給時間點，由賣家支援團隊決定。建議向新稅局要書面確認、定期查 BZSt 並留存結果；註冊資料更新前，不要在 Seller Central 改 VAT 號、稅號或地址，也不要重複開案。\n        ④ 其他賣家經驗（論壇回覆）：VAT 號被判無效後，恢復有時要數週到數月。\n        結論：VAT 號在查詢系統「暫時無效」，平台端就當成無效處理。",
+    "public_impact": "德國一名賣家更換主管稅局後，VAT 號在新稅局完成連結前於德國聯邦中央稅務局查詢系統顯示錯誤，平台因此在 Black Week 期間停用其賣家帳號，OSS 申報也需重新設定。依德國增值稅法第 25e 條，平台只有在交貨當下確認賣家持有有效 VAT 號，才能免除替賣家負擔未繳稅款的責任，因此 VAT 號即使只是暫時查不到，平台也會視為無效。賣家經驗顯示，恢復有時需要數週到數月。換稅務代理、改公司地址、變更法人等動作都可能觸發同樣狀況。",
+    "public_action": "① 旺季期間避免進行任何會影響 VAT 號的變更；② 必須變更時，先與稅務代理確認切換日，切換後定期查詢 VAT 號狀態並留存紀錄；③ 若帳號因此受影響，在既有案件中補上稅局書面確認與 VAT 證書，不要在註冊資料更新前修改後台資料，也不要重複開案；④ 把 VAT 與 OSS 相關變更排入年度營運時程。",
+    "sources": [
+      {
+        "name": "Amazon Seller Forums（DE）：Umsatzsteuersignal wegen eines Finanzamtswechsels deaktiviert（含管理員回覆）",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/fc416be0-cf9b-4e60-b0fd-bfc2b94dd5a7"
+      },
+      {
+        "name": "wortfilter：Amazon Konto deaktiviert: Eigentor durch Finanzamtswechsel（11/25）",
+        "url": "https://wortfilter.de/amazon-konto-deaktiviert-finanzamtswechsel/"
+      },
+      {
+        "name": "IHK München：Online-Plattformen und Umsatzsteuer（§25e UStG）",
+        "url": "https://www.ihk-muenchen.de/ratgeber/steuern/umsatzsteuer/online-marktplaetze/"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/24–11/25】資安研究員發現近 20 億組帳密公開外洩：含 Cookie 與登入憑證，德媒估 Amazon 約 3,660 萬筆",
+    "summary": "這次外洩的不只是密碼，還有可以直接登入的工作階段資料：\n        ① 發現（Jeremiah Fowler 報告，ExpressVPN 發布，11/24）：一個未設密碼、未加密的資料庫存放約 20 億筆帳密，8,471 個資料夾以明文存放；部分檔案依國別分類，含 US、UK、FR、DE、ES。\n        ② 性質：資料來自使用者電腦上的竊密惡意程式（infostealer），不是平台伺服器被駭；約 40 萬份檔案含瀏覽器 Cookie、工作階段權杖與裝置資料，攻擊者可能不用密碼就登入。\n        ③ 平台分布（wortfilter 引述報告表格，11/25）：估計 Amazon 約 3,660 萬筆、PayPal 1,520 萬、eBay 320 萬；為含該網域的行數估算，可能重複，不等於受害人數。\n        ④ 處置：Fowler 通報後，主機商數天後才封鎖存取，資料庫擁有者不明。他建議先清除惡意程式再換密碼，否則新密碼也會被偷；並撤銷所有登入工作階段、啟用多重驗證。\n        結論：賣家帳號安全的破口在自己的電腦，不在平台。",
+    "public_impact": "資安研究員 Jeremiah Fowler 11 月 24 日發布報告，指出一個未加密的公開資料庫存放約 20 億筆帳密，部分依國別分類並含歐洲國家；資料來自使用者裝置上的竊密惡意程式，並含瀏覽器 Cookie 與登入工作階段資料，攻擊者可能不需密碼即可登入。德國電商媒體引述報告估計，其中涉及 Amazon 約 3,660 萬筆、PayPal 1,520 萬筆、eBay 320 萬筆，但這是行數估算、可能重複。對賣家而言，多人共用後台與電腦的團隊風險較高，旺季帳號被盜的損失也最大。",
+    "public_action": "① 先用防毒軟體掃描處理後台的電腦，確認乾淨後再更換密碼，並登出所有裝置與工作階段；② 每位員工使用獨立登入，移除離職人員與不再合作的代營運帳號；③ 檢查撥款帳戶與付款資訊近期有無異動；④ 多重驗證改用驗證器 App 或實體金鑰，不安裝來路不明的瀏覽器擴充功能。",
+    "sources": [
+      {
+        "name": "ExpressVPN Research（Jeremiah Fowler）：2 Billion Credentials Exposed in Massive Database Leak（11/24）",
+        "url": "https://www.expressvpn.com/research/2billion-credentials-exposed"
+      },
+      {
+        "name": "wortfilter：Fast 2 Milliarden Zugangsdaten offen: Amazon, PayPal, eBay dabei（11/25）",
+        "url": "https://wortfilter.de/2-milliarden-zugangsdaten-datenleck/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/25】德國 Q3 GDP 下修到 +0.1%、設備投資 −3.5%；英國 1 月能源價格上限調升 26%，典型年帳單 £2,166",
+    "summary": "歐洲兩大電商市場同日傳出消費端壓力：\n        ① 德國 GDP（Destatis，11/25）：Q3 季增 0.1%，較 10/30 初值下修 0.1 個百分點，主因 9 月出口與零售營業額不如預期；年增 1.1%（日曆調整）。\n        ② 德國細項（Destatis）：家庭消費季增 0.1%，燃料、食品等非耐久財支出比上季保守；機器設備投資 −3.5%、出口 −1.0%；儲蓄率 9.1%。\n        ③ 解讀（ING）：連四季成長，即使 Q4 零成長，全年仍約 1.2%，是 2022 年來最好；但風險包括高氣價、美國新關稅與法國停滯。\n        ④ 英國能源（Euronews，引述 Ofgem）：1 月起價格上限調升 26%，典型家庭年帳單約 £2,166、多 £443，約 2,000 萬戶浮動費率家庭受影響；Ofgem 歸因中東戰爭推升氣價。10 月 CPI 已達 3.6%，帳單上漲可能推高明年通膨。\n        結論：德國復甦動能轉弱，英國家庭 1 月起多一筆固定支出，兩地 Q1 非必需品需求都偏保守。",
+    "public_impact": "德國聯邦統計局 11 月 25 日將第三季 GDP 季增率由初值 0.2% 下修為 0.1%，主因 9 月出口與零售營業額不如預期；家庭消費僅季增 0.1%，機器設備投資減少 3.5%。ING 指出全年成長仍約 1.2%，但高氣價、美國新關稅等風險仍多。英國方面，能源監管機關 Ofgem 將 1 月起的能源價格上限調升 26%，典型家庭年帳單約 2,166 英鎊、多 443 英鎊，約 2,000 萬戶受影響。兩地明年第一季非必需品需求可能偏保守，節能與保暖類商品則可能受惠。",
+    "public_action": "① 英國站家電與居家類賣家，可在 12 月中前備好節能、保暖相關商品的庫存與廣告；② 英國高單價品類第一季以促銷頻率維持轉換，暫緩調漲售價；③ 德國第一季補貨以去年同期為基準，不要直接依 Black Friday 銷量外推；④ 留意 12 月 16 日英國 CPI、12 月 17 日德國 ifo 與英國央行 12 月決議。",
+    "sources": [
+      {
+        "name": "Destatis：Gross domestic product: detailed results … 3rd quarter of 2026（11/25）",
+        "url": "https://www.destatis.de/EN/Press/2026/11/PE26_409_811.html"
+      },
+      {
+        "name": "ING THINK：German economic rebound lost steam in the third quarter（11/25）",
+        "url": "https://think.ing.com/snaps/german-gdp-q3-26-update/"
+      },
+      {
+        "name": "Euronews：British households' energy bills to rise to 70% above EU average（11/25）",
+        "url": "https://www.euronews.com/2026/11/25/british-households-energy-bills-to-rise-to-70-above-eu-average-as-energy-price-cap-rises-2"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-25",
     "type": "daily",
     "tags": [
