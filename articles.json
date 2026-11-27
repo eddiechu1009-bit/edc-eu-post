@@ -1,5 +1,127 @@
 [
   {
+    "date": "2026-11-27",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/26】Amazon.de 取消月結、改單筆 14 天發票付款：賣家發票款最晚到期後 15 天入帳，回款約提前 30 天",
+    "summary": "Amazon 德國站個人買家的「月結」付款已停用，賣家端的回款時程跟著縮短：\n        ① 改了什麼（OnlinehändlerNews，11/2 更新）：月結已在 10 月底關閉，改為每筆訂單一張發票、14 天付款期；原本月結最長約六週才付款。信用卡、直接扣款等付款方式不變。\n        ② 為何現在（wortfilter，11/26）：歐盟消費信貸新指令 CCD II 11/20 在德國生效，大型遠距業者自行給的免息延後付款以 14 天為限；月結透過第三方 Riverty 辦理、期間約 45 天，不符豁免條件。Amazon 未證實兩者有關。\n        ③ 賣家回款（wortfilter 引 Seller Central 說明）：Amazon 承擔呆帳風險，發票款最晚在到期日後 15 天入帳；以 10/1 訂單為例，月結約 60 天入帳，現在約 30 天。\n        ④ 賣家回報（Amazon 德國賣家論壇）：賣家發現近幾天發票付款入帳明顯變多；Amazon Business 的企業發票 30 天付款期不受影響。\n        結論：德國站發票付款訂單的回款週期大約減半。",
+    "public_impact": "Amazon 德國站已停用個人買家的月結付款，改為每筆訂單一張發票、14 天內付款。依 Seller Central 說明，發票付款由 Amazon 承擔呆帳風險，款項最晚在到期日後 15 天撥給賣家；與過去月結約 60 天相比，回款約提前 30 天，年底旺季的貨款能更早回到賣家手上。時間點與 11 月 20 日在德國生效的歐盟消費信貸新指令（CCD II）重疊，Amazon 未說明兩者關聯。企業買家的發票 30 天付款期不受影響。",
+    "public_action": "① 對照付款報告，確認 11 月起發票付款訂單是否在到期日後 15 天內入帳；② 更新第四季到明年第一季的現金流預估，把德國發票付款訂單的回款天數改為約 30 天；③ 發票付款由平台收款，不要直接向買家催款；④ 自建站若提供延後付款或先買後付，檢查是否符合 CCD II 的天數與第三方墊付限制。",
+    "sources": [
+      {
+        "name": "wortfilter：Amazon Monatsabrechnung weg wegen CCD II: Händler-Geld bis zu 30 Tage früher（11/26）",
+        "url": "https://wortfilter.de/amazon-monatsabrechnung-abgeschafft/"
+      },
+      {
+        "name": "OnlinehändlerNews：Aus für die Monatsrechnung（11/2 更新）",
+        "url": "https://ohn.haendlerbund.de/amazon/marktplatz/monatsrechnung-amazon"
+      },
+      {
+        "name": "Amazon Seller Forums（DE）：Gute Neuigkeiten zur Monatsrechnung",
+        "url": "https://sellercentral.amazon.de/seller-forums/discussions/t/c11f614e-a887-4046-a1e9-43ae0ec4f389"
+      }
+    ],
+    "color": "#0369a1"
+  },
+  {
+    "date": "2026-11-27",
+    "type": "daily",
+    "tags": [
+      "合規"
+    ],
+    "title": "【11/25–11/26】德國高院：膠囊保健品也要標「每公斤基本價」，只標總價與粒數構成不正當競爭",
+    "summary": "法蘭克福高等法院推翻達姆施塔特地方法院的見解，膠囊型保健食品須標示基本價：\n        ① 案情（Kanzlei Dr. Bahr，11/25）：一名賣家在 Amazon 販售益生菌膠囊，廣告只標總價與膠囊數，沒有每單位法定數量的基本價（Grundpreis）；競爭協會申請假處分，地院以「膠囊按粒販售」為由駁回。\n        ② 高院裁定（OLG Frankfurt，2026/8/12，案號 6 W 49/26）：膠囊不是消費者眼中的「天然計量單位」，只是可選的劑型，同樣成分也有粉、錠、液體；淨含量須以重量標示，因此適用《價格標示條例》第 4 條的基本價義務。每粒價或依建議食用量算出的每日價，都不能取代基本價。\n        ③ 司法一致性（OnlinehändlerNews，11/26）：與杜塞道夫、漢堡高院見解一致，漢堡案已獲聯邦最高法院確認；本案雖屬假處分程序，賣家仍應預期會收到警告函（Abmahnung）。\n        結論：膠囊、錠劑、分包粉的保健品，在德國都要加標每公斤價格。",
+    "public_impact": "法蘭克福高等法院 2026 年 8 月 12 日裁定（案號 6 W 49/26），膠囊型保健食品不是按「粒」計量的商品，淨含量須以重量標示，因此必須在總價之外標示每公斤基本價；每粒價或每日價都不能取代。這推翻了達姆施塔特地方法院先前的見解，並與杜塞道夫、漢堡高院一致，漢堡案已獲聯邦最高法院確認。本案被告是在 Amazon 販售益生菌膠囊的賣家。在德國販售膠囊、錠劑、分包粉保健品，只標粒數與總價，可能收到競爭協會或律所的警告函。",
+    "public_action": "① 盤點德國站的膠囊、錠劑、分包粉商品，確認前台是否顯示每公斤或每 100 公克價格；② 單位計價屬性改用重量（公克）並填淨含量，不要用粒數；③ 自建站、購物廣告與社群標價一併加上基本價；④ 收到警告函時不要立即簽署不作為聲明，先請德國律師評估。",
+    "sources": [
+      {
+        "name": "Kanzlei Dr. Bahr：OLG Frankfurt a.M.: Grundpreispflicht gilt (doch) auch für Kapselprodukte（11/25）",
+        "url": "https://www.dr-bahr.com/news/grundpreispflicht-gilt-doch-auch-fuer-kapselprodukte.html"
+      },
+      {
+        "name": "OnlinehändlerNews：Grundpreispflicht gilt doch für Kapseln（11/26）",
+        "url": "https://ohn.haendlerbund.de/recht/urteile-entscheidungen/grundpreispflicht-kapseln"
+      }
+    ],
+    "color": "#dc2626"
+  },
+  {
+    "date": "2026-11-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/26】歐元區領袖支持 de Cos 接任 ECB 總裁、12 月正式任命；10 月紀要：12/17 升息近乎定案",
+    "summary": "進展：11/17 德國表態支持後，歐元區領袖 11/26 在布魯塞爾正式背書人選；同日公布的 ECB 會議紀要確認升息傾向：\n        ① 人事（Euronews，11/26）：多數歐元區國家支持西班牙籍、現任國際清算銀行總經理 Hernández de Cos 接替 Lagarde，支持度高於荷蘭前央行總裁 Knot。法國 Boone 預計接手 Schnabel 的市場操作職責，德國 Brunnermeier 預計接任首席經濟學家。歐洲理事會預計 12 月正式任命。\n        ② 政策傾向（Euronews 引 Jefferies、MUFG）：de Cos 被視為略偏鴿的務實中間派，但換人不太會改變升息路徑；MUFG 預測 3 月再升 1 碼，那是他上任後第一次會議。\n        ③ 10 月紀要（ING THINK，11/26）：「相當多委員」表示 10 月就可支持升息，但未過半；紀要提到核心通膨可能黏在 2.5% 左右。ING 判斷 12 月升息「幾乎定案」。\n        ④ 日程（ECB 官網）：下次會議 12/16–12/17，之後是 2027/2/3–2/4。\n        結論：人事落定，升息路徑不因換人改變。",
+    "public_impact": "多數歐元區國家 11 月 26 日支持西班牙籍的 Hernández de Cos 接任 ECB 總裁，預計 12 月由歐洲理事會正式任命；分析師認為他略偏鴿派，但換人不太會改變升息路徑。同日公布的 ECB 10 月會議紀要顯示，相當多委員當時就可支持升息，ING 判斷 12 月 16–17 日會議升息幾乎定案，MUFG 預測 2027 年 3 月再升一碼。紀要也提到融資條件收緊會壓抑投資與消費，能源價格的間接效應會逐步擴大，2027 年上半年歐洲高單價商品需求與物流成本都有壓力。",
+    "public_action": "① 歐元收入比重高的賣家，旺季回款換匯可在 12 月 17 日 ECB 會議前後分批進行；② 2027 年第一季預算以「12 月升息、3 月再升一碼」為基準情境，高單價品類銷量保守估；③ 留意 12 月 16–17 日 ECB 決議與新預測、12 月 17 日歐元區 11 月通膨、12 月正式任命結果。",
+    "sources": [
+      {
+        "name": "Euronews：Eurozone leaders back Hernández de Cos to succeed Lagarde at ECB（11/26）",
+        "url": "https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb"
+      },
+      {
+        "name": "ING THINK：Minutes of ECB's October meeting confirm tightening bias（11/26）",
+        "url": "https://think.ing.com/articles/minutes-of-ecbs-october-meeting-confirm-tightening-bias/"
+      },
+      {
+        "name": "ECB：Meetings of the Governing Council（會議日程）",
+        "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+      }
+    ],
+    "color": "#ea580c"
+  },
+  {
+    "date": "2026-11-27",
+    "type": "daily",
+    "tags": [
+      "總經"
+    ],
+    "title": "【11/26 NIM】德國 12 月消費氣候 −30.2、僅回升 0.7 點且低於去年：景氣預期六連升後首度轉跌、物價預期回升",
+    "summary": "NIM（GfK 創辦機構）消費氣候指標顯示，德國聖誕檔期消費缺乏動能：\n        ① 總指標（NIM，11/26）：12 月預測值 −30.2，較上月修正值 −30.9 回升 0.7 點，仍低於去年同期。調查期 10/28–11/9，早於 Black Friday Week。\n        ② 分項：收入預期 +1.8 點到 13.9，但年減近 14 點；購買意願 +0.4 點到 −11.5，年減 5.5 點；儲蓄意願連兩月下降、−1.6 點到 15.6；景氣預期六連升後首度轉跌、−3.7 點到 −1.6；物價預期 +1.8 點到 2.8。\n        ③ NIM 評論：消費氣候「原地踏步」，對聖誕檔期「不是好兆頭」，近期送禮調查也顯示購物意願保守。\n        ④ ING 解讀（ING THINK，11/26）：ifo 與 PMI 顯示企業端回溫，但消費者「錢包仍關著」；勞動市場不確定與高物價下，預防性儲蓄是 2027 年最可能的情境，物價預期上升對 ECB 是警訊。\n        結論：企業景氣回升沒有傳到消費端。",
+    "public_impact": "NIM 消費氣候 12 月預測值為 −30.2，只比上月回升 0.7 點，仍低於去年同期。購買意願 −11.5、年減 5.5 點，收入預期年減近 14 點，景氣預期在連續六個月上升後首度轉跌，物價預期則回升。調查在 10 月 28 日到 11 月 9 日進行，早於 Black Friday 檔期。NIM 認為這對聖誕檔期不是好兆頭；ING 指出企業端景氣回溫尚未傳到消費者，2027 年預防性儲蓄是較可能的情境。德國買家價格敏感度偏高，高單價非必需品壓力較大。",
+    "public_action": "① 德國站 12 月補貨以 Black Friday 檔期的實際銷量為基準，不要用企業景氣指標外推；② 主力商品以折扣或優惠券維持轉換，高單價品類檢查比價位置；③ 旺季後的庫存若明顯偏高，提前安排出清或移倉；④ 留意 12 月 17 日德國 ifo 與 12 月 18 日 NIM 消費氣候。",
+    "sources": [
+      {
+        "name": "NIM：Konsumklima: Wenig Rückenwind für das Weihnachtsgeschäft（11/26）",
+        "url": "https://www.nim.org/presse/artikel/konsumklima-wenig-rueckenwind-fuer-das-weihnachtsgeschaeft-1"
+      },
+      {
+        "name": "ING THINK：German consumers still don't share companies' optimism（11/26）",
+        "url": "https://think.ing.com/snaps/german-consumer-confidence-nov26/"
+      }
+    ],
+    "color": "#7c3aed"
+  },
+  {
+    "date": "2026-11-27",
+    "type": "daily",
+    "tags": [
+      "平台"
+    ],
+    "title": "【11/24–11/26 更新】TikTok Shop 稱 72% 德國賣家已跨境、ECDB 估德國 GMV €6.6 億；京東 Joybuy 倉日處理 35 萬件",
+    "summary": "進展：繼 10/6 報導 TikTok Shop 擴大歐盟與英國互賣、11/13 京東完成收購 MediaMarkt 母公司後，兩家在德國的賣家端與物流端出現新數據：\n        ① TikTok Shop（Ecommerce News，11/26；PF Global，11/24，TikTok 委託研究）：72% 德國賣家表示已透過 TikTok Shop 賣到其他歐盟國家、80% 稱跨境變容易；ECDB 估德國今年 GMV €6.6 億、約為上線首年的兩倍；今年春天德國約 2.5 萬名賣家。PF Global 估 TikTok 能見度帶動德國 €10 億出口。\n        ② 京東 Joybuy（wortfilter，11/26 引京東）：奧伯豪森 4 萬平方公尺倉庫導入逾 700 台自研機器人，日處理最多 35 萬件、存放逾 900 萬件，最快 15 分鐘出庫，分揀機每小時逾 5,000 件；京東持有 Ceconomy 59.8%。\n        結論：TikTok Shop 補跨境導流，京東補自建倉配速度。",
+    "public_impact": "TikTok 委託 PF Global 的研究顯示，72% 德國 TikTok Shop 賣家已透過平台賣到其他歐盟國家，80% 認為跨境變容易；ECDB 估 TikTok Shop 德國今年 GMV 約 €6.6 億，約為上線首年的兩倍，但與大型市集相比規模仍小。京東旗下 Joybuy 在德國奧伯豪森的倉庫導入逾 700 台機器人，日處理最多 35 萬件、最快 15 分鐘出庫，加上已控股 MediaMarkt 母公司，3C 與家電品類的配送速度競爭升溫。對跨境賣家而言，平台選擇變多，但各平台的流量來源與物流能力差異很大。上述賣家比例來自平台委託研究，引用時需註明。",
+    "public_action": "① 評估新平台時，比較佣金、物流補貼與實際流量來源，不要只看平台委託研究的數字；② 3C、家電類賣家確認主要市場的庫存與配送時效，維持快速到貨；③ 已在做短影音的品牌，可把素材同步用在各平台的商品頁影片與影片廣告；④ 留意 12 月各平台公布的 Black Friday 成績。",
+    "sources": [
+      {
+        "name": "Ecommerce News：'72% of German TikTok Shop merchants sell across borders'（11/26）",
+        "url": "https://ecommercenews.eu/72-of-german-tiktok-shop-merchants-sell-across-borders/"
+      },
+      {
+        "name": "PF Global：The Impact of TikTok in Germany（11/24，TikTok 委託）",
+        "url": "https://pf.global/insights/the-impact-of-tiktok-in-germany"
+      },
+      {
+        "name": "wortfilter：Joybuy (JD.com) Lager Oberhausen: 700 Roboter, bis zu 350.000 Teile/Tag（11/26）",
+        "url": "https://wortfilter.de/joybuy-lager-oberhausen-roboter/"
+      }
+    ],
+    "color": "#0891b2"
+  },
+  {
     "date": "2026-11-26",
     "type": "daily",
     "tags": [
